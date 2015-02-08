@@ -1,0 +1,11 @@
+21969521,The impact of the coronary collateral circulation on mortality: a meta-analysis.,"Aged
+Collateral Circulation/*physiology
+Coronary Artery Disease/*mortality/physiopathology
+Coronary Circulation/*physiology
+Female
+Humans
+Male
+Middle Aged
+Myocardial Infarction/*mortality/physiopathology
+Prognosis
+Risk Factors",Meier P and Hemingway H and Lansky AJ and Knapp G and Pitt B and Seiler C,"AIMS: The coronary collateral circulation as an alternative source of blood supply has shown benefits regarding several clinical endpoints in patients with myocardial infarction (MI) such as infarct size and left ventricular remodelling. However, its impact on hard endpoints such as mortality and its impact in patients with stable coronary artery disease (CAD) is more controversial. The purpose of this systematic review and meta-analysis was to explore the impact of collateral circulation on all-cause mortality. METHODS AND RESULTS: We searched MEDLINE, EMBASE, ISI Web of Science (2001 to 25 April 2011), and conference proceedings for studies evaluating the effect of coronary collaterals on mortality. Random-effect models were used to calculate summary risk ratios (RR). A total of 12 studies enrolling 6529 participants were included in this analysis. Patients with high collateralization showed a reduced mortality compared with those with low collateralization [RR 0.64 (95% confidence interval 0.45-0.91); P= 0.012]. The RR for 'high collateralization' in patients with stable CAD was 0.59 [0.39-0.89], P= 0.012, in patients with subacute MI it was 0.53 [0.15-1.92]; P= 0.335, and for patients with acute MI it was 0.63 [0.29-1.39]; P= 0.257. CONCLUSIONS: In patients with CAD, the coronary collateralization has a relevant protective effect. Patients with a high collateralization have a 36% reduced mortality risk compared with patients with low collateralization.",Missing,European heart journal,33

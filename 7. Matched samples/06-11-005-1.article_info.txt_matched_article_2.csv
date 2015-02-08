@@ -1,0 +1,15 @@
+21266980,Comparison of methods for handling missing data on immunohistochemical markers in survival analysis of breast cancer.,British journal of cancer,Ali AM and Dawson SJ and Blows FM and Provenzano E and Ellis IO and Baglietto L and Huntsman D and Caldas C and Pharoah PD,Missing,"BACKGROUND: Tissue micro-arrays (TMAs) are increasingly used to generate data of the molecular phenotype of tumours in clinical epidemiology studies, such as studies of disease prognosis. However, TMA data are particularly prone to missingness. A variety of methods to deal with missing data are available. However, the validity of the various approaches is dependent on the structure of the missing data and there are few empirical studies dealing with missing data from molecular pathology. The purpose of this study was to investigate the results of four commonly used approaches to handling missing data from a large, multi-centre study of the molecular pathological determinants of prognosis in breast cancer. PATIENTS AND METHODS: We pooled data from over 11,000 cases of invasive breast cancer from five studies that collected information on seven prognostic indicators together with survival time data. We compared the results of a multi-variate Cox regression using four approaches to handling missing data - complete case analysis (CCA), mean substitution (MS) and multiple imputation without inclusion of the outcome (MI-) and multiple imputation with inclusion of the outcome (MI+). We also performed an analysis in which missing data were simulated under different assumptions and the results of the four methods were compared. RESULTS: Over half the cases had missing data on at least one of the seven variables and 11 percent had missing data on 4 or more. The multi-variate hazard ratio estimates based on multiple imputation models were very similar to those derived after using MS, with similar standard errors. Hazard ratio estimates based on the CCA were only slightly different, but the estimates were less precise as the standard errors were large. However, in data simulated to be missing completely at random (MCAR) or missing at random (MAR), estimates for MI+ were least biased and most accurate, whereas estimates for CCA were most biased and least accurate. CONCLUSION: In this study, empirical results from analyses using CCA, MS, MI- and MI+ were similar, although results from CCA were less precise. The results from simulations suggest that in general MI+ is likely to be the best. Given the ease of implementing MI in standard statistical software, the results of MI+ and CCA should be compared in any multi-variate analysis where missing data are a problem.","Bias (Epidemiology)
+Breast Neoplasms/diagnosis/epidemiology/*metabolism/*mortality
+Carcinoma/diagnosis/epidemiology/*metabolism/*mortality
+*Data Interpretation, Statistical
+Female
+Humans
+Immunohistochemistry/methods/statistics & numerical data
+Middle Aged
+Multicenter Studies as Topic
+Prognosis
+Reproducibility of Results
+Research Design
+Survival Analysis
+Tissue Array Analysis/statistics & numerical data
+Tumor Markers, Biological/analysis/*metabolism"

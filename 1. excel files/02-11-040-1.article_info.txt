@@ -1,0 +1,19 @@
+21990260,Impact of late diagnosis and treatment on life expectancy in people with HIV-1: UK Collaborative HIV Cohort (UK CHIC) Study.,"Adult
+Aged
+Anti-HIV Agents/administration & dosage/*therapeutic use
+CD4 Lymphocyte Count
+Cohort Studies
+Cooperative Behavior
+Delayed Diagnosis/adverse effects/*mortality
+Drug Therapy, Combination
+Female
+Great Britain
+HIV Infections/diagnosis/drug therapy/*mortality
+*HIV-1
+Humans
+Life Expectancy/*trends
+Male
+Middle Aged
+Practice Guidelines as Topic
+Time Factors
+Young Adult",May M and Gompels M and Delpech V and Porter K and Post F and Johnson M and Dunn D and Palfreeman A and Gilson R and Gazzard B and Hill T and Walsh J and Fisher M and Orkin C and Ainsworth J and Bansi L and Phillips A and Leen C and Nelson M and Anderson J and Sabin C,"OBJECTIVES: To estimate life expectancy for people with HIV undergoing treatment compared with life expectancy in the general population and to assess the impact on life expectancy of late treatment, defined as CD4 count <200 cells/mm(3) at start of antiretroviral therapy. DESIGN: Cohort study. SETTING: Outpatient HIV clinics throughout the United Kingdom. Population Adult patients from the UK Collaborative HIV Cohort (UK CHIC) Study with CD4 count </= 350 cells/mm(3) at start of antiretroviral therapy in 1996-2008. MAIN OUTCOME MEASURES: Life expectancy at the exact age of 20 (the average additional years that will be lived by a person after age 20), according to the cross sectional age specific mortality rates during the study period. RESULTS: 1248 of 17,661 eligible patients died during 91,203 person years' follow-up. Life expectancy (standard error) at exact age 20 increased from 30.0 (1.2) to 45.8 (1.7) years from 1996-9 to 2006-8. Life expectancy was 39.5 (0.45) for male patients and 50.2 (0.45) years for female patients compared with 57.8 and 61.6 years for men and women in the general population (1996-2006). Starting antiretroviral therapy later than guidelines suggest resulted in up to 15 years' loss of life: at age 20, life expectancy was 37.9 (1.3), 41.0 (2.2), and 53.4 (1.2) years in those starting antiretroviral therapy with CD4 count <100, 100-199, and 200-350 cells/mm(3), respectively. CONCLUSIONS: Life expectancy in people treated for HIV infection has increased by over 15 years during 1996-2008, but is still about 13 years less than that of the UK population. The higher life expectancy in women is magnified in those with HIV. Earlier diagnosis and subsequent timely treatment with antiretroviral therapy might increase life expectancy.",Missing,BMJ (Clinical research ed.),343

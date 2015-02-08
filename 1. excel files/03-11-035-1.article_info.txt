@@ -1,0 +1,18 @@
+21979934,An activating mutation of AKT2 and human hypoglycemia.,"Amino Acid Substitution
+Cell Membrane/metabolism
+Cell Nucleus/metabolism
+Child
+Female
+Growth
+HeLa Cells
+Heterozygote
+Humans
+Hypoglycemia/*genetics/*metabolism
+Insulin/blood/metabolism
+Male
+Mosaicism
+*Mutation
+Pedigree
+Protein Interaction Domains and Motifs
+Proto-Oncogene Proteins c-akt/chemistry/*genetics/metabolism
+Signal Transduction",Hussain K and Challis B and Rocha N and Payne F and Minic M and Thompson A and Daly A and Scott C and Harris J and Smillie BJ and Savage DB and Ramaswami U and De Lonlay P and O'Rahilly S and Barroso I and Semple RK,"Pathological fasting hypoglycemia in humans is usually explained by excessive circulating insulin or insulin-like molecules or by inborn errors of metabolism impairing liver glucose production. We studied three unrelated children with unexplained, recurrent, and severe fasting hypoglycemia and asymmetrical growth. All were found to carry the same de novo mutation, p.Glu17Lys, in the serine/threonine kinase AKT2, in two cases as heterozygotes and in one case in mosaic form. In heterologous cells, the mutant AKT2 was constitutively recruited to the plasma membrane, leading to insulin-independent activation of downstream signaling. Thus, systemic metabolic disease can result from constitutive, cell-autonomous activation of signaling pathways normally controlled by insulin.",Missing,"Science (New York, N.Y.)",334

@@ -1,0 +1,22 @@
+20870744,WNT11 expression is induced by estrogen-related receptor alpha and beta-catenin and acts in an autocrine manner to increase cancer cell migration.,Cancer research,Dwyer MA and Joseph JD and Wade HE and Eaton ML and Kunder RS and Kazmin D and Chang CY and McDonnell DP,Missing,"Elevated expression of the orphan nuclear receptor estrogen-related receptor alpha (ERRalpha) has been associated with a negative outcome in several cancers, although the mechanism(s) by which this receptor influences the pathophysiology of this disease and how its activity is regulated remain unknown. Using a chemical biology approach, it was determined that compounds, previously shown to inhibit canonical Wnt signaling, also inhibited the transcriptional activity of ERRalpha. The significance of this association was revealed in a series of biochemical and genetic experiments that show that (a) ERRalpha, beta-catenin (beta-cat), and lymphoid enhancer-binding factor-1 form macromolecular complexes in cells, (b) ERRalpha transcriptional activity is enhanced by beta-cat expression and vice versa, and (c) there is a high level of overlap among genes previously shown to be regulated by ERRalpha or beta-cat. Furthermore, silencing of ERRalpha and beta-cat expression individually or together dramatically reduced the migratory capacity of breast, prostate, and colon cancer cells in vitro. This increased migration could be attributed to the ERRalpha/beta-cat-dependent induction of WNT11. Specifically, using (a) conditioned medium from cells overexpressing recombinant WNT11 or (b) WNT11 neutralizing antibodies, we were able to show that this protein was the key mediator of the promigratory activities of ERRalpha/beta-cat. Together, these data provide evidence for an autocrine regulatory loop involving transcriptional upregulation of WNT11 by ERRalpha and beta-cat that influences the migratory capacity of cancer cells.","Autocrine Communication/physiology
+Blotting, Western
+Cadherins/genetics/metabolism
+Cell Line, Tumor
+Cell Movement/drug effects/*physiology
+Cell Survival/drug effects
+Gene Expression Regulation, Neoplastic
+HCT116 Cells
+Heat-Shock Proteins/genetics/metabolism
+Humans
+MSX1 Transcription Factor/genetics/metabolism
+Neoplasms/genetics/metabolism/pathology
+Nitriles/pharmacology
+RNA Interference
+Receptors, Estrogen/genetics/*metabolism
+Reverse Transcriptase Polymerase Chain Reaction
+Signal Transduction/physiology
+Thiazoles/pharmacology
+Transcription Factors/genetics/metabolism
+Transcriptional Activation
+Wnt Proteins/genetics/*metabolism
+beta Catenin/genetics/*metabolism"

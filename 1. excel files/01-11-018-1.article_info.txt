@@ -1,0 +1,15 @@
+21917861,Urine steroid metabolomics as a biomarker tool for detecting malignancy in adrenal tumors.,"Adrenal Cortex Hormones/*urine
+Adrenal Cortex Neoplasms/*diagnosis/pathology/urine
+Adrenocortical Adenoma/*diagnosis/pathology/urine
+Adrenocortical Carcinoma/*diagnosis/pathology/urine
+Adult
+Aged
+Aged, 80 and over
+Biological Markers/urine
+Diagnosis, Differential
+Female
+Humans
+Male
+Mass Spectrometry
+Metabolomics
+Middle Aged",Arlt W and Biehl M and Taylor AE and Hahner S and Libe R and Hughes BA and Schneider P and Smith DJ and Stiekema H and Krone N and Porfiri E and Opocher G and Bertherat J and Mantero F and Allolio B and Terzolo M and Nightingale P and Shackleton CH and Bertagna X and Fassnacht M and Stewart PM,"CONTEXT: Adrenal tumors have a prevalence of around 2% in the general population. Adrenocortical carcinoma (ACC) is rare but accounts for 2-11% of incidentally discovered adrenal masses. Differentiating ACC from adrenocortical adenoma (ACA) represents a diagnostic challenge in patients with adrenal incidentalomas, with tumor size, imaging, and even histology all providing unsatisfactory predictive values. OBJECTIVE: Here we developed a novel steroid metabolomic approach, mass spectrometry-based steroid profiling followed by machine learning analysis, and examined its diagnostic value for the detection of adrenal malignancy. DESIGN: Quantification of 32 distinct adrenal derived steroids was carried out by gas chromatography/mass spectrometry in 24-h urine samples from 102 ACA patients (age range 19-84 yr) and 45 ACC patients (20-80 yr). Underlying diagnosis was ascertained by histology and metastasis in ACC and by clinical follow-up [median duration 52 (range 26-201) months] without evidence of metastasis in ACA. Steroid excretion data were subjected to generalized matrix learning vector quantization (GMLVQ) to identify the most discriminative steroids. RESULTS: Steroid profiling revealed a pattern of predominantly immature, early-stage steroidogenesis in ACC. GMLVQ analysis identified a subset of nine steroids that performed best in differentiating ACA from ACC. Receiver-operating characteristics analysis of GMLVQ results demonstrated sensitivity = specificity = 90% (area under the curve = 0.97) employing all 32 steroids and sensitivity = specificity = 88% (area under the curve = 0.96) when using only the nine most differentiating markers. CONCLUSIONS: Urine steroid metabolomics is a novel, highly sensitive, and specific biomarker tool for discriminating benign from malignant adrenal tumors, with obvious promise for the diagnostic work-up of patients with adrenal incidentalomas.",Missing,The Journal of clinical endocrinology and metabolism,96

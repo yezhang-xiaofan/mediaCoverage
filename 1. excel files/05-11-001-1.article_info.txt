@@ -1,0 +1,17 @@
+21224062,Chlamydia trachomatis infection increases fallopian tube PROKR2 via TLR2 and NFkappaB activation resulting in a microenvironment predisposed to ectopic pregnancy.,"Adult
+Cell Line
+Chlamydia Infections/*complications/*pathology
+*Chlamydia trachomatis
+Fallopian Tubes/metabolism/microbiology/*pathology
+Female
+Humans
+I-kappa B Proteins/metabolism
+Middle Aged
+NF-kappa B/*metabolism
+Pregnancy
+Pregnancy, Ectopic/metabolism/*microbiology/pathology
+RNA, Messenger/genetics/metabolism
+Receptors, G-Protein-Coupled/genetics/*metabolism
+Receptors, Peptide/genetics/*metabolism
+Toll-Like Receptor 2/*metabolism
+Toll-Like Receptor 4/metabolism",Shaw JL and Wills GS and Lee KF and Horner PJ and McClure MO and Abrahams VM and Wheelhouse N and Jabbour HN and Critchley HO and Entrican G and Horne AW,"Chlamydia trachomatis and smoking are major risk factors for tubal ectopic pregnancy (EP), but the underlying mechanisms of these associations are not completely understood. Fallopian tube (FT) from women with EP exhibit altered expression of prokineticin receptors 1 and 2 (PROKR1 and PROKR2); smoking increases FT PROKR1, resulting in a microenvironment predisposed to EP. We hypothesize that C. trachomatis also predisposes to EP by altering FT PROKR expression and have investigated this by examining NFkappaB activation via ligation of the Toll-like receptor (TLR) family of cell-surface pattern recognition receptors. PROKR2 mRNA was higher in FT from women with evidence of past C. trachomatis infection than in those without (P < 0.05), and was also increased in FT explants and in oviductal epithelial cell line OE-E6/E7 infected with C. trachomatis (P < 0.01) or exposed to UV-killed organisms (P < 0.05). The ability of both live and dead organisms to induce this effect suggests ligation of a cell-surface-expressed receptor. FT epithelium and OE-E6/E7 were both found to express TLR2 and TLR4 by immunohistochemistry. Transfection of OE-E6/E7 cells with dominant-negative TLR2 or IkappaBalpha abrogated the C. trachomatis-induced PROKR2 expression. We propose that ligation of tubal TLR2 and activation of NFkappaB by C. trachomatis leads to increased tubal PROKR2, thereby predisposing the tubal microenvironment to ectopic implantation.",Missing,The American journal of pathology,178

@@ -1,0 +1,11 @@
+21300991,The influence of formulation and medicine delivery system on medication administration errors in care homes for older people.,"Aged
+Aged, 80 and over
+Capsules/adverse effects
+*Dosage Forms
+*Drug Delivery Systems
+Great Britain
+Homes for the Aged/*statistics & numerical data
+Humans
+Medication Errors/*statistics & numerical data
+Nursing Homes/*statistics & numerical data
+Tablets/adverse effects",Alldred DP and Standage C and Fletcher O and Savage I and Carpenter J and Barber N and Raynor DK,"INTRODUCTION: Older people in care homes are at increased risk of medication errors and adverse drug events. The effect of formulation on administration errors is not known, that is whether the medicine is a tablet or capsule, liquid or device such as an inhaler. Also, the impact on administration errors of monitored dosage systems (MDS), commonly used in UK care homes to dispense tablets and capsules, is not known. This study investigated the influence of formulation and MDS on administration errors. METHODS: Administration errors were identified by pharmacists (using validated definitions) observing two drug rounds of residents randomly selected from a purposive sample of UK nursing and residential homes. Errors were classified and analysed by formulation and medicine delivery system. RESULTS: The odds of administration errors by formulation, when compared with tablets and capsules in MDS, were: liquids 4.31 (95% CI 2.02 to 9.21; p = 0.0002); topicals/transdermals/injections 19.61 (95% CI 6.90 to 55.73; p < 0.0001); inhalers 33.58 (95% CI 12.51 to 90.19; p < 0.0001). The odds of administration errors for tablets and capsules not in MDS were double those that were dispensed in MDS (adjusted OR 2.14, 95% CI 1.02 to 4.51; p = 0.04). CONCLUSIONS: Inhalers and liquid medicines were associated with significantly increased odds of administration errors. Training of staff in safe administration of these formulations needs implementing. Although there was some evidence that MDS reduced the odds of an administration error, the use of MDS impacts on other aspects of medicines management. Because of this, and as the primary topic of our study was not MDS, a prospective trial specifically designed to evaluate the overall impact of MDS on medicine management in care homes is needed.",Missing,BMJ quality & safety,20

@@ -1,0 +1,11 @@
+21303907,Identification of new batrachotoxin-sensing residues in segment IIIS6 of the sodium channel.,The Journal of biological chemistry,Du Y and Garden DP and Wang L and Zhorov BS and Dong K,Missing,"Ion permeation through voltage-gated sodium channels is modulated by various drugs and toxins. The atomistic mechanisms of action of many toxins are poorly understood. A steroidal alkaloid batrachotoxin (BTX) causes persistent channel activation by inhibiting inactivation and shifting the voltage dependence of activation to more negative potentials. Traditionally, BTX is considered to bind at the channel-lipid interface and allosterically modulate the ion permeation. However, amino acid residues critical for BTX action are found in the inner helices of all four repeats, suggesting that BTX binds in the pore. In the octapeptide segment IFGSFFTL in IIIS6 of a cockroach sodium channel BgNa(V), besides Ser_3i15 and Leu_3i19, which correspond to known BTX-sensing residues of mammalian sodium channels, we found that Gly_3i14 and Phe_3i16 are critical for BTX action. Using these data along with published data as distance constraints, we docked BTX in the Kv1.2-based homology model of the open BgNa(V) channel. We arrived at a model in which BTX adopts a horseshoe conformation with the horseshoe plane normal to the pore axis. The BTX ammonium group is engaged in cation-pi interactions with Phe_3i16 and BTX moieties interact with known BTX-sensing residues in all four repeats. Oxygen atoms at the horseshoe inner surface constitute a transient binding site for permeating cations, whereas the bulky BTX molecule would resist the pore closure, thus causing persistent channel activation. Our study reinforces the concept that steroidal sodium channel agonists bind in the inner pore of sodium channels and elaborates the atomistic mechanism of BTX action.","Allosteric Regulation
+Animals
+Cockroaches/*chemistry/genetics/metabolism
+Drosophila melanogaster
+Humans
+Insect Proteins/*chemistry/genetics/metabolism
+*Models, Molecular
+Oligopeptides/*chemistry/genetics/metabolism
+Sodium Channels/*chemistry/genetics/metabolism
+Structural Homology, Protein
+Xenopus laevis"

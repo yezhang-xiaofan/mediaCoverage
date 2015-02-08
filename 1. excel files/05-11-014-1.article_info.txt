@@ -1,0 +1,17 @@
+21501830,Transmission stages dominate trypanosome within-host dynamics during chronic infections.,"Animals
+Antigenic Variation/*immunology
+Bayes Theorem
+Biological Markers
+Cell Cycle
+Chronic Disease
+*Host-Parasite Interactions
+Markov Chains
+Mice
+Models, Theoretical
+Monte Carlo Method
+Polymerase Chain Reaction
+Protozoan Proteins/genetics/metabolism
+Quorum Sensing
+Trypanosoma brucei brucei/*physiology
+Trypanosomiasis/blood/parasitology/*transmission
+Variant Surface Glycoproteins, Trypanosoma/immunology",MacGregor P and Savill NJ and Hall D and Matthews KR,"Sleeping sickness is characterized by waves of the extracellular parasite Trypanosoma brucei in host blood, with infections continuing for months or years until inevitable host death. These waves reflect the dynamic conflict between the outgrowth of a succession of parasite antigenic variants and their control by the host immune system. Although a contributor to these dynamics is the density-dependent differentiation from proliferative ""slender forms"" to transmissible ""stumpy forms,"" an absence of markers discriminating stumpy forms has prevented accurate parameterization of this component. Here, we exploit the stumpy-specific PAD1 marker, which functionally defines transmission competence, to quantitatively monitor stumpy formation during chronic infections. This allows reconstruction of the temporal events early in infection. Mathematical modeling of these data describes the parameters controlling trypanosome within-host dynamics and provides strong support for a quorum-sensing-like mechanism. Our data reveal the dominance of transmission stages throughout infection, a consequence being austere use of the parasite's antigen repertoire.",Missing,Cell host & microbe,9

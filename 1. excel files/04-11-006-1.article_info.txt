@@ -1,0 +1,30 @@
+21172891,Identification of patients with acute myeloblastic leukemia who benefit from the addition of gemtuzumab ozogamicin: results of the MRC AML15 trial.,"Adolescent
+Adult
+Aminoglycosides/administration & dosage
+Antibodies, Monoclonal/administration & dosage
+Antibodies, Monoclonal, Humanized
+Antineoplastic Combined Chemotherapy Protocols/adverse effects/*therapeutic use
+Child
+Child, Preschool
+Cytogenetic Analysis
+Denmark
+Female
+Great Britain
+Humans
+Individualized Medicine
+Infant
+Infant, Newborn
+Kaplan-Meier Estimate
+Leukemia, Myeloid, Acute/*drug therapy/genetics/mortality
+Male
+Middle Aged
+New Zealand
+Odds Ratio
+*Patient Selection
+Proportional Hazards Models
+Risk Assessment
+Risk Factors
+Survival Rate
+Time Factors
+Treatment Outcome
+Young Adult",Burnett AK and Hills RK and Milligan D and Kjeldsen L and Kell J and Russell NH and Yin JA and Hunter A and Goldstone AH and Wheatley K,"PURPOSE: Antibody-directed chemotherapy for acute myeloid leukemia (AML) may permit more treatment to be administered without escalating toxicity. Gemtuzumab ozogamicin (GO) is an immunoconjugate between CD33 and calicheamicin that is internalized when binding to the epitope. We previously established that it is feasible to combine GO with conventional chemotherapy. We now report a large randomized trial testing the addition of GO to induction and/or consolidation chemotherapy in untreated younger patients. PATIENTS AND METHODS: In this open-label trial, 1,113 patients, predominantly younger than age 60 years, were randomly assigned to receive a single dose of GO (3 mg/m(2)) on day 1 of induction course 1 with one of the following three induction schedules: daunorubicin and cytarabine; cytarabine, daunorubicin, and etoposide; or fludarabine, cytarabine, granulocyte colony-stimulating factor, and idarubicin. In remission, 948 patients were randomly assigned to GO in course 3 in combination with amsacrine, cytarabine, and etoposide or high-dose cytarabine. The primary end points were response rate and survival. RESULTS: The addition of GO was well tolerated with no significant increase in toxicity. There was no overall difference in response or survival in either induction of consolidation. However, a predefined analysis by cytogenetics showed highly significant interaction with induction GO (P = .001), with significant survival benefit for patients with favorable cytogenetics, no benefit for patients with poor-risk disease, and a trend for benefit in intermediate-risk patients. An internally validated prognostic index identified approximately 70% of patients with a predicted benefit of 10% in 5-year survival. CONCLUSION: A substantial proportion of younger patients with AML have improved survival with the addition of GO to induction chemotherapy with little additional toxicity.",Missing,Journal of clinical oncology : official journal of the American Society of Clinical Oncology,29

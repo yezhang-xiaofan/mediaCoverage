@@ -1,0 +1,19 @@
+21968929,Depression uncouples brain hate circuit.,"Adolescent
+Adult
+Algorithms
+Brain/blood supply/*pathology
+*Brain Mapping
+Case-Control Studies
+Community Networks
+Depression/*pathology
+Female
+Humans
+Image Processing, Computer-Assisted
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Nerve Net/blood supply/*pathology
+Neural Pathways/blood supply/pathology
+Oxygen/blood
+Psychiatric Status Rating Scales
+Young Adult",Tao H and Guo S and Ge T and Kendrick KM and Xue Z and Liu Z and Feng J,"It is increasingly recognized that we need a better understanding of how mental disorders such as depression alter the brain's functional connections to improve both early diagnosis and therapy. A new holistic approach has been used to investigate functional connectivity changes in the brains of patients suffering from major depression using resting-state functional magnetic resonance imaging (fMRI) data. A canonical template of connectivity in 90 different brain regions was constructed from healthy control subjects and this identified a six-community structure with each network corresponding to a different functional system. This template was compared with functional networks derived from fMRI scans of both first-episode and longer-term, drug resistant, patients suffering from severe depression. The greatest change in both groups of depressed patients was uncoupling of the so-called 'hate circuit' involving the superior frontal gyrus, insula and putamen. Other major changes occurred in circuits related to risk and action responses, reward and emotion, attention and memory processing. A voxel-based morphometry analysis was also carried out but this revealed no evidence in the depressed patients for altered gray or white matter densities in the regions showing altered functional connectivity. This is the first evidence for the involvement of the 'hate circuit' in depression and suggests a potential reappraisal of the key neural circuitry involved. We have hypothesized that this may reflect reduced cognitive control over negative feelings toward both self and others.",Missing,Molecular psychiatry,18

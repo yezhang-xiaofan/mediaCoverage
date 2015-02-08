@@ -1,0 +1,15 @@
+22117057,Perinatal and maternal outcomes by planned place of birth for healthy women with low risk pregnancies: the Birthplace in England national prospective cohort study.,"Adult
+*Birthing Centers
+Cohort Studies
+*Delivery Rooms
+England
+Female
+*Home Childbirth
+Humans
+Midwifery
+Parturition
+Patient Care Planning/*utilization
+Perinatal Care/*utilization
+Pregnancy
+*Pregnancy Outcome
+Risk Factors",Brocklehurst P and Hardy P and Hollowell J and Linsell L and Macfarlane A and McCourt C and Marlow N and Miller A and Newburn M and Petrou S and Puddicombe D and Redshaw M and Rowe R and Sandall J and Silverton L and Stewart M,"OBJECTIVE: To compare perinatal outcomes, maternal outcomes, and interventions in labour by planned place of birth at the start of care in labour for women with low risk pregnancies. DESIGN: Prospective cohort study. SETTING: England: all NHS trusts providing intrapartum care at home, all freestanding midwifery units, all alongside midwifery units (midwife led units on a hospital site with an obstetric unit), and a stratified random sample of obstetric units. PARTICIPANTS: 64,538 eligible women with a singleton, term (>/=37 weeks gestation), and ""booked"" pregnancy who gave birth between April 2008 and April 2010. Planned caesarean sections and caesarean sections before the onset of labour and unplanned home births were excluded. MAIN OUTCOME MEASURE: A composite primary outcome of perinatal mortality and intrapartum related neonatal morbidities (stillbirth after start of care in labour, early neonatal death, neonatal encephalopathy, meconium aspiration syndrome, brachial plexus injury, fractured humerus, or fractured clavicle) was used to compare outcomes by planned place of birth at the start of care in labour (at home, freestanding midwifery units, alongside midwifery units, and obstetric units). RESULTS: There were 250 primary outcome events and an overall weighted incidence of 4.3 per 1000 births (95% CI 3.3 to 5.5). Overall, there were no significant differences in the adjusted odds of the primary outcome for any of the non-obstetric unit settings compared with obstetric units. For nulliparous women, the odds of the primary outcome were higher for planned home births (adjusted odds ratio 1.75, 95% CI 1.07 to 2.86) but not for either midwifery unit setting. For multiparous women, there were no significant differences in the incidence of the primary outcome by planned place of birth. Interventions during labour were substantially lower in all non-obstetric unit settings. Transfers from non-obstetric unit settings were more frequent for nulliparous women (36% to 45%) than for multiparous women (9% to 13%). CONCLUSIONS: The results support a policy of offering healthy women with low risk pregnancies a choice of birth setting. Women planning birth in a midwifery unit and multiparous women planning birth at home experience fewer interventions than those planning birth in an obstetric unit with no impact on perinatal outcomes. For nulliparous women, planned home births also have fewer interventions but have poorer perinatal outcomes.",Missing,BMJ (Clinical research ed.),343

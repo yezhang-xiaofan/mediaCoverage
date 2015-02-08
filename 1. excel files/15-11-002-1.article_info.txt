@@ -1,0 +1,10 @@
+21261769,The evolution of parental care in stochastic environments.,"Animals
+Behavior, Animal/*physiology
+*Biological Evolution
+*Ecosystem
+Female
+Genetic Fitness
+Male
+*Models, Biological
+Reproduction
+*Stochastic Processes",Bonsall MB and Klug H,"Parental care is of fundamental importance to understanding reproductive strategies and allocation decisions. Here, we explore how parental care strategies evolve in variable environments. Using a set of life-history trait trade-offs, we explore the relative costs and benefits of parental care in stochastic environments. Specifically, we consider the cases in which environmental variability results in varying adult death rates, egg death rates, reproductive rate and carrying capacity. Using a measure of fitness appropriate for stochastic environments, we find that parental care has the potential to evolve over a wide range of life-history characteristics when the environment is variable. A variable environment that affects adult or egg death rates can either increase or decrease the fitness of care relative to that in a constant environment, depending on the specific costs of care. Variability that affects carrying capacity or adult reproductive rate has negligible effects on the fitness associated with care. Increasing parental care across different life-history stages can increase fitness gains in variable environments. Costly investment in care is expected to affect the overall fitness benefits, the fitness optimum and rate of evolution of parental care. In general, we find that environmental variability, the life-history traits affected by such variability and the specific costs of care interact to determine whether care will be favoured in a variable environment and what levels of care will be selected.",Missing,Journal of evolutionary biology,24

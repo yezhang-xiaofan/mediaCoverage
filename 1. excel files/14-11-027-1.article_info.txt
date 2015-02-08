@@ -1,0 +1,16 @@
+22156981,Outcomes of the Bowel Cancer Screening Programme (BCSP) in England after the first 1 million tests.,"Adenoma/*diagnosis/epidemiology
+Aged
+Colonic Polyps/*diagnosis/epidemiology
+Colonoscopy/adverse effects/statistics & numerical data
+Colorectal Neoplasms/*diagnosis/epidemiology
+Databases, Factual
+*Early Detection of Cancer/adverse effects/methods/statistics & numerical data
+England/epidemiology
+Female
+Humans
+Male
+Middle Aged
+*Occult Blood
+Outcome Assessment (Health Care)
+Patient Acceptance of Health Care/statistics & numerical data
+State Medicine/statistics & numerical data",Logan RF and Patnick J and Nickerson C and Coleman L and Rutter MD and von Wagner C,"INTRODUCTION: The Bowel Cancer Screening Programme in England began operating in 2006 with the aim of full roll out across England by December 2009. Subjects aged 60-69 are being invited to complete three guaiac faecal occult blood tests (6 windows) every 2 years. The programme aims to reduce mortality from colorectal cancer by 16% in those invited for screening. METHODS: All subjects eligible for screening in the National Health Service in England are included on one database, which is populated from National Health Service registration data covering about 98% of the population of England. This analysis is only of subjects invited to participate in the first (prevalent) round of screening. RESULTS: By October 2008 almost 2.1 million had been invited to participate, with tests being returned by 49.6% of men and 54.4% of women invited. Uptake ranged between 55-60% across the four provincial hubs which administer the programme but was lower in the London hub (40%). Of the 1.08 million returning tests 2.5% of men and 1.5% of women had an abnormal test. 17,518 (10,608 M, 6910 F) underwent investigation, with 98% having a colonoscopy as their first investigation. Cancer (n=1772) and higher risk adenomas (n=6543) were found in 11.6% and 43% of men and 7.8% and 29% of women investigated, respectively. 71% of cancers were 'early' (10% polyp cancer, 32% Dukes A, 30% Dukes B) and 77% were left-sided (29% rectal, 45% sigmoid) with only 14% being right-sided compared with expected figures of 67% and 24% for left and right side from UK cancer registration. CONCLUSION: In this first round of screening in England uptake and fecal occult blood test positivity was in line with that from the pilot and the original European trials. Although there was the expected improvement in cancer stage at diagnosis, the proportion with left-sided cancers was higher than expected.",Missing,Gut,61

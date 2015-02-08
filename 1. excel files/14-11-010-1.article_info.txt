@@ -1,0 +1,13 @@
+21350489,Co-directional replication-transcription conflicts lead to replication restart.,"Bacillus subtilis/enzymology/*genetics
+Bacterial Proteins/metabolism
+DNA Helicases/metabolism
+DNA Replication/*physiology
+DNA, Ribosomal/genetics
+DNA-Binding Proteins/metabolism
+DNA-Directed DNA Polymerase/metabolism
+DnaB Helicases/metabolism
+Genes, Bacterial/genetics
+Genes, rRNA/genetics
+Multienzyme Complexes/metabolism
+Oligonucleotide Array Sequence Analysis
+Transcription, Genetic/*physiology",Merrikh H and Machon C and Grainger WH and Grossman AD and Soultanas P,"Head-on encounters between the replication and transcription machineries on the lagging DNA strand can lead to replication fork arrest and genomic instability. To avoid head-on encounters, most genes, especially essential and highly transcribed genes, are encoded on the leading strand such that transcription and replication are co-directional. Virtually all bacteria have the highly expressed ribosomal RNA genes co-directional with replication. In bacteria, co-directional encounters seem inevitable because the rate of replication is about 10-20-fold greater than the rate of transcription. However, these encounters are generally thought to be benign. Biochemical analyses indicate that head-on encounters are more deleterious than co-directional encounters and that in both situations, replication resumes without the need for any auxiliary restart proteins, at least in vitro. Here we show that in vivo, co-directional transcription can disrupt replication, leading to the involvement of replication restart proteins. We found that highly transcribed rRNA genes are hotspots for co-directional conflicts between replication and transcription in rapidly growing Bacillus subtilis cells. We observed a transcription-dependent increase in association of the replicative helicase and replication restart proteins where head-on and co-directional conflicts occur. Our results indicate that there are co-directional conflicts between replication and transcription in vivo. Furthermore, in contrast to the findings in vitro, the replication restart machinery is involved in vivo in resolving potentially deleterious encounters due to head-on and co-directional conflicts. These conflicts probably occur in many organisms and at many chromosomal locations and help to explain the presence of important auxiliary proteins involved in replication restart and in helping to clear a path along the DNA for the replisome.",Missing,Nature,470

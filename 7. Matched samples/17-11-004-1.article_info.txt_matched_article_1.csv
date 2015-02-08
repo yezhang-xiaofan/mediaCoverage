@@ -1,0 +1,20 @@
+21324925,Trastuzumab has preferential activity against breast cancers driven by HER2 homodimers.,Cancer research,Ghosh R and Narasanna A and Wang SE and Liu S and Chakrabarty A and Balko JM and Gonzalez-Angulo AM and Mills GB and Penuel E and Winslow J and Sperinde J and Dua R and Pidaparthi S and Mukherjee A and Leitzel K and Kostler WJ and Lipton A and Bates M and Arteaga CL,Missing,"In breast cancer cells with HER2 gene amplification, HER2 receptors exist on the cell surface as monomers, homodimers, and heterodimers with EGFR/HER3. The therapeutic antibody trastuzumab, an approved therapy for HER2(+) breast cancer, cannot block ligand-induced HER2 heterodimers, suggesting it cannot effectively inhibit HER2 signaling. Hence, HER2 oligomeric states may predict the odds of a clinical response to trastuzumab in HER2-driven tumors. To test this hypothesis, we generated nontransformed human MCF10A mammary epithelial cells stably expressing a chimeric HER2-FKBP molecule that could be conditionally induced to homodimerize by adding the FKBP ligand AP1510, or instead induced to heterodimerize with EGFR or HER3 by adding the heterodimer ligands EGF/TGFalpha or heregulin. AP1510, EGF, and heregulin each induced growth of MCF10A cells expressing HER2-FKBP. Trastuzumab inhibited homodimer-mediated but not heterodimer-mediated cell growth. In contrast, the HER2 antibody pertuzumab, which blocks HER2 heterodimerization, inhibited growth induced by heregulin but not AP1510. Lastly, the HER2/EGFR tyrosine kinase inhibitor lapatinib blocked both homodimer- and heterodimer-induced growth. AP1510 triggered phosphorylation of Erk1/2 but not AKT, whereas trastuzumab inhibited AP1510-induced Erk1/2 phosphorylation and Shc-HER2 homodimer binding, but not TGFalpha-induced AKT phosphorylation. Consistent with these observations, high levels of HER2 homodimers correlated with longer time to progression following trastuzumab therapy in a cohort of patients with HER2-overexpressing breast cancer. Together, our findings confirm the notion that HER2 oligomeric states regulate HER2 signaling, also arguing that trastuzumab sensitivity of homodimers may reflect their inability to activate the PI3K (phosphoinositide 3-kinase)/AKT pathway. A clinical implication of our results is that high levels of HER2 homodimers may predict a positive response to trastuzumab.","Adult
+Aged
+Aged, 80 and over
+Antibodies, Monoclonal/*pharmacology
+Antibodies, Monoclonal, Humanized
+Antineoplastic Agents/*pharmacology
+Breast Neoplasms/chemistry/drug therapy/*metabolism
+Cells, Cultured
+Female
+Gene Expression
+Gene Expression Profiling
+Humans
+Immunoblotting
+Immunoprecipitation
+Middle Aged
+Oligonucleotide Array Sequence Analysis
+Protein Multimerization/*physiology
+Quinazolines/pharmacology
+Receptor, ErbB-2/chemistry/*metabolism
+Signal Transduction/drug effects/physiology"

@@ -1,0 +1,19 @@
+21788663,A randomized placebo-controlled trial of idebenone in Leber's hereditary optic neuropathy.,"Adolescent
+Adult
+Aged
+Antioxidants/pharmacology/*therapeutic use
+Contrast Sensitivity/drug effects
+DNA, Mitochondrial/genetics
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Mutation
+Optic Atrophy, Hereditary, Leber/*drug therapy/physiopathology
+*Placebos
+Prospective Studies
+Retina/ultrastructure
+Ubiquinone/*analogs & derivatives/pharmacology/therapeutic use
+Visual Acuity/drug effects
+Young Adult",Klopstock T and Yu-Wai-Man P and Dimitriadis K and Rouleau J and Heck S and Bailie M and Atawan A and Chattopadhyay S and Schubert M and Garip A and Kernt M and Petraki D and Rummey C and Leinonen M and Metz G and Griffiths PG and Meier T and Chinnery PF,"Major advances in understanding the pathogenesis of inherited metabolic disease caused by mitochondrial DNA mutations have yet to translate into treatments of proven efficacy. Leber's hereditary optic neuropathy is the most common mitochondrial DNA disorder causing irreversible blindness in young adult life. Anecdotal reports support the use of idebenone in Leber's hereditary optic neuropathy, but this has not been evaluated in a randomized controlled trial. We conducted a 24-week multi-centre double-blind, randomized, placebo-controlled trial in 85 patients with Leber's hereditary optic neuropathy due to m.3460G>A, m.11778G>A, and m.14484T>C or mitochondrial DNA mutations. The active drug was idebenone 900 mg/day. The primary end-point was the best recovery in visual acuity. The main secondary end-point was the change in best visual acuity. Other secondary end-points were changes in visual acuity of the best eye at baseline and changes in visual acuity for both eyes in each patient. Colour-contrast sensitivity and retinal nerve fibre layer thickness were measured in subgroups. Idebenone was safe and well tolerated. The primary end-point did not reach statistical significance in the intention to treat population. However, post hoc interaction analysis showed a different response to idebenone in patients with discordant visual acuities at baseline; in these patients, all secondary end-points were significantly different between the idebenone and placebo groups. This first randomized controlled trial in the mitochondrial disorder, Leber's hereditary optic neuropathy, provides evidence that patients with discordant visual acuities are the most likely to benefit from idebenone treatment, which is safe and well tolerated.",Missing,Brain : a journal of neurology,134

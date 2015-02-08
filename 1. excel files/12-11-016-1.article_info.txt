@@ -1,0 +1,13 @@
+21454599,Mitogen-activated protein kinase kinase 4 deficiency in cardiomyocytes causes connexin 43 reduction and couples hypertrophic signals to ventricular arrhythmogenesis.,"Animals
+Arrhythmogenic Right Ventricular Dysplasia/genetics/*metabolism/pathology
+Connexin 43/*biosynthesis
+*Gene Expression Regulation
+*MAP Kinase Kinase 4
+Membrane Proteins/genetics/metabolism
+Mice
+Mice, Transgenic
+Myocytes, Cardiac/*metabolism/pathology
+Phosphoproteins/genetics/metabolism
+Rats
+*Response Elements
+Zonula Occludens-1 Protein",Zi M and Kimura TE and Liu W and Jin J and Higham J and Kharche S and Hao G and Shi Y and Shen W and Prehar S and Mironov A and Neyses L and Bierhuizen MF and Boyett MR and Zhang H and Lei M and Cartwright EJ and Wang X,Missing,Missing,The Journal of biological chemistry,286

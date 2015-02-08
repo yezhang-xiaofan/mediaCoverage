@@ -1,0 +1,22 @@
+21706030,Compromised CDK1 activity sensitizes BRCA-proficient cancers to PARP inhibition.,"Animals
+BRCA1 Protein/metabolism/*physiology
+Benzimidazoles/pharmacology
+Blotting, Western
+Breast Neoplasms/*drug therapy/metabolism/physiopathology
+CDC2 Protein Kinase/antagonists & inhibitors/metabolism/*physiology
+Carrier Proteins/metabolism/physiology
+Cell Death/drug effects
+Cell Line, Tumor
+DNA Damage/drug effects/physiology
+Female
+Gene Expression Regulation, Neoplastic/drug effects/physiology
+Humans
+Indazoles/pharmacology
+Indoles/pharmacology
+Male
+Mice
+Neoplasm Transplantation
+Neoplasms, Experimental/metabolism/physiopathology
+Nuclear Proteins/metabolism/physiology
+Phosphorylation
+Poly(ADP-ribose) Polymerases/*antagonists & inhibitors",Johnson N and Li YC and Walton ZE and Cheng KA and Li D and Rodig SJ and Moreau LA and Unitt C and Bronson RT and Thomas HD and Newell DR and D'Andrea AD and Curtin NJ and Wong KK and Shapiro GI,"Cells that are deficient in homologous recombination, such as those that lack functional breast cancer-associated 1 (BRCA1) or BRCA2, are hypersensitive to inhibition of poly(ADP-ribose) polymerase (PARP). However, BRCA-deficient tumors represent only a small fraction of adult cancers, which might restrict the therapeutic utility of PARP inhibitor monotherapy. Cyclin-dependent kinase 1 (Cdk1) phosphorylates BRCA1, and this is essential for efficient formation of BRCA1 foci. Here we show that depletion or inhibition of Cdk1 compromises the ability of cells to repair DNA by homologous recombination. Combined inhibition of Cdk1 and PARP in BRCA-wild-type cancer cells resulted in reduced colony formation, delayed growth of human tumor xenografts and tumor regression with prolonged survival in a mouse model of lung adenocarcinoma. Inhibition of Cdk1 did not sensitize nontransformed cells or tissues to inhibition of PARP. Because reduced Cdk1 activity impaired BRCA1 function and consequently, repair by homologous recombination, inhibition of Cdk1 represents a plausible strategy for expanding the utility of PARP inhibitors to BRCA-proficient cancers.",Missing,Nature medicine,17

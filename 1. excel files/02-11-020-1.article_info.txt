@@ -1,0 +1,15 @@
+21401767,Plain packaging increases visual attention to health warnings on cigarette packs in non-smokers and weekly smokers but not daily smokers.,"Adult
+Analysis of Variance
+Attention
+Eye Movements
+Female
+*Health Knowledge, Attitudes, Practice
+Health Promotion
+Humans
+Male
+Marketing/methods
+Photic Stimulation/methods
+*Product Packaging
+Research Design
+Smoking/epidemiology/*psychology
+Young Adult",Munafo MR and Roberts N and Bauld L and Leonards U,"AIMS: To assess the impact of plain packaging on visual attention towards health warning information on cigarette packs. DESIGN: Mixed-model experimental design, comprising smoking status as a between-subjects factor, and package type (branded versus plain) as a within-subjects factor. SETTING: University laboratory. PARTICIPANTS: Convenience sample of young adults, comprising non-smokers (n = 15), weekly smokers (n = 14) and daily smokers (n = 14). MEASUREMENTS: Number of saccades (eye movements) towards health warnings on cigarette packs, to directly index visual attention. FINDINGS: Analysis of variance indicated more eye movements (i.e. greater visual attention) towards health warnings compared to brand information on plain packs versus branded packs. This effect was observed among non-smokers and weekly smokers, but not daily smokers. CONCLUSION: Among non-smokers and non-daily cigarette smokers, plain packaging appears to increase visual attention towards health warning information and away from brand information.",Missing,"Addiction (Abingdon, England)",106

@@ -1,0 +1,18 @@
+21163806,Impact of non-linear smoking effects on the identification of gene-by-smoking interactions in COPD genetics studies.,Thorax,Castaldi PJ and Demeo DL and Hersh CP and Lomas DA and Soerheim IC and Gulsvik A and Bakke P and Rennard S and Pare P and Vestbo J and Silverman EK,tuftsmedicalcenter,"BACKGROUND: The identification of gene-by-environment interactions is important for understanding the genetic basis of chronic obstructive pulmonary disease (COPD). Many COPD genetic association analyses assume a linear relationship between pack-years of smoking exposure and forced expiratory volume in 1 s (FEV(1)); however, this assumption has not been evaluated empirically in cohorts with a wide spectrum of COPD severity. METHODS: The relationship between FEV(1) and pack-years of smoking exposure was examined in four large cohorts assembled for the purpose of identifying genetic associations with COPD. Using data from the Alpha-1 Antitrypsin Genetic Modifiers Study, the accuracy and power of two different approaches to model smoking were compared by performing a simulation study of a genetic variant with a range of gene-by-smoking interaction effects. RESULTS: Non-linear relationships between smoking and FEV(1) were identified in the four cohorts. It was found that, in most situations where the relationship between pack-years and FEV(1) is non-linear, a piecewise linear approach to model smoking and gene-by-smoking interactions is preferable to the commonly used total pack-years approach. The piecewise linear approach was applied to a genetic association analysis of the PI*Z allele in the Norway Case-Control cohort and a potential PI*Z-by-smoking interaction was identified (p=0.03 for FEV(1) analysis, p=0.01 for COPD susceptibility analysis). CONCLUSION: In study samples of subjects with a wide range of COPD severity, a non-linear relationship between pack-years of smoking and FEV(1) is likely. In this setting, approaches that account for this non-linearity can be more powerful and less biased than the more common approach of using total pack-years to model the smoking effect.","DNA/*genetics
+Female
+Follow-Up Studies
+Forced Expiratory Volume
+Genome-Wide Association Study/*methods
+Genotype
+Humans
+Incidence
+Male
+Middle Aged
+Norway/epidemiology
+*Polymorphism, Single Nucleotide
+Pulmonary Disease, Chronic Obstructive/epidemiology/*genetics/physiopathology
+Respiratory Function Tests
+Retrospective Studies
+Risk Factors
+Smoking/adverse effects/*genetics/metabolism
+alpha 1-Antitrypsin/*genetics/metabolism"

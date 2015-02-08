@@ -1,0 +1,18 @@
+21901280,Chromatin occupancy of transcription factor 7-like 2 (TCF7L2) and its role in hepatic glucose metabolism.,Diabetologia,Norton L and Fourcaudot M and Abdul-Ghani MA and Winnier D and Mehta FF and Jenkinson CP and Defronzo RA,uthscsa,"AIMS/HYPOTHESIS: The mechanisms by which transcription factor 7-like 2 (TCF7L2) regulates the pathways that are important in the pathogenesis of type 2 diabetes are unknown. We therefore examined the role of TCF7L2 in hepatic glucose production (HGP) in vitro and characterised the whole-genome chromatin occupancy of TCF7L2 in hepatocytes. METHODS: We investigated the effect of TCF7L2 silencing and overexpression on HGP from gluconeogenic precursors and used chromatin-immunoprecipitation (ChIP) combined with massively parallel DNA sequencing (ChIP-Seq) to investigate the DNA binding patterns of TCF7L2 across the whole genome. RESULTS: Silencing of TCF7L2 induced a marked increase in basal HGP, which was accompanied by significant increases in the expression of the gluconeogenic genes Fbp1, Pck1 and G6pc. Overexpression of Tcf7l2 reversed this phenotype and significantly reduced HGP. TCF7L2 silencing did not affect the half-maximal inhibitory concentration of insulin or metformin, but HGP remained elevated in TCF7L2-silenced cells due to the increased baseline HGP. Using ChIP-Seq, we detected 2,119 binding events across the genome. Pathway analysis demonstrated that diabetes genes were significantly over-represented in the dataset. Our results indicate that TCF7L2 binds directly to multiple genes that are important in regulation of glucose metabolism in the liver, including Pck1, Fbp1, Irs1, Irs2, Akt2, Adipor1, Pdk4 and Cpt1a. CONCLUSIONS/INTERPRETATION: TCF7L2 is an important regulator of HGP in vitro and binds directly to genes that are important in pathways of glucose metabolism in the liver. These data highlight the possibility that TCF7L2 may affect fasting and postprandial hyperglycaemia in carriers of at-risk TCF7L2 genetic polymorphisms.","Animals
+Base Sequence
+Cell Line
+Chromatin/*metabolism
+Chromatin Immunoprecipitation
+Diabetes Mellitus, Type 2/genetics/metabolism
+Gene Expression Regulation
+Gene Silencing
+Gluconeogenesis
+Glucose/*metabolism
+Glucose-6-Phosphatase/biosynthesis/genetics
+Hepatocytes/*metabolism
+Hypoglycemic Agents/pharmacology
+Insulin/pharmacology
+Metformin/pharmacology
+Molecular Sequence Data
+Rats
+Transcription Factor 7-Like 2 Protein/genetics/*metabolism"

@@ -1,0 +1,18 @@
+21573144,Low diversity Cryptococcus neoformans variety grubii multilocus sequence types from Thailand are consistent with an ancestral African origin.,"AIDS-Related Opportunistic Infections/drug therapy/epidemiology/*microbiology
+Africa
+Anti-Retroviral Agents/therapeutic use
+Antifungal Agents/therapeutic use
+Cryptococcus neoformans/*genetics/pathogenicity
+DNA, Fungal
+Drug Therapy, Combination
+Genes, Mating Type, Fungal
+*Genetic Variation
+Humans
+Meningitis, Cryptococcal/drug therapy/epidemiology/*microbiology
+Molecular Epidemiology
+Molecular Sequence Data
+Mycological Typing Techniques
+Phylogeny
+Sequence Analysis, DNA
+Species Specificity
+Thailand/epidemiology",Simwami SP and Khayhan K and Henk DA and Aanensen DM and Boekhout T and Hagen F and Brouwer AE and Harrison TS and Donnelly CA and Fisher MC,"The global burden of HIV-associated cryptococcal meningitis is estimated at nearly one million cases per year, causing up to a third of all AIDS-related deaths. Molecular epidemiology constitutes the main methodology for understanding the factors underpinning the emergence of this understudied, yet increasingly important, group of pathogenic fungi. Cryptococcus species are notable in the degree that virulence differs amongst lineages, and highly-virulent emerging lineages are changing patterns of human disease both temporally and spatially. Cryptococcus neoformans variety grubii (Cng, serotype A) constitutes the most ubiquitous cause of cryptococcal meningitis worldwide, however patterns of molecular diversity are understudied across some regions experiencing significant burdens of disease. We compared 183 clinical and environmental isolates of Cng from one such region, Thailand, Southeast Asia, against a global MLST database of 77 Cng isolates. Population genetic analyses showed that Thailand isolates from 11 provinces were highly homogenous, consisting of the same genetic background (globally known as VNI) and exhibiting only ten nearly identical sequence types (STs), with three (STs 44, 45 and 46) dominating our sample. This population contains significantly less diversity when compared against the global population of Cng, specifically Africa. Genetic diversity in Cng was significantly subdivided at the continental level with nearly half (47%) of the global STs unique to a genetically diverse and recombining population in Botswana. These patterns of diversity, when combined with evidence from haplotypic networks and coalescent analyses of global populations, are highly suggestive of an expansion of the Cng VNI clade out of Africa, leading to a limited number of genotypes founding the Asian populations. Divergence time testing estimates the time to the most common ancestor between the African and Asian populations to be 6,920 years ago (95% HPD 122.96 - 27,177.76). Further high-density sampling of global Cng STs is now necessary to resolve the temporal sequence underlying the global emergence of this human pathogen.",Missing,PLoS pathogens,7

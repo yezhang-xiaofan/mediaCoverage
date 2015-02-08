@@ -1,0 +1,14 @@
+22070129,A pilot study on the effect of short-term consumption of a polyphenol rich drink on biomarkers of coronary artery disease defined by urinary proteomics.,"Aged
+*Beverages
+Biological Markers/*urine
+Coronary Disease/prevention & control/*urine
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Overweight
+Pilot Projects
+Placebos
+Polyphenols/*administration & dosage
+Proteomics",Mullen W and Gonzalez J and Siwy J and Franke J and Sattar N and Mullan A and Roberts S and Delles C and Mischak H and Albalat A,"Polyphenol rich diets have been associated with a reduced risk of cardiovascular disease. We examined the effect of a polyphenol rich (P-R) drink on biomarkers assessed by urinary proteomics. Thirty nine middle aged and overweight subjects were randomized to P-R drink (n = 20) or placebo (n = 19) in addition to their normal diet. After two weeks urine samples were obtained for assessment of the urinary proteome using capillary electrophoresis coupled to a mass spectrometer. A total of 93 polypeptides were found to be candidates for differential distribution with a nominal p-value <0.05, though these differences did not reach significance when multiple testing was accounted for. Sequences were determined in 19 of these demonstrating that they originate from alpha-1 antitrypsin, collagens, fibrinogen alpha and IgG kappa. Levels of 27 polypeptides were greater than 4-fold different between the two groups. Of these, 7 were previously found to be part of a coronary artery disease (CAD) specific urinary biomarker pattern. Their direction of expression was closer to the healthy state in the P-R drink group and closer to CAD state in the placebo group. Our data suggest that the P-R drink may have beneficial effects on urinary biomarkers of CAD. The data encourage the planning of future prospective studies, aimed at investigating significant effects of polyphenol rich dietary products.",Missing,Journal of agricultural and food chemistry,59

@@ -1,0 +1,11 @@
+21695146,The unmet need for interpreting provision in UK primary care.,"Adult
+Data Collection
+Documentation
+Family Practice/statistics & numerical data
+Female
+Great Britain
+Humans
+*Language
+Male
+Middle Aged
+Primary Health Care/*statistics & numerical data",Gill PS and Beavan J and Calvert M and Freemantle N,"BACKGROUND: With increasing globalisation, the challenges of providing accessible and safe healthcare to all are great. Studies show that there are substantial numbers of people who are not fluent in English to a level where they can make best use of health services. We examined how health professionals manage language barriers in a consultation. METHODS AND FINDINGS: This was a cross-sectional study in 41 UK general practices . Health professionals completed a proforma for a randomly allocated consultation session. Seventy-seven (63%) practitioners responded, from 41(59%) practices. From 1008 consultations, 555 involved patients who did not have English as a first language; 710 took place in English; 222 were in other languages, the practitioner either communicating with the patient in their own language/using an alternative language. Seven consultations were in a mixture of English/patient's own language. Patients' first languages numbered 37 (apart from English), in contrast to health practitioners, who declared at least a basic level of proficiency in 22 languages other than English. The practitioner's reported proficiency in the language used was at a basic level in 24 consultations, whereas in 21, they reported having no proficiency at all. In 57 consultations, a relative/friend interpreted and in 6, a bilingual member of staff/community worker was used. Only in 6 cases was a professional interpreter booked. The main limitation was that only one random session was selected and assessment of patient/professional fluency in English was subjective. CONCLUSIONS: It would appear that professional interpreters are under-used in relation to the need for them, with bilingual staff/family and friends being used commonly. In many cases where the patient spoke little/no English, the practitioner consulted in the patient's language but this approach was also used where reported practitioner proficiency was low. Further research in different setting is needed to substantiate these findings.",Missing,PloS one,6

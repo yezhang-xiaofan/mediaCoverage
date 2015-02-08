@@ -1,0 +1,19 @@
+21372060,Previous prenatal loss as a predictor of perinatal depression and anxiety.,"Abortion, Spontaneous/epidemiology/*psychology
+Adolescent
+Adult
+Alcohol Drinking/epidemiology
+Anxiety/*epidemiology
+Depression, Postpartum/*epidemiology/psychology
+England/epidemiology
+Epidemiologic Methods
+Female
+Humans
+Infant
+Middle Aged
+Mother-Child Relations
+Mothers/psychology
+Postpartum Period/psychology
+Pregnancy/*psychology
+Smoking/epidemiology
+Stillbirth/epidemiology/*psychology
+Young Adult",Blackmore ER and Cote-Arsenault D and Tang W and Glover V and Evans J and Golding J and O'Connor TG,"BACKGROUND: Prenatal loss, the death of a fetus/child through miscarriage or stillbirth, is associated with significant depression and anxiety, particularly in a subsequent pregnancy. AIMS: This study examined the degree to which symptoms of depression and anxiety associated with a previous loss persisted following a subsequent successful pregnancy. METHOD: Data were derived from the Avon Longitudinal Study of Parents and Children cohort, a longitudinal cohort study in the west of England that has followed mothers from pregnancy into the postnatal period. A total of 13,133 mothers reported on the number and conditions of previous perinatal losses and provided self-report measures of depression and anxiety at 18 and 32 weeks' gestation and at 8 weeks and 8, 21 and 33 months postnatally. Controls for pregnancy outcome and obstetric and psychosocial factors were included. RESULTS: Generalised estimating equations indicated that the number of previous miscarriages/stillbirths significantly predicted symptoms of depression (beta = 0.18, s.e. = 0.07, P<0.01) and anxiety (beta = 0.14, s.e. = 0.05, P<0.01) in a subsequent pregnancy, independent of key psychosocial and obstetric factors. This association remained constant across the pre- and postnatal period, indicating that the impact of a previous prenatal loss did not diminish significantly following the birth of a healthy child. CONCLUSIONS: Depression and anxiety associated with a previous prenatal loss shows a persisting pattern that continues after the birth of a subsequent (healthy) child. Interventions targeting women with previous prenatal loss may improve the health outcomes of women and their children.",rochester,The British journal of psychiatry : the journal of mental science,198

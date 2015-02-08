@@ -1,0 +1,22 @@
+20926399,Multiple injections of electroporated autologous T cells expressing a chimeric antigen receptor mediate regression of human disseminated tumor.,Cancer research,Zhao Y and Moon E and Carpenito C and Paulos CM and Liu X and Brennan AL and Chew A and Carroll RG and Scholler J and Levine BL and Albelda SM and June CH,upenn,"Redirecting T lymphocyte antigen specificity by gene transfer can provide large numbers of tumor-reactive T lymphocytes for adoptive immunotherapy. However, safety concerns associated with viral vector production have limited clinical application of T cells expressing chimeric antigen receptors (CAR). T lymphocytes can be gene modified by RNA electroporation without integration-associated safety concerns. To establish a safe platform for adoptive immunotherapy, we first optimized the vector backbone for RNA in vitro transcription to achieve high-level transgene expression. CAR expression and function of RNA-electroporated T cells could be detected up to a week after electroporation. Multiple injections of RNA CAR-electroporated T cells mediated regression of large vascularized flank mesothelioma tumors in NOD/scid/gammac(-/-) mice. Dramatic tumor reduction also occurred when the preexisting intraperitoneal human-derived tumors, which had been growing in vivo for >50 days, were treated by multiple injections of autologous human T cells electroporated with anti-mesothelin CAR mRNA. This is the first report using matched patient tumor and lymphocytes showing that autologous T cells from cancer patients can be engineered to provide an effective therapy for a disseminated tumor in a robust preclinical model. Multiple injections of RNA-engineered T cells are a novel approach for adoptive cell transfer, providing flexible platform for the treatment of cancer that may complement the use of retroviral and lentiviral engineered T cells. This approach may increase the therapeutic index of T cells engineered to express powerful activation domains without the associated safety concerns of integrating viral vectors.","Animals
+Antigens, CD19/genetics/metabolism
+Cells, Cultured
+Cytotoxicity, Immunologic/immunology
+Electroporation
+Flow Cytometry
+GPI-Linked Proteins/genetics/metabolism
+Humans
+Immunotherapy, Adoptive/*methods
+Injections
+K562 Cells
+Membrane Glycoproteins/genetics/metabolism
+Mesothelioma/immunology/pathology/*therapy
+Mice
+Mice, Inbred NOD
+Mice, SCID
+RNA, Messenger/genetics/metabolism
+Recombinant Fusion Proteins/genetics/metabolism
+T-Lymphocytes/metabolism/*transplantation
+Tumor Burden/immunology
+Tumor Cells, Cultured
+*Xenograft Model Antitumor Assays"

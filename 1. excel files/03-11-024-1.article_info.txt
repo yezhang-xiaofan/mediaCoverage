@@ -1,0 +1,16 @@
+21829179,Rhythmic actomyosin-driven contractions induced by sperm entry predict mammalian embryo viability.,"Actomyosin/*metabolism
+Animals
+Cell Survival
+*Cytoplasmic Streaming
+Embryo, Mammalian/metabolism
+Female
+Fertilization
+Fertilization in Vitro
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Inbred CBA
+Ovum/metabolism
+*Sperm-Ovum Interactions
+Spermatozoa/*metabolism
+Zygote/metabolism",Ajduk A and Ilozue T and Windsor S and Yu Y and Seres KB and Bomphrey RJ and Tom BD and Swann K and Thomas A and Graham C and Zernicka-Goetz M,"Fertilization-induced cytoplasmic flows are a conserved feature of eggs in many species. However, until now the importance of cytoplasmic flows for the development of mammalian embryos has been unknown. Here, by combining a rapid imaging of the freshly fertilized mouse egg with advanced image analysis based on particle image velocimetry, we show that fertilization induces rhythmical cytoplasmic movements that coincide with pulsations of the protrusion forming above the sperm head. We find that these movements are caused by contractions of the actomyosin cytoskeleton triggered by Ca(2+) oscillations induced by fertilization. Most importantly, the relationship between the movements and the events of egg activation makes it possible to use the movements alone to predict developmental potential of the zygote. In conclusion, this method offers, thus far, the earliest and fastest, non-invasive way to predict the viability of eggs fertilized in vitro and therefore can potentially improve greatly the prospects for IVF treatment.",Missing,Nature communications,2

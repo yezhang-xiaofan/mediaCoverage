@@ -1,0 +1,17 @@
+21814852,In vivo near-infrared fluorescence imaging of CD105 expression during tumor angiogenesis.,European journal of nuclear medicine and molecular imaging,Yang Y and Zhang Y and Hong H and Liu G and Leigh BR and Cai W,Missing,"PURPOSE: Angiogenesis is an indispensable process during tumor development. The currently accepted standard method for quantifying tumor angiogenesis is to assess microvessel density (MVD) based on CD105 staining, which is an independent prognostic factor for survival in patients with most solid tumor types. The goal of this study is to evaluate tumor angiogenesis in a mouse model by near-infrared fluorescence (NIRF) imaging of CD105 expression. METHODS: TRC105, a human/murine chimeric anti-CD105 monoclonal antibody, was conjugated to an NIRF dye (IRDye 800CW; Ex: 778 nm; Em: 806 nm). FACS analysis and microscopy studies were performed to compare the CD105 binding affinity of TRC105 and 800CW-TRC105. In vivo/ex vivo NIRF imaging, blocking studies, and ex vivo histology were performed on 4T1 murine breast tumor-bearing mice to evaluate the ability of 800CW-TRC105 to target tumor angiogenesis. Another chimeric antibody, cetuximab, was used as an isotype-matched control. RESULTS: FACS analysis of human umbilical vein endothelial cells (HUVECs) revealed no difference in CD105 binding affinity between TRC105 and 800CW-TRC105, which was further validated by fluorescence microscopy. 800CW conjugation of TRC105 was achieved in excellent yield (> 85%), with an average of 0.4 800CW molecules per TRC105. Serial NIRF imaging after intravenous injection of 800CW-TRC105 revealed that the 4T1 tumor could be clearly visualized as early as 30 min post-injection. Quantitative region of interest (ROI) analysis showed that the tumor uptake peaked at about 16 h post-injection. Based on ex vivo NIRF imaging at 48 h post-injection, tumor uptake of 800CW-TRC105 was higher than most organs, thus providing excellent tumor contrast. Blocking experiments, control studies with 800CW-cetuximab and 800CW, as well as ex vivo histology all confirmed the in vivo target specificity of 800CW-TRC105. CONCLUSION: This is the first successful NIRF imaging study of CD105 expression in vivo. Fast, prominent, persistent, and CD105-specific uptake of the probe during tumor angiogenesis was observed in a mouse model. 800CW-TRC105 may be used in the clinic for imaging tumor angiogenesis within the lesions close to the skin surface, tissues accessible by endoscopy, or during image-guided surgery.","Animals
+Antibodies, Monoclonal/chemistry/immunology
+Antigens, CD/immunology/*metabolism
+Benzenesulfonates/chemistry
+Breast Neoplasms/blood supply/genetics/*pathology
+Cell Line, Tumor
+Female
+*Gene Expression Regulation, Neoplastic
+Humans
+Indoles/chemistry
+*Infrared Rays
+Mice
+Microscopy, Fluorescence
+Molecular Imaging/*methods
+Neovascularization, Pathologic/*metabolism
+Receptors, Cell Surface/immunology/*metabolism
+Spectrometry, Fluorescence"

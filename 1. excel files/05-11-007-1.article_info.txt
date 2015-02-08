@@ -1,0 +1,20 @@
+21408089,Host defense against viral infection involves interferon mediated down-regulation of sterol biosynthesis.,"Animals
+Antiviral Agents/pharmacology
+Cholesterol/metabolism
+*Down-Regulation
+Herpesviridae Infections/*immunology/metabolism
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/pharmacology
+Immunity, Innate
+Interferon-beta/biosynthesis/pharmacology/*physiology
+Interferon-gamma/biosynthesis/pharmacology/*physiology
+Macrophages/immunology/metabolism/virology
+Mice
+Mice, Inbred BALB C
+Mice, Inbred C57BL
+Muromegalovirus/*immunology
+NIH 3T3 Cells
+RNA Interference
+Signal Transduction
+Simvastatin/pharmacology
+Sterol Regulatory Element Binding Protein 2/physiology
+Sterols/*biosynthesis",Blanc M and Hsieh WY and Robertson KA and Watterson S and Shui G and Lacaze P and Khondoker M and Dickinson P and Sing G and Rodriguez-Martin S and Phelan P and Forster T and Strobl B and Muller M and Riemersma R and Osborne T and Wenk MR and Angulo A and Ghazal P,"Little is known about the protective role of inflammatory processes in modulating lipid metabolism in infection. Here we report an intimate link between the innate immune response to infection and regulation of the sterol metabolic network characterized by down-regulation of sterol biosynthesis by an interferon regulatory loop mechanism. In time-series experiments profiling genome-wide lipid-associated gene expression of macrophages, we show a selective and coordinated negative regulation of the complete sterol pathway upon viral infection or cytokine treatment with IFNgamma or beta but not TNF, IL1beta, or IL6. Quantitative analysis at the protein level of selected sterol metabolic enzymes upon infection shows a similar level of suppression. Experimental testing of sterol metabolite levels using lipidomic-based measurements shows a reduction in metabolic output. On the basis of pharmacologic and RNAi inhibition of the sterol pathway we show augmented protection against viral infection, and in combination with metabolite rescue experiments, we identify the requirement of the mevalonate-isoprenoid branch of the sterol metabolic network in the protective response upon statin or IFNbeta treatment. Conditioned media experiments from infected cells support an involvement of secreted type 1 interferon(s) to be sufficient for reducing the sterol pathway upon infection. Moreover, we show that infection of primary macrophages containing a genetic knockout of the major type I interferon, IFNbeta, leads to only a partial suppression of the sterol pathway, while genetic knockout of the receptor for all type I interferon family members, ifnar1, or associated signaling component, tyk2, completely abolishes the reduction of the sterol biosynthetic activity upon infection. Levels of the proteolytically cleaved nuclear forms of SREBP2, a key transcriptional regulator of sterol biosynthesis, are reduced upon infection and IFNbeta treatment at both the protein and de novo transcription level. The reduction in srebf2 gene transcription upon infection and IFN treatment is also found to be strictly dependent on ifnar1. Altogether these results show that type 1 IFN signaling is both necessary and sufficient for reducing the sterol metabolic network activity upon infection, thereby linking the regulation of the sterol pathway with interferon anti-viral defense responses. These findings bring a new link between sterol metabolism and interferon antiviral response and support the idea of using host metabolic modifiers of innate immunity as a potential antiviral strategy.",Missing,PLoS biology,9

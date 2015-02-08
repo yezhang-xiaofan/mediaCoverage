@@ -1,0 +1,15 @@
+21953696,"The neurexin ligands, neuroligins and leucine-rich repeat transmembrane proteins, perform convergent and divergent synaptic functions in vivo.",Proceedings of the National Academy of Sciences of the United States of America,Soler-Llavina GJ and Fuccillo MV and Ko J and Sudhof TC and Malenka RC,Missing,"Synaptic cell adhesion molecules, including the neurexin ligands, neuroligins (NLs) and leucine-rich repeat transmembrane proteins (LRRTMs), are thought to organize synapse assembly and specify synapse function. To test the synaptic role of these molecules in vivo, we performed lentivirally mediated knockdown of NL3, LRRTM1, and LRRTM2 in CA1 pyramidal cells of WT and NL1 KO mice at postnatal day (P)0 (when synapses are forming) and P21 (when synapses are largely mature). P0 knockdown of NL3 in WT or NL1 KO neurons did not affect excitatory synaptic transmission, whereas P0 knockdown of LRRTM1 and LRRTM2 selectively reduced AMPA receptor-mediated synaptic currents. P0 triple knockdown of NL3 and both LRRTMs in NL1 KO mice yielded greater reductions in AMPA and NMDA receptor-mediated currents, suggesting functional redundancy between NLs and LRRTMs during early synapse development. In contrast, P21 knockdown of LRRTMs did not alter excitatory transmission, whereas NL manipulations supported a role for NL1 in maintaining NMDA receptor-mediated transmission. These results show that neurexin ligands in vivo form a dynamic synaptic cell adhesion network, with compensation between NLs and LRRTMs during early synapse development and functional divergence upon synapse maturation.","Animals
+Cell Adhesion/genetics/*physiology
+Cell Adhesion Molecules, Neuronal/genetics/*metabolism
+Gene Knockdown Techniques
+Genetic Vectors/genetics
+Hippocampus/cytology/*physiology
+Lentivirus
+Membrane Proteins/genetics/metabolism
+Mice
+Mice, Knockout
+Nerve Tissue Proteins/genetics/metabolism
+Neural Cell Adhesion Molecules/genetics/metabolism
+Patch-Clamp Techniques
+Synapses/*metabolism
+Synaptic Transmission/genetics/*physiology"

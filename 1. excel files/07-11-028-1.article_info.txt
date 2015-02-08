@@ -1,0 +1,17 @@
+21874001,Genome-wide association study in individuals of South Asian ancestry identifies six new type 2 diabetes susceptibility loci.,"Asian Continental Ancestry Group/genetics
+Case-Control Studies
+Diabetes Mellitus, Type 2/*genetics
+Female
+Gene Expression Regulation
+*Genetic Predisposition to Disease
+Genetics, Population
+Genome, Human
+*Genome-Wide Association Study
+Humans
+Linkage Disequilibrium
+London
+Male
+Pakistan
+Polymorphism, Single Nucleotide
+*Quantitative Trait Loci
+Singapore",Kooner JS and Saleheen D and Sim X and Sehmi J and Zhang W and Frossard P and Been LF and Chia KS and Dimas AS and Hassanali N and Jafar T and Jowett JB and Li X and Radha V and Rees SD and Takeuchi F and Young R and Aung T and Basit A and Chidambaram M and Das D and Grundberg E and Hedman AK and Hydrie ZI and Islam M and Khor CC and Kowlessur S and Kristensen MM and Liju S and Lim WY and Matthews DR and Liu J and Morris AP and Nica AC and Pinidiyapathirage JM and Prokopenko I and Rasheed A and Samuel M and Shah N and Shera AS and Small KS and Suo C and Wickremasinghe AR and Wong TY and Yang M and Zhang F and Abecasis GR and Barnett AH and Caulfield M and Deloukas P and Frayling TM and Froguel P and Kato N and Katulanda P and Kelly MA and Liang J and Mohan V and Sanghera DK and Scott J and Seielstad M and Zimmet PZ and Elliott P and Teo YY and McCarthy MI and Danesh J and Tai ES and Chambers JC,"We carried out a genome-wide association study of type-2 diabetes (T2D) in individuals of South Asian ancestry. Our discovery set included 5,561 individuals with T2D (cases) and 14,458 controls drawn from studies in London, Pakistan and Singapore. We identified 20 independent SNPs associated with T2D at P < 10(-4) for testing in a replication sample of 13,170 cases and 25,398 controls, also all of South Asian ancestry. In the combined analysis, we identified common genetic variants at six loci (GRB14, ST6GAL1, VPS26A, HMG20A, AP3S2 and HNF4A) newly associated with T2D (P = 4.1 x 10(-8) to P = 1.9 x 10(-11)). SNPs at GRB14 were also associated with insulin sensitivity (P = 5.0 x 10(-4)), and SNPs at ST6GAL1 and HNF4A were also associated with pancreatic beta-cell function (P = 0.02 and P = 0.001, respectively). Our findings provide additional insight into mechanisms underlying T2D and show the potential for new discovery from genetic association studies in South Asians, a population with increased susceptibility to T2D.",Missing,Nature genetics,43

@@ -1,0 +1,19 @@
+21517920,Increased health burden associated with Clostridium difficile diarrhoea in patients with inflammatory bowel disease.,"Adolescent
+Adult
+Aged
+Aged, 80 and over
+Anti-Bacterial Agents/therapeutic use
+Clostridium difficile/*isolation & purification
+Diarrhea/drug therapy/*microbiology/mortality
+England/epidemiology
+Enterocolitis, Pseudomembranous/*microbiology/mortality
+Feces/microbiology
+Female
+Hospital Mortality
+Hospitalization
+Humans
+Inflammatory Bowel Diseases/complications/drug therapy/*microbiology/mortality
+Length of Stay
+Male
+Middle Aged
+Young Adult",Jen MH and Saxena S and Bottle A and Aylin P and Pollok RC,"BACKGROUND: Clostridium difficile (C. difficile) infection in hospitals in developed countries continues to be a major public health hazard despite increased control measures including review of antibiotic policies and hygiene measures. Patients with colitis are thought to be particularly vulnerable to C. difficile associated diarrhoea (CDAD). Identifying the clinical burden among hospitalised patients admitted with inflammatory bowel disease is an essential first step towards identifying and treating severe C. difficile infection in such individuals. AIM: To determine excess morbidity and in-hospital mortality associated with hospital acquired CDAD in patients with inflammatory bowel disease (IBD-CDAD-HAI) admitted to NHS hospitals in England compared with those admitted for inflammatory bowel disease alone. METHODS: Time trends study of all admissions to NHS hospitals between 2002/03 and 2007/08. We developed case definitions for IBD-CDAD-HAI patients. The primary outcomes were in-hospital mortality and length of stay. The secondary outcome was gastrointestinal surgery. RESULTS: Patients in the IBD-CDAD-HAI group were more likely to die in hospital (adjusted OR 6.32), had 27.9 days longer in-patient stays and higher gastrointestinal surgery rates (adjusted OR 1.87) than patients admitted for inflammatory bowel disease alone. CONCLUSION: Patients with inflammatory bowel disease admitted to NHS hospitals in England with co-existent C. difficile infection are at risk of greater in-hospital mortality and morbidity than patients admitted for inflammatory bowel disease alone.",Missing,Alimentary pharmacology & therapeutics,33

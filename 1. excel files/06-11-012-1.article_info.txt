@@ -1,0 +1,10 @@
+21559020,The changing association between socioeconomic circumstances and the incidence of colorectal cancer: a population-based study.,"Colorectal Neoplasms/*epidemiology
+Female
+Humans
+Incidence
+Male
+Middle Aged
+Population Surveillance
+Poverty
+Sex Factors
+*Socioeconomic Factors",Oliphant R and Brewster DH and Morrison DS,"BACKGROUND: There is emerging evidence to suggest that the association between socioeconomic circumstances and colorectal cancer incidence has changed over recent decades. METHODS: We conducted a descriptive population-based study to describe the relationship between socioeconomic circumstances and the incidence of colorectal cancer in a pre-screened population. Incident cases of colorectal cancer from the West of Scotland were identified from the Scottish Cancer Registry and European age-standardised incidence rates (EASR) were calculated. Socioeconomic circumstances were measured using the area-based Scottish Index of Multiple Deprivation (SIMD). RESULTS: In total, 14,051 incident cases of colorectal cancer were recorded from 1999 to 2007. Incidence of colorectal cancer was associated with increased deprivation in men but not among women; an association that became evident from 2005 onwards. From 2005 to 2007, the deprivation gap in incidence among men was 13.3 per 100,000 (95% confidence interval 3.2-23.4), with rates 19.5% lower among the least deprived compared with the most deprived. This deprivation gap now accounts for an estimated 75 excess cases per year of male colorectal cancer in the West of Scotland. CONCLUSION: Deprivation was associated with higher incidence rates of male, but not female, colorectal cancer before the implementation of a national bowel screening programme.",Missing,British journal of cancer,104

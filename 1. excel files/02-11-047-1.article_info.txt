@@ -1,0 +1,13 @@
+22005679,Processing of central and reflex vagal drives by rat cardiac ganglion neurones: an intracellular analysis.,"Action Potentials
+Animals
+Electrophysiologic Techniques, Cardiac
+Excitatory Postsynaptic Potentials
+Ganglia/*physiology
+Heart/*innervation/physiology
+Male
+Neurons/physiology
+Phrenic Nerve/physiology
+Rats
+Rats, Wistar
+Reflex/physiology
+Vagus Nerve/*physiology",McAllen RM and Salo LM and Paton JF and Pickering AE,"Cardiac vagal tone is an important indicator of cardiovascular health, and its loss is an independent risk factor for arrhythmias and mortality. Several studies suggest that this loss of vagal tone can occur at the cardiac ganglion but the factors affecting ganglionic transmission in vivo are poorly understood. We have employed a novel approach allowing intracellular recordings from functionally connected cardiac vagal ganglion cells in the working heart-brainstem preparation. The atria were stabilised in situ preserving their central neural connections, and ganglion cells (n = 32) were impaled with sharp microelectrodes. Cardiac ganglion cells with vagal synaptic inputs (spontaneous, n = 10; or electrically evoked from the vagus, n = 3) were identified as principal neurones and showed tonic firing responses to current injected to their somata. Cells lacking vagal inputs (n = 19, presumed interneurones) were quiescent but showed phasic firing responses to depolarising current. In principal cells the ongoing action potentials and EPSPs exhibited respiratory modulation, with peak frequency in post-inspiration. Action potentials arose from unitary EPSPs and autocorrelation of those events showed that each ganglion cell received inputs from a single active preganglionic source. Peripheral chemoreceptor, arterial baroreceptor and diving response activation all evoked high frequency synaptic barrages in these cells, always from the same single preganglionic source. EPSP amplitudes showed frequency dependent depression, leading to more spike failures at shorter inter-event intervals. These findings indicate that rather than integrating convergent inputs, cardiac vagal postganglionic neurones gate preganglionic inputs, so regulating the proportion of central parasympathetic tone that is transmitted on to the heart.",Missing,The Journal of physiology,589

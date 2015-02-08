@@ -1,0 +1,14 @@
+21969582,Antimicrobial resistance to ceftazidime involving loss of penicillin-binding protein 3 in Burkholderia pseudomallei.,"Anti-Bacterial Agents/*pharmacology
+Asia, Southeastern
+Base Sequence
+Burkholderia pseudomallei/*drug effects/genetics/isolation &
+purification/*metabolism
+Ceftazidime/*pharmacology
+DNA, Bacterial/genetics
+Drug Resistance, Bacterial/genetics/physiology
+Gene Deletion
+Genes, Bacterial
+Humans
+Melioidosis/drug therapy/microbiology
+Penicillin-Binding Proteins/genetics/*metabolism
+Treatment Failure",Chantratita N and Rholl DA and Sim B and Wuthiekanun V and Limmathurotsakul D and Amornchai P and Thanwisai A and Chua HH and Ooi WF and Holden MT and Day NP and Tan P and Schweizer HP and Peacock SJ,"Known mechanisms of resistance to beta-lactam antibiotics include beta-lactamase expression, altered drug target, decreased bacterial permeability, and increased drug efflux. Here, we describe a unique mechanism of beta-lactam resistance in the biothreat organism Burkholderia pseudomallei (the cause of melioidosis), associated with treatment failure during prolonged ceftazidime therapy of natural infection. Detailed comparisons of the initial ceftazidime-susceptible infecting isolate and subsequent ceftazidime-resistant variants from six patients led us to identify a common, large-scale genomic loss involving a minimum of 49 genes in all six resistant strains. Mutational analysis of wild-type B. pseudomallei demonstrated that ceftazidime resistance was due to deletion of a gene encoding a penicillin-binding protein 3 (BPSS1219) present within the region of genomic loss. The clinical ceftazidime-resistant variants failed to grow using commonly used laboratory culture media, including commercial blood cultures, rendering the variants almost undetectable in the diagnostic laboratory. Melioidosis is notoriously difficult to cure and clinical treatment failure is common in patients treated with ceftazidime, the drug of first choice across most of Southeast Asia where the majority of cases are reported. The mechanism described here represents an explanation for ceftazidime treatment failure, and may be a frequent but undetected resistance event.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

@@ -1,0 +1,8 @@
+22119529,Visual motion and the perception of surface material.,Current biology : CB,Doerschner K and Fleming RW and Yilmaz O and Schrater PR and Hartung B and Kersten D,bilkent,"Many critical perceptual judgments, from telling whether fruit is ripe to determining whether the ground is slippery, involve estimating the material properties of surfaces. Very little is known about how the brain recognizes materials, even though the problem is likely as important for survival as navigating or recognizing objects. Though previous research has focused nearly exclusively on the properties of static images, recent evidence suggests that motion may affect the appearance of surface material. However, what kind of information motion conveys and how this information may be used by the brain is still unknown. Here, we identify three motion cues that the brain could rely on to distinguish between matte and shiny surfaces. We show that these motion measurements can override static cues, leading to dramatic changes in perceived material depending on the image motion characteristics. A classifier algorithm based on these cues correctly predicts both successes and some striking failures of human material perception. Together these results reveal a previously unknown use for optic flow in the perception of surface material properties.","*Algorithms
+*Cues
+Humans
+*Models, Theoretical
+Motion Perception/*physiology
+Optic Flow/*physiology
+Pattern Recognition, Visual/*physiology
+Surface Properties"

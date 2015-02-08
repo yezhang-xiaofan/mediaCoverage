@@ -1,0 +1,14 @@
+21317286,BAD contributes to RAF-mediated proliferation and cooperates with B-RAF-V600E in cancer signaling.,The Journal of biological chemistry,Polzien L and Baljuls A and Albrecht M and Hekman M and Rapp UR,Missing,"BAD (Bcl-2 antagonist of cell death) belongs to the proapoptotic BH3-only subfamily of Bcl-2 proteins. Physiological activity of BAD is highly controlled by phosphorylation. To further analyze the regulation of BAD function, we investigated the role of recently identified phosphorylation sites on BAD-mediated apoptosis. We found that in contrast to the N-terminal phosphorylation sites, the serines 124 and 134 act in an antiapoptotic manner because the replacement by alanine led to enhanced cell death. Our results further indicate that RAF kinases represent, besides PAK1, BAD serine 134 phosphorylating kinases. Importantly, in the presence of wild type BAD, co-expression of survival kinases, such as RAF and PAK1, leads to a strongly increased proliferation, whereas substitution of serine 134 by alanine abolishes this process. Furthermore, we identified BAD serine 134 to be strongly involved in survival signaling of B-RAF-V600E-containing tumor cells and found that phosphorylation of BAD at this residue is critical for efficient proliferation in these cells. Collectively, our findings provide new insights into the regulation of BAD function by phosphorylation and its role in cancer signaling.","Amino Acid Substitution
+*Apoptosis
+*Cell Proliferation
+Cell Survival/genetics
+HEK293 Cells
+HeLa Cells
+Humans
+*MAP Kinase Signaling System
+Mutation, Missense
+Neoplasms/genetics/*metabolism
+Phosphorylation
+Proto-Oncogene Proteins B-raf/genetics/*metabolism
+bcl-Associated Death Protein/genetics/*metabolism
+p21-Activated Kinases/genetics/metabolism"

@@ -1,0 +1,13 @@
+21862534,Conditioned tolerance to the effects of alcohol on inhibitory control in humans.,"Adolescent
+Alcohol Drinking/*psychology
+Central Nervous System Depressants/*pharmacology
+Cognition/drug effects
+Conditioning (Psychology)
+*Drug Tolerance
+Environment
+Ethanol/*pharmacology
+Female
+Humans
+*Inhibition (Psychology)
+Male
+Young Adult",Birak KS and Higgs S and Terry P,"AIMS: To test whether the repeated consumption of alcohol in a particular environment leads to the emergence of a context-specific conditioned compensatory response (CCR) that can counter alcohol's impairment of inhibitory processes. METHODS: Twenty-four participants consumed an alcoholic drink (males: 0.65 g/kg; females: 0.57 g/kg) in one context on three sessions and a matched placebo drink in a different context on three other sessions. At test, participants were split into two groups and consumed a novel alcoholic drink either in the context previously paired with alcohol or the placebo-paired context. On all sessions, participants were tested on two computer-based tasks that measured response inhibition: an affective go/no-go task and a stop-signal task (SST). RESULTS: Over the conditioning trials, tolerance developed to alcohol's disinhibitory effects on the go/no-go task; moreover, on the test for conditioned responding, performance was less impaired for participants in the alcohol-paired versus the placebo-paired context. No tolerance was evident on the SST, and no CCR. CONCLUSION: Repeated consumption of alcohol in a particular environment can lead to the emergence of a context-specific CCR that counters some of alcohol's disinhibitory effects. Therefore, consuming alcohol in an unfamiliar context might produce stronger disinhibitory effects than would be apparent in a familiar drinking environment.",Missing,"Alcohol and alcoholism (Oxford, Oxfordshire)",46

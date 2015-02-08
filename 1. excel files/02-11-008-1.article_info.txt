@@ -1,0 +1,10 @@
+21262826,Land inheritance establishes sibling competition for marriage and reproduction in rural Ethiopia.,"*Agriculture
+Ethiopia/ethnology
+Female
+Humans
+Male
+Marriage/*ethnology
+*Reproduction
+*Rural Population
+Siblings/*ethnology
+Wills/*ethnology",Gibson MA and Gurmu E,"Intergenerational transfer of wealth has been proposed as playing a pivotal role in the evolution of human sibling relationships. Sibling rivalry is assumed to be more marked when offspring compete for limited heritable resources, which are crucial for reproductive success (e.g., land and livestock); whereas in the absence of heritable wealth, related siblings may cooperate. To date, comparative studies undertaken to support this evolutionary assumption have been confounded by other socioecological factors, which vary across populations, e.g., food sharing and intergroup conflict. In this article we explore effects of sibling competition and cooperation for agricultural resources, marriage, and reproduction in one contemporary Ethiopian agropastoralist society. Here recent changes in land tenure policy, altering transfers of land from parents to offspring, present a unique framework to test the importance of intergenerational transfers of wealth in driving sibling competition, while controlling for socioeconomic biases. In households where land is inherited, the number of elder brothers reduces a man's agricultural productivity, marriage, and reproductive success, as resources diminish and competition increases with each additional sibling. Where land is not inherited (for males receiving land directly from the government and all females) older siblings do not have a competitive effect and in some instances may be beneficial. This study has wider implications for the evolution of human family sizes. Recent changes in wealth transfers, which have driven sibling competition, may be contributing to an increased desire for smaller family sizes.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

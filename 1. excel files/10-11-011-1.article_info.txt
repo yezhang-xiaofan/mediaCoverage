@@ -1,0 +1,5 @@
+21414659,Rapid mortality falls after risk-factor changes in populations.,"Cardiovascular Diseases/etiology/mortality/*prevention & control
+*Food Habits
+Humans
+*Risk Reduction Behavior
+*Smoking Cessation",Capewell S and O'Flaherty M,Missing,Missing,Lancet,378

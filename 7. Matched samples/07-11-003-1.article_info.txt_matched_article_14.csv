@@ -1,0 +1,23 @@
+21266357,Multiple mutations and bypass mechanisms can contribute to development of acquired resistance to MET inhibitors.,Cancer research,Qi J and McTigue MA and Rogers A and Lifshits E and Christensen JG and Janne PA and Engelman JA,Missing,"Therapies targeting receptor tyrosine kinases have shown efficacy in molecularly defined subsets of cancers. Unfortunately, cancers invariably develop resistance, and overcoming or preventing resistance will ultimately be key to unleashing their full therapeutic potential. In this study, we examined how cancers become resistant to MET inhibitors, a class of drugs currently under clinical development. We utilized the highly sensitive gastric carcinoma cell line, SNU638, and two related MET inhibitors PHA-665752 and PF-2341066. To our surprise, we observed at least two mechanisms of resistance that arose simultaneously. Both resulted in maintenance of downstream PI3K (phosphoinositide 3-kinase)-AKT and MEK (MAP/ERK kinase)-ERK signaling in the presence of inhibitor. One mechanism, observed by modeling resistance both in vitro and in vivo, involved the acquisition of a mutation in the MET activation loop (Y1230). Structural analysis indicates that this mutation destabilizes the autoinhibitory conformation of MET and abrogates an important aromatic stacking interaction with the inhibitor. The other cause of resistance was activation of the epidermal growth factor receptor (EGFR) pathway due to increased expression of transforming growth factor alpha. Activation of EGFR bypassed the need for MET signaling to activate downstream signaling in these cells. This resistance could be overcome by combined EGFR and MET inhibition. Thus, therapeutic strategies that combine MET inhibitors capable of inhibiting Y1230 mutant MET in combination with anti-EGFR-based therapies may enhance clinical benefit for patients with MET-addicted cancers. Importantly, these results also underscore the notion that a single cancer can simultaneously develop resistance induced by several mechanisms and highlight the daunting challenges associated with preventing or overcoming resistance.","Animals
+Cell Line, Tumor
+Drug Resistance, Neoplasm
+Elafin/metabolism
+Extracellular Signal-Regulated MAP Kinases/metabolism
+Humans
+Indoles/pharmacology
+MAP Kinase Kinase Kinases/metabolism
+Mice
+Mice, Nude
+*Mutation
+Oncogene Protein v-akt/metabolism
+Protein Kinase Inhibitors/*pharmacology
+Proto-Oncogene Proteins c-met/*antagonists & inhibitors/metabolism
+Pyrazoles/pharmacology
+Pyridines/pharmacology
+Receptor, Epidermal Growth Factor/metabolism
+Receptors, Growth Factor/*antagonists & inhibitors/metabolism
+Stomach Neoplasms/*drug therapy/enzymology/*genetics
+Sulfones/pharmacology
+Transcription Factors/metabolism
+Transforming Growth Factor alpha/metabolism
+Xenograft Model Antitumor Assays"

@@ -1,0 +1,15 @@
+21674176,Additive effects of glycaemia and dyslipidaemia on risk of cardiovascular diseases in type 2 diabetes: an observational study from the Swedish National Diabetes Register.,Diabetologia,Gudbjornsdottir S and Eliasson B and Eeg-Olofsson K and Zethelius B and Cederholm J,Missing,"AIMS/HYPOTHESIS: The study aimed to assess the relative importance of the control of HbA(1c) and total cholesterol/HDL-cholesterol ratio (TC/HDL) on risk of cardiovascular disease (CVD). METHODS: In 22,135 participants with type 2 diabetes (age 30-75 years, 15% with previous CVD) followed for 5 years, baseline and annually updated mean HbA(1c) and TC/HDL were analysed and also categorised in combinations of quartiles. Outcomes were fatal/non-fatal CHD, stroke, CVD and total mortality. RESULTS: In all participants, HRs per 1 SD increase in updated mean HbA(1c) or TC/HDL using Cox regression analysis were 1.13 (95% CI 1.07, 1.19) and 1.31 (1.25, 1.37) for CHD, 1.15 (1.06, 1.24) and 1.25 (1.17, 1.34) for stroke, 1.13 (1.08, 1.18) and 1.29 (1.24, 1.34) for CVD (all p < 0.001), and 1.07 (1.02, 1-13; p = 0.01) and 1.18 (1.12, 1.24; p < 0.001) for total mortality, respectively, adjusted for clinical characteristics and traditional risk factors. The p value for the interaction between HbA(1c) and TC/HDL was 0.02 for CHD, 0.6 for stroke and 0.1 for CVD. Adjusted mean 5-year event rates in a Cox model, in combinations of quartiles of updated mean TC/HDL and HbA(1c) (lowest <3.1 mmol/l and 5.0-6.4% [31-46 mmol/mol]; <3.1 mmol/l and >/=7.8% [>/=62 mmol/mol]; >/=4.6 mmol/l and 5.0-6.4% 31-46 mmol/mol; and highest >/=4.6 mmol/l and >/=7.8% [>/=62 mmol/mol]), were 4.8%, 7.0%, 9.1% and 14.5% for CHD, and 7.1%, 9.9%, 12.8% and 19.4% for CVD, respectively. Adjusted HRs for highest vs lowest combinations were 2.24 (1.58-3.18) for CHD and 2.43 (1.79-3.29) for CVD (p < 0.001). CONCLUSIONS/INTERPRETATION: Hyperglycaemia and hyperlipidaemia were less than additive for CHD and additive for other endpoints, with the lowest risk at lowest combination levels and a considerable increase in absolute risk at high combination levels.","Adult
+Aged
+Blood Glucose/physiology
+Cardiovascular Diseases/*etiology
+Diabetes Mellitus, Type 2/blood/*complications/*physiopathology
+Dyslipidemias/blood/*complications/*physiopathology
+Female
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Hyperglycemia/blood/*complications/physiopathology
+Hyperlipidemias/blood/complications/physiopathology
+Male
+Middle Aged
+Proportional Hazards Models
+Risk Factors"

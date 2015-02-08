@@ -1,0 +1,23 @@
+21979051,Endonuclease G is a novel determinant of cardiac hypertrophy and mitochondrial function.,"Animals
+Apoptosis
+Body Weight/genetics
+Cardiomegaly/*enzymology/genetics/*pathology/physiopathology
+Cell Respiration
+Chromosomes, Mammalian/genetics
+Crosses, Genetic
+Endodeoxyribonucleases/deficiency/genetics/*metabolism
+Female
+Gene Expression Regulation
+Genes, Mitochondrial/genetics
+Hypertrophy, Left Ventricular/enzymology/genetics/pathology/physiopathology
+Lipid Metabolism
+Male
+Mitochondria/genetics/*metabolism/pathology
+Organ Size/genetics
+Quantitative Trait Loci/genetics
+RNA-Binding Proteins/metabolism
+Rats
+Rats, Inbred Strains
+Reactive Oxygen Species/metabolism
+Receptors, Estrogen/metabolism
+Transcription Factors/metabolism",McDermott-Roe C and Ye J and Ahmed R and Sun XM and Serafin A and Ware J and Bottolo L and Muckett P and Canas X and Zhang J and Rowe GC and Buchan R and Lu H and Braithwaite A and Mancini M and Hauton D and Marti R and Garcia-Arumi E and Hubner N and Jacob H and Serikawa T and Zidek V and Papousek F and Kolar F and Cardona M and Ruiz-Meana M and Garcia-Dorado D and Comella JX and Felkin LE and Barton PJ and Arany Z and Pravenec M and Petretto E and Sanchis D and Cook SA,"Left ventricular mass (LVM) is a highly heritable trait and an independent risk factor for all-cause mortality. So far, genome-wide association studies have not identified the genetic factors that underlie LVM variation, and the regulatory mechanisms for blood-pressure-independent cardiac hypertrophy remain poorly understood. Unbiased systems genetics approaches in the rat now provide a powerful complementary tool to genome-wide association studies, and we applied integrative genomics to dissect a highly replicated, blood-pressure-independent LVM locus on rat chromosome 3p. Here we identified endonuclease G (Endog), which previously was implicated in apoptosis but not hypertrophy, as the gene at the locus, and we found a loss-of-function mutation in Endog that is associated with increased LVM and impaired cardiac function. Inhibition of Endog in cultured cardiomyocytes resulted in an increase in cell size and hypertrophic biomarkers in the absence of pro-hypertrophic stimulation. Genome-wide network analysis unexpectedly implicated ENDOG in fundamental mitochondrial processes that are unrelated to apoptosis. We showed direct regulation of ENDOG by ERR-alpha and PGC1alpha (which are master regulators of mitochondrial and cardiac function), interaction of ENDOG with the mitochondrial genome and ENDOG-mediated regulation of mitochondrial mass. At baseline, the Endog-deleted mouse heart had depleted mitochondria, mitochondrial dysfunction and elevated levels of reactive oxygen species, which were associated with enlarged and steatotic cardiomyocytes. Our study has further established the link between mitochondrial dysfunction, reactive oxygen species and heart disease and has uncovered a role for Endog in maladaptive cardiac hypertrophy.",Missing,Nature,478

@@ -1,0 +1,19 @@
+21487040,IRF8 regulates acid ceramidase expression to mediate apoptosis and suppresses myelogeneous leukemia.,Cancer research,Hu X and Yang D and Zimmerman M and Liu F and Yang J and Kannan S and Burchert A and Szulc Z and Bielawska A and Ozato K and Bhalla K and Liu K,Missing,"IFN regulatory factor 8 (IRF8) is a key transcription factor for myeloid cell differentiation and its expression is frequently lost in hematopoietic cells of human myeloid leukemia patients. IRF8-deficient mice exhibit uncontrolled clonal expansion of undifferentiated myeloid cells that can progress to a fatal blast crisis, thereby resembling human chronic myelogeneous leukemia (CML). Therefore, IRF8 is a myeloid leukemia suppressor. Whereas the understanding of IRF8 function in CML has recently improved, the molecular mechanisms underlying IRF8 function in CML are still largely unknown. In this study, we identified acid ceramidase (A-CDase) as a general transcription target of IRF8. We demonstrated that IRF8 expression is regulated by IRF8 promoter DNA methylation in myeloid leukemia cells. Restoration of IRF8 expression repressed A-CDase expression, resulting in C16 ceramide accumulation and increased sensitivity of CML cells to FasL-induced apoptosis. In myeloid cells derived from IRF8-deficient mice, A-CDase protein level was dramatically increased. Furthermore, we demonstrated that IRF8 directly binds to the A-CDase promoter. At the functional level, inhibition of A-CDase activity, silencing A-CDase expression, or application of exogenous C16 ceramide sensitized CML cells to FasL-induced apoptosis, whereas overexpression of A-CDase decreased CML cells' sensitivity to FasL-induced apoptosis. Consequently, restoration of IRF8 expression suppressed CML development in vivo at least partially through a Fas-dependent mechanism. In summary, our findings determine the mechanism of IRF8 downregulation in CML cells and they determine a primary pathway of resistance to Fas-mediated apoptosis and disease progression.","Acid Ceramidase/*biosynthesis
+Animals
+Apoptosis/*physiology
+Cell Line, Tumor
+Ceramides/metabolism
+DNA Methylation
+Fas Ligand Protein/immunology/pharmacology
+HT29 Cells
+Humans
+Interferon Regulatory Factors/biosynthesis/genetics/*metabolism
+K562 Cells
+Leukemia, Myelogenous, Chronic, BCR-ABL
+Positive/genetics/immunology/*metabolism/pathology
+Mice
+Mice, Inbred BALB C
+Mice, Knockout
+Myeloid Cells/enzymology/metabolism
+Promoter Regions, Genetic
+Transcription, Genetic"

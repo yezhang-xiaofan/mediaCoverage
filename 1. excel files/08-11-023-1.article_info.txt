@@ -1,0 +1,26 @@
+21911033,"The association of tooth wear, diet and dietary habits in adults aged 18-30 years old.","Acids/adverse effects
+Adolescent
+Adult
+Beverages/statistics & numerical data
+Bruxism/epidemiology
+Carbonated Beverages/statistics & numerical data
+Citrus
+Cohort Studies
+Dental Enamel/pathology
+Dentin/pathology
+Dentin Sensitivity/epidemiology
+Diet/*statistics & numerical data
+Female
+Food/statistics & numerical data
+*Food Habits
+Fruit
+Heartburn/epidemiology
+Humans
+London/epidemiology
+Male
+Malus
+Tooth Erosion/epidemiology
+Tooth Wear/*epidemiology
+Toothbrushing/statistics & numerical data
+Vitis
+Young Adult",Bartlett DW and Fares J and Shirodaria S and Chiu K and Ahmad N and Sherriff M,"OBJECTIVE: The association of acidic foods and drinks to the development of erosive tooth wear was investigated in a single cohort of adults aged 18-30 years. METHOD: A tooth wear index was recorded on 1010 participant's who had a mean age of 21.9 years (SD 0.1) and of which 70% were female and 30% males. Participant's completed a previously validated questionnaire containing 50 questions about current and historical dietary habits. Data were analysed at the tooth level using odds ratio. RESULTS: Tooth wear was statistically significantly associated to acidic foods and drinks with high titratable acidity and dietary habits, including drinking from a glass and holding drinks, (OR 5 and 6.5 respectively). A history of heartburn was statistically significantly associated to palatal dentine exposure (p</=0.05 and OR 7.6). CONCLUSION: In this sample of adults, tooth wear was associated to a number of acidic dietary products and drinking habits.",Missing,Journal of dentistry,39

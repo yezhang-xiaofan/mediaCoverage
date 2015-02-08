@@ -1,0 +1,15 @@
+21881059,Fast automatic translation and morphological decomposition in Chinese-English bilinguals.,"China/ethnology
+Cues
+Decision Making/physiology
+Great Britain
+Humans
+*Multilingualism
+Phonetics
+Reaction Time/physiology
+Reading
+Recognition (Psychology)
+Repetition Priming/physiology
+Semantics
+*Translating
+Visual Perception/physiology
+Vocabulary",Zhang T and van Heuven WJ and Conklin K,"In this study, we investigated automatic translation from English to Chinese and subsequent morphological decomposition of translated Chinese compounds. In two lexical decision tasks, Chinese-English bilinguals responded to English target words that were preceded by masked unrelated primes presented for 59 ms. Unbeknownst to participants, the Chinese translations of the words in each critical pair consisted of a fully opaque compound word (i.e., a compound with two constituent morphemes that were semantically unrelated to the compound) and a monomorphemic word that was either the first or the second morpheme of the compound. The data revealed that bilinguals responded faster to English word pairs whose Chinese translations repeated the first morpheme than to English word pairs whose Chinese translations did not repeat the first morpheme, but no effect of hidden second-morpheme repetition was found. This effect of hidden first-morpheme repetition suggests that participants translated English words to Chinese and decomposed the translated compounds into their constituent morphemes. Because the primes were presented for only 59 ms, translation and morphological decomposition must be fast and automatic.",Missing,Psychological science,22

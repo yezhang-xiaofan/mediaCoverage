@@ -1,0 +1,15 @@
+21502330,Muc5ac: a critical component mediating the rejection of enteric nematodes.,"Animals
+Cecum/immunology/parasitology
+Chronic Disease
+Humans
+Interferon-gamma/genetics/immunology
+Interleukin-13/genetics/immunology
+Intestinal Diseases, Parasitic/genetics/*immunology
+Mice
+Mice, Inbred BALB C
+Mice, Mutant Strains
+Mucin 5AC/genetics/*immunology/metabolism
+Th1 Cells/*immunology
+Th2 Cells/*immunology
+Trichuriasis/genetics/*immunology
+Trichuris/*immunology",Hasnain SZ and Evans CM and Roy M and Gallagher AL and Kindrachuk KN and Barron L and Dickey BF and Wilson MS and Wynn TA and Grencis RK and Thornton DJ,"De novo expression of Muc5ac, a mucin not normally expressed in the intestinal tract, is induced in the cecum of mice resistant to Trichuris muris infection. In this study, we investigated the role of Muc5ac, which is detected shortly before worm expulsion and is associated with the production of interleukin-13 (IL-13), in resistance to this nematode. Muc5ac-deficient mice were incapable of expelling T. muris from the intestine and harbored long-term chronic infections, despite developing strong T(H)2 responses. Muc5ac-deficient mice had elevated levels of IL-13 and, surprisingly, an increase in the T(H)1 cytokine IFN-gamma. Because T(H)1 inflammation is thought to favor chronic nematode infection, IFN-gamma was neutralized in vivo, resulting in an even stronger T(H)2-type immune response. Nevertheless, despite a more robust T(H)2 effector response, the Muc5ac-deficient mice remained highly susceptible to chronic T. muris infection. Importantly, human MUC5AC had a direct detrimental effect on nematode vitality. Moreover, the absence of Muc5ac caused a significant delay in the expulsion of two other gut-dwelling nematodes (Trichinella spiralis and Nippostrongylus brasiliensis). Thus, for the first time, we identify a single mucin, Muc5ac, as a direct and critical mediator of resistance during intestinal nematode infection.",Missing,The Journal of experimental medicine,208

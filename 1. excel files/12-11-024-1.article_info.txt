@@ -1,0 +1,16 @@
+22003387,Antivirals reduce the formation of key Alzheimer's disease molecules in cell cultures acutely infected with herpes simplex virus type 1.,"Acyclovir/pharmacology
+Alzheimer Disease/*metabolism
+Amyloid beta-Peptides/*biosynthesis/metabolism
+Animals
+Antiviral Agents/*pharmacology
+Cell Line
+Cells, Cultured
+Cricetinae
+DNA Replication/drug effects
+DNA, Viral/biosynthesis
+Herpesvirus 1, Human/*drug effects/genetics/*physiology
+Humans
+Protein Biosynthesis/drug effects
+Time Factors
+Virus Replication/drug effects
+tau Proteins/*biosynthesis/metabolism",Wozniak MA and Frost AL and Preston CM and Itzhaki RF,"Alzheimer's disease (AD) afflicts around 20 million people worldwide and so there is an urgent need for effective treatment. Our research showing that herpes simplex virus type 1 (HSV1) is a risk factor for AD for the brains of people who possess a specific genetic factor and that the virus causes accumulation of key AD proteins (beta-amyloid (Abeta) and abnormally phosphorylated tau (P-tau)), suggests that anti-HSV1 antiviral agents might slow AD progression. However, currently available antiviral agents target HSV1 DNA replication and so might be successful in AD only if Abeta and P-tau accumulation depend on viral DNA replication. Therefore, we investigated firstly the stage(s) of the virus replication cycle required for Abeta and P-tau accumulation, and secondly whether antiviral agents prevent these changes using recombinant strains of HSV1 that progress only partly through the replication cycle and antiviral agents that inhibit HSV1 DNA replication. By quantitative immunocytochemistry we demonstrated that entry, fusion and uncoating of HSV1, are insufficient to induce Abeta and P-tau production. We showed also that none of the ""immediate early"" viral proteins is directly responsible, and that Abeta and P-tau are produced at a subsequent stage of the HSV1 replication cycle. Importantly, the anti-HSV1 antiviral agents acyclovir, penciclovir and foscarnet reduced Abeta and P-tau accumulation, as well as HSV1, with foscarnet being less effective in each case. P-tau accumulation was found to depend on HSV1 DNA replication, whereas Abeta accumulation was not. The antiviral-induced decrease in Abeta is attributable to the reduced number of new viruses, and hence the reduction in viral spread. Since antiviral agents reduce greatly Abeta and P-tau accumulation in HSV1-infected cells, they would be suitable for treating AD with great advantage unlike current AD therapies, only the virus, not the host cell, would be targeted.",Missing,PloS one,6

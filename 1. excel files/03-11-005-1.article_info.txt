@@ -1,0 +1,14 @@
+21233391,Suppression of avian influenza transmission in genetically modified chickens.,"Animals
+*Animals, Genetically Modified
+Cell Line
+Chickens/*genetics/virology
+Cloaca/virology
+Influenza A Virus, H5N1 Subtype/enzymology/isolation & purification/*physiology
+Influenza in Birds/*prevention & control/*transmission/virology
+Oropharynx/virology
+RNA Replicase/antagonists & inhibitors/genetics/metabolism
+RNA, Small Interfering/*genetics/metabolism
+RNA, Viral/analysis/genetics/metabolism
+Transfection
+Virus Replication
+Virus Shedding",Lyall J and Irvine RM and Sherman A and McKinley TJ and Nunez A and Purdie A and Outtrim L and Brown IH and Rolleston-Smith G and Sang H and Tiley L,"Infection of chickens with avian influenza virus poses a global threat to both poultry production and human health that is not adequately controlled by vaccination or by biosecurity measures. A novel alternative strategy is to develop chickens that are genetically resistant to infection. We generated transgenic chickens expressing a short-hairpin RNA designed to function as a decoy that inhibits and blocks influenza virus polymerase and hence interferes with virus propagation. Susceptibility to primary challenge with highly pathogenic avian influenza virus and onward transmission dynamics were determined. Although the transgenic birds succumbed to the initial experimental challenge, onward transmission to both transgenic and nontransgenic birds was prevented.",Missing,"Science (New York, N.Y.)",331

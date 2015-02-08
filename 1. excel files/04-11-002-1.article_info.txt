@@ -1,0 +1,18 @@
+21355007,Predicting and measuring premises-level harm in the night-time economy.,"Alcohol Drinking/adverse effects/*epidemiology
+Alcoholic Intoxication/*epidemiology
+Breath Tests
+Central Nervous System Depressants/adverse effects
+Data Collection
+Emergency Service, Hospital/*statistics & numerical data
+Ethanol/adverse effects
+Harm Reduction
+Hospitals/statistics & numerical data
+Humans
+Licensure
+Police/statistics & numerical data
+Public Health
+Restaurants
+Risk Factors
+*Social Environment
+Time Factors
+Violence/prevention & control/*statistics & numerical data",Moore SC and Brennan I and Murphy S,"AIMS: To assess associations between measures of premises-level alcohol-related harm and risk factors for harm. METHODS: Thirty-two licensed premises with a history of on-premises violent assault were recruited. An environmental survey of the drinking context of each premises was undertaken. Levels of patron intoxication were assessed using a breathalyser and a visual assessment of customers at each premises. Premise-level violence was identified via routine police and hospital emergency department data. Analyses examined associations between hospital and police data, surveyor and objective ratings of intoxication and the relationship between intoxication, drinking context and violence at the premises level. RESULTS: Hospital and police data were associated. Aggregate levels of surveyor-rated intoxication were associated with aggregate alcometer breath alcohol levels. Analyses further suggest that premises with the highest levels of violence also had customers whose entry-exit change in intoxication was greatest, were open for longer hours, had alcohol promotions and had visible security staff present. CONCLUSIONS: Police and hospital data can be used to identify violent premises and to assess outcomes from premises-level interventions to reduce violence. Relatively low-cost observational survey methods can be used to identify high-risk premises, and can be used as outcomes for premises-level interventions. Features of premises that promote intoxication are associated with violence, suggesting that targeting resources at risky premises will likely address two public health concerns: excessive intoxication and assault-related injury.",Missing,"Alcohol and alcoholism (Oxford, Oxfordshire)",46

@@ -1,0 +1,8 @@
+22099460,An imbalancing act: gap junctions reduce the backward motor circuit activity to bias C. elegans for forward locomotion.,Neuron,Kawano T and Po MD and Gao S and Leung G and Ryu WS and Zhen M,Missing,"A neural network can sustain and switch between different activity patterns to execute multiple behaviors. By monitoring the decision making for directional locomotion through motor circuit calcium imaging in behaving Caenorhabditis elegans (C. elegans), we reveal that C. elegans determines the directionality of movements by establishing an imbalanced output between the forward and backward motor circuits and that it alters directions by switching between these imbalanced states. We further demonstrate that premotor interneurons modulate endogenous motoneuron activity to establish the output imbalance. Specifically, the UNC-7 and UNC-9 innexin-dependent premotor interneuron-motoneuron coupling prevents a balanced output state that leads to movements without directionality. Moreover, they act as shunts to decrease the backward-circuit activity, establishing a persistent bias for the high forward-circuit output state that results in the inherent preference of C. elegans for forward locomotion. This study demonstrates that imbalanced motoneuron activity underlies directional movement and establishes gap junctions as critical modulators of the properties and outputs of neural circuits.","Animals
+Animals, Genetically Modified
+Caenorhabditis elegans/*physiology
+Calcium Signaling/physiology
+Gap Junctions/*physiology
+Locomotion/*physiology
+Motor Activity/*physiology
+Nerve Net/*physiology"

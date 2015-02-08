@@ -1,0 +1,14 @@
+21692613,A pragmatic randomized controlled trial of thiopurine methyltransferase genotyping prior to azathioprine treatment: the TARGET study.,"Adult
+Anti-Inflammatory Agents, Non-Steroidal/*administration & dosage/*adverse effects
+Azathioprine/*administration & dosage/*adverse effects
+Drug-Related Side Effects and Adverse Reactions/genetics/prevention & control
+Genetic Predisposition to Disease
+Genetic Variation
+Genotype
+Heterozygote
+Homozygote
+Humans
+Inflammation/drug therapy/enzymology/genetics
+Methyltransferases/*genetics
+Neutropenia/genetics
+Phenotype",Newman WG and Payne K and Tricker K and Roberts SA and Fargher E and Pushpakom S and Alder JE and Sidgwick GP and Payne D and Elliott RA and Heise M and Elles R and Ramsden SC and Andrews J and Houston JB and Qasim F and Shaffer J and Griffiths CE and Ray DW and Bruce I and Ollier WE,"AIM: To conduct a pragmatic, randomized controlled trial to assess whether thiopurine methyltransferase (TPMT) genotyping prior to azathioprine reduces adverse drug reactions (ADRs). METHODS: A total of 333 participants were randomized 1:1 to undergo TPMT genotyping prior to azathioprine or to commence treatment without genotyping. RESULTS: There was no difference in the primary outcome of stopping azathioprine due to an adverse reaction (ADR, p = 0.59) between the two study arms. ADRs were more common in older patients (p = 0.01). There was no increase in stopping azathioprine due to ADRs in TPMT heterozygotes compared with wild-type individuals. The single individual with TPMT variant homozygosity experienced severe neutropenia. CONCLUSION: Our work supports the strong evidence that individuals with TPMT variant homozygosity are at high risk of severe neutropenia, whereas TPMT heterozygotes are not at increased risk of ADRs at standard doses of azathioprine.",Missing,Pharmacogenomics,12

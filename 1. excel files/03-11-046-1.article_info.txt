@@ -1,0 +1,11 @@
+21435169,Human red blood cell aging: correlative changes in surface charge and cell properties.,"Adult
+*Cell Aging
+*Erythrocyte Aging
+Erythrocyte Count
+Erythrocyte Deformability/*physiology
+Erythrocytes/*cytology/metabolism
+Female
+Humans
+Male
+Spectrum Analysis, Raman
+Young Adult",Huang YX and Wu ZJ and Mehrishi J and Huang BT and Chen XY and Zheng XJ and Liu WJ and Luo M,"Red blood cells (RBCs) during microcirculation, aging and storage, lose N-acetylneuraminic acid (NANA) and other biomaterials thereby altering cell structures, some properties and functions. Such cell damage very likely underlies the serious adverse effects of blood transfusion. However, a controversy has remained since 1961-1977 as to whether with aging, the RBCs, suffering loss of NANA, do have a decreased charge density. Any correlation between the changes in the cell properties with cell aging is also not clear. Therefore, to remove the ambiguity and uncertainty, we carried out multiparameteric studies on Percoll fractions of blood of 38 volunteers (lightest-young-Y-RBCs, densest-old-O-RBCs, two middle fractions).We found that there were striking differences between the properties of Y-RBCs and O-RBCs. The zeta-potential of Y-RBCs decreased gradually with aging. Studies in parallel on RBC fractions incubated with both positively charged quantum dots and Sambucus Nigra-fluorescein isothiocyanate (FITC) along with their zeta-potentials provide for the first time direct visual evidence about the lesser amount of charge density and NANA on O-RBCs, and a collinear decrease in their respective zeta-potentials. Close correlation was found between the surface charge on an aging RBC and its structure and functions, from the cell morphology, the membrane deformability to the intracellular Hb structure and oxidation ability. This quantitative approach not only clarifies the picture but also has implications in biology and medicine.",jnu,Journal of cellular and molecular medicine,15

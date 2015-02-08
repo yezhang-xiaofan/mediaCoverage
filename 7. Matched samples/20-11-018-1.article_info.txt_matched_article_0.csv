@@ -1,0 +1,14 @@
+21965679,"Interleukin-36 (IL-36) ligands require processing for full agonist (IL-36alpha, IL-36beta, and IL-36gamma) or antagonist (IL-36Ra) activity.",The Journal of biological chemistry,Towne JE and Renshaw BR and Douangpanya J and Lipsky BP and Shen M and Gabel CA and Sims JE,Missing,"IL-36alpha, IL-36beta, and IL-36gamma (formerly IL-1F6, IL-1F8, and IL-1F9) are IL-1 family members that signal through the IL-1 receptor family members IL-1Rrp2 (IL-1RL2) and IL-1RAcP. IL-36Ra (formerly IL-1F5) has been reported to antagonize IL-36gamma. However, our previous attempts to demonstrate IL-36Ra antagonism were unsuccessful. Here, we demonstrate that IL-36Ra antagonist activity is dependent upon removal of its N-terminal methionine. IL-36Ra starting at Val-2 is fully active and capable of inhibiting not only IL-36gamma but also IL-36alpha and IL-36beta. Val-2 of IL-36Ra lies 9 amino acids N-terminal to an A-X-Asp motif conserved in all IL-1 family members. In further experiments, we show that truncation of IL-36alpha, IL-36beta, and IL-36gamma to this same point increased their specific activity by approximately 10(3)-10(4)-fold (from EC(50) 1 mug/ml to EC(50) 1 ng/ml). Inhibition of truncated IL-36beta activity required approximately 10(2)-10(3)-fold excess IL-36Ra, similar to the ratio required for IL-1Ra to inhibit IL-1beta. Chimeric receptor experiments demonstrated that the extracellular (but not cytoplasmic) domain of IL-1Rrp2 or IL-1R1 is required for inhibition by their respective natural antagonists. IL-36Ra bound to IL-1Rrp2, and pretreatment of IL-1Rrp2-expressing cells with IL-36Ra prevented IL-36beta-mediated co-immunoprecipitation of IL-1Rrp2 with IL-1RAcP. Taken together, these results suggest that the mechanism of IL-36Ra antagonism is analogous to that of IL-1Ra, such that IL-36Ra binds to IL-1Rrp2 and prevents IL-1RAcP recruitment and the formation of a functional signaling complex. In addition, truncation of IL-36alpha, IL-36beta, and IL-36gamma dramatically enhances their activity, suggesting that post-translational processing is required for full activity.","Amino Acid Motifs
+Amino Acid Sequence
+Animals
+COS Cells
+Cell Membrane/metabolism
+Humans
+Interleukin-1/*agonists/*antagonists & inhibitors/metabolism
+Interleukins/chemistry/*metabolism
+Jurkat Cells
+Ligands
+Mice
+Molecular Sequence Data
+Receptors, Interleukin-1/metabolism
+Sequence Homology, Amino Acid"

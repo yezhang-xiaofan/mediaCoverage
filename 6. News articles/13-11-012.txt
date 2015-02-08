@@ -1,0 +1,23 @@
+REUTERS
+AIDS drugs can cause premature ageing: study
+By Kate Kelland
+LONDON | Mon Jun 27, 2011 3:39pm BST 
+LONDONA class of generic AIDS drugs often used to treat HIV in Africa and other poor regions can cause premature aging and lead to age-related illnesses such as heart disease and dementia, scientists said on Sunday.
+In a study in the journal Nature Genetics, British researchers found that the drugs, known as nucleoside analog reverse-transcriptase inhibitors, or NRTIs, damage DNA in the patient's mitochondria - the "batteries" that power cells.
+The scientists said it was unlikely that newer cocktails of AIDS drugs made by firms like Gilead, Merck, Pfizer and GlaxoSmithKline would inflict similar levels of damage, since they are thought to be less toxic to mitochondria. But more research is needed to be certain.
+"It takes time for these side effects to become apparent, so there is a question mark about the future and whether or not the newer drugs will cause this problem," Patrick Chinnery of the Institute of Genetic Medicine at Newcastle University said in a telephone interview. "They are probably less likely to, but we don't know because we haven't had time to see."
+The findings do however help explain why HIV-infected people treated with older antiretroviral AIDS drugs sometimes show advanced signs of frailty and diseases such as heart disease and dementia at an early age, the researchers said.
+"The DNA in our mitochondria gets copied throughout our lifetimes and, as we age, naturally accumulates errors," said Chinnery, who led the study.
+"We believe these HIV drugs accelerate the rate at which these errors build up. So over the space of, say, 10 years, a person's mitochondrial DNA may have accumulated the same amount of errors as a person who has naturally aged 20 or 30 years."
+NRTI drugs - the best known of which is AZT, also known as zidovudine and originally developed by GSK - were a big advance in HIV treatment when they first emerged in the late 1980s.
+ They extended patients' lives and helped make HIV a manageable chronic disease rather than the death sentence it once was.
+Concerns about toxicity of NRTIs, particularly with long-term use, mean the drugs are now less commonly used in wealthy countries where they have been replaced by newer more expensive combination AIDS drugs with fewer side-effects.
+But in poorer countries, where access to cheaper generic medicines is often the only option for HIV patients to get treatment, NRTIs are still relatively widely used.
+An estimated 33.3 million people worldwide had the human immunodeficiency virus (HIV) that causes AIDS in 2009, according to the latest United Nations data, and 22.5 million of those live in Africa.
+"These drugs may not be perfect, but we must remember that when they were introduced they gave people an extra 10 or 20 years when they would otherwise have died," said Brendan Payne of Newcastle's Royal Victoria Infirmary, who also worked on the study.
+"In Africa, where the HIV epidemic has hit hardest and where more expensive medications are not an option, they are an absolute necessity."
+For their study, Chinnery's team studied muscle cells from HIV-infected adults, some of whom had previously been given NRTIs. 
+They found that patients who had been treated with NRTIs - even as long as 10 years previously - had damaged mitochondria similar to that of a healthy older person.
+The researchers are now looking at ways to repair or stall some of the damage caused by the drugs and say they believe that focusing on exercise - which appears to have a beneficial effect on patients with mitochondrial diseases - may help.
+SOURCE: bit.ly/jQB8yL Nature Genetics, online June 26, 2011.
+

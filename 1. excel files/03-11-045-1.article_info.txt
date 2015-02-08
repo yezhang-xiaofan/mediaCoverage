@@ -1,0 +1,14 @@
+21414048,Efficacy and safety of high-dose peanut oral immunotherapy with factors predicting outcome.,"Administration, Oral
+Adolescent
+Arachis hypogaea/*adverse effects/*immunology
+Child
+Child, Preschool
+*Desensitization, Immunologic/adverse effects
+Female
+Humans
+Immunoglobulin E/blood/immunology
+Male
+Peanut Hypersensitivity/blood/immunology/*therapy
+Risk Factors
+Skin Tests
+Treatment Outcome",Anagnostou K and Clark A and King Y and Islam S and Deighton J and Ewan P,"BACKGROUND: Peanut allergy is severe and rarely resolves. OBJECTIVE: To test the efficacy and safety of a new oral immunotherapy (OIT) protocol for peanut allergy. METHOD: Twenty-two peanut-allergic children underwent oral challenge. OIT was administered by gradual updosing with 2-weekly increments (8-38 weeks) to 800 mg of protein (5 peanuts/day) followed by 30-week maintenance. Oral challenge was repeated after 6 and 30 weeks maintenance. RESULTS: Twenty-two children (median 11 years) had positive challenges (threshold 1-110 mg). Nineteen of 22 (86%) tolerated updosing and maintenance at 800 mg protein/day. One of 22 dropped out; 2/22 tolerated updosing and maintenance at 200-400 mg protein. Reactions, mostly mild, occurred in 86% during immunotherapy, adrenaline was not required. Eight of 8 with pre-immunotherapy peanut IgE<27.3 kU/L required no dose adjustment compared with 5/13 with pre-immunotherapy peanut IgE>/=27.3 kU/L. Twelve of 22 (54%) required a transient dose reduction because of reactions possibly related to extrinsic factors: tiredness, infection and exercise. After 6 weeks, 12/22 (54%) had no reaction to a 2.6 g protein challenge. After 30 weeks, 14/22 (64%) tolerated 6.6 g protein. The median tolerated peanut dose increased 1000-fold following immunotherapy, from 6 to 6459 mg of protein. CONCLUSIONS AND CLINICAL RELEVANCE: We used a novel protocol using gradual updosing, and higher maintenance dose resulting in a better outcome compared with rush protocols. There was a 1000-fold increase in the amount of peanut tolerated with a good safety profile. No serious adverse events occurred. Most subjects tolerated five peanuts and all were protected against amounts likely during accidental ingestion. New information is provided on 'extrinsic factors', updosing method and factors associated with success (trial registration http://ClinicalTrials.gov- ID number NCT01259804).",Missing,Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology,41

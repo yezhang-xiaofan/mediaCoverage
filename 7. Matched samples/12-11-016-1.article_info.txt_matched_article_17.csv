@@ -1,0 +1,15 @@
+21454655,Identification of luminal Loop 1 of Scap protein as the sterol sensor that maintains cholesterol homeostasis.,The Journal of biological chemistry,Motamed M and Zhang Y and Wang ML and Seemann J and Kwon HJ and Goldstein JL and Brown MS,Missing,"Cellular cholesterol homeostasis is maintained by Scap, an endoplasmic reticulum (ER) protein with eight transmembrane helices. In cholesterol-depleted cells, Scap transports sterol regulatory element-binding proteins (SREBPs) to the Golgi, where the active fragment of SREBP is liberated by proteases so that it can activate genes for cholesterol synthesis. When ER cholesterol increases, Scap binds cholesterol, and this changes the conformation of cytosolic Loop 6, which contains the binding site for COPII proteins. The altered conformation precludes COPII binding, abrogating movement to the Golgi. Consequently, cholesterol synthesis declines. Here, we identify the cholesterol-binding site on Scap as Loop 1, a 245-amino acid sequence that projects into the ER lumen. Recombinant Loop 1 binds sterols with a specificity identical to that of the entire Scap membrane domain. When tyrosine 234 in Loop 1 is mutated to alanine, Loop 6 assumes the cholesterol-bound conformation, even in sterol-depleted cells. As a result, full-length Scap(Y234A) cannot mediate SREBP processing in transfected cells. These results indicate that luminal Loop 1 of Scap controls the conformation of cytosolic Loop 6, thereby determining whether cells produce cholesterol.","Amino Acid Substitution
+Animals
+Cholesterol/genetics/*metabolism
+Cricetinae
+Endoplasmic Reticulum/genetics/*metabolism
+Golgi Apparatus/genetics/*metabolism
+Homeostasis/*physiology
+Humans
+Intracellular Signaling Peptides and Proteins/genetics/*metabolism
+Membrane Proteins/genetics/*metabolism
+Mutation, Missense
+Protein Binding
+Protein Structure, Secondary
+Protein Transport/physiology
+Sterol Regulatory Element Binding Proteins/genetics/*metabolism"

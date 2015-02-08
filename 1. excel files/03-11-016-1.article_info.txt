@@ -1,0 +1,18 @@
+21572165,Disruption in the balance between goal-directed behavior and habit learning in obsessive-compulsive disorder.,"Adult
+Behavior Control/*psychology
+Compulsive Behavior/diagnosis/*psychology
+Diagnostic and Statistical Manual of Mental Disorders
+Discrimination Learning/physiology
+Female
+Functional Laterality/physiology
+*Goals
+*Habits
+Humans
+*Intention
+Male
+Middle Aged
+Obsessive-Compulsive Disorder/*diagnosis/*psychology
+Personality Inventory
+Psychiatric Status Rating Scales
+Psychomotor Performance/physiology
+Questionnaires",Gillan CM and Papmeyer M and Morein-Zamir S and Sahakian BJ and Fineberg NA and Robbins TW and de Wit S,"OBJECTIVE: Obsessive-compulsive disorder (OCD) is characterized by repetitive, ritualistic behaviors and thought patterns. Although patients with OCD report that these compulsive behaviors are unproductive and often senseless, they are unable to desist. This study investigated whether the urge to perform compulsive acts is mediated by a disruption in the balance between flexible, goal-directed action control and habitual behavior. METHOD: A total of 21 patients with OCD and 30 healthy comparison subjects participated in a set of tasks designed to assess relative goal-directed versus habitual behavioral control. In the training stage, participants were asked to respond to different pictured stimuli in order to gain rewarding outcomes. In the subsequent (instructed) outcome devaluation test and in a novel ""slips-of-action"" test, the authors assessed whether participants were able to flexibly adjust their behavior to changes in the desirability of the outcomes. The authors also used a questionnaire to test explicit knowledge of the relationships between stimuli, responses, and outcomes. RESULTS: Patients with OCD showed no deficit in their ability to use feedback to respond appropriately to stimuli in the training stage. However, their knowledge of the outcomes of these responses was impaired relative to healthy comparison subjects, and patients were more prone to slips of action, indicating a deficit in goal-directed control and an overreliance on habits. CONCLUSIONS: This study provides the first experimental evidence for selective impairment in flexible and goal-directed behavioral control in patients with OCD. The impairment forces patients with OCD to rely instead on habits that can be triggered by stimuli regardless of the desirability of the consequences. Goal-directed actions are supported by orbitofronto-striatal circuitry, and the study findings are thus in line with findings from research that implicate dysfunction in this circuitry in the neuropathology of OCD.",Missing,The American journal of psychiatry,168

@@ -1,0 +1,20 @@
+21511832,Early reduction of serum-free light chains associates with renal recovery in myeloma kidney.,"Adult
+Aged
+Aged, 80 and over
+Biopsy
+Drug Therapy
+Female
+Humans
+Immunoglobulin Light Chains/*blood
+Kidney/pathology/*physiology
+Kidney Neoplasms/*complications/drug therapy/mortality
+Male
+Middle Aged
+Multiple Myeloma/*complications/drug therapy/mortality
+Multivariate Analysis
+Recovery of Function/*physiology
+Regression Analysis
+Renal Dialysis
+Renal Insufficiency/*etiology/mortality/*therapy
+Retrospective Studies
+Survival Rate",Hutchison CA and Cockwell P and Stringer S and Bradwell A and Cook M and Gertz MA and Dispenzieri A and Winters JL and Kumar S and Rajkumar SV and Kyle RA and Leung N,"Myeloma kidney is the major cause of severe irreversible renal failure in patients with multiple myeloma. This tubulointerstitial injury is a direct consequence of high concentrations of circulating monoclonal free light chains (FLCs) produced by a clonal expansion of plasma cells. Early reduction of serum FLCs associates with renal recovery, but the target threshold of reduction to facilitate renal recovery is unknown. To determine the relationship between the achieved FLC reduction and renal recovery, we identified 39 patients with biopsy-proven myeloma kidney, the majority of whom had severe renal failure at presentation (median estimated GFR 9 ml/min per 1.73 m(2)). In a multivariable analysis incorporating demographic, hematologic, and renal variables, only the achieved FLC reduction significantly predicted renal recovery (P = 0.003). The relationship between renal recovery and FLC reduction was linear with no absolute threshold for FLC reduction. A 60% reduction in FLCs by day 21 associated with recovery of renal function for 80% of the population. Patient survival strongly associated with renal recovery: the median survival was 42.7 months (range 0 to 80) among those who recovered function compared with 7.8 months (range 0 to 54) among those who did not (P < 0.02). Cox-regression analysis demonstrated that the first presentation of myeloma, the kappa isotype of FLC, and renal recovery were independent predictors of survival. In conclusion, recovery of renal function in myeloma kidney depends on early reduction of serum FLCs, and this recovery associates with a significant survival advantage.",Missing,Journal of the American Society of Nephrology : JASN,22

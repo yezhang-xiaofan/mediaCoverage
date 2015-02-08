@@ -1,0 +1,17 @@
+21195352,Enteric neurons and systemic signals couple nutritional and reproductive status with intestinal homeostasis.,"Acid-Base Equilibrium
+Animals
+Appetite Regulation/physiology
+Diet
+Diuresis
+Drosophila/metabolism/physiology
+Enteric Nervous System/*physiology
+Female
+Gastrointestinal Tract/*innervation/metabolism/physiology
+Gastrointestinal Transit
+Hemostatics
+Male
+Neurons, Efferent/*physiology
+Reproduction
+Sensory Receptor Cells/*physiology
+Sex Attractants/physiology
+Vasopressins/physiology",Cognigni P and Bailey AP and Miguel-Aliaga I,"The gastrointestinal tract is emerging as a key regulator of appetite and metabolism, but daunting neuroanatomical complexity has hampered identification of the relevant signals. Invertebrate models could provide a simple and genetically amenable alternative, but their autonomic nervous system and its visceral functions remain largely unexplored. Here we develop a quantitative method based on defecation behavior to uncover a central role for the Drosophila intestine in the regulation of nutrient intake, fluid, and ion balance. We then identify a key homeostatic role for autonomic neurons and hormones, including a brain-gut circuit of insulin-producing neurons modulating appetite, a vasopressin-like system essential for fluid homeostasis, and enteric neurons mediating sex peptide-induced changes in intestinal physiology. These conserved mechanisms of visceral control, analogous to those found in the enteric nervous system and hypothalamic/pituitary axis, enable the study of autonomic control in a model organism that has proved instrumental in understanding sensory and motor systems.",Missing,Cell metabolism,13

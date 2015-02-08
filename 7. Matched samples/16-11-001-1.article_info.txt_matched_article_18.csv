@@ -1,0 +1,22 @@
+21062974,Intrinsic cooperation between p16INK4a and p21Waf1/Cip1 in the onset of cellular senescence and tumor suppression in vivo.,Cancer research,Takeuchi S and Takahashi A and Motoi N and Yoshimoto S and Tajima T and Yamakoshi K and Hirao A and Yanagi S and Fukami K and Ishikawa Y and Sone S and Hara E and Ohtani N,Missing,"Although the p16(INK4a) and p21Waf1/Cip1 cyclin-dependent kinase (CDK) inhibitors are known to play key roles in cellular senescence in vitro, their roles in senescence remain rather poorly understood in vivo. This situation is partly due to the possibility of compensatory effect(s) between p16INK4a and p21Waf1/Cip1 or to the upregulation of functionally related CDK inhibitors. To directly address the cooperative roles of p16INK4a and p21Waf1/Cip1 in senescence in vivo, we generated a mouse line simply lacking both p16INK4a and p21Waf1/Cip1 genes [double-knockout (DKO)]. Mouse embryonic fibroblasts (MEF) derived from DKO mice displayed no evidence of cellular senescence when cultured serially in vitro. Moreover, DKO MEFs readily escaped Ras-induced senescence and overrode contact inhibition in culture. This was not the case in MEFs lacking either p16INK4a or p21Waf1/Cip1, indicating that p16(INK4a) and p21Waf1/Cip1 play cooperative roles in cellular senescence and contact inhibition in vitro. Notably, we found the DKO mice to be extremely susceptible to 7,12-dimethylbenz(a)anthracene/12-O-tetradecanoylphorbol-13-acetate-induced skin carcinogenesis that involves oncogenic mutation of the H-ras gene. Mechanistic investigations suggested that the high incidence of cancer in DKO mice likely reflected a cooperative effect of increased benign skin tumor formation caused by p21Waf1/Cip1 loss, with increased malignant conversion of benign skin tumors caused by p16(INK4a) loss. Our findings establish an intrinsic cooperation between p16INK4a and p21Waf1/Cip1 in the onset of cellular senescence and tumor suppression in vivo.","9,10-Dimethyl-1,2-benzanthracene/toxicity
+Animals
+Blotting, Western
+*Cell Aging
+Cell Proliferation/drug effects
+Cell Transformation, Neoplastic/genetics
+Cells, Cultured
+Cyclin-Dependent Kinase Inhibitor p15/genetics/metabolism
+Cyclin-Dependent Kinase Inhibitor p16/genetics/*metabolism
+Cyclin-Dependent Kinase Inhibitor p21/genetics/*metabolism
+Embryo, Mammalian/cytology
+Fibroblasts/cytology/drug effects/metabolism
+Histones/genetics/metabolism
+Mice
+Mice, Inbred C57BL
+Mice, Knockout
+Octamer Transcription Factor-3/genetics/metabolism
+RNA Interference
+Reverse Transcriptase Polymerase Chain Reaction
+Skin Neoplasms/chemically induced/genetics/*metabolism
+Tetradecanoylphorbol Acetate/toxicity
+ras Proteins/genetics/metabolism"

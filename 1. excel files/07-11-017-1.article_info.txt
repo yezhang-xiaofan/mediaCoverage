@@ -1,0 +1,20 @@
+21514236,Screening of immigrants in the UK for imported latent tuberculosis: a multicentre cohort study and cost-effectiveness analysis.,"Adolescent
+Adult
+Child
+Child, Preschool
+Cohort Studies
+Cost-Benefit Analysis
+Decision Trees
+*Emigrants and Immigrants
+Female
+Great Britain/epidemiology
+Humans
+Incidence
+Interferon-gamma/*blood
+Latent Tuberculosis/*diagnosis/economics/epidemiology
+Male
+Mass Screening/economics/methods
+Prevalence
+Prospective Studies
+Regression Analysis
+Young Adult",Pareek M and Watson JP and Ormerod LP and Kon OM and Woltmann G and White PJ and Abubakar I and Lalvani A,"BACKGROUND: Continuing rises in tuberculosis notifications in the UK are attributable to cases in foreign-born immigrants. National guidance for immigrant screening is hampered by a lack of data about the prevalence of, and risk factors for, latent tuberculosis infection in immigrants. We aimed to determine the prevalence of latent infection in immigrants to the UK to define which groups should be screened and to quantify cost-effectiveness. METHODS: In our multicentre cohort study and cost-effectiveness analysis we analysed demographic and test results from three centres in the UK (from 2008 to 2010) that used interferon-gamma release-assay (IGRA) to screen immigrants aged 35 years or younger for latent tuberculosis infection. We assessed factors associated with latent infection by use of logistic regression and calculated the yields and cost-effectiveness of screening at different levels of tuberculosis incidence in immigrants' countries of origin with a decision analysis model. FINDINGS: Results for IGRA-based screening were positive in 245 of 1229 immigrants (20%), negative in 982 (80%), and indeterminate in two (0.2%). Positive results were independently associated with increases in tuberculosis incidence in immigrants' countries of origin (p=0.0006), male sex (p = 0.046), and age (p < 0.0001). National policy thus far would fail to detect 71% of individuals with latent infection. The two most cost-effective strategies were to screen individuals from countries with a tuberculosis incidence of more than 250 cases per 100,000 (incremental cost-effectiveness ratio [ICER] was pound17,956 [ pound1=US$1.60] per prevented case of tuberculosis) and at more than 150 cases per 100,000 (including immigrants from the Indian subcontinent), which identified 92% of infected immigrants and prevented an additional 29 cases at an ICER of pound20,819 per additional case averted. INTERPRETATION: Screening for latent infection can be implemented cost-effectively at a level of incidence that identifies most immigrants with latent tuberculosis, thereby preventing substantial numbers of future cases of active tuberculosis. FUNDING: Medical Research Council and Wellcome Trust.",Missing,The Lancet. Infectious diseases,11

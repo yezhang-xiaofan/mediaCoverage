@@ -1,0 +1,18 @@
+21525527,Changes in rates of violent child deaths in England and Wales between 1974 and 2008: an analysis of national mortality data.,"Adolescent
+Age Factors
+Child
+Child Abuse/*mortality
+Child Mortality/*trends
+Child, Preschool
+England/epidemiology
+Female
+Homicide/statistics & numerical data/*trends
+Humans
+Infant
+Infant Mortality/trends
+Male
+Mortality/trends
+Sex Factors
+Violence/statistics & numerical data/*trends
+Wales/epidemiology
+Young Adult",Sidebotham P and Atkins B and Hutton JL,"BACKGROUND: This study used national data to determine if violent child death rates fell between 1974 and 2008. DESIGN: Using mortality data from the Office of National Statistics, categories potentially containing violent child deaths were analysed for children aged <1, 1-14 and 15-19 years. These data were compared with Home Office data on recorded homicides in children aged <1 and 1-15 years. RESULTS: Annual rates of infant deaths registered as due to assault fell between 1974 and 2008 from 5.6 to 0.7 per 100 000 infants; those in children (1-14 years) fell from 0.6 to 0.2 per 100 000. When these deaths are combined with those registered as undetermined intent, rates are higher but still show a decline in both groups. There is a slight fall in the rates of police recorded homicides in infants, but no observable change in childhood rates. In adolescents, the rates of death from assault fell during the 1970s and have since remained static in females but have risen in males. When these deaths are combined with those registered as undetermined intent, the rates for adolescent women have remained static at 2.0 per 100 000, while for young men they increased from 3.3 to 5.7 per 100 000 before declining to 4.2 per 100 000. CONCLUSION: These data provide evidence that rates of violent death in infancy and middle childhood have fallen over the past 30 years. In contrast, rates in adolescence have remained static or risen over the same period.",Missing,Archives of disease in childhood,97

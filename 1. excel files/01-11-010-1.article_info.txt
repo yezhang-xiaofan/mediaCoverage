@@ -1,0 +1,16 @@
+21642683,Long-term risks of subsequent primary neoplasms among survivors of childhood cancer.,"Adolescent
+Adult
+Child
+Child, Preschool
+Cohort Studies
+Female
+Great Britain/epidemiology
+Humans
+Incidence
+Infant
+Male
+Middle Aged
+Neoplasms/complications/*therapy
+Neoplasms, Second Primary/*epidemiology
+Risk Assessment
+*Survivors",Reulen RC and Frobisher C and Winter DL and Kelly J and Lancashire ER and Stiller CA and Pritchard-Jones K and Jenkinson HC and Hawkins MM,"CONTEXT: Survivors of childhood cancer are at excess risk of developing subsequent primary neoplasms but the long-term risks are uncertain. OBJECTIVES: To investigate long-term risks of subsequent primary neoplasms in survivors of childhood cancer, to identify the types that contribute most to long-term excess risk, and to identify subgroups of survivors at substantially increased risk of particular subsequent primary neoplasms that may require specific interventions. DESIGN, SETTING, AND PARTICIPANTS: British Childhood Cancer Survivor Study--a population-based cohort of 17,981 5-year survivors of childhood cancer diagnosed with cancer at younger than 15 years between 1940 and 1991 in Great Britain, followed up through December 2006. MAIN OUTCOME MEASURES: Standardized incidence ratios (SIRs), absolute excess risks (AERs), and cumulative incidence of subsequent primary neoplasms. RESULTS: After a median follow-up time of 24.3 years (mean = 25.6 years), 1354 subsequent primary neoplasms were ascertained; the most frequently observed being central nervous system (n = 344), nonmelanoma skin cancer (n = 278), digestive (n = 105), genitourinary (n = 100), breast (n = 97), and bone (n = 94). The overall SIR was 4 times more than expected (SIR, 3.9; 95% confidence interval [CI], 3.6-4.2; AER, 16.8 per 10,000 person-years). The AER at older than 40 years was highest for digestive and genitourinary subsequent primary neoplasms (AER, 5.9 [95% CI, 2.5-9.3]; and AER, 6.0 [95%CI, 2.3-9.6] per 10,000 person-years, respectively); 36% of the total AER was attributable to these 2 subsequent primary neoplasm sites. The cumulative incidence of colorectal cancer for survivors treated with direct abdominopelvic irradiation was 1.4% (95% CI, 0.7%-2.6%) by age 50 years, comparable with the 1.2% risk in individuals with at least 2 first-degree relatives affected by colorectal cancer. CONCLUSION: Among a cohort of British childhood cancer survivors, the greatest excess risk associated with subsequent primary neoplasms at older than 40 years was for digestive and genitourinary neoplasms.",Missing,JAMA,305

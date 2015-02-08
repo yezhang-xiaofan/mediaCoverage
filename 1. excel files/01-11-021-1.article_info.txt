@@ -1,0 +1,9 @@
+22009036,Behavioural memory reconsolidation of food and fear memories.,"Animals
+Calcium Channel Blockers/pharmacology
+Calcium Channels, L-Type/drug effects
+*Fear
+*Food
+Male
+*Memory
+Nimodipine/pharmacology
+Rats",Flavell CR and Barber DJ and Lee JL,"The reactivation of a memory through retrieval can render it subject to disruption or modification through the process of memory reconsolidation. In both humans and rodents, briefly reactivating a fear memory results in effective erasure by subsequent extinction training. Here we show that a similar strategy is equally effective in the disruption of appetitive pavlovian cue-food memories. However, systemic administration of the NMDA receptor partial agonist D-cycloserine, under the same behavioural conditions, did not potentiate appetitive memory extinction, suggesting that reactivation does not enhance subsequent extinction learning. To confirm that reactivation followed by extinction reflects a behavioural analogue of memory reconsolidation, we show that prevention of contextual fear memory reactivation by the L-type voltage-gated calcium channel blocker nimodipine interferes with the amnestic outcome. Therefore, the reconsolidation process can be manipulated behaviourally to disrupt both aversive and appetitive memories.",Missing,Nature communications,2

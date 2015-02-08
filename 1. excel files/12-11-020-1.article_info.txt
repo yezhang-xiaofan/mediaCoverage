@@ -1,0 +1,17 @@
+21764801,Evaluation of a calibrated (18)F-FDG PET score as a biomarker for progression in Alzheimer disease and mild cognitive impairment.,"Aged
+Alzheimer Disease/pathology/*radionuclide imaging
+Biological Markers/metabolism
+Calibration
+Cognition
+Cognition Disorders/pathology/*radionuclide imaging
+Disease Progression
+Female
+Fluorodeoxyglucose F18/*pharmacology
+Humans
+Male
+Mental Status Schedule
+Middle Aged
+Neurology/methods
+Neuropsychological Tests
+Positron-Emission Tomography/*methods
+Reproducibility of Results",Herholz K and Westwood S and Haense C and Dunn G,"Increasingly, clinical trials are being planned in patients with mild cognitive impairment (MCI) to prevent or delay the onset of dementia in Alzheimer disease (AD) by disease-modifying intervention. Inclusion of imaging techniques as biomarkers for patient selection and assessment of outcome is expected to increase trial efficacy. PET using (18)F-FDG provides objective information about the impairment of synaptic function and could, with appropriate standardization, qualify as a biomarker. METHODS: We evaluated a predefined quantitative measure (PET score) that is extracted automatically from (18)F-FDG PET scans using a sample of controls (n = 44), patients with MCI (n = 94), and patients with mild AD (n = 40) from the Alzheimer Disease Neuroimaging Initiative (ADNI). Subjects received 4 scans and clinical assessments over 2 y. RESULTS: PET scores provide much higher test-retest reliability than standard neuropsychologic test scores (Alzheimer's Disease Assessment Scale-Cognitive [ADAS-cog] and Mini-Mental State Examination) and superior signal strength for measuring progression. At the same time, they are related linearly to ADAS-cog scores, thus providing a valid measure of cognitive impairment. In addition, PET scores at study entry in MCI patients significantly predict clinical progression to dementia with a higher accuracy than Mini-Mental State Examination and ADAS-cog. CONCLUSION: (18)F-FDG PET scores are a valid imaging biomarker to monitor the progression of MCI to AD. Their superior test-retest reliability and signal strength will allow the reduction in the number of subjects needed or shortening of study duration substantially.",Missing,"Journal of nuclear medicine : official publication, Society of Nuclear Medicine",52

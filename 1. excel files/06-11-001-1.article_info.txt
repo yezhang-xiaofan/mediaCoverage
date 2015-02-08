@@ -1,0 +1,24 @@
+21245905,"Predicting live birth, preterm delivery, and low birth weight in infants born from in vitro fertilisation: a prospective study of 144,018 treatment cycles.","Adolescent
+Adult
+Data Collection
+Female
+Fertilization in Vitro/methods/*statistics & numerical data
+Great Britain/epidemiology
+Humans
+*Infant, Low Birth Weight
+Infant, Newborn
+Infertility, Female/therapy
+Infertility, Male/therapy
+Live Birth/epidemiology
+Living Donors
+Male
+Models, Theoretical
+Oocyte Donation/statistics & numerical data
+Outcome Assessment (Health Care)
+Pregnancy
+Pregnancy Outcome/*epidemiology
+Premature Birth/*epidemiology
+Probability
+Prospective Studies
+Risk Factors
+Young Adult",Nelson SM and Lawlor DA,"BACKGROUND: The extent to which baseline couple characteristics affect the probability of live birth and adverse perinatal outcomes after assisted conception is unknown. METHODS AND FINDINGS: We utilised the Human Fertilisation and Embryology Authority database to examine the predictors of live birth in all in vitro fertilisation (IVF) cycles undertaken in the UK between 2003 and 2007 (n = 144,018). We examined the potential clinical utility of a validated model that pre-dated the introduction of intracytoplasmic sperm injection (ICSI) as compared to a novel model. For those treatment cycles that resulted in a live singleton birth (n = 24,226), we determined the associates of potential risk factors with preterm birth, low birth weight, and macrosomia. The overall rate of at least one live birth was 23.4 per 100 cycles (95% confidence interval [CI] 23.2-23.7). In multivariable models the odds of at least one live birth decreased with increasing maternal age, increasing duration of infertility, a greater number of previously unsuccessful IVF treatments, use of own oocytes, necessity for a second or third treatment cycle, or if it was not unexplained infertility. The association of own versus donor oocyte with reduced odds of live birth strengthened with increasing age of the mother. A previous IVF live birth increased the odds of future success (OR 1.58, 95% CI 1.46-1.71) more than that of a previous spontaneous live birth (OR 1.19, 95% CI 0.99-1.24); p-value for difference in estimate <0.001. Use of ICSI increased the odds of live birth, and male causes of infertility were associated with reduced odds of live birth only in couples who had not received ICSI. Prediction of live birth was feasible with moderate discrimination and excellent calibration; calibration was markedly improved in the novel compared to the established model. Preterm birth and low birth weight were increased if oocyte donation was required and ICSI was not used. Risk of macrosomia increased with advancing maternal age and a history of previous live births. Infertility due to cervical problems was associated with increased odds of all three outcomes-preterm birth, low birth weight, and macrosomia. CONCLUSIONS: Pending external validation, our results show that couple- and treatment-specific factors can be used to provide infertile couples with an accurate assessment of whether they have low or high risk of a successful outcome following IVF.",Missing,PLoS medicine,8

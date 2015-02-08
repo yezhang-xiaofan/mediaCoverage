@@ -1,0 +1,16 @@
+21617182,Glycation of LDL by methylglyoxal increases arterial atherogenicity: a possible contributor to increased risk of cardiovascular disease in diabetes.,"Animals
+Aorta/metabolism
+Apolipoprotein B-100/chemistry
+Apolipoproteins E/deficiency
+Atherosclerosis/chemically induced
+Cardiovascular Diseases/etiology
+Cholesterol, LDL/*chemistry/drug effects
+Glycosylation
+Hep G2 Cells
+Humans
+Mice
+Particle Size
+Proteoglycans/metabolism
+Pyruvaldehyde/*chemistry/pharmacology
+Rats
+Receptors, LDL/metabolism",Rabbani N and Godfrey L and Xue M and Shaheen F and Geoffrion M and Milne R and Thornalley PJ,"OBJECTIVE: To study whether modification of LDL by methylglyoxal (MG), a potent arginine-directed glycating agent that is increased in diabetes, is associated with increased atherogenicity. RESEARCH DESIGN AND METHODS: Human LDL was isolated and modified by MG in vitro to minimal extent (MG(min)-LDL) as occurs in vivo. Atherogenic characteristics of MG(min)-LDL were characterized: particle size, proteoglycan-binding, susceptibility to aggregation, LDL and non-LDL receptor-binding, and aortal deposition. The major site of modification of apolipoprotein B100 (apoB100) modification was investigated by mass spectrometric peptide mapping. RESULTS: MG(min)-LDL contained 1.6 molar equivalents of MG modification-mostly hydroimidazolone-as found in vivo. MG(min)-LDL had decreased particle size, increased binding to proteoglycans, and increased aggregation in vitro. Cell culture studies showed that MG(min)-LDL was bound by the LDL receptor but not by the scavenger receptor and had increased binding affinity for cell surface heparan sulfate-containing proteoglycan. Radiotracer studies in rats showed that MG(min)-LDL had a similar fractional clearance rate in plasma to unmodified LDL but increased partitioning onto the aortal wall. Mass spectrometry peptide mapping identified arginine-18 as the hotspot site of apoB100 modification in MG(min)-LDL. A computed structural model predicted that MG modification of apoB100 induces distortion, increasing exposure of the N-terminal proteoglycan-binding domain on the surface of LDL. This likely mediates particle remodeling and increases proteoglycan binding. CONCLUSIONS: MG modification of LDL forms small, dense LDL with increased atherogenicity that provides a new route to atherogenic LDL and may explain the escalation of cardiovascular risk in diabetes and the cardioprotective effect of metformin.",Missing,Diabetes,60

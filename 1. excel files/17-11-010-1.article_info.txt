@@ -1,0 +1,20 @@
+22088495,Time patients spend in the emergency department: England's 4-hour rule-a case of hitting the target but missing the point?,"Adolescent
+Adult
+Age Factors
+Aged
+Child
+Child, Preschool
+Emergency Service, Hospital/*standards/statistics & numerical data
+England
+Female
+Humans
+Infant
+Infant, Newborn
+Length of Stay
+Male
+Mandatory Programs/statistics & numerical data
+Middle Aged
+Patient Admission/statistics & numerical data
+Retrospective Studies
+Time Factors
+Young Adult",Mason S and Weber EJ and Coster J and Freeman J and Locker T,"STUDY OBJECTIVE: To address concerns about prolonged emergency department (ED) stays from crowding, England mandated that the maximum length of ED stay for 98% of patients be no greater than 4 hours. We evaluate the effect of the mandated ED care intervals in England. METHODS: This was a retrospective analysis of ED patient throughput before, during, and after implementation of the target. Fifteen acute hospital trusts' ED data were purposively sampled, including all patient visits during May and June of 2003 to 2006. We compared total time in ED and time to clinician across years, segregating for admitted versus discharged patients and young versus old patients, using a random-effects regression model and adjusting for hospital clustering. RESULTS: We analyzed 735,588 ED visits. The proportion of patients seen and treated within 4 hours improved from 83.9% to 96.3%. Adjusted total length of ED stay from 2003 to 2006 increased by 8.6 minutes for all patients and 30 minutes for admissions; time to physician improved by 1 minute for all patients. The proportion of patients leaving the ED during the last 20 minutes before 4 hours increased from 4.7% of all patients in 2003 to 8.4% in 2006. Admitted patients were more likely than discharged ones to leave the ED in the last 20 minutes, and the relative likelihood increased each year after 2003, with incidence rate ratio 1.04 (95% confidence interval [CI] 0.78 to 1.39), 1.39 (95% CI 1.05 to 1.82), and 1.55 (95% CI 1.19 to 2.20) for 2004, 2005, and 2006, respectively. An increasing proportion of elderly patients were in the last 20-minute departure interval each year compared with younger patients (in 2003 7.4% versus 4.1%; in 2006 17.3% versus 6.3%). CONCLUSION: The introduction of a time target reduced the proportion of patients staying greater than 4 hours. More patients departed within 20 minutes of the target 4-hour interval after the mandate, notably, the elderly.",Missing,Annals of emergency medicine,59

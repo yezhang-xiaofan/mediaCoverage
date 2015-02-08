@@ -1,0 +1,15 @@
+21422028,Psychological distress and risk of long-term disability: population-based longitudinal study.,"Adolescent
+Adult
+*Disabled Persons
+Humans
+Life Style
+Longitudinal Studies
+Mental Disorders/diagnosis
+Middle Aged
+Prospective Studies
+Questionnaires
+Risk Assessment/methods
+Social Class
+Stress, Psychological/*complications
+Sweden
+Young Adult",Rai D and Kosidou K and Lundberg M and Araya R and Lewis G and Magnusson C,"BACKGROUND: Common mental disorders are known to cause long-term disability, although not much is known about long-term consequences of milder forms of psychological distress. OBJECTIVE: To investigate the association between increasing levels of psychological distress and 5-year risk of long-term disability pensions awarded for somatic or psychiatric conditions. METHODS: In this longitudinal population-based study, a cohort of 17,205 individuals, aged 18-64 years, recruited in 2002 in Stockholm County was prospectively followed up for new disability pension awards. The 12-item General Health Questionnaire (GHQ-12) was used to measure baseline psychological distress, and participants were categorised as having no, mild, moderate or severe psychological distress (GHQ-12 scores of 0; 1-2; 3-7 and 8-12, respectively). Details of new disability pension awards were obtained through record linkage with the Swedish National Insurance register. Comprehensive information on a range of sociodemographic, lifestyle and health characteristics was available. RESULTS: Increasing levels of psychological distress at baseline were associated with an increased likelihood of obtaining a disability pension later in life. Even mild psychological distress was independently associated with the award of a disability pension for both somatic (HR=1.7; 95% CI 1.3 to 2.2) and psychiatric diagnoses (2.2; 1.4 to 3.6). Over a quarter of disability pensions awarded for a somatic diagnosis, and almost two-thirds awarded for a psychiatric diagnosis, could be attributed to psychological distress. CONCLUSIONS: Mild psychological distress may be associated with more long-term disability than previously acknowledged and its public health importance may be underestimated.",Missing,Journal of epidemiology and community health,66

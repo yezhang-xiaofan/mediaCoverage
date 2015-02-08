@@ -1,0 +1,13 @@
+21374079,Visual-haptic cue integration with spatial and temporal disparity during pointing movements.,Experimental brain research,Serwe S and Kording KP and Trommershauser J,Missing,"Many perceptual cue combination studies have shown that humans can integrate sensory information across modalities as well as within a modality in a manner that is close to optimal. While the limits of sensory cue integration have been extensively studied in the context of perceptual decision tasks, the evidence obtained in the context of motor decisions provides a less consistent picture. Here, we studied the combination of visual and haptic information in the context of human arm movement control. We implemented a pointing task in which human subjects pointed at an invisible unknown target position whose vertical position varied randomly across trials. In each trial, we presented a haptic and a visual cue that provided noisy information about the target position half-way through the reach. We measured pointing accuracy as function of haptic and visual cue onset and compared pointing performance to the predictions of a multisensory decision model. Our model accounts for pointing performance by computing the maximum a posteriori estimate, assuming minimum variance combination of uncertain sensory cues. Synchronicity of cue onset has previously been demonstrated to facilitate the integration of sensory information. We tested this in trials in which visual and haptic information was presented with temporal disparity. We found that for our sensorimotor task temporal disparity between visual and haptic cue had no effect. Sensorimotor learning appears to use all available information and to apply the same near-optimal rules for cue combination that are used by perception.","Adult
+*Cues
+Female
+Humans
+Male
+Movement/*physiology
+Photic Stimulation/*methods
+Physical Stimulation/methods
+Psychomotor Performance/*physiology
+Space Perception/*physiology
+Time Perception/*physiology
+Vision Disparity/physiology
+Young Adult"

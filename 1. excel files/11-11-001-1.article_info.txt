@@ -1,0 +1,12 @@
+21562513,Functional polymorphism (5-HTTLPR) in the serotonin transporter gene is associated with subjective well-being: evidence from a US nationally representative sample.,"Adolescent
+Adult
+Alleles
+Case-Control Studies
+Gene Frequency/genetics
+Genotype
+Humans
+*Personal Satisfaction
+*Polymorphism, Genetic
+Serotonin Plasma Membrane Transport Proteins/*genetics
+United States
+Young Adult",De Neve JE,"Variation in the promotor region of the serotonin transporter gene (5-HTTLPR) is a promising candidate for better understanding individual heterogeneity in subjective well-being or happiness, as measured by life satisfaction. This functional polymorphism has previously been associated with mental health and selective processing of positive and negative emotional stimuli. A case-control association study on a representative sample of Americans (N=2574) finds that individuals with the transcriptionally more efficient version of the serotonin transporter gene, report significantly higher levels of life satisfaction (P=0.01). This new finding may help explain the important genetic component of the individual baseline levels of happiness.",Missing,Journal of human genetics,56

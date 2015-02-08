@@ -1,0 +1,16 @@
+22022262,A novel core genome-encoded superantigen contributes to lethality of community-associated MRSA necrotizing pneumonia.,"Animals
+Cattle
+Community-Acquired Infections/epidemiology/*microbiology
+Enterotoxins/*genetics
+Evolution, Molecular
+Genetic Variation
+Humans
+Interspersed Repetitive Sequences
+Methicillin-Resistant Staphylococcus
+aureus/*genetics/*immunology/metabolism/pathogenicity
+Molecular Sequence Data
+Phylogeny
+Pneumonia, Staphylococcal/epidemiology/*microbiology
+Rabbits
+Superantigens/*genetics
+Virulence Factors/genetics",Wilson GJ and Seo KS and Cartwright RA and Connelley T and Chuang-Smith ON and Merriman JA and Guinane CM and Park JY and Bohach GA and Schlievert PM and Morrison WI and Fitzgerald JR,"Bacterial superantigens (SAg) stimulate T-cell hyper-activation resulting in immune modulation and severe systemic illnesses such as Staphylococcus aureus toxic shock syndrome. However, all known S. aureus SAgs are encoded by mobile genetic elements and are made by only a proportion of strains. Here, we report the discovery of a novel SAg staphylococcal enterotoxin-like toxin X (SElX) encoded in the core genome of 95% of phylogenetically diverse S. aureus strains from human and animal infections, including the epidemic community-associated methicillin-resistant S. aureus (CA-MRSA) USA300 clone. SElX has a unique predicted structure characterized by a truncated SAg B-domain, but exhibits the characteristic biological activities of a SAg including Vbeta-specific T-cell mitogenicity, pyrogenicity and endotoxin enhancement. In addition, SElX is expressed by clinical isolates in vitro, and during human, bovine, and ovine infections, consistent with a broad role in S. aureus infections of multiple host species. Phylogenetic analysis suggests that the selx gene was acquired horizontally by a progenitor of the S. aureus species, followed by allelic diversification by point mutation and assortative recombination resulting in at least 17 different alleles among the major pathogenic clones. Of note, SElX variants made by human- or ruminant-specific S. aureus clones demonstrated overlapping but distinct Vbeta activation profiles for human and bovine lymphocytes, indicating functional diversification of SElX in different host species. Importantly, SElX made by CA-MRSA USA300 contributed to lethality in a rabbit model of necrotizing pneumonia revealing a novel virulence determinant of CA-MRSA disease pathogenesis. Taken together, we report the discovery and characterization of a unique core genome-encoded superantigen, providing new insights into the evolution of pathogenic S. aureus and the molecular basis for severe infections caused by the CA-MRSA USA300 epidemic clone.",Missing,PLoS pathogens,7

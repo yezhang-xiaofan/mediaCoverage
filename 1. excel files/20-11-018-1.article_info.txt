@@ -1,0 +1,18 @@
+21990363,An environment-dependent structural switch underlies the regulation of carnitine palmitoyltransferase 1A.,"Amino Acid Sequence
+Animals
+Carnitine O-Palmitoyltransferase/*chemistry
+Dose-Response Relationship, Drug
+Fatty Acids/chemistry/metabolism
+Gene Expression Regulation, Enzymologic
+Humans
+Magnetic Resonance Spectroscopy/methods
+Mice
+Micelles
+Mitochondria/metabolism
+Mitochondrial Membranes/metabolism
+Molecular Conformation
+Molecular Sequence Data
+Oxygen/chemistry
+Protein Structure, Tertiary
+Rats
+Sequence Homology, Amino Acid",Rao JN and Warren GZ and Estolt-Povedano S and Zammit VA and Ulmer TS,"The enzyme carnitine palmitoyltransferase 1 (CPT1), which is anchored in the outer mitochondrial membrane (OMM), controls the rate-limiting step in fatty acid beta-oxidation in mammalian tissues. It is inhibited by malonyl-CoA, the first intermediate of fatty acid synthesis, and it responds to OMM curvature and lipid characteristics, which reflect long term nutrient/hormone availability. Here, we show that the N-terminal regulatory domain (N) of CPT1A can adopt two complex amphiphilic structural states, termed Nalpha and Nbeta, that interchange in a switch-like manner in response to offered binding surface curvature. Structure-based site-directed mutageneses of native CPT1A suggest Nalpha to be inhibitory and Nbeta to be noninhibitory, with the relative Nalpha/Nbeta ratio setting the prevalent malonyl-CoA sensitivity of the enzyme. Based on the amphiphilic nature of N and molecular modeling, we propose malonyl-CoA sensitivity to be coupled to the properties of the OMM by Nalpha-OMM associations that alter the Nalpha/Nbeta ratio. For enzymes residing at the membrane-water interface, this constitutes an integrative regulatory mechanism of exceptional sophistication.",Missing,The Journal of biological chemistry,286

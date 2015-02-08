@@ -1,0 +1,13 @@
+22155982,Cortical activation changes underlying stimulation-induced behavioural gains in chronic stroke.,"Adult
+Aged
+Aged, 80 and over
+Cerebral Cortex/*physiopathology
+*Electric Stimulation Therapy
+Evoked Potentials, Motor/*physiology
+Hand Strength/physiology
+Humans
+Male
+Middle Aged
+Psychomotor Performance/*physiology
+Reaction Time/physiology
+Stroke/*physiopathology/rehabilitation",Stagg CJ and Bachtiar V and O'Shea J and Allman C and Bosnell RA and Kischka U and Matthews PM and Johansen-Berg H,"Transcranial direct current stimulation, a form of non-invasive brain stimulation, is showing increasing promise as an adjunct therapy in rehabilitation following stroke. However, although significant behavioural improvements have been reported in proof-of-principle studies, the underlying mechanisms are poorly understood. The rationale for transcranial direct current stimulation as therapy for stroke is that therapeutic stimulation paradigms increase activity in ipsilesional motor cortical areas, but this has not previously been directly tested for conventional electrode placements. This study was performed to test directly whether increases in ipsilesional cortical activation with transcranial direct current stimulation are associated with behavioural improvements in chronic stroke patients. Patients at least 6 months post-first stroke participated in a behavioural experiment (n = 13) or a functional magnetic resonance imaging experiment (n = 11), each investigating the effects of three stimulation conditions in separate sessions: anodal stimulation to the ipsilesional hemisphere; cathodal stimulation to the contralesional hemisphere; and sham stimulation. Anodal (facilitatory) stimulation to the ipsilesional hemisphere led to significant improvements (5-10%) in response times with the affected hand in both experiments. This improvement was associated with an increase in movement-related cortical activity in the stimulated primary motor cortex and functionally interconnected regions. Cathodal (inhibitory) stimulation to the contralesional hemisphere led to a functional improvement only when compared with sham stimulation. We show for the first time that the significant behavioural improvements produced by anodal stimulation to the ipsilesional hemisphere are associated with a functionally relevant increase in activity within the ipsilesional primary motor cortex in patients with a wide range of disabilities following stroke.",Missing,Brain : a journal of neurology,135

@@ -1,0 +1,16 @@
+21775615,When is the hippocampus involved in recognition memory?,"Analysis of Variance
+Animals
+Behavior, Animal
+Discrimination Learning/physiology
+Entorhinal Cortex/injuries/physiology
+Exploratory Behavior/physiology
+Functional Laterality
+Hippocampus/injuries/*physiology
+Male
+N-Methylaspartate/toxicity
+Neuropsychological Tests
+Prefrontal Cortex/injuries/physiology
+Rats
+Recognition (Psychology)/*physiology
+Spatial Behavior/physiology
+Time Factors",Barker GR and Warburton EC,"The role of the hippocampus in recognition memory is controversial. Recognition memory judgments may be made using different types of information, including object familiarity, an object's spatial location, or when an object was encountered. Experiment 1 examined the role of the hippocampus in recognition memory tasks that required the animals to use these different types of mnemonic information. Rats with bilateral cytotoxic lesions in the hippocampus or perirhinal or prefrontal cortex were tested on a battery of spontaneous object recognition tasks requiring the animals to make recognition memory judgments using familiarity (novel object preference); object-place information (object-in-place memory), or recency information (temporal order memory). Experiment 2 examined whether, when using different types of recognition memory information, the hippocampus interacts with either the perirhinal or prefrontal cortex. Thus, groups of rats were prepared with a unilateral cytotoxic lesion in the hippocampus combined with a lesion in either the contralateral perirhinal or prefrontal cortex. Rats were then tested in a series of object recognition memory tasks. Experiment 1 revealed that the hippocampus was crucial for object location, object-in-place, and recency recognition memory, but not for the novel object preference task. Experiment 2 revealed that object-in-place and recency recognition memory performance depended on a functional interaction between the hippocampus and either the perirhinal or medial prefrontal cortices. Thus, the hippocampus plays a role in recognition memory when such memory involves remembering that a particular stimulus occurred in a particular place or when the memory contains a temporal or object recency component.",Missing,The Journal of neuroscience : the official journal of the Society for Neuroscience,31

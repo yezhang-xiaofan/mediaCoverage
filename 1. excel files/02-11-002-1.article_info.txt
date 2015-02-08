@@ -1,0 +1,11 @@
+21300993,Are dietary patterns in childhood associated with IQ at 8 years of age? A population-based cohort study.,"Child
+Child, Preschool
+Cohort Studies
+England
+Female
+*Food Habits
+Humans
+*Intelligence
+Male
+Nutritional Requirements
+Questionnaires",Northstone K and Joinson C and Emmett P and Ness A and Paus T,"BACKGROUND: Little is known about the effects of overall diet in childhood and intelligence later in life. METHODS: The current study, based on the Avon Longitudinal Study of Parents and Children, uses data on children's diet reported by parents in food-frequency questionnaires at 3, 4, 7 and 8.5 years of age. Dietary patterns were identified using principal-components analysis and scores computed at each age. IQ was assessed using the Wechsler Intelligence Scale for Children at 8.5 years. Data on a number of confounders were collected, and complete data were available for 3966 children. RESULTS: After adjustment, the 'processed' (high fat and sugar content) pattern of diet at 3 years of age was negatively associated with IQ assessed at 8.5 years of age-a 1 SD increase in dietary pattern score was associated with a 1.67 point decrease in IQ (95% CI -2.34 to -1.00; p<0.0001). The 'health-conscious' (salad, rice, pasta, fish, fruit) pattern at 8.5 years was positively associated with IQ: a 1 SD increase in pattern score led to a 1.20 point increase in IQ (95% CI 0.52 to 1.88; p=0.001). CONCLUSION: There is evidence that a poor diet associated with high fat, sugar and processed food content in early childhood may be associated with small reductions in IQ in later childhood, while a healthy diet, associated with high intakes of nutrient rich foods described at about the time of IQ assessment may be associated with small increases in IQ.",Missing,Journal of epidemiology and community health,66

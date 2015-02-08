@@ -1,0 +1,18 @@
+21987011,"The changing demography of mid-life, from the 1980s to the 2000s.","Adult
+Age Factors
+Aged
+Educational Status
+*Family Characteristics
+Female
+Great Britain
+Housing/trends
+Humans
+Life Expectancy/*trends
+Male
+Marital Status
+Middle Aged
+Parents
+*Population Dynamics
+Sex Factors
+Socioeconomic Factors
+Young Adult",Demey D and Berrington A and Evandrou M and Falkingham J,"This article examines changes between 1984 and 2007 in the demographic and socio-economic circumstances of British men and women in mid-life. Changing living arrangements in mid-life reflect historical changes in the occurrence and timing of life events such as marriage and parenthood, as well as increased longevity. In order to place mid-life in this wider demographic context, the article first reviews changes over time in kin availability across the adult life course using the British Household Panel Survey (2001) and Understanding Society (2009). The article goes on to use data from the General Household Survey (1984-2007) to document shifts over time in living arrangements for those aged 20- 79. In the final part of the article we focus specifically on those aged between 45 and 64 and examine how their characteristics in terms of marital status, educational attainment, activity status and housing tenure have changed over the past quarter century.",Missing,Population trends,Missing

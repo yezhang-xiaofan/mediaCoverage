@@ -1,0 +1,16 @@
+21519144,MMP-1 drives immunopathology in human tuberculosis and transgenic mice.,"Animals
+Bronchoalveolar Lavage Fluid
+Cell Movement
+Enzyme Inhibitors/pharmacology
+*Gene Expression Regulation, Enzymologic
+HIV Infections/enzymology
+HIV Seropositivity
+Humans
+Hydrogen-Ion Concentration
+Imidazoles/pharmacology
+Immune System
+Matrix Metalloproteinase 1/*metabolism
+Mice
+Mice, Transgenic
+Monocytes/cytology
+Tuberculosis/*enzymology",Elkington P and Shiomi T and Breen R and Nuttall RK and Ugarte-Gil CA and Walker NF and Saraiva L and Pedersen B and Mauri F and Lipman M and Edwards DR and Robertson BD and D'Armiento J and Friedland JS,"Mycobacterium tuberculosis can cause lung tissue damage to spread, but the mechanisms driving this immunopathology are poorly understood. The breakdown of lung matrix involves MMPs, which have a unique ability to degrade fibrillar collagens at neutral pH. To determine whether MMPs play a role in the immunopathology of tuberculosis (TB), we profiled MMPs and their inhibitors, the tissue inhibitor of metalloproteinases (TIMPs), in sputum and bronchoalveolar lavage fluid from patients with TB and symptomatic controls. MMP-1 concentrations were significantly increased in both HIV-negative and HIV-positive patients with TB, while TIMP concentrations were lower in HIV-negative TB patients. In primary human monocytes, M. tuberculosis infection selectively upregulated MMP1 gene expression and secretion, and Ro32-3555, a specific MMP inhibitor, suppressed M. tuberculosis-driven MMP-1 activity. Since the mouse MMP-1 ortholog is not expressed in the lung and mice infected with M. tuberculosis do not develop tissue destruction equivalent to humans, we infected transgenic mice expressing human MMP-1 with M. tuberculosis to investigate whether MMP-1 caused lung immunopathology. In the MMP-1 transgenic mice, M. tuberculosis infection increased MMP-1 expression, resulting in alveolar destruction in lung granulomas and significantly greater collagen breakdown. In summary, MMP-1 may drive tissue destruction in TB and represents a therapeutic target to limit immunopathology.",Missing,The Journal of clinical investigation,121

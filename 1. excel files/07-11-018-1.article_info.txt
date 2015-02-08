@@ -1,0 +1,16 @@
+21647425,"An international randomised placebo-controlled trial of a four-component combination pill (""polypill"") in people with raised cardiovascular risk.","Adolescent
+Adult
+Aged
+Blood Pressure/drug effects
+Cardiovascular Agents/*administration & dosage/adverse effects/*pharmacology
+Cardiovascular Diseases/metabolism/physiopathology/*prevention & control
+Cholesterol/metabolism
+Drug Combinations
+Female
+Humans
+*Internationality
+Male
+Middle Aged
+Placebos
+Risk
+Young Adult",Rodgers A and Patel A and Berwanger O and Bots M and Grimm R and Grobbee DE and Jackson R and Neal B and Neaton J and Poulter N and Rafter N and Raju PK and Reddy S and Thom S and Vander Hoorn S and Webster R,"BACKGROUND: There has been widespread interest in the potential of combination cardiovascular medications containing aspirin and agents to lower blood pressure and cholesterol ('polypills') to reduce cardiovascular disease. However, no reliable placebo-controlled data are available on both efficacy and tolerability. METHODS: We conducted a randomised, double-blind placebo-controlled trial of a polypill (containing aspirin 75 mg, lisinopril 10 mg, hydrochlorothiazide 12.5 mg and simvastatin 20 mg) in 378 individuals without an indication for any component of the polypill, but who had an estimated 5-year cardiovascular disease risk over 7.5%. The primary outcomes were systolic blood pressure (SBP), LDL-cholesterol and tolerability (proportion discontinued randomised therapy) at 12 weeks follow-up. FINDINGS: At baseline, mean BP was 134/81 mmHg and mean LDL-cholesterol was 3.7 mmol/L. Over 12 weeks, polypill treatment reduced SBP by 9.9 (95% CI: 7.7 to 12.1) mmHg and LDL-cholesterol by 0.8 (95% CI 0.6 to 0.9) mmol/L. The discontinuation rates in the polypill group compared to placebo were 23% vs 18% (RR 1.33, 95% CI 0.89 to 2.00, p = 0.2). There was an excess of side effects known to the component medicines (58% vs 42%, p = 0.001), which was mostly apparent within a few weeks, and usually did not warrant cessation of trial treatment. CONCLUSIONS: This polypill achieved sizeable reductions in SBP and LDL-cholesterol but caused side effects in about 1 in 6 people. The halving in predicted cardiovascular risk is moderately lower than previous estimates and the side effect rate is moderately higher. Nonetheless, substantial net benefits would be expected among patients at high risk. TRIAL REGISTRATION: Australian New Zealand Clinical Trials Registry ACTRN12607000099426.",Missing,PloS one,6

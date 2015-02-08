@@ -1,0 +1,19 @@
+21793736,Open-source genomic analysis of Shiga-toxin-producing E. coli O104:H4.,"Adolescent
+Bacterial Typing Techniques
+Child
+Diarrhea/epidemiology/microbiology
+Escherichia coli Infections/*microbiology
+Feces/microbiology
+Female
+*Genome, Bacterial
+Germany
+Hemolytic-Uremic Syndrome/epidemiology/*microbiology
+Humans
+Male
+Molecular Sequence Data
+Phylogeny
+Plasmids/genetics
+Polymerase Chain Reaction
+Sequence Analysis, DNA
+Shiga-Toxigenic Escherichia coli/classification/*genetics/isolation &
+purification",Rohde H and Qin J and Cui Y and Li D and Loman NJ and Hentschke M and Chen W and Pu F and Peng Y and Li J and Xi F and Li S and Li Y and Zhang Z and Yang X and Zhao M and Wang P and Guan Y and Cen Z and Zhao X and Christner M and Kobbe R and Loos S and Oh J and Yang L and Danchin A and Gao GF and Song Y and Li Y and Yang H and Wang J and Xu J and Pallen MJ and Wang J and Aepfelbacher M and Yang R,"An outbreak caused by Shiga-toxin-producing Escherichia coli O104:H4 occurred in Germany in May and June of 2011, with more than 3000 persons infected. Here, we report a cluster of cases associated with a single family and describe an open-source genomic analysis of an isolate from one member of the family. This analysis involved the use of rapid, bench-top DNA sequencing technology, open-source data release, and prompt crowd-sourced analyses. In less than a week, these studies revealed that the outbreak strain belonged to an enteroaggregative E. coli lineage that had acquired genes for Shiga toxin 2 and for antibiotic resistance.",Missing,The New England journal of medicine,365

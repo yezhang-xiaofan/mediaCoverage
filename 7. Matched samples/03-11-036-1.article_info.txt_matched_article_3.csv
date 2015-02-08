@@ -1,0 +1,13 @@
+21924486,Breast and cervical cancer in 187 countries between 1980 and 2010: a systematic analysis.,Lancet,Forouzanfar MH and Foreman KJ and Delossantos AM and Lozano R and Lopez AD and Murray CJ and Naghavi M,Missing,"BACKGROUND: Breast and cervical cancer are important causes of mortality in women aged >/=15 years. We undertook annual age-specific assessments of breast and cervical cancer in 187 countries. METHODS: We systematically collected cancer registry data on mortality and incidence, vital registration, and verbal autopsy data for the period 1980-2010. We modelled the mortality-to-incidence (MI) ratio using a hierarchical model. Vital registration and verbal autopsy were supplemented with incidence multiplied by the MI ratio to yield a comprehensive database of mortality rates. We used Gaussian process regression to develop estimates of mortality with uncertainty by age, sex, country, and year. We used out-of-sample predictive validity to select the final model. Estimates of incidence with uncertainty were also generated with mortality and MI ratios. FINDINGS: Global breast cancer incidence increased from 641,000 (95% uncertainty intervals 610,000-750,000) cases in 1980 to 1,643,000 (1,421,000-1,782,000) cases in 2010, an annual rate of increase of 3.1%. Global cervical cancer incidence increased from 378,000 (256,000-489,000) cases per year in 1980 to 454,000 (318,000-620,000) cases per year in 2010-a 0.6% annual rate of increase. Breast cancer killed 425,000 (359,000-453,000) women in 2010, of whom 68,000 (62,000-74,000) were aged 15-49 years in developing countries. Cervical cancer death rates have been decreasing but the disease still killed 200,000 (139,000-276,000) women in 2010, of whom 46,000 (33,000-64,000) were aged 15-49 years in developing countries. We recorded pronounced variation in the trend in breast cancer mortality across regions and countries. INTERPRETATION: More policy attention is needed to strengthen established health-system responses to reduce breast and cervical cancer, especially in developing countries. FUNDING: Susan G Komen for the Cure and the Bill & Melinda Gates Foundation.","Adolescent
+Adult
+Aged
+Breast Neoplasms/*epidemiology/mortality
+Developed Countries/statistics & numerical data
+Developing Countries/statistics & numerical data
+Female
+Global Health
+Humans
+Incidence
+Middle Aged
+Uterine Cervical Neoplasms/*epidemiology/mortality
+Young Adult"

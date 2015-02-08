@@ -1,0 +1,17 @@
+21339752,Schizophrenia susceptibility alleles are enriched for alleles that affect gene expression in adult human brain.,Molecular psychiatry,Richards AL and Jones L and Moskvina V and Kirov G and Gejman PV and Levinson DF and Sanders AR and Purcell S and Visscher PM and Craddock N and Owen MJ and Holmans P and O'Donovan MC,Missing,"It is widely thought that alleles that influence susceptibility to common diseases, including schizophrenia, will frequently do so through effects on gene expression. As only a small proportion of the genetic variance for schizophrenia has been attributed to specific loci, this remains an unproven hypothesis. The International Schizophrenia Consortium (ISC) recently reported a substantial polygenic contribution to that disorder, and that schizophrenia risk alleles are enriched among single-nucleotide polymorphisms (SNPs) selected for marginal evidence for association (P<0.5) from genome-wide association studies (GWAS). It follows that if schizophrenia susceptibility alleles are enriched for those that affect gene expression, those marginally associated SNPs, which are also expression quantitative trait loci (eQTLs), should carry more true association signals compared with SNPs that are not marginally associated. To test this, we identified marginally associated (P<0.5) SNPs from two of the largest available schizophrenia GWAS data sets. We assigned eQTL status to those SNPs based upon an eQTL data set derived from adult human brain. Using the polygenic score method of analysis reported by the ISC, we observed and replicated the observation that higher probability cis-eQTLs predicted schizophrenia better than those with a lower probability for being a cis-eQTL. Our data support the hypothesis that alleles conferring risk of schizophrenia are enriched among those that affect gene expression. Moreover, our data show that notwithstanding the likely developmental origin of schizophrenia, studies of adult brain tissue can, in principle, allow relevant susceptibility eQTLs to be identified.","Alleles
+Female
+Gene Expression Profiling
+Gene Expression Regulation
+Gene Frequency
+*Genetic Predisposition to Disease
+*Genetic Variation
+*Genome, Human
+Genome-Wide Association Study
+Genotype
+Humans
+Logistic Models
+Male
+Oligonucleotide Array Sequence Analysis
+Polymorphism, Single Nucleotide/*genetics
+Quantitative Trait Loci
+Schizophrenia/*genetics"

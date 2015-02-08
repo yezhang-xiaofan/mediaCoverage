@@ -1,0 +1,16 @@
+21128647,Binding of beta4gamma5 by adenosine A1 and A2A receptors determined by stable isotope labeling with amino acids in cell culture and mass spectrometry.,Biochemistry,Bigler Wang D and Sherman NE and Shannon JD and Leonhardt SA and Mayeenuddin LH and Yeager M and McIntire WE,Missing,"Characterization of G protein betagamma dimer isoform expression in different cellular contexts has been impeded by low levels of protein expression, broad isoform heterogeneity, and antibodies of limited specificity, sensitivity, or availability. As a new approach, we used quantitative mass spectrometry to characterize native betagamma dimers associated with adenosine A(1):alpha(i1) and adenosine A(2A):alpha(S) receptor fusion proteins expressed in HEK-293 cells. Cells expressing A(1):alpha(i1) were cultured in media containing [(13)C(6)]Arg and [(13)C(6)]Lys and betagamma labeled with heavy isotopes purified. Heavy betagamma was combined with either recombinant betagamma purified from Sf9 cells, betagamma purified from the A(2A):alpha(S) expressed in HEK-293 cells cultured in standard media, or an enriched betagamma fraction from HEK-293 cells. Samples were separated by SDS-PAGE, protein bands containing beta and gamma were excised, digested with trypsin, and separated by HPLC, and isotope ratios were analyzed by mass spectrometry. Three beta isoforms, beta(1), beta(2), and beta(4), and seven gamma isoforms, gamma(2), gamma(4), gamma(5), gamma(7), gamma(10), gamma(11), and gamma(12), were identified in the analysis. beta(1) and gamma(5) were most abundant in the enriched betagamma fraction, and this betagamma profile was generally mirrored in the fusion proteins. However, both A(2A):alpha(S) and A(1):alpha(i1) bound more beta(4) and gamma(5) compared to the enriched betagamma fraction; also, more beta(4) was associated with A(2A):alpha(S) than A(1):alpha(i1). Both fusion proteins also contained less gamma(2), gamma(10), and gamma(12) than the enriched betagamma fraction. These results suggest that preferences for particular betagamma isoforms may be driven in part by structural motifs common to adenosine receptor family members.","Amino Acid Sequence
+Amino Acids/analysis
+Cell Culture Techniques
+GTP-Binding Protein beta Subunits/analysis/*metabolism
+GTP-Binding Protein gamma Subunits/analysis/*metabolism
+HEK293 Cells
+Humans
+Isotope Labeling/*methods
+Molecular Sequence Data
+Protein Isoforms/chemistry/metabolism
+Protein Multimerization
+Receptor, Adenosine A1/analysis/*metabolism
+Receptor, Adenosine A2A/analysis/*metabolism
+Recombinant Fusion Proteins/analysis/metabolism
+Sf9 Cells
+Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization/*methods"

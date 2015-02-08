@@ -1,0 +1,16 @@
+21761266,A novel 18F-labeled two-helix scaffold protein for PET imaging of HER2-positive tumor.,European journal of nuclear medicine and molecular imaging,Miao Z and Ren G and Jiang L and Liu H and Webster JM and Zhang R and Namavari M and Gambhir SS and Syud F and Cheng Z,Missing,"PURPOSE: Two-helix scaffold proteins (~ 5 kDa) against human epidermal growth factor receptor type 2 (HER2) have been discovered in our previous work. In this research we aimed to develop an (18)F-labeled two-helix scaffold protein for positron emission tomography (PET) imaging of HER2-positive tumors. METHODS: An aminooxy-functionalized two-helix peptide (AO-MUT-DS) with high HER2 binding affinity was synthesized through conventional solid phase peptide synthesis. The purified linear peptide was cyclized by I(2) oxidation to form a disulfide bridge. The cyclic peptide was then conjugated with a radiofluorination synthon, 4-(18)F-fluorobenzyl aldehyde ((18)F-FBA), through the aminooxy functional group at the peptide N terminus (30% yield, non-decay corrected). The binding affinities of the peptides were analyzed by Biacore analysis. Cell uptake assay of the resulting PET probe, (18)F-FBO-MUT-DS, was performed at 37 degrees C. (18)F-FBO-MUT-DS with high specific activity (20-32 MBq/nmol, 88-140 muCi/mug, end of synthesis) was injected into mice xenograft model bearing SKOV3 tumor. MicroPET and biodistribution and metabolic stability studies were then conducted. RESULTS: Cell uptake assays showed high and specific cell uptake (~12% applied activity at 1 h) by incubation of (18)F-FBO-MUT-DS with HER2 high-expressing SKOV3 ovarian cancer cells. The affinities (K(D)) of AO-MUT-DS and FBO-MUT-DS as tested by Biacore analysis were 2 and 1 nM, respectively. In vivo small animal PET demonstrated fast tumor targeting, high tumor accumulation, and good tumor to normal tissue contrast of (18)F-FBO-MUT-DS. Biodistribution studies further revealed that the probe had excellent tumor uptake (6.9%ID/g at 1 h post-injection) and was cleared through both liver and kidneys. Co-injection of the probe with 500 mug of HER2 Affibody protein reduced the tumor uptake (6.9 vs 1.8%ID/g, p < 0.05). CONCLUSION: F-FBO-MUT-DS displays excellent HER2 targeting ability and tumor PET imaging quality. The two-helix scaffold proteins are suitable for development of (18)F-based PET probes.","Amino Acid Sequence
+Animals
+Cell Line, Tumor
+Cell Transformation, Neoplastic
+Female
+Fluorine Radioisotopes/*diagnostic use
+Gene Expression Regulation, Neoplastic
+Humans
+Mice
+Molecular Sequence Data
+Ovarian Neoplasms/*metabolism/pathology/*radionuclide imaging
+Peptides/*chemistry/*diagnostic use/metabolism/pharmacokinetics
+Positron-Emission Tomography/*methods
+Protein Structure, Secondary
+Radiochemistry
+Receptor, ErbB-2/*metabolism"

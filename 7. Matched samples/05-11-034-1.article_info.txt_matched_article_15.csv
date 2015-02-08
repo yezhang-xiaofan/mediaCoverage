@@ -1,0 +1,11 @@
+21880775,Coxsackievirus A24 variant uses sialic acid-containing O-linked glycoconjugates as cellular receptors on human ocular cells.,Journal of virology,Mistry N and Inoue H and Jamshidi F and Storm RJ and Oberste MS and Arnberg N,Missing,"Coxsackievirus A24 variant (CVA24v) is a main causative agent of acute hemorrhagic conjunctivitis (AHC), which is a highly contagious eye infection. Previously it has been suggested that CVA24v uses sialic acid-containing glycoconjugates as attachment receptors on corneal cells, but the nature of these receptors is poorly described. Here, we set out to characterize and identify the cellular components serving as receptors for CVA24v. Binding and infection experiments using corneal cells treated with deglycosylating enzymes or metabolic inhibitors of de novo glycosylation suggested that the receptor(s) used by CVA24v are constituted by sialylated O-linked glycans that are linked to one or more cell surface proteins but not to lipids. CVA24v bound better to mouse L929 cells overexpressing human P-selectin glycoprotein ligand-1 (PSGL-1) than to mock-transfected cells, suggesting that PSGL-1 is a candidate receptor for CVA24v. Finally, binding competition experiments using a library of mono- and oligosaccharides mimicking known PSGL-1 glycans suggested that CVA24v binds to Neu5Acalpha2,3Gal disaccharides (Neu5Ac is N-acetylneuraminic acid). These results provide further insights into the early steps of the CVA24v life cycle.","Animals
+Cell Line
+Corneal Keratocytes/virology
+Enterovirus C, Human/*physiology
+Glycoconjugates/analysis/*metabolism
+Humans
+Membrane Glycoproteins/genetics/*metabolism
+Mice
+Receptors, Virus/chemistry/*metabolism
+Sialic Acids/*analysis
+*Virus Attachment"

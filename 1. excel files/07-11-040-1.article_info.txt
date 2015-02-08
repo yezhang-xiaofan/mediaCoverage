@@ -1,0 +1,19 @@
+21772225,Aberrant adiposity and ectopic lipid deposition characterize the adult phenotype of the preterm infant.,"Adiposity/*physiology
+Adult
+Biological Markers/*metabolism
+Blood Pressure
+Female
+Glycoproteins/urine
+Hippurates/urine
+Humans
+Infant, Newborn
+Infant, Premature/*physiology
+Lipids/analysis
+Liver/metabolism
+Magnetic Resonance Imaging
+Magnetic Resonance Spectroscopy
+Male
+Metabolome
+Methylamines/urine
+Muscles/metabolism
+Sex Factors",Thomas EL and Parkinson JR and Hyde MJ and Yap IK and Holmes E and Dore CJ and Bell JD and Modi N,"Our investigation addresses the hypothesis that disruption of third trimester development by preterm birth alters multiple biological pathways affecting metabolic health in adult life. We compared healthy adult volunteers aged 18-27 y born at </= 33 wk gestation or at term. We used whole-body MRI, (1)H magnetic resonance spectroscopy (MRS) of liver and muscle, metabonomic profiling of blood and urine, and anthropometric and blood pressure measurements. Preterm subjects had greater (mean difference (95% CI)) total [2.21 L (0.3, 4.1), p = 0.03] and abdominal adipose tissue [internal 0.51 (0.1, 0.9), p = 0.007]; blood pressure [systolic 6.5 mm Hg (2.2, 10.8), p = 0.004; diastolic 5.9 (1.8, 10.1), p = 0.006]; and ectopic lipid (ratio (95% CI)), intrahepatocellular lipid (IHCL) 3.01 (1.78, 5.28) p < 0.001, and tibialis-intramyocellular lipid (T-IMCL) [1.31 (1.02, 1.69) p = 0.04]. In preterm, compared with term men, there was greater internal adipose tissue [mean (SD); men: preterm 4.0 (1.6), term 2.7 (1.1) liters; women: preterm 2.6 (0.9); term 2.6 (0.5); gender-gestation interaction p = 0.048] and significant differences in the urinary metabolome (elevated methylamines and acetyl-glycoproteins, lower hippurate). We have identified multiple premorbid biomarkers in ex-preterm young adults, which are most marked in men and indicative of risks to later wellbeing. These data offer insight into biological trajectories affected by preterm birth and/or neonatal care.",Missing,Pediatric research,70

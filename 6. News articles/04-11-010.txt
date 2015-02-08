@@ -1,0 +1,36 @@
+ Independent.co.uk
+ September 19, 2011 Monday 6:46 PM GMT 
+ Genes linked to schizophrenia, bipolar disorder  BYLINE: AFP  SECTION: HEALTH & FAMILIES  LENGTH: 521 words
+Broad sweeps of the human genome have exposed genetic mutations that boost the risk of the devastating yet baffling diseases of schizophrenia and bipolar disorder, according to two studies published Sunday.
+The independent studies, each conducted by a consortium of about 200 scientists, also found significant genetic overlap between the debilitating mental disorders.
+Schizophrenia patients typically hear voices that are not real, tend toward paranoia and suffer from disorganized speech and thinking.
+The condition is thought to affect about one percent of adults worldwide.
+Previously known as manic depression, bipolar disorder is characterised by hard-to-control mood swings that veer back-and-forth between depression and euphoria, and afflicts a similar percentage of the population.
+The biological profile of both conditions remain almost entirely unknown.
+Doctors seek to hold them in check with powerful drugs.
+Scientists have long observed that each syndromes tends to run in families, suggesting a powerful inherited component.
+But early hopes of finding a single-gene culprit swiftly faded, giving way to the realisation that - to the extent DNA is at fault - blame is probably spread across dozens, maybe even hundreds of DNA variants.
+Genome-wide comparisons made possible by gains in computing power involve sweeps of tens of thousands of individual genetic codes from patients and otherwise healthy counterparts.
+But so far only a handful of suspects have been found that, at best, account for about 30 percent of the heritable component of schizophrenia.
+Nailing down genetic drivers is made even harder by uncertainty as to whether schizophrenia and bipolar - defined by a varying constellation of symptoms - are single or multiple diseases.
+In one of the largest gene sweeps so far, Pablo Gejman of the University of Chicago and colleagues worldwide started by reviewing 17 earlier efforts involving nearly 22,000 people, just under half of them schizophrenia patients.
+The so-called meta-study unearthed seven genetic variants, five of them new.
+One in particular - known as rs1625579 - plays a key role in regulating brain cells.
+To substantiate the results, published in Nature Genetics, the scientists duplicated the genome search with nearly 30,000 other individuals.
+For the study on bipolar disorder, also appearing in Nature Genetics, a team led by Pamela Sklar of Mount Sinai School of Medicine in New York first looked at the genomes of 7,481 patients and 9,250 healthy individuals.
+A second sweep focusing on 34 DNA suspects involved some 2,500 other patients and 42,500 controls.
+The study confirmed a significant link with a gene, CACNA1C, that also has been previously associated with schizophrenia.
+It also uncovered a new gene variant at another location, known as ODZ4, that suggests neurochemical channels in the brain activated by calcium play a role in boosting the risk of developing the disease.
+For both studies, scientists hope that learning more about pathways in the brain affected by the diseases can lead to a better understanding of the causes and drugs to ease or block the symptoms.
+
+The Express
+ September 20, 2011 Tuesday  U.K. 1st Edition
+ GENE DEFECTS RAISE RISK OF BIPOLAR;  YOUR HEALTH  SECTION: FEATURES; 37  LENGTH: 164 words
+COMMON genetic variants could be to blame for raising our risk of developing schizophrenia or bipolar disorder, say researchers.
+A team including scientists from Cardiff University has found evidence that 11 genetic regions have strong links with these diseases, including six not previously observed.
+Bipolar disorder and schizophrenia affect about one per cent of the UK population.
+The findings, reported by the Psychiatric GenomeWide Association Study Consortium (PGC), are a leap forward in the understanding of these disorders.
+Scientists believe they can start to link the genetic variations to the breakdown of brain functions that causes both diseases.
+The findings, based on data from tens of thousands of patients, have been published in two papers in the journal Nature Genetics.
+Cardiff University's Professor Michael O'Donovan said: "The genetic variants we have identified are common in the population - everyone carries many of them but people with the disorders carry more."
+

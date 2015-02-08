@@ -1,0 +1,8 @@
+22001755,Probabilistic modeling of Hi-C contact maps eliminates systematic biases to characterize global chromosomal architecture.,Nature genetics,Yaffe E and Tanay A,Missing,"Hi-C experiments measure the probability of physical proximity between pairs of chromosomal loci on a genomic scale. We report on several systematic biases that substantially affect the Hi-C experimental procedure, including the distance between restriction sites, the GC content of trimmed ligation junctions and sequence uniqueness. To address these biases, we introduce an integrated probabilistic background model and develop algorithms to estimate its parameters and renormalize Hi-C data. Analysis of corrected human lymphoblast contact maps provides genome-wide evidence for interchromosomal aggregation of active chromatin marks, including DNase-hypersensitive sites and transcriptionally active foci. We observe extensive long-range (up to 400 kb) cis interactions at active promoters and derive asymmetric contact profiles next to transcription start sites and CTCF binding sites. Clusters of interacting chromosomal domains suggest physical separation of centromere-proximal and centromere-distal regions. These results provide a computational basis for the inference of chromosomal architectures from Hi-C experiments.","Binding Sites
+*Chromosomes, Human
+Cluster Analysis
+Epigenesis, Genetic
+Humans
+Lymphocytes/ultrastructure
+*Models, Genetic
+*Probability"

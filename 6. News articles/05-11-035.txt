@@ -1,0 +1,25 @@
+BBC NEWS
+Protein insight into spread of vCJD to brain
+Scientists have discovered that blocking the production of proteins in the immune system could prevent the spread of a disease that destroys nerve cells.
+Researchers at Edinburgh University's Roslin Institute said vCJD occurs when proteins known as prions accumulate in the spleen, lymph nodes and tonsils.
+They then spread to the brain, causing a disease that can destroy nerve cells.
+The study could lead to treatments to stop vCJD spreading to the brain.
+The team said a study showed that blocking the production of a protein, PrPC, in one type of immune cell could stop the spread of prions.
+Stopping these cells from expressing this protein did not affect the regular function of the immune system, they said.
+The researchers found that when the follicular dendritic cells expressed PrPC, prions were able to replicate on the surface of these cells and spread throughout the body.
+Immune system 
+However, when the cells were prevented from producing PrPC, the prions were not able to multiply and were destroyed by other cells in the immune system.
+Neil Mabbott, of the Roslin Institute, said: "If we can find a way of stopping this protein from being expressed by specific immune cells then we could potentially block the spread of the disease to the brain.
+"We also want to understand how cells are infected with vCJD in the first place, so that we can look at ways of stopping this from happening and find ways to diagnose the disease at its early stages."
+The study, funded by the Biotechnology and Biological Sciences Research Council (BBSRC), has been published in the PLoS Pathogens journal.
+Scientists said that any treatments would only be viable if the condition was diagnosed in its early stages.
+
+
+The Sun (England)
+ December 2, 2011 Friday  Edition 1;  Northern Ireland
+ Mad cow advance  SECTION: NEWS; Pg. 52  LENGTH: 61 words
+A TREATMENT to stop the human form of mad cow disease spreading to the brain may be a step closer, scientists believe.
+vCJD occurs when infectious proteins called prions build up in the immune system before going on to kill nerve cells.
+But a team at the University of Edinburgh found that blocking production of a protein in one type of immune cell halts their spread.
+
+

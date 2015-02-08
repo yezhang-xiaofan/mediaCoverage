@@ -1,0 +1,15 @@
+21687661,Sero-prevalence and incidence of A/H1N1 2009 influenza infection in Scotland in winter 2009-2010.,"Adolescent
+Adult
+Aged
+Cross Reactions
+Female
+Humans
+Influenza A Virus, H1N1 Subtype/immunology/*pathogenicity
+Influenza, Human/*epidemiology/prevention & control
+Male
+Middle Aged
+Scotland/epidemiology
+*Seasons
+Seroepidemiologic Studies
+Vaccination
+Young Adult",McLeish NJ and Simmonds P and Robertson C and Handel I and McGilchrist M and Singh BK and Kerr S and Chase-Topping ME and Sinka K and Bronsvoort M and Porteous DJ and Carman W and McMenamin J and Leigh-Brown A and Woolhouse ME,"BACKGROUND: Sero-prevalence is a valuable indicator of prevalence and incidence of A/H1N1 2009 infection. However, raw sero-prevalence data must be corrected for background levels of cross-reactivity (i.e. imperfect test specificity) and the effects of immunisation programmes. METHODS AND FINDINGS: We obtained serum samples from a representative sample of 1563 adults resident in Scotland between late October 2009 and April 2010. Based on a microneutralisation assay, we estimate that 44% (95% confidence intervals (CIs): 40-47%) of the adult population of Scotland were sero-positive for A/H1N1 2009 influenza by 1 March 2010. Correcting for background cross-reactivity and for recorded vaccination rates by time and age group, we estimated that 34% (27-42%) were naturally infected with A/H1N1 2009 by 1 March 2010. The central estimate increases to >40% if we allow for imperfect test sensitivity. Over half of these infections are estimated to have occurred during the study period and the incidence of infection in late October 2009 was estimated at 4.3 new infections per 1000 people per day (1.2 to 7.2), falling close to zero by April 2010. The central estimate increases to over 5.0 per 1000 if we allow for imperfect test specificity. The rate of infection was higher for younger adults than older adults. Raw sero-prevalences were significantly higher in more deprived areas (likelihood ratio trend statistic = 4.92,1 df, P = 0.03) but there was no evidence of any difference in vaccination rates. CONCLUSIONS: We estimate that almost half the adult population of Scotland were sero-positive for A/H1N1 2009 influenza by early 2010 and that the majority of these individuals (except in the oldest age classes) sero-converted as a result of natural infection with A/H1N1 2009. Public health planning should consider the possibility of higher rates of infection with A/H1N1 2009 influenza in more deprived areas.",Missing,PloS one,6

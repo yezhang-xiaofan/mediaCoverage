@@ -1,0 +1,17 @@
+21440992,The analgesic effect of crossing the arms.,"Adult
+Analgesia/*methods
+Biophysics
+Electric Stimulation/methods
+Electromyography
+Evoked Potentials, Somatosensory/*physiology
+Female
+Functional Laterality/*physiology
+Hand/innervation
+Humans
+Lasers/adverse effects
+Male
+Pain/etiology/*physiopathology
+*Pain Management
+Pain Measurement/methods
+Physical Stimulation
+Young Adult",Gallace A and Torta DM and Moseley GL and Iannetti GD,"The ability to determine precisely the location of sensory stimuli is fundamental to how we interact with the world; indeed, to our survival. Crossing the hands over the body midline impairs this ability to localize tactile stimuli. We hypothesized that crossing the arms would modulate the intensity of pain evoked by noxious stimulation of the hand. In two separate experiments, we show (1) that the intensity of both laser-evoked painful sensations and electrically-evoked nonpainful sensations were decreased when the arms were crossed over the midline, and (2) that these effects were associated with changes in the multimodal cortical processing of somatosensory information. Critically, there was no change in the somatosensory-specific cortical processing of somatosensory information. Besides studies showing relief of phantom limb pain using mirrors, this is the first evidence that impeding the processes by which the brain localises a noxious stimulus can reduce pain, and that this effect reflects modulation of multimodal neural activities. By showing that the neural mechanisms by which pain emerges from nociception represent a possible target for analgesia, we raise the possibility of novel approaches to the treatment of painful clinical conditions. Crossing the arms over the midline impairs multimodal processing of somatosensory stimuli and induces significant analgesia to noxious hand stimulation.",Missing,Pain,152

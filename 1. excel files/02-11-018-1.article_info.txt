@@ -1,0 +1,18 @@
+21325463,"Habitual levels of vigorous, but not moderate or light, physical activity is positively related to cortical bone mass in adolescents.","Absorptiometry, Photon
+Adiposity/physiology
+Adolescent
+Adult
+Body Composition/physiology
+Bone Density/physiology
+Bone Development/physiology
+Bone and Bones/*anatomy & histology
+Cohort Studies
+Exercise/*physiology
+Female
+Humans
+Male
+Motor Activity/*physiology
+Organ Size/physiology
+Pregnancy
+Sex Characteristics
+Tomography, X-Ray Computed",Sayers A and Mattocks C and Deere K and Ness A and Riddoch C and Tobias JH,"CONTEXT: The intensity of habitual physical activity (PA) needed to affect skeletal development in childhood is currently unclear. OBJECTIVE: To examine associations between light PA, moderate PA, and vigorous PA (as assessed by accelerometry), and tibial cortical bone mass (BMC(C)) as measured by peripheral quantitative computed tomography. DESIGN/SETTING: Cross-sectional analysis based on the Avon Longitudinal Study of Parents and Children. PARTICIPANTS: A total of 1748 boys and girls (mean age 15.5 yr) participated in the study. OUTCOME MEASURES: We measured BMC(C), cortical bone mineral density, periosteal circumference, and endosteal circumference by tibial peripheral quantitative computed tomography. RESULTS: Multivariable models, adjusted for height and other activity levels, indicated vigorous PA was positively related to BMC(C) (P = 0.0001). There was little evidence of a relationship with light PA or moderate PA (both P >/= 0.7). In path analyses, the relationship between vigorous PA and BMC(C) [0.082 (95% confidence interval [CI]: 0.037, 0.128), P = 0.0004] (SD change per doubling of vigorous PA) was minimally attenuated by adjusting for body composition [0.070 (95% CI: 0.026, 0.115), P = 0.002]. In analyses adjusted for body composition, the relationship between vigorous PA and BMC(C) was explained by the periosteal circumference pathway [0.043 (95% CI: 0.004, 0.082), P = 0.03] and the endosteal circumference adjusted for periosteal circumference pathway [0.031 (95% CI: 0.011, 0.050), P = 0.002], while there was little contribution from the cortical bone mineral density pathway (P = 0.3). CONCLUSIONS: Vigorous day-to-day PA is associated with indices of BMC(C) and geometry in adolescents, whereas light or moderate PA has no detectable association. Therefore, promoting PA in childhood is unlikely to benefit skeletal development unless high-impact activities are also increased.",Missing,The Journal of clinical endocrinology and metabolism,96

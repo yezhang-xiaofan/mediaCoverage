@@ -1,0 +1,12 @@
+21303990,Visual distortion of body size modulates pain perception.,"Adult
+Analgesia/psychology
+*Body Image
+*Body Size
+Female
+Hand
+Humans
+Male
+Pain/*psychology
+*Pain Threshold
+*Perceptual Distortion
+*Visual Perception",Mancini F and Longo MR and Kammers MP and Haggard P,"Pain is a complex subjective experience that is shaped by numerous contextual factors. For example, simply viewing the body reduces the reported intensity of acute physical pain. In this study, we investigated whether this visually induced analgesia is modulated by the visual size of the stimulated body part. We measured contact heat-pain thresholds while participants viewed either their own hand or a neutral object in three size conditions: reduced, actual size, or enlarged. Vision of the body was analgesic, increasing heat-pain thresholds by an average of 3.2 degrees C. We further found that visual enlargement of the viewed hand enhanced analgesia, whereas visual reduction of the hand decreased analgesia. These results demonstrate that pain perception depends on multisensory representations of the body and that visual distortions of body size modulate sensory components of pain.",Missing,Psychological science,22

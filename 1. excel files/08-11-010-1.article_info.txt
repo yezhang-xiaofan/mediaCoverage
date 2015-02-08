@@ -1,0 +1,12 @@
+21464317,PDGFRalpha-positive cells in bone marrow are mobilized by high mobility group box 1 (HMGB1) to regenerate injured epithelia.,"Animals
+Bone Marrow Cells/*metabolism
+Bone Marrow Transplantation
+Epidermis/*injuries/*metabolism
+Graft Survival/genetics
+HMGB1 Protein/genetics/*metabolism
+Mice
+Mice, Transgenic
+Receptor, Platelet-Derived Growth Factor alpha/genetics/*metabolism
+*Regeneration
+Skin Transplantation
+Transplantation, Homologous",Tamai K and Yamazaki T and Chino T and Ishii M and Otsuru S and Kikuchi Y and Iinuma S and Saga K and Nimura K and Shimbo T and Umegaki N and Katayama I and Miyazaki J and Takeda J and McGrath JA and Uitto J and Kaneda Y,"The role of bone marrow cells in repairing ectodermal tissue, such as skin epidermis, is not clear. To explore this process further, this study examined a particular form of cutaneous repair, skin grafting. Grafting of full thickness wild-type mouse skin onto mice that had received a green fluorescent protein-bone marrow transplant after whole body irradiation led to an abundance of bone marrow-derived epithelial cells in follicular and interfollicular epidermis that persisted for at least 5 mo. The source of the epithelial progenitors was the nonhematopoietic, platelet-derived growth factor receptor alpha-positive (Lin(-)/PDGFRalpha(+)) bone marrow cell population. Skin grafts release high mobility group box 1 (HMGB1) in vitro and in vivo, which can mobilize the Lin(-)/PDGFRalpha(+) cells from bone marrow to target the engrafted skin. These data provide unique insight into how skin grafts facilitate tissue repair and identify strategies germane to regenerative medicine for skin and, perhaps, other ectodermal defects or diseases.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

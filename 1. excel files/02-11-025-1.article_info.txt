@@ -1,0 +1,11 @@
+21799832,"Swearing, euphemisms, and linguistic relativity.","Acoustic Stimulation
+Adolescent
+Autonomic Nervous System/physiology
+Female
+Galvanic Skin Response/physiology
+Humans
+*Linguistics
+Male
+Speech/*physiology
+*Thinking
+Young Adult",Bowers JS and Pleydell-Pearce CW,"Participants read aloud swear words, euphemisms of the swear words, and neutral stimuli while their autonomic activity was measured by electrodermal activity. The key finding was that autonomic responses to swear words were larger than to euphemisms and neutral stimuli. It is argued that the heightened response to swear words reflects a form of verbal conditioning in which the phonological form of the word is directly associated with an affective response. Euphemisms are effective because they replace the trigger (the offending word form) by another word form that expresses a similar idea. That is, word forms exert some control on affect and cognition in turn. We relate these findings to the linguistic relativity hypothesis, and suggest a simple mechanistic account of how language may influence thinking in this context.",Missing,PloS one,6

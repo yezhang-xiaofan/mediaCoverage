@@ -1,0 +1,23 @@
+21474713,Trans-endocytosis of CD80 and CD86: a molecular basis for the cell-extrinsic function of CTLA-4.,"Animals
+Antigens, CD/*immunology/metabolism
+Antigens, CD28/*immunology
+Antigens, CD80/*immunology/metabolism
+Antigens, CD86/*immunology/metabolism
+CHO Cells
+CTLA-4 Antigen
+Cricetinae
+Cricetulus
+Dendritic Cells/immunology
+*Endocytosis
+Humans
+Jurkat Cells
+Ligands
+Lymphocyte Activation
+Mice
+Mice, Transgenic
+Models, Biological
+Ovalbumin/immunology
+Receptors, Antigen, T-Cell/immunology
+Recombinant Fusion Proteins/metabolism
+T-Lymphocyte Subsets/*immunology/metabolism
+T-Lymphocytes, Regulatory/immunology/metabolism",Qureshi OS and Zheng Y and Nakamura K and Attridge K and Manzotti C and Schmidt EM and Baker J and Jeffery LE and Kaur S and Briggs Z and Hou TZ and Futter CE and Anderson G and Walker LS and Sansom DM,"Cytotoxic T lymphocyte antigen 4 (CTLA-4) is an essential negative regulator of T cell immune responses whose mechanism of action is the subject of debate. CTLA-4 shares two ligands (CD80 and CD86) with a stimulatory receptor, CD28. Here, we show that CTLA-4 can capture its ligands from opposing cells by a process of trans-endocytosis. After removal, these costimulatory ligands are degraded inside CTLA-4-expressing cells, resulting in impaired costimulation via CD28. Acquisition of CD86 from antigen-presenting cells is stimulated by T cell receptor engagement and observed in vitro and in vivo. These data reveal a mechanism of immune regulation in which CTLA-4 acts as an effector molecule to inhibit CD28 costimulation by the cell-extrinsic depletion of ligands, accounting for many of the known features of the CD28-CTLA-4 system.",Missing,"Science (New York, N.Y.)",332

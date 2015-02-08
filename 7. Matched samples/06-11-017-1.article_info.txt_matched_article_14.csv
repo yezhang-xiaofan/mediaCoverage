@@ -1,0 +1,13 @@
+21452933,Theta and gamma power increases and alpha/beta power decreases with memory load in an attractor network model.,Journal of cognitive neuroscience,Lundqvist M and Herman P and Lansner A,Missing,"Changes in oscillatory brain activity are strongly correlated with performance in cognitive tasks and modulations in specific frequency bands are associated with working memory tasks. Mesoscale network models allow the study of oscillations as an emergent feature of neuronal activity. Here we extend a previously developed attractor network model, shown to faithfully reproduce single-cell activity during retention and memory recall, with synaptic augmentation. This enables the network to function as a multi-item working memory by cyclic reactivation of up to six items. The reactivation happens at theta frequency, consistently with recent experimental findings, with increasing theta power for each additional item loaded in the network's memory. Furthermore, each memory reactivation is associated with gamma oscillations. Thus, single-cell spike trains as well as gamma oscillations in local groups are nested in the theta cycle. The network also exhibits an idling rhythm in the alpha/beta band associated with a noncoding global attractor. Put together, the resulting effect is increasing theta and gamma power and decreasing alpha/beta power with growing working memory load, rendering the network mechanisms involved a plausible explanation for this often reported behavior.","Brain/*physiology
+*Brain Mapping
+Brain Waves/*physiology
+Electroencephalography
+Humans
+Memory, Short-Term/*physiology
+Models, Neurological
+Nerve Net/physiology
+Neurons/physiology
+Neuropsychological Tests
+Spectrum Analysis
+Synapses/physiology
+Time Factors"

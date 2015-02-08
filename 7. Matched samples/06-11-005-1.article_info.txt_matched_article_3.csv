@@ -1,0 +1,14 @@
+21326244,"Patient and tumour characteristics, management, and age-specific survival in women with breast cancer in the East of England.",British journal of cancer,Ali AM and Greenberg D and Wishart GC and Pharoah P,Missing,"BACKGROUND: Breast cancer relative survival (BCRS), which compares the observed survival of women with breast cancer with the expected survival of women for the whole population of the same age, time period, and geographical region, tends to be poorer in older women, but the reasons for this are not clear. We examined the influence of patient and tumour characteristics, and treatment on BCRS to see whether these could explain the age-specific effect. METHODS: Data for 14,048 female breast cancer patients diagnosed from 1999 to 2007, aged 50 years or over were obtained from the Eastern Cancer Registration and Information Centre. We estimated relative 5- and 10-year survival for patients in four age groups (50-69, 70-74, 75-79, and 80+ years). We also modelled relative excess mortality (REM) rate using Poisson regression adjusting for patient characteristics and treatment. The REMs derived from these models quantify the extent to which the hazard of death differs from the hazard in the reference category, after taking into account the background risk of death in the general population. We compared the results with those obtained for breast cancer-specific mortality, analysed using multivariate Cox regression. RESULTS: Median follow-up time was 4.7 years. Relative 5-year survival was 89, 81, 76, and 70% for patients aged 50-69, 70-74, 75-79, and 80+ years, respectively. Corresponding relative 10-year survival was 84, 77, 67, and 66%. Unadjusted REM was 1.93, 2.74, and 3.88 for patients aged 70-74, 75-79, and 80+ years, respectively, (50-69 years as reference). The equivalent hazard ratios from the Cox model were 1.88, 2.45, and 3.81. These were attenuated after adjusting for confounders (REM - 1.49, 1.36, and 1.23; Cox - 1.47, 1.50, and 1.76). CONCLUSION: We confirmed poorer BCRS in older women in our region. This was partially explained by known prognostic factors. Further research is needed to determine whether biological differences or suboptimal management can explain the residual excess mortality.","Age Distribution
+Age Factors
+Aged
+Aged, 80 and over
+Breast Neoplasms/diagnosis/*mortality/*pathology/*therapy
+Carcinoma/diagnosis/*mortality/*pathology/*therapy
+England/epidemiology
+Female
+Humans
+Middle Aged
+Professional Practice/statistics & numerical data
+Prognosis
+Registries
+Survival Analysis"

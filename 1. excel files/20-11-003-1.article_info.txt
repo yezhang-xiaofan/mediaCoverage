@@ -1,0 +1,8 @@
+21516365,Sex differences in semantic categorization.,"*Concept Formation
+Female
+Humans
+Judgment
+Male
+*Semantics
+Sex Factors
+Young Adult",Pasterski V and Zwierzynska K and Estes Z,"Sex differences in certain cognitive abilities, including aspects of semantic processing, are well established. However, there have been no reports investigating a sex difference in semantic categorization. A total of 55 men and 58 women each judged 25 exemplars of natural categories (e.g., FRUITS) and 25 of artifact categories (e.g., TOOLS) as a nonmember, partial member, or full member of the given category. Participants also rated confidence for each judgment. Women provided a greater number of vague (partial member) judgments whereas men provided more inclusive (full member) judgments of artifacts but more exclusive (nonmember) judgments of natural categories. The sex difference in vagueness was observed across domains (Cohen's d = .56). Confidence predicted categorization among both men and women, such that more confident participants exhibited fewer vague category judgments. However, men and women were equally confident in their category judgments, and confidence failed to explain the sex difference in categorization. Men and women appear to categorize the same common objects in systematically different ways.",Missing,Archives of sexual behavior,40

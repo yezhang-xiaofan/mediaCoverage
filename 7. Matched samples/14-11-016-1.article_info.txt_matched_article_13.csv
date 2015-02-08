@@ -1,0 +1,15 @@
+21270128,Calpain-mediated proteolysis of paxillin negatively regulates focal adhesion dynamics and cell migration.,The Journal of biological chemistry,Cortesio CL and Boateng LR and Piazza TM and Bennin DA and Huttenlocher A,Missing,"The dynamic turnover of integrin-mediated adhesions is important for cell migration. Paxillin is an adaptor protein that localizes to focal adhesions and has been implicated in cell motility. We previously reported that calpain-mediated proteolysis of talin1 and focal adhesion kinase mediates adhesion disassembly in motile cells. To determine whether calpain-mediated paxillin proteolysis regulates focal adhesion dynamics and cell motility, we mapped the preferred calpain proteolytic site in paxillin. The cleavage site is between the paxillin LD1 and LD2 motifs and generates a C-terminal fragment that is similar in size to the alternative product paxillin delta. The calpain-generated proteolytic fragment, like paxillin delta, functions as a paxillin antagonist and impairs focal adhesion disassembly and migration. We generated mutant paxillin with a point mutation (S95G) that renders it partially resistant to calpain proteolysis. Paxillin-deficient cells that express paxillin S95G display increased turnover of zyxin-containing adhesions using time-lapse microscopy and also show increased migration. Moreover, cancer-associated somatic mutations in paxillin are common in the N-terminal region between the LD1 and LD2 motifs and confer partial calpain resistance. Taken together, these findings suggest a novel role for calpain-mediated proteolysis of paxillin as a negative regulator of focal adhesion dynamics and migration that may function to limit cancer cell invasion.","Amino Acid Motifs
+Amino Acid Substitution
+Calpain/genetics/*metabolism
+Cell Movement/*physiology
+Cytoskeletal Proteins/genetics/metabolism
+Focal Adhesions/genetics/*metabolism
+Glycoproteins/genetics/metabolism
+HEK293 Cells
+HeLa Cells
+Humans
+Neoplasm Invasiveness
+Neoplasms/genetics/metabolism/pathology
+Paxillin/genetics/*metabolism
+Point Mutation
+Zyxin"

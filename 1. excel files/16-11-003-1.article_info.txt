@@ -1,0 +1,23 @@
+21364036,FKBPL and peptide derivatives: novel biological agents that inhibit angiogenesis by a CD44-dependent mechanism.,"Angiogenesis Inhibitors/chemistry/*pharmacology/therapeutic use
+Animals
+Antigens, CD44/genetics
+Blotting, Western
+Cell Line
+Cell Movement/drug effects
+Cell Proliferation/drug effects
+Endothelial Cells/drug effects
+Immunophilins/chemistry/pharmacology/*therapeutic use
+Immunoprecipitation
+Mice
+Mice, Inbred BALB C
+Mice, SCID
+Neoplasms/*blood supply/drug therapy
+Neovascularization, Pathologic/*drug therapy
+Neovascularization, Physiologic/*drug effects
+Peptide Fragments/*pharmacology/therapeutic use
+RNA, Small Interfering/genetics
+Rats
+Recombinant Proteins/pharmacology
+Signal Transduction/drug effects
+Taxoids/pharmacology/therapeutic use
+Xenograft Model Antitumor Assays",Valentine A and O'Rourke M and Yakkundi A and Worthington J and Hookham M and Bicknell R and McCarthy HO and McClelland K and McCallum L and Dyer H and McKeen H and Waugh DJ and Roberts J and McGregor J and Cotton G and James I and Harrison T and Hirst DG and Robson T,"PURPOSE: Antiangiogenic therapies can be an important adjunct to the management of many malignancies. Here we investigated a novel protein, FKBPL, and peptide derivative for their antiangiogenic activity and mechanism of action. EXPERIMENTAL DESIGN: Recombinant FKBPL (rFKBPL) and its peptide derivative were assessed in a range of human microvascular endothelial cell (HMEC-1) assays in vitro. Their ability to inhibit proliferation, migration, and Matrigel-dependent tubule formation was determined. They were further evaluated in an ex vivo rat model of neovascularization and in two in vivo mouse models of angiogenesis, that is, the sponge implantation and the intravital microscopy models. Antitumor efficacy was determined in two human tumor xenograft models grown in severe compromised immunodeficient (SCID) mice. Finally, the dependence of peptide on CD44 was determined using a CD44-targeted siRNA approach or in cell lines of differing CD44 status. RESULTS: rFKBPL inhibited endothelial cell migration, tubule formation, and microvessel formation in vitro and in vivo. The region responsible for FKBPL's antiangiogenic activity was identified, and a 24-amino acid peptide (AD-01) spanning this sequence was synthesized. It was potently antiangiogenic and inhibited growth in two human tumor xenograft models (DU145 and MDA-231) when administered systemically, either on its own or in combination with docetaxel. The antiangiogenic activity of FKBPL and AD-01 was dependent on the cell-surface receptor CD44, and signaling downstream of this receptor promoted an antimigratory phenotype. CONCLUSION: FKBPL and its peptide derivative AD-01 have potent antiangiogenic activity. Thus, these agents offer the potential of an attractive new approach to antiangiogenic therapy.",Missing,Clinical cancer research : an official journal of the American Association for Cancer Research,17

@@ -1,0 +1,10 @@
+21288585,The impact of emergency birth control on teen pregnancy and STIs.,"Adolescent
+*Contraception, Postcoital
+Empirical Research
+England/epidemiology
+Female
+Humans
+Pregnancy
+Pregnancy in Adolescence/*statistics & numerical data
+Sexually Transmitted Diseases/*epidemiology
+Young Adult",Girma S and Paton D,"We use panel data from local authorities in England between 1998 and 2004 to examine the differential impact of increased access for teenagers to emergency birth control (EBC) at pharmacies on teenage pregnancies and sexually transmitted infections (STIs). We estimate both difference-in-difference (DD) and the more robust difference-in-difference-in-differences (DDD) models. The DD estimates provide some evidence that pharmacy EBC schemes are associated with higher teenage conception rates, but this result is not upheld in the DDD models. In contrast both the DD and DDD models provide consistent evidence that pharmacy EBC schemes are associated with higher teenage STI rates.",Missing,Journal of health economics,30

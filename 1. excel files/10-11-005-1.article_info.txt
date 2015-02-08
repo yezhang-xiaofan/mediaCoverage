@@ -1,0 +1,12 @@
+21374077,Differing proportions of 'express saccade makers' in different human populations.,"Adolescent
+Adult
+Asian Continental Ancestry Group/*ethnology/genetics
+European Continental Ancestry Group/*ethnology/genetics
+Female
+Humans
+Male
+Middle Aged
+Photic Stimulation/*methods
+Reaction Time/*physiology
+Saccades/*physiology
+Young Adult",Amatya N and Gong Q and Knox PC,"Debate continues about cultural influences on processes such as perception and memory. One underlying assumption is that high level, top-down influences that differ between populations (culture) act on identical brain structures and functions to produce different behaviours. More specifically, it has been reported that in various types of complex visual task, eye movement patterns differ systematically between Chinese and non-Chinese subjects. We investigated a relatively simple behaviour (reflexive eye saccades), comparing the saccade latency distributions of Chinese and Caucasian subjects. In a task in which the fixation target remained illuminated when the saccade target appeared (overlap task), 10 out of 34 (29%) Chinese subjects exhibited a high proportion (>30%) of low latency 'express' saccades. This pattern of response had been reported to be very uncommon in healthy, naive subjects. We therefore subsequently confirmed that only 1 out of 38 Caucasian subjects exhibited it. The results suggest important population differences with regard to the expression of distinct oculomotor behaviours.",Missing,Experimental brain research,210

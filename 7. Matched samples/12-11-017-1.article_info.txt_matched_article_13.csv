@@ -1,0 +1,19 @@
+22158672,Demonstrating bias and improved inference for stoves' health benefits.,International journal of epidemiology,Mueller V and Pfaff A and Peabody J and Liu Y and Smith KR,cgiar,"BACKGROUND: Many studies associate health risks with household air pollution from biomass fuels and stoves. Evaluations of stove improvements can suffer from bias because they rarely address health-relevant differences between the households who get improvements and those who do not. METHODS: We demonstrate both the potential for bias and an option for improved stove inference by applying to household air pollution a technique used elsewhere in epidemiology, propensity-score matching (PSM), based on a stoves-and-health survey for China (15 counties, 3500 households). RESULTS: Health-relevant factors (age, wealth, kitchen ventilation) do in fact differ considerably between the households with stove improvements and those without. We study the resulting bias in estimates of cleaner-stove impacts using a self-reported Physical Component Summary (PCS). Typical stoves-literature regressions with little control for non-stove factors suggest no benefits from a cleaner-fuel stove relative to a traditional biomass stove. Yet increasing controls raises the impact estimates. Our PSM estimates address the differences in health-relevant factors using 'apples to apples' comparisons between those with improved stoves and 'similar' households. This generates higher estimates of clean-stove benefits, which are on the order of one half the standard deviation of the PCS outcome. CONCLUSIONS: Our data demonstrate the potential importance of bias in household air pollution studies. This results from failure to address the possibility that those receiving improved stoves are themselves prone to better or worse health outcomes. It suggests the value of data collection and of study design for cookstove interventions and, more generally, for policy interventions within many health outcomes.","Adolescent
+Adult
+Age Factors
+Air Pollution, Indoor/*statistics & numerical data
+*Bias (Epidemiology)
+China
+Cooking/instrumentation/*methods/statistics & numerical data
+Cross-Sectional Studies
+Female
+*Health Status
+Health Surveys
+Humans
+Male
+Middle Aged
+Poverty/statistics & numerical data
+Propensity Score
+Sex Factors
+Ventilation/statistics & numerical data
+Young Adult"

@@ -1,0 +1,9 @@
+22017995,Lichtheim 2: synthesizing aphasia and the neural basis of language in a neurocomputational model of the dual dorsal-ventral language pathways.,Neuron,Ueno T and Saito S and Rogers TT and Lambon Ralph MA,Missing,"Traditional neurological models of language were based on a single neural pathway (the dorsal pathway underpinned by the arcuate fasciculus). Contemporary neuroscience indicates that anterior temporal regions and the ""ventral"" language pathway also make a significant contribution, yet there is no computationally-implemented model of the dual pathway, nor any synthesis of normal and aphasic behavior. The ""Lichtheim 2"" model was implemented by developing a new variety of computational model which reproduces and explains normal and patient data but also incorporates neuroanatomical information into its architecture. By bridging the ""mind-brain"" gap in this way, the resultant ""neurocomputational"" model provides a unique opportunity to explore the relationship between lesion location and behavioral deficits, and to provide a platform for simulating functional neuroimaging data.","Aphasia/*physiopathology
+Brain/*physiology/physiopathology
+Computer Simulation
+Humans
+*Language
+Models, Neurological
+Nerve Net/*physiology/physiopathology
+Neural Pathways/*physiology/physiopathology
+Neurons/*physiology"

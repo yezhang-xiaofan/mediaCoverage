@@ -1,0 +1,8 @@
+21280059,Cytostatic response of NB69 cells to weak pulse-modulated 2.2 GHz radar-like signals.,Bioelectromagnetics,Trillo MA and Cid MA and Martinez MA and Page JE and Esteban J and Ubeda A,Missing,"The present study investigates the response of two human cancer cell lines to a 24-h treatment with a 2.2-GHz, pulse-modulated (5 micros pulse duration, 100 Hz repetition rate) radar-like signal at an average SAR = 0.023 W/kg, using a newly designed setup for in vitro exposure to radiofrequency (RF) fields. A complete discretized model of the setup was created for numerical dosimetry using finite-difference time-domain (FDTD) software, SEMCAD X. The average dose of RF radiation absorbed by the cultures was calculated to be subthermal (DeltaT < 0.1 degrees C). The RF exposure induced a consistent, statistically significant reduction in the cell number (13.5% below controls, P < 0.001) in the neuroblastoma NB69 line. This effect was accompanied with slight but statistically significant increases in the proportions of cells in phases G0/G1 and G2/M of the cell cycle (6% and 9%, respectively; P < 0.05 over controls). By contrast, the hepatocarcinoma cell line HepG2 did not respond to the same RF treatment. These results indicate that a pulse-modulated RF radiation with high instantaneous amplitude and low average power can induce cytostatic responses on specific, sensitive cancer cell lines. The effect would be mediated, at least in part, by alterations in the kinetics of the cell cycle.","Cell Cycle/radiation effects
+Cell Line, Tumor/metabolism/pathology/radiation effects
+Cell Survival/radiation effects
+Humans
+Neuroblastoma/metabolism/*pathology/*radiotherapy
+*Radar
+Radiation Dosage
+Radio Waves/*therapeutic use"

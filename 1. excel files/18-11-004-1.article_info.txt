@@ -1,0 +1,15 @@
+21454920,Brain structure abnormalities in early-onset and adolescent-onset conduct disorder.,"Adolescent
+Age of Onset
+Amygdala/pathology
+Brain/*pathology
+Case-Control Studies
+Cerebral Cortex/pathology
+Conduct Disorder/epidemiology/*pathology/psychology
+Frontal Lobe/pathology
+Gyrus Cinguli/pathology
+Humans
+Image Processing, Computer-Assisted
+*Magnetic Resonance Imaging
+Male
+Organ Size
+Young Adult",Fairchild G and Passamonti L and Hurford G and Hagan CC and von dem Hagen EA and van Goozen SH and Goodyer IM and Calder AJ,"OBJECTIVE: The developmental taxonomic theory proposes that neurodevelopmental factors play a critical role in the etiology of early-onset conduct disorder, whereas adolescent-onset conduct disorder arises as a result of social mimicry of deviant peers. Recent studies have challenged this theory by demonstrating that adolescents with both early- and adolescent-onset forms of conduct disorder show impaired emotional learning and abnormal neural activation during facial expression processing. The present study extends this work by investigating brain structure in both subtypes of conduct disorder. METHOD: Voxel-based morphometry was used to compare gray matter volumes in four regions of interest (amygdala, insula, anterior cingulate, and orbitofrontal cortex) in male adolescents with early-onset (N=36) or adolescent-onset (N=27) conduct disorder and in healthy comparison subjects (N=27). Whole-brain structural analyses were also performed. RESULTS: The combined conduct disorder group displayed gray matter volume reductions in the bilateral amygdala, extending into the insula, relative to healthy comparison subjects. Separate comparisons between healthy subjects and each conduct disorder subgroup revealed lower amygdala volume in both subgroups and reduced right insula volume in the adolescent-onset subgroup. Regression analyses within the conduct disorder subjects alone demonstrated a negative correlation between conduct disorder symptoms and right insula volume. CONCLUSIONS: The results demonstrate that gray matter volume reductions in brain regions involved in processing socioemotional stimuli are associated with conduct disorder, regardless of age of onset. Brain structural abnormalities may contribute to the emergence of adolescent-onset as well as early-onset conduct disorder.",Missing,The American journal of psychiatry,168

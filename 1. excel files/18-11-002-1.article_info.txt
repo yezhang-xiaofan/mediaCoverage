@@ -1,0 +1,16 @@
+21359174,Evidence for developmental programming of cerebral laterality in humans.,"Adult
+Algorithms
+Body Temperature/physiology
+Cerebral Cortex/*embryology/*physiology
+Child
+Cross-Sectional Studies
+Embryonic Development/*physiology
+Female
+Functional Laterality/*physiology
+Humans
+Male
+Models, Biological
+Pregnancy
+Pregnancy Complications/physiopathology/psychology
+Prenatal Exposure Delayed Effects/physiopathology/psychology
+Stress, Psychological/physiopathology",Jones A and Osmond C and Godfrey KM and Phillips DI,"Adverse fetal environments are associated with depression, reduced cognitive ability and increased stress responsiveness in later life, but underlying mechanisms are unknown. Environmental pressures on the fetus, resulting from variations in placental function and maternal nutrition, health and stress might alter neurodevelopment, promoting the development of some brain regions over others. As asymmetry of cerebral activity, with greater right hemisphere activity, has been associated with psychopathology, we hypothesized that regional specialization during fetal life might be reflected persistently in the relative activity of the cerebral hemispheres. We tested this hypothesis in 140 healthy 8-9 year-old children, using tympanic membrane temperature to assess relative blood flow to the cerebral hemispheres at rest and following psychosocial stress (Trier Social Stress Test for Children). Their birth weight and placental weight had already been measured when their mothers took part in a previous study of pregnancy outcomes. We found that children who had a smaller weight at birth had evidence of greater blood flow to the right hemisphere than to the left hemisphere (r = -.09, P = .29 at rest; r = -.18, P = .04 following stress). This finding was strengthened if the children had a relatively low birth weight for their placental weight (r = -.17, P = .05 at rest; r = -.31, P = .0005 following stress). Our findings suggest that lateralization of cerebral activity is influenced persistently by early developmental experiences, with possible consequences for long-term neurocognitive function.",Missing,PloS one,6

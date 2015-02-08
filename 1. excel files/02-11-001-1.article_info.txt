@@ -1,0 +1,18 @@
+21200072,Timing of menarche and depressive symptoms in adolescent girls from a UK cohort.,"Adolescent
+Adolescent Development/*physiology
+Adult
+Age of Onset
+Child
+Confounding Factors (Epidemiology)
+Depression/*epidemiology
+Female
+Great Britain
+Humans
+Infant
+Longitudinal Studies
+Menarche/*physiology/psychology
+*Models, Statistical
+Pregnancy
+Psychiatric Status Rating Scales
+Stress, Psychological/epidemiology/etiology
+Time Factors",Joinson C and Heron J and Lewis G and Croudace T and Araya R,"BACKGROUND: A growing number of studies suggest a link between timing of menarche and risk of depressive symptoms in adolescence, but few have prospectively examined the emergence of depressive symptoms from late childhood into adolescence. AIMS: To examine whether girls who experience earlier menarche than their peers have higher levels of depressive symptoms in adolescence. METHOD: The study sample comprised 2184 girls from the Avon Longitudinal Study of Parents and Children. The association between timing of menarche and depressive symptoms at 10.5, 13 and 14 years was examined within a structural equation model. RESULTS: Girls with early menarche (<11.5 years) had the highest level of depressive symptoms at 13 (P=0.007) and 14 years (P<0.001) compared with those with normative and late timing of menarche. CONCLUSIONS: Early maturing girls are at increased risk of depressive symptoms in adolescence and could be targeted by programmes aimed at early intervention and prevention.",Missing,The British journal of psychiatry : the journal of mental science,198

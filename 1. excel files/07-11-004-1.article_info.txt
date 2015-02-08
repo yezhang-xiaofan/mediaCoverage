@@ -1,0 +1,16 @@
+21282645,Role of social networks in shaping disease transmission during a community outbreak of 2009 H1N1 pandemic influenza.,"Child
+Female
+History, 21st Century
+Humans
+*Influenza A Virus, H1N1 Subtype
+Influenza, Human/*epidemiology/*transmission
+Interviews as Topic
+Male
+Markov Chains
+Models, Theoretical
+Monte Carlo Method
+Pandemics/*history
+Pennsylvania
+Sex Factors
+*Social Support
+Students",Cauchemez S and Bhattarai A and Marchbanks TL and Fagan RP and Ostroff S and Ferguson NM and Swerdlow D,"Evaluating the impact of different social networks on the spread of respiratory diseases has been limited by a lack of detailed data on transmission outside the household setting as well as appropriate statistical methods. Here, from data collected during a H1N1 pandemic (pdm) influenza outbreak that started in an elementary school and spread in a semirural community in Pennsylvania, we quantify how transmission of influenza is affected by social networks. We set up a transmission model for which parameters are estimated from the data via Markov chain Monte Carlo sampling. Sitting next to a case or being the playmate of a case did not significantly increase the risk of infection; but the structuring of the school into classes and grades strongly affected spread. There was evidence that boys were more likely to transmit influenza to other boys than to girls (and vice versa), which mimicked the observed assortative mixing among playmates. We also investigated the presence of abnormally high transmission occurring on specific days of the outbreak. Late closure of the school (i.e., when 27% of students already had symptoms) had no significant impact on spread. School-aged individuals (6-18 y) facilitated the introduction and spread of influenza in households, but only about one in five cases aged >18 y was infected by a school-aged household member. This analysis shows the extent to which clearly defined social networks affect influenza transmission, revealing strong between-place interactions with back-and-forth waves of transmission between the school, the community, and the household.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

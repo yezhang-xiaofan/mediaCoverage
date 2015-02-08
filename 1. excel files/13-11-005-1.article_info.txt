@@ -1,0 +1,26 @@
+21310273,Hexosamine biosynthetic pathway mutations cause neuromuscular transmission defect.,"Animals
+Blotting, Western
+Case-Control Studies
+Cells, Cultured
+Embryo, Nonmammalian/cytology/metabolism
+Female
+Fluorescent Antibody Technique
+Gene Expression Regulation, Developmental
+Genetic Linkage
+Glutamine-Fructose-6-Phosphate Transaminase (Isomerizing)/*genetics
+Glycosylation
+Hexosamines/*metabolism
+Humans
+Immunoenzyme Techniques
+In Situ Hybridization, Fluorescence
+Male
+Mutation/*genetics
+Myasthenic Syndromes, Congenital/*genetics/pathology
+Neuromuscular Junction/physiology
+Pedigree
+RNA, Messenger/genetics
+Reverse Transcriptase Polymerase Chain Reaction
+*Signal Transduction
+Synaptic Transmission/physiology
+Zebrafish
+Zebrafish Proteins/genetics/metabolism",Senderek J and Muller JS and Dusl M and Strom TM and Guergueltcheva V and Diepolder I and Laval SH and Maxwell S and Cossins J and Krause S and Muelas N and Vilchez JJ and Colomer J and Mallebrera CJ and Nascimento A and Nafissi S and Kariminejad A and Nilipour Y and Bozorgmehr B and Najmabadi H and Rodolico C and Sieb JP and Steinlein OK and Schlotter B and Schoser B and Kirschner J and Herrmann R and Voit T and Oldfors A and Lindbergh C and Urtizberea A and von der Hagen M and Hubner A and Palace J and Bushby K and Straub V and Beeson D and Abicht A and Lochmuller H,"Neuromuscular junctions (NMJs) are synapses that transmit impulses from motor neurons to skeletal muscle fibers leading to muscle contraction. Study of hereditary disorders of neuromuscular transmission, termed congenital myasthenic syndromes (CMS), has helped elucidate fundamental processes influencing development and function of the nerve-muscle synapse. Using genetic linkage, we find 18 different biallelic mutations in the gene encoding glutamine-fructose-6-phosphate transaminase 1 (GFPT1) in 13 unrelated families with an autosomal recessive CMS. Consistent with these data, downregulation of the GFPT1 ortholog gfpt1 in zebrafish embryos altered muscle fiber morphology and impaired neuromuscular junction development. GFPT1 is the key enzyme of the hexosamine pathway yielding the amino sugar UDP-N-acetylglucosamine, an essential substrate for protein glycosylation. Our findings provide further impetus to study the glycobiology of NMJ and synapses in general.",Missing,American journal of human genetics,88

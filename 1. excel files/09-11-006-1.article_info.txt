@@ -1,0 +1,11 @@
+21873994,Ligand binding to distinct states diverts aggregation of an amyloid-forming protein.,"Binding Sites/drug effects
+Hydrogen-Ion Concentration
+Ligands
+Protein Binding/drug effects
+Protein Multimerization/*drug effects
+Rifamycins/chemistry/*pharmacology
+Spectrometry, Mass, Electrospray Ionization
+Stereoisomerism
+Structure-Activity Relationship
+Time Factors
+beta 2-Microglobulin/*chemistry/*metabolism",Woods LA and Platt GW and Hellewell AL and Hewitt EW and Homans SW and Ashcroft AE and Radford SE,"Although small molecules that modulate amyloid formation in vitro have been identified, significant challenges remain in determining precisely how these species act. Here we describe the identification of rifamycin SV as a potent inhibitor of beta(2) microglobulin (beta(2)m) fibrillogenesis when added during the lag time of assembly or early during fibril elongation. Biochemical experiments demonstrate that the small molecule does not act by a colloidal mechanism. Exploiting the ability of electrospray ionization-ion mobility spectrometry-mass spectrometry (ESI-IMS-MS) to resolve intermediates of amyloid assembly, we show instead that rifamycin SV inhibits beta(2)m fibrillation by binding distinct monomeric conformers, disfavoring oligomer formation and diverting the course of assembly to the formation of spherical aggregates. The results demonstrate the power of ESI-IMS-MS to identify specific protein conformers as targets for intervention in fibrillogenesis using small molecules and reveal a mechanism of action in which ligand binding diverts unfolded protein monomers toward alternative assembly pathways.",Missing,Nature chemical biology,7

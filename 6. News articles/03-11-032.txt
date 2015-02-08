@@ -1,0 +1,40 @@
+REUTERS
+Study finds early potential in GlaxoSmithKline leukaemia drug
+By Kate Kelland
+LONDON | Sun Oct 2, 2011 6:08pm BST 
+British scientists conducting early-stage research have found that a potential new drug from GlaxoSmithKline could treat mixed-lineage leukaemia(MLL) -- the most common form of leukaemia in babies.
+In a study published in the journal Nature, scientists from the British drugmaker collaborating with the charity Cancer Research UK (CRUK) and Cellzome AG found that the experimental drug, called I-BET151, mimics a chemical tag which is key to preventing the process of activating the leukaemia genes.
+"This ... is an exciting new avenue for drug discovery which we hope will be useful for other types of cancer in addition to MLL-leukaemia's," said Tony Kouzarides of the Wellcome Trust/CRUK Gurdon Institute at Cambridge University, who co-led the study.
+Kevin Lee, head of epigenetics discovery research at GSK, who also worked on the study, said he too was excited about the findings, although it will probably be many years before the drug could potentially reach the market.
+"Even though this is still lab-based ... it validates the idea of developing small molecules against epigenetic switches," he said in an emailed comment.
+"It is important to remember we will need to be successful on a number of additional steps before we can move this from the lab to testing this compound in humans."
+MLL leukaemia is thought to account for up to 80 percent of cases of acute leukaemia in children below two years old, and up to one in 10 cases in adults.
+Most patients don't respond well to standard leukaemia treatments and often the cancer comes back.
+The disease is caused when a gene called MLL gets fused to another gene.
+This disrupts the normal function of MLL by creating a new "fusion protein" that behaves wrongly, switching on genes that drive the development of leukaemia.
+Kouzarides's team found that in the disease, the MLL-fusion proteins are targeted to leukaemia-causing genes by proteins from the BET family, which recognise certain chemical "tags" on chromatin, the scaffold on which DNA is arranged.
+Using I-BET151 to treat leukaemias in mice and human cancer cells in a lab, the researchers found that the chemical could halt the disease, paving the way for more research to be done in first-stage, or so-called Phase I, human trials.
+"We urgently need better ways to treat children with more aggressive forms of leukaemia, such as MLL," said Lesley Walker, CRUK's director of information.
+"Although this research is only in the lab at the moment, we hope it will move quickly towards clinical trials in patients."
+Leukaemia is the most commonly diagnosed cancer in children and accounts for a around a third of all cancers diagnosed in children.
+According to Cancer Research UK, eight out of 10 children with leukaemia in Britain now survive for five years or more, compared with one in 10 in the late 1960s.
+
+ The Sun (England)
+ October 3, 2011 Monday  Edition 2;  National Edition
+ HOPE ON CANCER  SECTION: NEWS; Pg. 23  LENGTH: 69 words
+A NEW drug could cure the most common form of childhood leukaemia, research suggests.
+The chemical agent L-BET151 acts on the protein and DNA "packaging" in cells called chromatin.
+Abnormal chromatin proteins trigger mixed-lineage leukaemia (MLL).
+But tests on mice and human cancer cells showed the drug neutralises the process.
+The results, by a team from Cambridge University, pave the way for trials on patients.
+
+ The Times (London)
+ October 3, 2011 Monday  Edition 2;  National Edition
+ Drug to fight leukaemia poised for human trials  SECTION: NEWS; Pg. 16  LENGTH: 105 words
+Cambridge A new drug to treat the most common form of infant leukaemia is on the brink of patient trials following successful laboratory studies.
+Cambridge scientists have shown that the drug appears to block a key stage in the development of mixed lineage leukaemia (MLL), both in mice and in cancer cells grown in a laboratory.
+Human trials may start within a year.
+MLL begins when two genes fuse to form a rogue gene, which produces an abnormal protein.
+This switches on other genes that cause cells to grow out of control.
+The new drug, known as I-BET151, was developed to stop the fusion protein communicating with other genes.
+

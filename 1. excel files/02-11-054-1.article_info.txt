@@ -1,0 +1,18 @@
+21709373,"Associations of anti-hypertensive treatments with Alzheimer's disease, vascular dementia, and other dementias.","Aged
+Aged, 80 and over
+Alzheimer Disease/*epidemiology
+Angiotensin II Type 1 Receptor Blockers/adverse effects
+Angiotensin-Converting Enzyme Inhibitors/adverse effects
+Antihypertensive Agents/*adverse effects/therapeutic use
+Blood Pressure/drug effects
+Case-Control Studies
+Data Interpretation, Statistical
+Databases, Factual
+Dementia/*epidemiology
+Dementia, Vascular/*epidemiology
+Dose-Response Relationship, Drug
+Female
+Great Britain/epidemiology
+Humans
+Male
+Socioeconomic Factors",Davies NM and Kehoe PG and Ben-Shlomo Y and Martin RM,"We investigated whether angiotensin II receptor blockers (ARBs) and angiotensin converting enzyme inhibitors (ACE-Is) are more strongly associated with Alzheimer's disease (AD), vascular dementia (VaD), and other dementias, than other anti-hypertensive drugs. We conducted a nested case-control analysis within the UK general practice research database, with prospectively recorded anti-hypertensive prescribing data. We sampled cases aged >/=60 years and diagnosed between 1997-2008 (5,797 with AD, 2,186 with VaD, 1,214 with unspecified/other dementia) which were matched to up to four controls by age, general practice and gender. We computed odds-ratios and dose response effects for AD, vascular and unspecified/other dementia, comparing those prescribed ARBs or ACE-Is for at least six months with patients prescribed other anti-hypertensives. We controlled for matching factors, co-morbidities, smoking status, an area measure of socioeconomic status, consultation rate and blood pressure and accounted for reverse causality by introducing time-lags of up to eight years prior to diagnosis/index date. Patients diagnosed with AD, vascular and unspecified/other dementia had fewer prescriptions for ARBs and ACE-Is. Inverse associations with AD were strongest for ARBs (odds-ratio; 0.47, 95%CI, 0.37-0.58) compared with ACE-Is (odds-ratio; 0.76, 95%CI, 0.69-0.84) (p(difference) < 0.001). Associations of ARBs with AD were stronger than for vascular dementia (p(difference) = 0.01) and unspecified/other dementia (p(difference) = 0.23). There were inverse dose-response relationships between ARBs and ACE-Is with AD (both p(trend) < 0.01). The inverse association of ACE-Is with AD diminished when using longer time lags but the ARB-AD association persisted. Patients with AD were around half as likely to be prescribed ARBs. Further randomized controlled trial evidence is required to rigorously test these findings.",Missing,Journal of Alzheimer's disease : JAD,26

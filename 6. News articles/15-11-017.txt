@@ -1,0 +1,22 @@
+11 November 2011 Last updated at 01:24 
+BBC
+Skin transformed for cancer fight
+Scientists have opened up the possibility of one day using cancer patients' own skin to fight their tumours.
+Oxford University researchers transformed skin cells into immune cells, which could be used to trigger a hunt for cancer.
+It was achieved only in the laboratory, not in people, meaning any therapy is a long way off.
+However, the researchers believe it will be possible.
+Harnessing the power of the immune system is a field being pursued by cancer researchers, such as in the search for cancer vaccines.
+The conductor 
+This study, published in the journal Gene Therapy, was focused on dendritic cells, which organise part of the immune response. 
+By showing identifying markers - or antigens - they tell the immune system what to attack.
+If they display cancer markers, cancerous cells will become the target.
+Dr Paul Fairchild, from the Oxford Stem Cell Institute, said trials into dendritic cells, harvested from a patient's blood, had taken place before, but they fired up only part of the immune system.
+His team used advances in stem cell technology to create new dendritic cells from a patient's skin.
+These were primed to trigger an attack on melanomas using a marker, Melan A, which is unique to the cancer.
+Experiments in the laboratory showed these dendritic cells were able to activate both immune cells which produce antibodies and those which kill other cells.
+Dr Fairchild said: "The patient would in effect be treated with their own immune cells to prime an attack on their tumour."
+He acknowledges that any therapy is a distant prospect.
+The cost and a safe method of producing stem cells are two of the barriers.
+Even then he pictures a treatment working alongside, rather than replacing, other therapies: "It is a long and arduous process compared with chemotherapy and radiotherapy. It's extremely labour intensive."
+Dr Caetano Reis e Sousa, a Cancer Research UK immunology expert, said: "By showing that normal body cells can be reprogrammed to become a sub-type of dendritic cells with superior activity, this research builds on previous work by Cancer Research UK scientists using blood stem cells as starting material.
+"The next challenge is to confirm that these laboratory-generated cells will be suitable for immunotherapy-based cancer-treatments used in the clinic."

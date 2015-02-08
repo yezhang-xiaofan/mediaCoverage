@@ -1,0 +1,12 @@
+21784245,The replication checkpoint protects fork stability by releasing transcribed genes from nuclear pores.,Cell,Bermejo R and Capra T and Jossen R and Colosio A and Frattini C and Carotenuto W and Cocito A and Doksani Y and Klein H and Gomez-Gonzalez B and Aguilera A and Katou Y and Shirahige K and Foiani M,Missing,"Transcription hinders replication fork progression and stability, and the Mec1/ATR checkpoint protects fork integrity. Examining checkpoint-dependent mechanisms controlling fork stability, we find that fork reversal and dormant origin firing due to checkpoint defects are rescued in checkpoint mutants lacking THO, TREX-2, or inner-basket nucleoporins. Gene gating tethers transcribed genes to the nuclear periphery and is counteracted by checkpoint kinases through phosphorylation of nucleoporins such as Mlp1. Checkpoint mutants fail to detach transcribed genes from nuclear pores, thus generating topological impediments for incoming forks. Releasing this topological complexity by introducing a double-strand break between a fork and a transcribed unit prevents fork collapse. Mlp1 mutants mimicking constitutive checkpoint-dependent phosphorylation also alleviate checkpoint defects. We propose that the checkpoint assists fork progression and stability at transcribed genes by phosphorylating key nucleoporins and counteracting gene gating, thus neutralizing the topological tension generated at nuclear pore gated genes.","Cell Cycle Proteins/metabolism
+Cell Nucleus/metabolism
+Checkpoint Kinase 2
+DNA Breaks, Double-Stranded
+*DNA Replication
+Hydroxyurea/pharmacology
+Mutation
+Nuclear Pore/*metabolism
+Protein-Serine-Threonine Kinases/metabolism
+Saccharomyces cerevisiae/*cytology/drug effects/*metabolism
+Saccharomyces cerevisiae Proteins/metabolism
+*Transcription, Genetic"

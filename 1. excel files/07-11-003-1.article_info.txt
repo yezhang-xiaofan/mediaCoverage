@@ -1,0 +1,13 @@
+21169411,FUS/TLS is a novel mediator of androgen-dependent cell-cycle progression and prostate cancer growth.,"Bone Neoplasms/metabolism/secondary
+Cell Cycle/drug effects/physiology
+Cell Growth Processes/drug effects/physiology
+Cell Line, Tumor
+Down-Regulation
+Humans
+Immunohistochemistry
+Male
+Nandrolone/analogs & derivatives/pharmacology
+Neoplasms, Hormone-Dependent/genetics/*metabolism/*pathology
+Prostatic Neoplasms/genetics/*metabolism/*pathology
+RNA-Binding Protein FUS/*biosynthesis/genetics/metabolism
+Receptors, Androgen/metabolism",Brooke GN and Culley RL and Dart DA and Mann DJ and Gaughan L and McCracken SR and Robson CN and Spencer-Dene B and Gamble SC and Powell SM and Wait R and Waxman J and Walker MM and Bevan CL,"Progression of prostate cancer is highly dependent upon the androgen receptor pathway, such that knowledge of androgen-regulated proteins is vital to understand and combat this disease. Using a proteomic screen, we found the RNA-binding protein FUS/TLS (Fused in Ewing's Sarcoma/Translocated in Liposarcoma) to be downregulated in response to androgen. FUS has recently been shown to be recruited by noncoding RNAs to the regulatory regions of target genes such as cyclin D1, in which it represses transcription by disrupting complex formation. Here we show that FUS has some characteristics of a putative tumor suppressor, as its overexpression promoted growth inhibition and apoptosis of prostate cancer cells, whereas its knockdown increased cell proliferation. This effect was reproducible in vivo, such that increasing FUS levels in tumor xenografts led to dramatic tumor regression. Furthermore, FUS promoted conditions that favored cell-cycle arrest by reducing the levels of proliferative factors such as cyclin D1 and Cdk6 and by increasing levels of the antiproliferative Cdk inhibitor p27. Immunohistochemical analysis revealed that FUS expression is inversely correlated with Gleason grade, demonstrating that patients with high levels of FUS survived longer and were less likely to have bone metastases, suggesting that loss of FUS expression may contribute to cancer progression. Taken together, our results address the question of how androgens regulate cell-cycle progression, by demonstrating that FUS is a key link between androgen receptor signaling and cell-cycle progression in prostate cancer.",Missing,Cancer research,71

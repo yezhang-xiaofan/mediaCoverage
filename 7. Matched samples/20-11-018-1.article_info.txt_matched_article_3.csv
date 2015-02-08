@@ -1,0 +1,16 @@
+22009739,Corepressor protein CDYL functions as a molecular bridge between polycomb repressor complex 2 and repressive chromatin mark trimethylated histone lysine 27.,The Journal of biological chemistry,Zhang Y and Yang X and Gui B and Xie G and Zhang D and Shang Y and Liang J,Missing,"Polycomb group proteins play essential roles in transcriptional regulation of multiple gene families involved in various pathophysiological processes. It is believed that Polycomb Repressive Complex 2 (PRC2) is targeted to chromatin by the EED subunit to methylate histone H3 lysine 27 (H3K27), leading to a repressive chromatin state that inhibits gene expression. Here we report that the chromodomain-containing protein CDYL specifically recognizes di- and tri-methylated H3K27 (H3K27me2 and H3K27me3) and directly interacts with EZH2, the catalytic subunit of PRC2. We show that CDYL dramatically enhances the methyltransferase activity of PRC2 toward oligonucleosome substrates in vitro. Genome-wide analysis of CDYL targets by ChIP sequencing revealed that CDYL and PRC2 share a number of genomic targets. CDYL is required for chromatin targeting and maximal enzymatic activity of PRC2 at their common target sites. Our experiments indicate that CDYL functions as a molecular bridge between PRC2 and the repressive chromatin mark H3K27me3, forming a positive feedback loop to facilitate the establishment and propagation of H3K27me3 modifications along the chromatin.","Animals
+Catalytic Domain
+Cell Line, Tumor
+Chromatin/chemistry
+Epigenesis, Genetic
+Gene Expression Regulation
+Histones/*chemistry
+Humans
+Lysine/chemistry
+Methylation
+Methyltransferases/chemistry
+Nucleosomes/chemistry
+Polycomb-Group Proteins
+Proteins/chemistry/*physiology
+Repressor Proteins/*chemistry
+Xenopus"

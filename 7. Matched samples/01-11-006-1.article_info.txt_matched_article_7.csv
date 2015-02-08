@@ -1,0 +1,17 @@
+21566059,MicroRNA 802 stimulates ROMK channels by suppressing caveolin-1.,Journal of the American Society of Nephrology : JASN,Lin DH and Yue P and Pan C and Sun P and Wang WH,nymc,"Dietary potassium stimulates the surface expression of ROMK channels in the aldosterone-sensitive distal nephron, but the mechanism by which this occurs is incompletely understood. Here, a high-potassium diet increased the transcription of microRNA (miR) 802 in the cortical collecting duct in mice. In addition, high-potassium intake decreased the expression of caveolin-1, whose 3' untranslated region contains the seed sequence of miR-802. In vitro, expression of miR-802 suppressed the expression of caveolin-1, and conversely, downregulation of endogenous miR-802 increased the expression of caveolin-1. Sucrose-gradient centrifugation suggested that caveolin-1 closely associated with ROMK channels, and immunoprecipitation showed that caveolin-1 interacted with the N terminus of ROMK. Expression of caveolin-1 varied inversely with the expression of ROMK1 in the plasma membrane, and caveolin-1 inhibited ROMK1 channel activity. Removal of the clathrin-dependent endocytosis motif from ROMK1 failed to abolish the effect of caveolin-1 on ROMK1 channel activity. Last, expression of miR-802 increased ROMK1 channel activity, an effect blocked by coexpression of caveolin-1. Taken together, miR-802 mediates the stimulatory effect of a high-potassium diet on ROMK channel activity by suppressing caveolin-1 expression, which leads to increased surface expression of ROMK channels in the distal nephron.","Animals
+Caveolin 1/*metabolism
+Cells, Cultured
+HEK293 Cells
+Humans
+Kidney Tubules, Collecting/cytology/drug effects/*metabolism
+Male
+Mice
+Mice, Inbred C57BL
+MicroRNAs/*metabolism
+Models, Animal
+Patch-Clamp Techniques
+Potassium Channels, Inwardly Rectifying/genetics/*metabolism
+Potassium, Dietary/pharmacology
+Rats
+Rats, Sprague-Dawley
+Transfection"

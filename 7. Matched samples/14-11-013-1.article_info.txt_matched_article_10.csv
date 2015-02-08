@@ -1,0 +1,20 @@
+21368092,"Enhanced efficacy of therapeutic cancer vaccines produced by co-treatment with Mycobacterium tuberculosis heparin-binding hemagglutinin, a novel TLR4 agonist.",Cancer research,Jung ID and Jeong SK and Lee CM and Noh KT and Heo DR and Shin YK and Yun CH and Koh WJ and Akira S and Whang J and Kim HJ and Park WS and Shin SJ and Park YM,Missing,"Effective activation of dendritic cells (DCs) toward T helper (Th)-1 cell polarization would improve DC-based antitumor immunotherapy, helping promote the development of immunotherapeutic vaccines based on T-cell immunity. To achieve this goal, it is essential to develop effective immune adjuvants that can induce powerful Th1 cell immune responses. The pathogenic organism Mycobacterium tuberculosis includes certain constitutes, such as heparin-binding hemagglutinin (HBHA), that possess a strong immunostimulatory potential. In this study, we report the first clarification of the functions and precise mechanism of HBHA in immune stimulation settings relevant to cancer. HBHA induced DC maturation in a TLR4-dependent manner, elevating expression of the surface molecules CD40, CD80, and CD86, MHC classes I and II and the proinflammatory cytokines IL-6, IL-12, IL-1beta, TNF-alpha, and CCR7, as well as stimulating the migratory capacity of DCs in vitro and in vivo. Mechanistic investigations established that MyD88 and TRIF signaling pathways downstream of TLR4 mediated secretion of HBHA-induced proinflammatory cytokines. HBHA-treated DCs activated naive T cells, polarized CD4(+) and CD8(+) T cells to secrete IFN-gamma, and induced T-cell-mediated cytotoxicity. Notably, systemic administration of DCs that were HBHA-treated and OVA(251-264)-pulsed ex vivo greatly strengthened immune priming in vivo, inducing a dramatic regression of tumor growth associated with long-term survival in a murine E.G7 thymoma model. Together, our findings highlight HBHA as an immune adjuvant that favors Th1 polarization and DC function for potential applications in DC-based antitumor immunotherapy.","Animals
+Cancer Vaccines/*pharmacology
+Cell Line, Tumor
+Cell Movement/drug effects/immunology
+Dendritic Cells/immunology
+Drug Synergism
+Lectins/*pharmacology
+Male
+Mice
+Mice, Inbred BALB C
+Mice, Inbred C57BL
+Mice, Knockout
+Mice, Nude
+Mice, Transgenic
+Mycobacterium tuberculosis/*immunology
+Signal Transduction
+T-Lymphocytes, Cytotoxic/drug effects/immunology
+Thymoma/immunology/metabolism/*therapy
+Toll-Like Receptor 4/*agonists/genetics/immunology
+Toll-Like Receptor 9/immunology/metabolism"

@@ -1,0 +1,22 @@
+21266977,ERK5 signalling in prostate cancer promotes an invasive phenotype.,"Animals
+Benzamides/pharmacology
+Cell Movement/drug effects/genetics
+Cell Proliferation/drug effects
+Cells, Cultured
+Drug Evaluation, Preclinical
+Gene Expression Regulation, Neoplastic/drug effects/genetics
+Humans
+MAP Kinase Kinase 5/genetics/metabolism/physiology
+MAP Kinase Signaling System/drug effects/genetics/physiology
+Male
+Mice
+Mice, Nude
+Mitogen-Activated Protein Kinase 7/genetics/metabolism/*physiology
+Neoplasm Invasiveness
+Phenotype
+Prostatic Hyperplasia/genetics/metabolism/*pathology
+Prostatic Neoplasms/genetics/metabolism/*pathology
+Protein Kinase Inhibitors/pharmacology
+RNA, Small Interfering/pharmacology
+Transfection
+Transplantation, Heterologous",Ramsay AK and McCracken SR and Soofi M and Fleming J and Yu AX and Ahmad I and Morland R and Machesky L and Nixon C and Edwards DR and Nuttall RK and Seywright M and Marquez R and Keller E and Leung HY,"BACKGROUND: Aberrant mitogen/extracellular signal-regulated kinase 5 (MEK5)-extracellular signal-regulated protein kinase 5 (ERK5)-mediated signalling has been implicated in a number of tumour types including prostate cancer (PCa). The molecular basis of ERK5-driven carcinogenesis and its clinical relevance remain to be fully characterised. METHODS: Modulation of ERK5 expression or function in human PCa PC3 and PC3-ERK5 (stably transfected with ERK5) cells was performed using siRNA-mediated knockdown or the MEK inhibitor PD18435 respectively. In vitro significance of ERK5 signalling was assessed by assays for proliferation, motility, invasion and invadopodia. Expression of matrix metalloproteinases/tissue inhibitors of metalloproteases was determined by Q-RT-PCR. Extracellular signal-regulated protein kinase 5 expression in primary and metastatic PCa was examined using immunohistochemistry. RESULTS: Reduction of ERK5 expression or signalling significantly inhibited the motility and invasive capability of PC3 cells. Extracellular signal-regulated protein kinase 5-mediated signalling significantly promoted formation of in vivo metastasis in an orthotopic PCa model (P<0.05). Invadopodia formation was also enhanced by forced ERK5 expression in PC3 cells. Furthermore, in metastatic PCa, nuclear ERK5 immunoreactivity was significantly upregulated when compared with benign prostatic hyperplasia and primary PCa (P=0.013 and P<0.0001, respectively). CONCLUSION: Our in vitro, in vivo and clinical data support an important role for the MEK5-ERK5 signalling pathway in invasive PCa, which represents a potential target for therapy in primary and metastatic PCa.",Missing,British journal of cancer,104

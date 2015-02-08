@@ -1,0 +1,10 @@
+21203822,Associations of circulating and dietary vitamin D with prostate cancer risk: a systematic review and dose-response meta-analysis.,"Case-Control Studies
+*Diet
+Humans
+Male
+Odds Ratio
+Prospective Studies
+Prostatic Neoplasms/*etiology
+Risk
+Vitamin D/*pharmacology
+Vitamins/pharmacology",Gilbert R and Martin RM and Beynon R and Harris R and Savovic J and Zuccolo L and Bekkering GE and Fraser WD and Sterne JA and Metcalfe C,"OBJECTIVE: We systematically reviewed and meta-analyzed literature examining associations of vitamin D (dietary intake, circulating 25-hydroxy-vitamin-D (25(OH)D), and 1,25-dihydroxy-vitamin-D (1,25(OH)(2)D) concentrations) with prostate cancer. METHODS: We searched over 24,000 papers from seven electronic databases (to October 2010) for exposures related to vitamin D. We conducted dose-response random-effects meta-analyses pooling the log odds ratio (OR) and 95% confidence intervals (CI) per change in natural units of each exposure. The I(2) statistic quantified between-study variation due to heterogeneity. RESULTS: Twenty-five papers were included. In prospective studies, the OR per 1,000 IU increase in dietary intake was 1.14 (6 studies; CI: 0.99, 1.31; I (2) = 0%) for total prostate cancer and 0.93 (3 studies; 0.63, 1.39; I (2) = 25%) for aggressive prostate cancer. Five case-control studies examined dietary intake, but there was a high degree of inconsistency between studies (I (2) = 49%). The OR per 10 ng/mL increase in 25(OH)D was 1.04 (14 studies; 0.99, 1.10; I (2) = 0%) for total prostate cancer and 0.98 (6 studies; 0.84, 1.15; I (2) = 32%) for aggressive prostate cancer. The OR per 10 pg/mL increase in 1,25(OH)(2)D was 1.00 (7 studies; 0.87, 1.14; I (2) = 41%) for total prostate cancer and 0.86 (2 studies; 0.72, 1.02; I (2) = 0%) for aggressive prostate cancer. CONCLUSION: Published literature provides little evidence to support a major role of vitamin D in preventing prostate cancer or its progression.",Missing,Cancer causes & control : CCC,22

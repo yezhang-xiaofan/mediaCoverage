@@ -1,0 +1,13 @@
+21336333,Single cells and intracellular processes studied by a plasmonic-based electrochemical impedance microscopy.,Nature chemistry,Wang W and Foley K and Shan X and Wang S and Eaton S and Nagaraj VJ and Wiktor P and Patel U and Tao N,Missing,"Electrochemical impedance spectroscopy is a crucial tool for the detection and study of various biological substances, from DNA and proteins to viruses and bacteria. It does not require any labelling species, and methods based on it have been developed to study cellular processes (such as cell spreading, adhesion, invasion, toxicology and mobility). However, data have so far lacked spatial information, which is essential for investigating heterogeneous processes and imaging high-throughput microarrays. Here, we report an electrochemical impedance microscope based on surface plasmon resonance that resolves local impedance with submicrometre spatial resolution. We have used an electrochemical impedance microscope to monitor the dynamics of cellular processes (apoptosis and electroporation of individual cells) with millisecond time resolution. The high spatial and temporal resolution makes it possible to study individual cells, but also resolve subcellular structures and processes without labels, and with excellent detection sensitivity (~2 pS). We also describe a model that simulates cellular and electrochemical impedance microscope images based on local dielectric constant and conductivity.","Apoptosis
+Cell Line, Tumor
+Cell Physiological Processes
+*Electrochemical Techniques
+Electrodes
+Electroporation
+Gold/chemistry
+Humans
+Microscopy/*methods
+Microscopy, Electron
+Single-Cell Analysis/*methods
+Surface Plasmon Resonance/*methods
+Surface Properties"

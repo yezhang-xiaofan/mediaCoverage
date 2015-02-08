@@ -1,0 +1,12 @@
+21885029,A general framework for detecting disease associations with rare variants in sequencing studies.,American journal of human genetics,Lin DY and Tang ZZ,Missing,"Biological and empirical evidence suggests that rare variants account for a large proportion of the genetic contributions to complex human diseases. Recent technological advances in high-throughput sequencing platforms have made it possible for researchers to generate comprehensive information on rare variants in large samples. We provide a general framework for association testing with rare variants by combining mutation information across multiple variant sites within a gene and relating the enriched genetic information to disease phenotypes through appropriate regression models. Our framework covers all major study designs (i.e., case-control, cross-sectional, cohort and family studies) and all common phenotypes (e.g., binary, quantitative, and age at onset), and it allows arbitrary covariates (e.g., environmental factors and ancestry variables). We derive theoretically optimal procedures for combining rare mutations and construct suitable test statistics for various biological scenarios. The allele-frequency threshold can be fixed or variable. The effects of the combined rare mutations on the phenotype can be in the same direction or different directions. The proposed methods are statistically more powerful and computationally more efficient than existing ones. An application to a deep-resequencing study of drug targets led to a discovery of rare variants associated with total cholesterol. The relevant software is freely available.","Computer Simulation
+Gene Frequency
+Genetic Diseases, Inborn/*genetics
+Genome-Wide Association Study/*methods
+Humans
+Models, Genetic
+Mutation/*genetics
+*Phenotype
+Rare Diseases/*genetics
+Regression Analysis
+Research Design
+*Software"

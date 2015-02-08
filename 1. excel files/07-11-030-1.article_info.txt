@@ -1,0 +1,38 @@
+21881559,Mirror extreme BMI phenotypes associated with gene dosage at the chromosome 16p11.2 locus.,"Adolescent
+Adult
+Aged
+Aging
+Body Height/genetics
+*Body Mass Index
+Case-Control Studies
+Child
+Child, Preschool
+Chromosomes, Human, Pair 16/*genetics
+Cohort Studies
+Comparative Genomic Hybridization
+Developmental Disabilities/genetics
+Energy Metabolism/genetics
+Europe
+Female
+Gene Dosage/*genetics
+Gene Duplication/genetics
+Gene Expression Profiling
+Genetic Predisposition to Disease/genetics
+Genome-Wide Association Study
+Head/anatomy & histology
+Heterozygote
+Humans
+Infant
+Infant, Newborn
+Male
+Mental Disorders/genetics
+Middle Aged
+Mutation/genetics
+North America
+Obesity/*genetics
+*Phenotype
+RNA, Messenger/analysis/genetics
+Sequence Deletion/genetics
+Thinness/*genetics
+Transcription, Genetic
+Young Adult",Jacquemont S and Reymond A and Zufferey F and Harewood L and Walters RG and Kutalik Z and Martinet D and Shen Y and Valsesia A and Beckmann ND and Thorleifsson G and Belfiore M and Bouquillon S and Campion D and de Leeuw N and de Vries BB and Esko T and Fernandez BA and Fernandez-Aranda F and Fernandez-Real JM and Gratacos M and Guilmatre A and Hoyer J and Jarvelin MR and Kooy RF and Kurg A and Le Caignec C and Mannik K and Platt OS and Sanlaville D and Van Haelst MM and Villatoro Gomez S and Walha F and Wu BL and Yu Y and Aboura A and Addor MC and Alembik Y and Antonarakis SE and Arveiler B and Barth M and Bednarek N and Bena F and Bergmann S and Beri M and Bernardini L and Blaumeiser B and Bonneau D and Bottani A and Boute O and Brunner HG and Cailley D and Callier P and Chiesa J and Chrast J and Coin L and Coutton C and Cuisset JM and Cuvellier JC and David A and de Freminville B and Delobel B and Delrue MA and Demeer B and Descamps D and Didelot G and Dieterich K and Disciglio V and Doco-Fenzy M and Drunat S and Duban-Bedu B and Dubourg C and El-Sayed Moustafa JS and Elliott P and Faas BH and Faivre L and Faudet A and Fellmann F and Ferrarini A and Fisher R and Flori E and Forer L and Gaillard D and Gerard M and Gieger C and Gimelli S and Gimelli G and Grabe HJ and Guichet A and Guillin O and Hartikainen AL and Heron D and Hippolyte L and Holder M and Homuth G and Isidor B and Jaillard S and Jaros Z and Jimenez-Murcia S and Helas GJ and Jonveaux P and Kaksonen S and Keren B and Kloss-Brandstatter A and Knoers NV and Koolen DA and Kroisel PM and Kronenberg F and Labalme A and Landais E and Lapi E and Layet V and Legallic S and Leheup B and Leube B and Lewis S and Lucas J and MacDermot KD and Magnusson P and Marshall C and Mathieu-Dramard M and McCarthy MI and Meitinger T and Mencarelli MA and Merla G and Moerman A and Mooser V and Morice-Picard F and Mucciolo M and Nauck M and Ndiaye NC and Nordgren A and Pasquier L and Petit F and Pfundt R and Plessis G and Rajcan-Separovic E and Ramelli GP and Rauch A and Ravazzolo R and Reis A and Renieri A and Richart C and Ried JS and Rieubland C and Roberts W and Roetzer KM and Rooryck C and Rossi M and Saemundsen E and Satre V and Schurmann C and Sigurdsson E and Stavropoulos DJ and Stefansson H and Tengstrom C and Thorsteinsdottir U and Tinahones FJ and Touraine R and Vallee L and van Binsbergen E and Van der Aa N and Vincent-Delorme C and Visvikis-Siest S and Vollenweider P and Volzke H and Vulto-van Silfhout AT and Waeber G and Wallgren-Pettersson C and Witwicki RM and Zwolinksi S and Andrieux J and Estivill X and Gusella JF and Gustafsson O and Metspalu A and Scherer SW and Stefansson K and Blakemore AI and Beckmann JS and Froguel P,"Both obesity and being underweight have been associated with increased mortality. Underweight, defined as a body mass index (BMI) </= 18.5 kg per m(2) in adults and </= -2 standard deviations from the mean in children, is the main sign of a series of heterogeneous clinical conditions including failure to thrive, feeding and eating disorder and/or anorexia nervosa. In contrast to obesity, few genetic variants underlying these clinical conditions have been reported. We previously showed that hemizygosity of a approximately 600-kilobase (kb) region on the short arm of chromosome 16 causes a highly penetrant form of obesity that is often associated with hyperphagia and intellectual disabilities. Here we show that the corresponding reciprocal duplication is associated with being underweight. We identified 138 duplication carriers (including 132 novel cases and 108 unrelated carriers) from individuals clinically referred for developmental or intellectual disabilities (DD/ID) or psychiatric disorders, or recruited from population-based cohorts. These carriers show significantly reduced postnatal weight and BMI. Half of the boys younger than five years are underweight with a probable diagnosis of failure to thrive, whereas adult duplication carriers have an 8.3-fold increased risk of being clinically underweight. We observe a trend towards increased severity in males, as well as a depletion of male carriers among non-medically ascertained cases. These features are associated with an unusually high frequency of selective and restrictive eating behaviours and a significant reduction in head circumference. Each of the observed phenotypes is the converse of one reported in carriers of deletions at this locus. The phenotypes correlate with changes in transcript levels for genes mapping within the duplication but not in flanking regions. The reciprocal impact of these 16p11.2 copy-number variants indicates that severe obesity and being underweight could have mirror aetiologies, possibly through contrasting effects on energy balance.",Missing,Nature,478

@@ -1,0 +1,12 @@
+21841148,Shared language: overlap and segregation of the neuronal infrastructure for speaking and listening revealed by functional MRI.,"Brain/physiology
+Comprehension/physiology
+Female
+*Functional Neuroimaging
+Humans
+Language
+*Magnetic Resonance Imaging
+Male
+Psycholinguistics
+Speech/*physiology
+Speech Perception/*physiology
+Young Adult",Menenti L and Gierhan SM and Segaert K and Hagoort P,"Whether the brain's speech-production system is also involved in speech comprehension is a topic of much debate. Research has focused on whether motor areas are involved in listening, but overlap between speaking and listening might occur not only at primary sensory and motor levels, but also at linguistic levels (where semantic, lexical, and syntactic processes occur). Using functional MRI adaptation during speech comprehension and production, we found that the brain areas involved in semantic, lexical, and syntactic processing are mostly the same for speaking and for listening. Effects of primary processing load (indicative of sensory and motor processes) overlapped in auditory cortex and left inferior frontal cortex, but not in motor cortex, where processing load affected activity only in speaking. These results indicate that the linguistic parts of the language system are used for both speaking and listening, but that the motor system does not seem to provide a crucial contribution to listening.",ru,Psychological science,22

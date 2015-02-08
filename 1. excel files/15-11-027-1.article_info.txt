@@ -1,0 +1,16 @@
+21860095,Cost of dementia in the pre-enlargement countries of the European Union.,"Adult
+Age Factors
+Aged
+Aged, 80 and over
+Alzheimer Disease/*economics/epidemiology/mortality/therapy
+*Cost of Illness
+Dementia/*economics/epidemiology/mortality/therapy
+European Union
+Female
+*Health Care Costs
+Humans
+Male
+Middle Aged
+Sensitivity and Specificity
+Social Support
+Survival Analysis",Luengo-Fernandez R and Leal J and Gray AM,"Dementia has a significant impact on the health and social care systems of the European Union (EU), on patients, on family and friends who provide unpaid care, and on the wider economy and society. Information about its economic burden will be helpful when deciding the allocation of future research funds. We included the 15 countries who were members of the EU (EU-15) before the Eastern enlargement in 2004. The economic burden of dementia was estimated using patient-level studies and aggregate data on morbidity, mortality, and health and social care use. The same methodological approach was used across all countries. Healthcare and social care costs were estimated from expenditure on nursing and residential home care; and primary, outpatient, emergency and inpatient care, as well as drug treatment. Costs of unpaid care and lost earnings due to morbidity and premature death were also included in the study. Dementia was estimated to cost the EU-15 ${\rm \euro}$189 billion in 2007. 68% of total costs were due to informal care, 26% to social care, 5% to health care and 1% to productivity losses. In conclusion, dementia poses a significant economic burden to European health and social care systems, and society overall. Our results will be helpful for policy makers in evaluating policy impact and prioritising research expenditures. This study also highlights the need for more accurate and comparable dementia-related data across the European countries.",Missing,Journal of Alzheimer's disease : JAD,27

@@ -1,0 +1,12 @@
+20581715,Spectral analysis of point processes: motor unit activity and heart rate analysis.,Medicine and science in sports and exercise,Rose W and Knight CA,udel,"PURPOSE: point process data, which are data consisting of event times, arise often in studies of exercise physiology. The frequency content, that is, power spectrum, of point process data reflects physiological control processes. Several methods have been proposed for estimating the power spectrum of point process data. The purpose of this study was to compare the different methods for power spectrum analysis of point process data, using motor unit activity and HR as examples. METHODS: the times of motor unit firing during periodic tasks and of heart beats during natural and paced breathing were determined from EMG and from ECG. The frequency content was determined using the point process Fourier transform, the nonparametric estimate of the power spectrum, and a parametric (model-based) spectral estimate. In the case of the latter two approaches, we also compared the use of the interevent interval signal and the rate signal. The power at the task frequency was computed from the motor unit data. The ratio of power in low-frequency (LF) and high-frequency (HF) bands, used to assess autonomic status, was computed from HR spectra. Simulation data were also generated and analyzed. RESULTS: the different methods found slightly but significantly different motor unit power at the task frequency. The LF/HF ratios derived from the nonparametric and the parametric spectra were highly correlated with each other. LF/HF ratios derived from point process spectra were not correlated with the corresponding ratios derived from nonparametric or parametric spectra. CONCLUSIONS: the three methods of power spectrum estimation yield similar but not identical results. Caution must be used when assessing the LF/HF ratio from point process power spectra.","Adult
+Computer Simulation
+Electrocardiography/methods
+Electromyography/methods
+Fourier Analysis
+Heart Rate/*physiology
+Humans
+Motor Activity/*physiology
+Respiration
+*Signal Processing, Computer-Assisted
+Statistics, Nonparametric
+Young Adult"

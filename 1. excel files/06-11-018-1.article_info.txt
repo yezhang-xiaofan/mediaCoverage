@@ -1,0 +1,16 @@
+21818333,"Accelerated telomere attrition is associated with relative household income, diet and inflammation in the pSoBid cohort.","Adult
+Biological Markers/metabolism
+Cohort Studies
+*Diet
+*Family Characteristics
+Female
+Housing
+Humans
+*Income
+Inflammation/*pathology
+Interleukin-6/metabolism
+Life Style
+Male
+Middle Aged
+Regression Analysis
+Telomere/*metabolism",Shiels PG and McGlynn LM and MacIntyre A and Johnson PC and Batty GD and Burns H and Cavanagh J and Deans KA and Ford I and McConnachie A and McGinty A and McLean JS and Millar K and Sattar N and Tannahill C and Velupillai YN and Packard CJ,"BACKGROUND: It has previously been hypothesized that lower socio-economic status can accelerate biological ageing, and predispose to early onset of disease. This study investigated the association of socio-economic and lifestyle factors, as well as traditional and novel risk factors, with biological-ageing, as measured by telomere length, in a Glasgow based cohort that included individuals with extreme socio-economic differences. METHODS: A total of 382 blood samples from the pSoBid study were available for telomere analysis. For each participant, data was available for socio-economic status factors, biochemical parameters and dietary intake. Statistical analyses were undertaken to investigate the association between telomere lengths and these aforementioned parameters. RESULTS: The rate of age-related telomere attrition was significantly associated with low relative income, housing tenure and poor diet. Notably, telomere length was positively associated with LDL and total cholesterol levels, but inversely correlated to circulating IL-6. CONCLUSIONS: These data suggest lower socio-economic status and poor diet are relevant to accelerated biological ageing. They also suggest potential associations between elevated circulating IL-6, a measure known to predict cardiovascular disease and diabetes with biological ageing. These observations require further study to tease out potential mechanistic links.",Missing,PloS one,6

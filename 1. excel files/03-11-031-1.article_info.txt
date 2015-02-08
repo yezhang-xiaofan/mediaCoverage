@@ -1,0 +1,15 @@
+20649744,"Listening, watching, and reading: the structure and correlates of entertainment preferences.","Adult
+*Choice Behavior
+Factor Analysis, Statistical
+Humans
+Leisure Activities/*psychology
+Male
+*Mass Media/statistics & numerical data
+Middle Aged
+Music
+*Personality
+Personality Tests
+Reading
+Television
+Texas
+Young Adult",Rentfrow PJ and Goldberg LR and Zilca R,"People spend considerable amounts of time and money listening to music, watching TV and movies, and reading books and magazines, yet almost no attention in psychology has been devoted to understanding individual differences in preferences for such entertainment. The present research was designed to examine the structure and correlates of entertainment genre preferences. Analyses of the genre preferences of more than 3,000 individuals revealed a remarkably clear factor structure. Using multiple samples, methods, and geographic regions, data converged to reveal five entertainment-preference dimensions: Communal, Aesthetic, Dark, Thrilling, and Cerebral. Preferences for these entertainment dimensions were uniquely related to demographics and personality traits. Results also indicated that personality accounted for significant proportions of variance in entertainment preferences over and above demographics. The results provide a foundation for developing and testing hypotheses about the psychology of entertainment preferences.",Missing,Journal of personality,79

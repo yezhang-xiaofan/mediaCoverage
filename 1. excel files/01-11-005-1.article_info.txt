@@ -1,0 +1,11 @@
+21470454,Complete sequence and molecular epidemiology of IncK epidemic plasmid encoding blaCTX-M-14.,"Animals
+Cattle
+Escherichia coli/classification/*enzymology/*genetics
+Gene Order
+Great Britain/epidemiology
+Humans
+*Molecular Epidemiology
+Molecular Sequence Data
+Phylogeny
+Plasmids/*genetics
+beta-Lactamases/*genetics",Cottell JL and Webber MA and Coldham NG and Taylor DL and Cerdeno-Tarraga AM and Hauser H and Thomson NR and Woodward MJ and Piddock LJ,"Antimicrobial drug resistance is a global challenge for the 21st century with the emergence of resistant bacterial strains worldwide. Transferable resistance to beta-lactam antimicrobial drugs, mediated by production of extended-spectrum beta-lactamases (ESBLs), is of particular concern. In 2004, an ESBL-carrying IncK plasmid (pCT) was isolated from cattle in the United Kingdom. The sequence was a 93,629-bp plasmid encoding a single antimicrobial drug resistance gene, blaCTX-M-14. From this information, PCRs identifying novel features of pCT were designed and applied to isolates from several countries, showing that the plasmid has disseminated worldwide in bacteria from humans and animals. Complete DNA sequences can be used as a platform to develop rapid epidemiologic tools to identify and trace the spread of plasmids in clinically relevant pathogens, thus facilitating a better understanding of their distribution and ability to transfer between bacteria of humans and animals.",Missing,Emerging infectious diseases,17

@@ -1,0 +1,18 @@
+22201128,RAG-induced DNA double-strand breaks signal through Pim2 to promote pre-B cell survival and limit proliferation.,The Journal of experimental medicine,Bednarski JJ and Nickless A and Bhattacharya D and Amin RH and Schlissel MS and Sleckman BP,Missing,"Interleukin 7 (IL-7) promotes pre-B cell survival and proliferation by activating the Pim1 and Akt kinases. These signals must be attenuated to induce G1 cell cycle arrest and expression of the RAG endonuclease, which are both required for IgL chain gene rearrangement. As lost IL-7 signals would limit pre-B cell survival, how cells survive during IgL chain gene rearrangement remains unclear. We show that RAG-induced DNA double-strand breaks (DSBs) generated during IgL chain gene assembly paradoxically promote pre-B cell survival. This occurs through the ATM-dependent induction of Pim2 kinase expression. Similar to Pim1, Pim2 phosphorylates BAD, which antagonizes the pro-apoptotic function of BAX. However, unlike IL-7 induction of Pim1, RAG DSB-mediated induction of Pim2 does not drive proliferation. Rather, Pim2 has antiproliferative functions that prevent the transit of pre-B cells harboring RAG DSBs from G1 into S phase, where these DNA breaks could be aberrantly repaired. Thus, signals from IL-7 and RAG DSBs activate distinct Pim kinase family members that have context-dependent activities in regulating pre-B cell proliferation and survival.","Animals
+Cell Cycle Checkpoints
+Cell Proliferation
+Cell Survival/genetics
+*DNA Breaks, Double-Stranded
+DNA Damage
+Genes, RAG-1
+Interleukin-7/metabolism
+Mice
+Mice, Knockout
+Phosphorylation
+Precursor Cells, B-Lymphoid/*enzymology
+Protein-Serine-Threonine Kinases/genetics/*metabolism
+Proto-Oncogene Proteins/genetics/*metabolism
+Proto-Oncogene Proteins c-akt/metabolism
+*Signal Transduction
+Transposases/genetics/*metabolism
+bcl-Associated Death Protein/metabolism"

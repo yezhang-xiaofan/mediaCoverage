@@ -1,0 +1,19 @@
+22088804,Quality of life and experience of care in women with metastatic breast cancer: a cross-sectional survey.,"Adult
+Age Distribution
+Aged
+Breast Neoplasms/*epidemiology/*secondary/therapy
+Comorbidity
+Cross-Sectional Studies
+Female
+Great Britain/epidemiology
+Health Surveys
+Humans
+Middle Aged
+*Needs Assessment
+Pain/*epidemiology
+Patient Satisfaction/*statistics & numerical data
+Prevalence
+*Quality of Life
+Risk Assessment
+Risk Factors
+Women's Health/*statistics & numerical data",Reed E and Simmonds P and Haviland J and Corner J,"CONTEXT: Despite developments in the medical management of metastatic breast cancer, little is known about the quality of life (QoL) and experience of care in women with it. OBJECTIVES: To explore QoL, experience of care, and support needs of women living with metastatic breast cancer in the U.K. METHODS: Questionnaire-based, cross-sectional study, undertaken in two U.K. cancer centers and online via the Breast Cancer Care website, assessing QoL and experience of care in 235 women with metastatic breast cancer. RESULTS: QoL was assessed using the Functional Assessment of Cancer Therapy--Breast QoL measure. Overall, QoL was low (mean 89.0, standard deviation 21.8) for total score. Low scores were seen uniformly in physical, social, emotional, and functional well-being domains. Symptom burden was a significant problem, with over one-third of women (34%) reporting high levels of pain and other uncontrolled symptoms. In multiple regression analysis, social well-being was significantly better for older women (P<0.001) but was lower in those with bone metastases only (P=0.002). Functional well-being was significantly higher in women without children (P=0.004). Satisfaction with experience of care was low and appeared to be predominantly in the hospital setting, with little evidence of involvement of general practitioners and palliative care services. CONCLUSION: Despite improvements in treatment and survival of women with metastatic breast cancer, this group reports high symptom burden and dissatisfaction with elements of their care, indicating that alternative models of service delivery should be explored.",Missing,Journal of pain and symptom management,43

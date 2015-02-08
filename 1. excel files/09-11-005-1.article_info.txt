@@ -1,0 +1,18 @@
+21520195,Resistance mutations define specific antiviral effects for inhibitors of the hepatitis C virus p7 ion channel.,"Amantadine/pharmacology
+Amino Acid Sequence
+Antiviral Agents/*pharmacology/therapeutic use
+Carcinoma, Hepatocellular/pathology/virology
+Cell Line, Tumor
+Drug Resistance, Viral/*genetics
+Hepacivirus/drug effects/physiology
+Hepatitis C/*drug therapy
+Humans
+Imino Sugars/pharmacology
+Ion Channels/*antagonists & inhibitors/drug effects/genetics
+Liver Neoplasms/pathology/virology
+Molecular Sequence Data
+Mutation/*genetics
+Polymorphism, Genetic/genetics
+Treatment Outcome
+Viral Proteins/*antagonists & inhibitors/drug effects/*genetics
+Virus Replication/drug effects",Foster TL and Verow M and Wozniak AL and Bentham MJ and Thompson J and Atkins E and Weinman SA and Fishwick C and Foster R and Harris M and Griffin S,"The hepatitis C virus (HCV) p7 ion channel plays a critical role during infectious virus production and represents an important new therapeutic target. Its activity is blocked by structurally distinct classes of small molecules, with sensitivity varying between isolate p7 sequences. Although this is indicative of specific protein-drug interactions, a lack of high-resolution structural information has precluded the identification of inhibitor binding sites, and their modes of action remain undefined. Furthermore, a lack of clinical efficacy for existing p7 inhibitors has cast doubt over their specific antiviral effects. We identified specific resistance mutations that define the mode of action for two classes of p7 inhibitor: adamantanes and alkylated imino sugars (IS). Adamantane resistance was mediated by an L20F mutation, which has been documented in clinical trials. Molecular modeling revealed that L20 resided within a membrane-exposed binding pocket, where drug binding prevented low pH-mediated channel opening. The peripheral binding pocket was further validated by a panel of adamantane derivatives as well as a bespoke molecule designed to bind the region with high affinity. By contrast, an F25A polymorphism found in genotype 3a HCV conferred IS resistance and confirmed that these compounds intercalate between p7 protomers, preventing channel oligomerization. Neither resistance mutation significantly reduced viral fitness in culture, consistent with a low genetic barrier to resistance occurring in vivo. Furthermore, no cross-resistance was observed for the mutant phenotypes, and the two inhibitor classes showed additive effects against wild-type HCV. CONCLUSION: These observations support the notion that p7 inhibitor combinations could be a useful addition to future HCV-specific therapies.",Missing,"Hepatology (Baltimore, Md.)",54

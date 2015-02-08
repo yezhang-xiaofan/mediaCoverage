@@ -1,0 +1,22 @@
+20935218,MGMT-independent temozolomide resistance in pediatric glioblastoma cells associated with a PI3-kinase-mediated HOX/stem cell gene signature.,Cancer research,Gaspar N and Marshall L and Perryman L and Bax DA and Little SE and Viana-Pereira M and Sharp SY and Vassal G and Pearson AD and Reis RM and Hargrave D and Workman P and Jones C,Missing,"Sensitivity to temozolomide is restricted to a subset of glioblastoma patients, with the major determinant of resistance being a lack of promoter methylation of the gene encoding the repair protein DNA methyltransferase MGMT, although other mechanisms are thought to be active. There are, however, limited preclinical data in model systems derived from pediatric glioma patients. We screened a series of cell lines for temozolomide efficacy in vitro, and investigated the differential mechanisms of resistance involved. In the majority of cell lines, a lack of MGMT promoter methylation and subsequent protein overexpression were linked to temozolomide resistance. An exception was the pediatric glioblastoma line KNS42. Expression profiling data revealed a coordinated upregulation of HOX gene expression in resistant lines, especially KNS42, which was reversed by phosphoinositide 3-kinase pathway inhibition. High levels of HOXA9/HOXA10 gene expression were associated with a shorter survival in pediatric high-grade glioma patient samples. Combination treatment in vitro of pathway inhibition and temozolomide resulted in a highly synergistic interaction in KNS42 cells. The resistance gene signature further included contiguous genes within the 12q13-q14 amplicon, including the Akt enhancer PIKE, significantly overexpressed in the KNS42 line. These cells were also highly enriched for CD133 and other stem cell markers. We have thus shown an in vitro link between phosphoinositide 3-kinase-mediated HOXA9/HOXA10 expression, and a drug-resistant, progenitor cell phenotype in MGMT-independent pediatric glioblastoma.","Antineoplastic Agents, Alkylating/pharmacology
+Blotting, Western
+Cell Line, Tumor
+Cell Proliferation/drug effects
+Cell Survival/drug effects
+Child
+Cluster Analysis
+DNA Methylation/drug effects
+Dacarbazine/*analogs & derivatives/pharmacology
+Drug Resistance, Neoplasm/genetics
+Flow Cytometry
+Gene Expression Profiling
+Gene Expression Regulation, Neoplastic
+Glioblastoma/genetics/metabolism/pathology
+Homeodomain Proteins/*genetics/metabolism
+Humans
+Inhibitory Concentration 50
+Neoplastic Stem Cells/metabolism
+O(6)-Methylguanine-DNA Methyltransferase/*genetics/metabolism
+Oligonucleotide Array Sequence Analysis
+Phosphatidylinositol 3-Kinases/*genetics/metabolism
+Promoter Regions, Genetic/genetics"

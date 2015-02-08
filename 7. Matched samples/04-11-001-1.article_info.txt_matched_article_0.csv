@@ -1,0 +1,12 @@
+21478889,A framework for variation discovery and genotyping using next-generation DNA sequencing data.,Nature genetics,DePristo MA and Banks E and Poplin R and Garimella KV and Maguire JR and Hartl C and Philippakis AA and del Angel G and Rivas MA and Hanna M and McKenna A and Fennell TJ and Kernytsky AM and Sivachenko AY and Cibulskis K and Gabriel SB and Altshuler D and Daly MJ,broadinstitute,"Recent advances in sequencing technology make it possible to comprehensively catalog genetic variation in population samples, creating a foundation for understanding human disease, ancestry and evolution. The amounts of raw data produced are prodigious, and many computational steps are required to translate this output into high-quality variant calls. We present a unified analytic framework to discover and genotype variation among multiple samples simultaneously that achieves sensitive and specific results across five sequencing technologies and three distinct, canonical experimental designs. Our process includes (i) initial read mapping; (ii) local realignment around indels; (iii) base quality score recalibration; (iv) SNP discovery and genotyping to find all potential variants; and (v) machine learning to separate true segregating variation from machine artifacts common to next-generation sequencing technologies. We here discuss the application of these tools, instantiated in the Genome Analysis Toolkit, to deep whole-genome, whole-exome capture and multi-sample low-pass ( approximately 4x) 1000 Genomes Project datasets.","Data Interpretation, Statistical
+Databases, Nucleic Acid
+Exons
+*Genetic Variation
+Genetics, Population/methods/statistics & numerical data
+Genome, Human
+*Genotype
+Humans
+Polymorphism, Single Nucleotide
+Sequence Alignment/methods/statistics & numerical data
+Sequence Analysis, DNA/*methods/statistics & numerical data
+Software"

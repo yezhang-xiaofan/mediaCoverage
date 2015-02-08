@@ -1,0 +1,9 @@
+22017992,Primary motor cortex reports efferent control of vibrissa motion on multiple timescales.,Neuron,Hill DN and Curtis JC and Moore JD and Kleinfeld D,Missing,"Exploratory whisking in rat is an example of self-generated movement on multiple timescales, from slow variations in the envelope of whisking to the rapid sequence of muscle contractions during a single whisk cycle. We find that, as a population, spike trains of single units in primary vibrissa motor cortex report the absolute angle of vibrissa position. This representation persists after sensory nerve transection, indicating an efferent source. About two-thirds of the units are modulated by slow variations in the envelope of whisking, while relatively few units report rapid changes in position within the whisk cycle. The combined results from this study and past measurements, which show that primary sensory cortex codes the whisking envelope as a motor copy signal, imply that signals present in both sensory and motor cortices are necessary to compute angular coordinates based on vibrissa touch.","Action Potentials/physiology
+Animals
+Female
+Motor Cortex/*physiology
+Neurons/*physiology
+Rats
+Rats, Long-Evans
+Somatosensory Cortex/physiology
+Vibrissae/innervation/*physiology"

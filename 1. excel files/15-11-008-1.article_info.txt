@@ -1,0 +1,12 @@
+21502525,Dynamic reconfiguration of human brain networks during learning.,"Adaptation, Physiological/*physiology
+Adult
+Brain/anatomy & histology/*physiology
+Female
+Humans
+Learning/*physiology
+Magnetic Resonance Imaging
+Male
+*Models, Neurological
+Nerve Net/anatomy & histology/*physiology
+Neuronal Plasticity/*physiology
+Psychomotor Performance/*physiology",Bassett DS and Wymbs NF and Porter MA and Mucha PJ and Carlson JM and Grafton ST,"Human learning is a complex phenomenon requiring flexibility to adapt existing brain function and precision in selecting new neurophysiological activities to drive desired behavior. These two attributes--flexibility and selection--must operate over multiple temporal scales as performance of a skill changes from being slow and challenging to being fast and automatic. Such selective adaptability is naturally provided by modular structure, which plays a critical role in evolution, development, and optimal network function. Using functional connectivity measurements of brain activity acquired from initial training through mastery of a simple motor skill, we investigate the role of modularity in human learning by identifying dynamic changes of modular organization spanning multiple temporal scales. Our results indicate that flexibility, which we measure by the allegiance of nodes to modules, in one experimental session predicts the relative amount of learning in a future session. We also develop a general statistical framework for the identification of modular architectures in evolving systems, which is broadly applicable to disciplines where network adaptability is crucial to the understanding of system performance.",ucsb,Proceedings of the National Academy of Sciences of the United States of America,108

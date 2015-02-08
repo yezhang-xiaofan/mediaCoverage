@@ -1,0 +1,11 @@
+21371233,Activation of a PAK-MEK signalling pathway in malaria parasite-infected erythrocytes.,"Animals
+Antimalarials/pharmacology
+Erythrocytes/*enzymology/metabolism/*parasitology
+Humans
+Inhibitory Concentration 50
+MAP Kinase Kinase 1/*metabolism
+Plasmodium berghei/pathogenicity
+Plasmodium falciparum/*pathogenicity
+Protein Kinase Inhibitors/pharmacology
+*Signal Transduction
+p21-Activated Kinases/*metabolism",Sicard A and Semblat JP and Doerig C and Hamelin R and Moniatte M and Dorin-Semblat D and Spicer JA and Srivastava A and Retzlaff S and Heussler V and Waters AP and Doerig C,"Merozoites of malaria parasites invade red blood cells (RBCs), where they multiply by schizogony, undergoing development through ring, trophozoite and schizont stages that are responsible for malaria pathogenesis. Here, we report that a protein kinase-mediated signalling pathway involving host RBC PAK1 and MEK1, which do not have orthologues in the Plasmodium kinome, is selectively stimulated in Plasmodium falciparum-infected (versus uninfected) RBCs, as determined by the use of phospho-specific antibodies directed against the activated forms of these enzymes. Pharmacological interference with host MEK and PAK function using highly specific allosteric inhibitors in their known cellular IC50 ranges results in parasite death. Furthermore, MEK inhibitors have parasiticidal effects in vitro on hepatocyte and erythrocyte stages of the rodent malaria parasite Plasmodium berghei, indicating conservation of this subversive strategy in malaria parasites. These findings have profound implications for the development of novel strategies for antimalarial chemotherapy.",Missing,Cellular microbiology,13

@@ -1,0 +1,14 @@
+21820732,Pulse oximetry screening for congenital heart defects in newborn infants (PulseOx): a test accuracy study.,"Adult
+Diagnostic Errors
+Echocardiography
+Female
+Heart Defects, Congenital/*diagnosis/ultrasonography
+Humans
+Infant, Newborn
+Male
+*Neonatal Screening
+*Oximetry/instrumentation
+Predictive Value of Tests
+Pregnancy
+Sensitivity and Specificity
+Ultrasonography, Prenatal",Ewer AK and Middleton LJ and Furmston AT and Bhoyar A and Daniels JP and Thangaratinam S and Deeks JJ and Khan KS,"BACKGROUND: Screening for congenital heart defects relies on antenatal ultrasonography and postnatal clinical examination; however, life-threatening defects often are not detected. We prospectively assessed the accuracy of pulse oximetry as a screening test for congenital heart defects. METHODS: In six maternity units in the UK, asymptomatic newborn babies (gestation >34 weeks) were screened with pulse oximetry before discharge. Infants who did not achieve predetermined oxygen saturation thresholds underwent echocardiography. All other infants were followed up to 12 months of age by use of regional and national registries and clinical follow-up. The main outcome was the sensitivity and specificity of pulse oximetry for detection of critical congenital heart defects (causing death or requiring invasive intervention before 28 days) or major congenital heart disease (causing death or requiring invasive intervention within 12 months of age). FINDINGS: 20,055 newborn babies were screened and 53 had major congenital heart disease (24 critical), a prevalence of 2.6 per 1000 livebirths. Analyses were done on all babies for whom a pulse oximetry reading was obtained. Sensitivity of pulse oximetry was 75.00% (95% CI 53.29-90.23) for critical cases and 49.06% (35.06-63.16) for all major congenital heart defects. In 35 cases, congenital heart defects were already suspected after antenatal ultrasonography, and exclusion of these reduced the sensitivity to 58.33% (27.67-84.83) for critical cases and 28.57% (14.64-46.30) for all cases of major congenital heart defects. False-positive results were noted for 169 (0.8%) babies (specificity 99.16%, 99.02-99.28), of which six cases were significant, but not major, congenital heart defects, and 40 were other illnesses that required urgent medical intervention. INTERPRETATION: Pulse oximetry is a safe, feasible test that adds value to existing screening. It identifies cases of critical congenital heart defects that go undetected with antenatal ultrasonography. The early detection of other diseases is an additional advantage. FUNDING: National Institute for Health Research Health Technology Assessment programme.",Missing,Lancet,378

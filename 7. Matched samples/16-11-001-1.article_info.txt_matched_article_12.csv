@@ -1,0 +1,25 @@
+21045156,Upregulation of DLX5 promotes ovarian cancer cell proliferation by enhancing IRS-2-AKT signaling.,Cancer research,Tan Y and Cheung M and Pei J and Menges CW and Godwin AK and Testa JR,Missing,"The distal-less homeobox gene (dlx) 5 encodes a transcription factor that controls jaw formation and appendage differentiation during embryonic development. We had previously found that Dlx5 is overexpressed in an Akt2 transgenic model of T-cell lymphoma. To investigate if DLX5 is involved in human cancer, we screened its expression in the NCI 60 cancer cell line panel. DLX5 was frequently upregulated in cell lines derived from several tumor types, including ovarian cancer. We next validated its upregulation in primary ovarian cancer specimens. Stable knockdown of DLX5 by lentivirus-mediated transduction of short hairpin RNA (shRNA) resulted in reduced proliferation of ovarian cancer cells due to inhibition of cell cycle progression in connection with the downregulation of cyclins A, B1, D1, D2, and E, and decreased phosphorylation of AKT. Cell proliferation resumed following introduction of a DLX5 cDNA harboring wobbled mutations at the shRNA-targeting sites. Cell proliferation was also rescued by transduction of a constitutively active form of AKT. Intriguingly, downregulation of IRS-2 and MET contributed to the suppression of AKT signaling. Moreover, DLX5 was found to directly bind to the IRS-2 promoter and augmented its transcription. Knockdown of DLX5 in xenografts of human ovarian cancer cells resulted in markedly diminished tumor size. In addition, DLX5 was found to cooperate with HRAS in the transformation of human ovarian surface epithelial cells. Together, these data suggest that DLX5 plays a significant role in the pathogenesis of some ovarian cancers.","Animals
+Blotting, Western
+Cell Cycle
+Cell Line, Tumor
+*Cell Proliferation
+Cells, Cultured
+Cyclins/genetics/metabolism
+Female
+Gene Expression Regulation, Neoplastic
+Homeodomain Proteins/*genetics/metabolism
+Humans
+Insulin Receptor Substrate Proteins/*genetics/metabolism
+Mice
+Mice, SCID
+Ovarian Neoplasms/*genetics/metabolism/pathology
+Promoter Regions, Genetic/genetics
+Protein Binding
+Proto-Oncogene Proteins c-akt/*genetics/metabolism
+RNA Interference
+Reverse Transcriptase Polymerase Chain Reaction
+*Signal Transduction
+Transcription Factors/*genetics/metabolism
+Tumor Burden
+Up-Regulation
+Xenograft Model Antitumor Assays"

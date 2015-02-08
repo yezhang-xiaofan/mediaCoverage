@@ -1,0 +1,17 @@
+22084104,Developmental stalling and organ-autonomous regulation of morphogenesis.,"Age Factors
+Animals
+Bone Morphogenetic Proteins/*metabolism
+DNA Primers/genetics
+Fluorescent Antibody Technique
+Homeodomain Proteins/*metabolism
+Humans
+Immunoprecipitation
+In Situ Hybridization
+MSX1 Transcription Factor/*metabolism
+Mice
+Mice, Knockout
+Odontogenesis/*physiology
+Signal Transduction/*physiology
+Tooth/*embryology
+Transcription Factors/*metabolism
+X-Ray Microtomography",Miletich I and Yu WY and Zhang R and Yang K and Caixeta de Andrade S and Pereira SF and Ohazama A and Mock OB and Buchner G and Sealby J and Webster Z and Zhao M and Bei M and Sharpe PT,"Timing of organ development during embryogenesis is coordinated such that at birth, organ and fetal size and maturity are appropriately proportioned. The extent to which local developmental timers are integrated with each other and with the signaling interactions that regulate morphogenesis to achieve this end is not understood. Using the absolute requirement for a signaling pathway activity (bone morphogenetic protein, BMP) during a critical stage of tooth development, we show that suboptimal levels of BMP signaling do not lead to abnormal morphogenesis, as suggested by mutants affecting BMP signaling, but to a 24-h stalling of the intrinsic developmental clock of the tooth. During this time, BMP levels accumulate to reach critical levels whereupon tooth development restarts, accelerates to catch up with development of the rest of the embryo and completes normal morphogenesis. This suggests that individual organs can autonomously control their developmental timing to adjust their stage of development to that of other organs. We also find that although BMP signaling is critical for the bud-to-cap transition in all teeth, levels of BMP signaling are regulated differently in multicusped teeth. We identify an interaction between two homeodomain transcription factors, Barx1 and Msx1, which is responsible for setting critical levels of BMP activity in multicusped teeth and provides evidence that correlates the levels of Barx1 transcriptional activity with cuspal complexity. This study highlights the importance of absolute levels of signaling activity for development and illustrates remarkable self-regulation in organogenesis that ensures coordination of developmental processes such that timing is subordinate to developmental structure.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

@@ -1,0 +1,20 @@
+21073458,Task-related default mode network modulation and inhibitory control in ADHD: effects of motivation and methylphenidate.,"Adolescent
+Attention/*drug effects
+Attention Deficit Disorder with Hyperactivity/*diagnosis/*drug therapy/psychology
+Brain/drug effects
+Central Nervous System Stimulants/adverse effects/*therapeutic use
+Child
+Evoked Potentials/drug effects
+Female
+Humans
+*Inhibition (Psychology)
+*Magnetic Resonance Imaging
+Male
+Matched-Pair Analysis
+Methylphenidate/adverse effects/*therapeutic use
+Motivation/*drug effects
+Pattern Recognition, Visual/drug effects
+Psychomotor Performance/drug effects
+Reaction Time/drug effects
+Token Economy
+Video Games",Liddle EB and Hollis C and Batty MJ and Groom MJ and Totman JJ and Liotti M and Scerif G and Liddle PF,"BACKGROUND: Deficits characteristic of attention deficit/hyperactivity disorder (ADHD), including poor attention and inhibitory control, are at least partially alleviated by factors that increase engagement of attention, suggesting a hypodopaminergic reward deficit. Lapses of attention are associated with attenuated deactivation of the default mode network (DMN), a distributed brain system normally deactivated during tasks requiring attention to the external world. Task-related DMN deactivation has been shown to be attenuated in ADHD relative to controls. We hypothesised that motivational incentives to balance speed against restraint would increase task engagement during an inhibitory control task, enhancing DMN deactivation in ADHD. We also hypothesised that methylphenidate, an indirect dopamine agonist, would tend to normalise abnormal patterns of DMN deactivation. METHOD: We obtained functional magnetic resonance images from 18 methylphenidate-responsive children with ADHD (DSM-IV combined subtype) and 18 pairwise-matched typically developing children aged 9-15 years while they performed a paced Go/No-go task. We manipulated motivational incentive to balance response speed against inhibitory control, and tested children with ADHD both on and off methylphenidate. RESULTS: When children with ADHD were off-methylphenidate and task incentive was low, event-related DMN deactivation was significantly attenuated compared to controls, but the two groups did not differ under high motivational incentives. The modulation of DMN deactivation by incentive in the children with ADHD, off-methylphenidate, was statistically significant, and significantly greater than in typically developing children. When children with ADHD were on-methylphenidate, motivational modulation of event-related DMN deactivation was abolished, and no attenuation relative to their typically developing peers was apparent in either motivational condition. CONCLUSIONS: During an inhibitory control task, children with ADHD exhibit a raised motivational threshold at which task-relevant stimuli become sufficiently salient to deactivate the DMN. Treatment with methylphenidate normalises this threshold, rendering their pattern of task-related DMN deactivation indistinguishable from that of typically developing children.",Missing,"Journal of child psychology and psychiatry, and allied disciplines",52

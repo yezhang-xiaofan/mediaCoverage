@@ -1,0 +1,13 @@
+21908411,"Relationship between serum vitamin D, disease severity, and airway remodeling in children with asthma.","Adolescent
+*Airway Remodeling
+Asthma/blood/epidemiology/*physiopathology
+Case-Control Studies
+Child
+Comorbidity
+Female
+Humans
+Male
+Prospective Studies
+Respiratory Function Tests
+Vitamin D/*analogs & derivatives/blood
+Vitamin D Deficiency/epidemiology",Gupta A and Sjoukes A and Richards D and Banya W and Hawrylowicz C and Bush A and Saglani S,"RATIONALE: Little is known about vitamin D status and its effect on asthma pathophysiology in children with severe, therapy-resistant asthma (STRA). OBJECTIVES: Relationships between serum vitamin D, lung function, and pathology were investigated in pediatric STRA. METHODS: Serum 25-hydroxyvitamin D [25(OH)D(3)] was measured in 86 children (mean age, 11.7 yr): 36 with STRA, 26 with moderate asthma (MA), and 24 without asthma (control subjects). Relationships between 25(OH)D(3), the asthma control test (ACT), spirometry, corticosteroid use, and exacerbations were assessed. Twenty-two of 36 children with STRA underwent fiberoptic bronchoscopy, bronchoalveolar lavage, and endobronchial biopsy with assessment of airway inflammation and remodeling. MEASUREMENTS AND MAIN RESULTS: 25(OH)D(3) levels (median [IQR]) were significantly lower in STRA (28 [22-38] nmol/L) than in MA (42.5 [29-63] nmol/L) and control subjects (56.5 [45-67] nmol/L) (P < 0.001). There was a positive relationship between 25(OH)D(3) levels and percent predicted FEV(1) (r = 0.4, P < 0.001) and FVC (r = 0.3, P = 0.002) in all subjects. 25(OH)D(3) levels were positively associated with ACT (r = 0.6, P < 0.001), and inversely associated with exacerbations (r = -0.6, P < 0.001) and inhaled steroid dose (r = -0.39, P = 0.001) in MA and STRA. Airway smooth muscle (ASM) mass, but not epithelial shedding or reticular basement membrane thickness, was inversely related to 25(OH)D(3) levels (r = -0.6, P = 0.008). There was a positive correlation between ASM mass and bronchodilator reversibility (r = 0.6, P = 0.009) and an inverse correlation between ASM mass and ACT (r = -0.7, P < 0.001). CONCLUSIONS: Lower vitamin D levels in children with STRA were associated with increased ASM mass and worse asthma control and lung function. The link between vitamin D, airway structure, and function suggests vitamin D supplementation may be useful in pediatric STRA.",doctors,American journal of respiratory and critical care medicine,184

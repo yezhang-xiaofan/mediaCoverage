@@ -1,0 +1,16 @@
+21300875,Paternal MHC expression on mouse trophoblast affects uterine vascularization and fetal growth.,"Animals
+Cell Separation
+Female
+Fetal Development/*genetics
+Flow Cytometry
+*Genomic Imprinting
+Immunohistochemistry
+Major Histocompatibility Complex/*genetics
+Male
+Mice
+Mice, Inbred BALB C
+Mice, Inbred C57BL
+RNA, Messenger/genetics
+Reverse Transcriptase Polymerase Chain Reaction
+Trophoblasts/*immunology
+Uterus/*blood supply",Madeja Z and Yadi H and Apps R and Boulenouar S and Roper SJ and Gardner L and Moffett A and Colucci F and Hemberger M,"The mammalian fetus represents a semiallograft within the maternal uterus yet is not rejected. This situation is particularly pronounced in species with a hemochorial type of placentation, such as humans and rodents, where maternal tissues and blood are in direct contact with fetal trophoblast and thus potentially with paternal antigens. The main polymorphic antigens responsible for graft rejection are MHC antigens. In humans the trophoblast cells invading into the decidua have a unique pattern of MHC class I expression characterized by both classical (HLA-C) and nonclassical (HLA-G and HLA-E) molecules. Whether such an unusual MHC repertoire on the surface of trophoblast is a conserved feature between species with hemochorial placentation has not been resolved. Here we demonstrate, using a range of methods, that C57BL/6 mouse trophoblast predominantly expresses only one MHC class I antigen, H2-K, at the cell surface of giant cells but lacks expression of nonclassical MHC molecules. Antigenic disparity between parental MHCs affects trophoblast-induced transformation of the uterine vasculature and, consequently, placental and fetal gowth. Maternal uterine blood vessels were more dilated, allowing for increased blood supply, in certain combinations of maternal and paternal MHC haplotypes, and these allogeneic fetuses and placentas were heavier at term compared with syngeneic controls. Thus, maternal-fetal immune interactions are instrumental to optimize reproductive success. This cross-talk has important implications for human disorders of pregnancy, such as preeclampsia and fetal growth restriction.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

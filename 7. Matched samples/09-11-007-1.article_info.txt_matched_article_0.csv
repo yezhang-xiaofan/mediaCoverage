@@ -1,0 +1,11 @@
+21855840,Chromosomal haplotypes by genetic phasing of human families.,American journal of human genetics,Roach JC and Glusman G and Hubley R and Montsaroff SZ and Holloway AK and Mauldin DE and Srivastava D and Garg V and Pollard KS and Galas DJ and Hood L and Smit AF,Missing,"Assignment of alleles to haplotypes for nearly all the variants on all chromosomes can be performed by genetic analysis of a nuclear family with three or more children. Whole-genome sequence data enable deterministic phasing of nearly all sequenced alleles by permitting assignment of recombinations to precise chromosomal positions and specific meioses. We demonstrate this process of genetic phasing on two families each with four children. We generate haplotypes for all of the children and their parents; these haplotypes span all genotyped positions, including rare variants. Misassignments of phase between variants (switch errors) are nearly absent. Our algorithm can also produce multimegabase haplotypes for nuclear families with just two children and can handle families with missing individuals. We implement our algorithm in a suite of software scripts (Haploscribe). Haplotypes and family genome sequences will become increasingly important for personalized medicine and for fundamental biology.","*Algorithms
+Chromosomes, Human/*genetics
+*Genetic Variation
+Haplotypes/*genetics
+Humans
+Inheritance Patterns/*genetics
+*Models, Genetic
+Mutation/genetics
+Pedigree
+Sequence Analysis, DNA/methods
+*Software"

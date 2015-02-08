@@ -1,0 +1,16 @@
+21868501,Intestinal injury and endotoxemia in children undergoing surgery for congenital heart disease.,"Down-Regulation/immunology
+Endotoxemia/blood/immunology/*microbiology
+Enzyme-Linked Immunosorbent Assay
+Fatty Acid-Binding Proteins/blood/immunology
+Female
+Heart Defects, Congenital/*surgery
+Humans
+Infant
+Inflammation/blood/immunology/microbiology
+Intestinal Diseases/blood/immunology/*microbiology
+Intestinal Mucosa/immunology/*injuries/*microbiology
+Length of Stay/statistics & numerical data
+Male
+Multiple Organ Failure/blood/immunology/microbiology
+Postoperative Complications/blood/immunology/microbiology
+Severity of Illness Index",Pathan N and Burmester M and Adamovic T and Berk M and Ng KW and Betts H and Macrae D and Waddell S and Paul-Clark M and Nuamah R and Mein C and Levin M and Montana G and Mitchell JA,"RATIONALE: Children with congenital heart disease are at risk of gut barrier dysfunction and translocation of gut bacterial antigens into the bloodstream. This may contribute to inflammatory activation and organ dysfunction postoperatively. OBJECTIVES: To investigate the role of intestinal injury and endotoxemia in the pathogenesis of organ dysfunction after surgery for congenital heart disease. METHODS: We analyzed blood levels of intestinal fatty acid binding protein and endotoxin (endotoxin activity assay) alongside global transcriptomic profiling and assays of monocyte endotoxin receptor expression in children undergoing surgery for congenital heart disease. MEASUREMENTS AND MAIN RESULTS: Levels of intestinal fatty acid binding protein and endotoxin were greater in children with duct-dependent cardiac lesions. Endotoxemia was associated with severity of vital organ dysfunction and intensive care stay. We identified activation of pathogen-sensing, antigen-processing, and immune-suppressing pathways at the genomic level postoperatively and down-regulation of pathogen-sensing receptors on circulating immune cells. CONCLUSIONS: Children undergoing surgery for congenital heart disease are at increased risk of intestinal mucosal injury and endotoxemia. Endotoxin activity correlates with a number of outcome variables in this population, and may be used to guide the use of gut-protective strategies.",Missing,American journal of respiratory and critical care medicine,184

@@ -1,0 +1,23 @@
+22033466,S100A2 promoter-driven conditionally replicative adenovirus targets non-small-cell lung carcinoma.,Gene therapy,Lee K and Yun ST and Yun CO and Ahn BY and Jo EC,Missing,"S100A2, a member of the S100 family of calcium-binding proteins, has been implicated in carcinogenesis as both a tumor suppressor and stimulator. Here, we characterized promoter activity of S100A2, generated an S100A2 promoter-driven conditionally replicative adenovirus (Ad/SA), and evaluated its anti-tumor activity in vitro and in vivo. Promoter activity of S100A2 was greatly restricted to tumor cells, and the S100A2 promoter bound with typical nuclear targets of epidermal growth factor receptor (EGFR) signaling. EGF-stimulated EGFR phosphorylation induced S100A2 expression and further activated E1A expression of Ad/SA, which was restored by EGFR signal inhibition in a concentration-dependent manner in non-small-cell lung carcinoma (NSCLC). In two EGFR-activated tumor xenograft animal models, Ad/SA exhibited potent anti-tumor activity, whereas cetuximab, an EGFR-targeting anticancer drug, was active transiently or ineffective. Combined treatment with cetuximab or cisplatin plus Ad/SA resulted in enhanced anti-tumor activity. Immunohistochemical analysis of tumor sections showed moderate-to-high grade signals for EGFR and adenovirus, and a reduction in viable cells in Ad/SA-treated tumors. Collectively, these results demonstrate that the S100A2 promoter-driven adenovirus is a potent inhibitor of cancers, and further suggest that S100A2 is a target gene of EGFR signaling pathway in NSCLC.","Adenoviridae/*genetics
+Animals
+Antibodies, Monoclonal/pharmacology
+Antibodies, Monoclonal, Humanized
+Antineoplastic Agents/pharmacology
+Carcinoma, Non-Small-Cell Lung/*genetics/therapy
+Cell Line, Tumor
+Chemotactic Factors/*genetics
+Cisplatin/pharmacology
+Gene Expression
+Genetic Vectors/genetics
+Humans
+Lung Neoplasms/*genetics/therapy
+Mice
+Mice, Inbred BALB C
+Mice, Nude
+Oncolytic Virotherapy
+Oncolytic Viruses/*genetics
+*Promoter Regions, Genetic
+Receptor, Epidermal Growth Factor/drug effects/genetics/metabolism
+S100 Proteins/*genetics
+Virus Replication
+Xenograft Model Antitumor Assays"

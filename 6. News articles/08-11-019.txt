@@ -1,0 +1,20 @@
+REUTERS
+Cell therapy aims to prevent transplant rejection
+By Kate Kelland
+A cell treatment to prevent new organs being rejected without the need for lifelong courses of immune drugs is showing promise in mice and may one day make human transplants easier, scientists said.
+The process, if developed for humans, would see transplant patients being injected with their own immune cells after they have first been removed and "taught" in a lab not to reject new tissue, the scientists said on Wednesday.
+"We have developed a new approach to generate cells called regulatory T cells (T-regs) that can control rejection of transplanted tissue in mice," said Andrew Bushell of Britain's Oxford University, whose study was published in the journal Science Translational Medicine.
+For many patients, an organ transplant opens up a new life, but it also means taking drugs called immunosuppressants -- which have a wide-range of side effects -- for the rest of their lives to make sure the organ is not rejected. 
+Novartis's (NOVN.VX) Neoral, Myfortic and Sandimmune, Roche's (ROG.VX) Cellcept, Pfizer's (PFE.N) Rapamune and Prograf from Astellas Pharma (4503.T) are among leading branded drugs given to prevent transplanted organ rejection.
+"Many research groups across the world are trying to solve this problem because developing better ways to prevent transplant rejection is a big unmet clinical need. Regulatory T cells may provide part of the answer," said Bushell.
+The Oxford team, with colleagues from other British universities and the Karolinska Institute in Sweden, developed their technique by harvesting human T cells and culturing them in a lab dish with a drug called cilostamide as well as cells from the tissue being transplanted.
+The scientists found cilostamide, a generic drug already widely used in people with vascular problems, blocks a biological pathway and encourages the growth of T-reg cells.
+By culturing the immune cells with others from the donated tissue, the T-regs are taught to recognise the donor tissue and turn off rejection.
+Researchers then showed that human regulatory T cells produced in this way could also control transplant rejection in an experimental mouse bred to have a human-like immune system.
+The research was among three studies in this week's Science Translational Medicine reporting progress towards potential immune cell treatments to prevent transplant rejection. 
+Scientists say future steps would involving trying the cell therapy approach first in a so-called living donor transplant, where a person donates an organ to a relative or friend.
+A blood sample would be taken from the patient a few weeks before the operation so that the T-regs could be grown and tested in the laboratory before being given back. 
+The transplant would then be carried out and immunosuppressants given to control early rejection. But as the patient's own T-reg cells begin to control rejection, the drugs could be gradually withdrawn until they were no longer needed.
+"If the techniques used in these studies can be transferred to the clinic it could signal a move to replace long term use of immune-suppressing drugs.
+This would be a huge step forward for transplantation," said Shannon Amoils of the British Heart Foundation charity which helped fund the research.
+Bushell said that although these cell therapies were still years away, researchers hoped to be able to start human trials within 3-5 years.

@@ -1,0 +1,10 @@
+22071967,Cross-presentation of tumour antigens by human induced pluripotent stem cell-derived CD141(+)XCR1+ dendritic cells.,"*Antigen Presentation
+Antigens, CD/*metabolism
+Antigens, Neoplasm/*immunology
+Cell Differentiation
+*Cross-Priming
+Dendritic Cells/cytology/*immunology
+Humans
+Induced Pluripotent Stem Cells/*cytology/immunology
+Neoplasms/immunology
+Receptors, G-Protein-Coupled/*metabolism",Silk KM and Silk JD and Ichiryu N and Davies TJ and Nolan KF and Leishman AJ and Carpenter L and Watt SM and Cerundolo V and Fairchild PJ,"Monocyte-derived dendritic cells (moDC) have been widely used in cancer immunotherapy but show significant donor-to-donor variability and low capacity for the cross-presentation of tumour-associated antigens (TAA) to CD8(+) T cells, greatly limiting the success of this approach. Given recent developments in induced pluripotency and the relative ease with which induced pluripotent stem (iPS) cell lines may be generated from individuals, we have succeeded in differentiating dendritic cells (DC) from human leukocyte antigen (HLA)-A(*)0201(+) iPS cells (iPS cell-derived DC (ipDC)), using protocols compliant with their subsequent clinical application. Unlike moDC, a subset of ipDC was found to coexpress CD141 and XCR1 that have been shown previously to define the human equivalent of mouse CD8alpha(+) DC, in which the capacity for cross-presentation has been shown to reside. Accordingly, ipDC were able to cross-present the TAA, Melan A, to a CD8(+) T-cell clone and stimulate primary Melan A-specific responses among naive T cells from an HLA-A(*)0201(+) donor. Given that CD141(+)XCR1(+) DC are present in peripheral blood in trace numbers that preclude their clinical application, the ability to generate a potentially unlimited source from iPS cells offers the possibility of harnessing their capacity for cross-priming of cytotoxic T lymphocytes for the induction of tumour-specific immune responses.",Missing,Gene therapy,19

@@ -1,0 +1,10 @@
+21835876,Policy options to reduce population salt intake.,"Blood Pressure/drug effects
+Cardiovascular Diseases/economics/prevention & control
+Cost-Benefit Analysis
+*Diet, Sodium-Restricted
+Food Industry/legislation & jurisprudence
+Global Health
+*Health Policy
+Humans
+Hypertension/economics/*prevention & control
+Sodium Chloride, Dietary/*administration & dosage/economics",Cappuccio FP and Capewell S and Lincoln P and McPherson K,Missing,Missing,BMJ (Clinical research ed.),343

@@ -1,0 +1,13 @@
+21714648,Clinical effect of point mutations in myelodysplastic syndromes.,The New England journal of medicine,Bejar R and Stevenson K and Abdel-Wahab O and Galili N and Nilsson B and Garcia-Manero G and Kantarjian H and Raza A and Levine RL and Neuberg D and Ebert BL,Missing,"BACKGROUND: Myelodysplastic syndromes are clinically heterogeneous disorders characterized by clonal hematopoiesis, impaired differentiation, peripheral-blood cytopenias, and a risk of progression to acute myeloid leukemia. Somatic mutations may influence the clinical phenotype but are not included in current prognostic scoring systems. METHODS: We used a combination of genomic approaches, including next-generation sequencing and mass spectrometry-based genotyping, to identify mutations in samples of bone marrow aspirate from 439 patients with myelodysplastic syndromes. We then examined whether the mutation status for each gene was associated with clinical variables, including specific cytopenias, the proportion of blasts, and overall survival. RESULTS: We identified somatic mutations in 18 genes, including two, ETV6 and GNAS, that have not been reported to be mutated in patients with myelodysplastic syndromes. A total of 51% of all patients had at least one point mutation, including 52% of the patients with normal cytogenetics. Mutations in RUNX1, TP53, and NRAS were most strongly associated with severe thrombocytopenia (P<0.001 for all comparisons) and an increased proportion of bone marrow blasts (P<0.006 for all comparisons). In a multivariable Cox regression model, the presence of mutations in five genes retained independent prognostic significance: TP53 (hazard ratio for death from any cause, 2.48; 95% confidence interval [CI], 1.60 to 3.84), EZH2 (hazard ratio, 2.13; 95% CI, 1.36 to 3.33), ETV6 (hazard ratio, 2.04; 95% CI, 1.08 to 3.86), RUNX1 (hazard ratio, 1.47; 95% CI, 1.01 to 2.15), and ASXL1 (hazard ratio, 1.38; 95% CI, 1.00 to 1.89). CONCLUSIONS: Somatic point mutations are common in myelodysplastic syndromes and are associated with specific clinical features. Mutations in TP53, EZH2, ETV6, RUNX1, and ASXL1 are predictors of poor overall survival in patients with myelodysplastic syndromes, independently of established risk factors. (Funded by the National Institutes of Health and others.).","Bone Marrow Cells
+Cytogenetic Analysis
+DNA Mutational Analysis
+Genotype
+Humans
+Mass Spectrometry
+Middle Aged
+Myelodysplastic Syndromes/*genetics/mortality
+*Point Mutation
+Prognosis
+Proportional Hazards Models
+Sequence Analysis, DNA
+Survival Analysis"

@@ -1,0 +1,15 @@
+22420046,Investigating the contribution of common genetic variants to the risk and pathogenesis of ADHD.,"Adolescent
+Attention Deficit Disorder with Hyperactivity/*genetics
+Child
+Female
+*Gene Dosage
+Genetic Predisposition to Disease
+Genome-Wide Association Study
+Humans
+Inheritance Patterns/*genetics
+Linkage Disequilibrium
+Male
+*Polymorphism, Single Nucleotide
+Receptors, Nicotinic/*genetics
+Risk Assessment
+alpha7 Nicotinic Acetylcholine Receptor",Stergiakouli E and Hamshere M and Holmans P and Langley K and Zaharieva I and Hawi Z and Kent L and Gill M and Williams N and Owen MJ and O'Donovan M and Thapar A,"OBJECTIVE: A major motivation for seeking disease-associated genetic variation is to identify novel risk processes. Although rare copy number variants (CNVs) appear to contribute to attention deficit hyperactivity disorder (ADHD), common risk variants (single-nucleotide polymorphisms [SNPs]) have not yet been detected using genome-wide association studies (GWAS). This raises the concern as to whether future larger-scale, adequately powered GWAS will be worthwhile. The authors undertook a GWAS of ADHD and examined whether associated SNPs, including those below conventional levels of significance, influenced the same biological pathways affected by CNVs. METHOD: The authors analyzed genome-wide SNP frequencies in 727 children with ADHD and 5,081 comparison subjects. The gene sets that were enriched in a pathway analysis of the GWAS data (the top 5% of SNPs) were tested for an excess of genes spanned by large, rare CNVs in the children with ADHD. RESULTS: No SNP achieved genome-wide significance levels. As previously reported in a subsample of the present study, large, rare CNVs were significantly more common in case subjects than comparison subjects. Thirteen biological pathways enriched for SNP association significantly overlapped with those enriched for rare CNVs. These included cholesterol-related and CNS development pathways. At the level of individual genes, CHRNA7, which encodes a nicotinic receptor subunit previously implicated in neuropsychiatric disorders, was affected by six large duplications in case subjects (none in comparison subjects), and SNPs in the gene had a gene-wide p value of 0.0002 for association in the GWAS. CONCLUSIONS: Both common and rare genetic variants appear to be relevant to ADHD and index-shared biological pathways.",Missing,The American journal of psychiatry,169

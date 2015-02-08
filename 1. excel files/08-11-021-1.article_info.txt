@@ -1,0 +1,13 @@
+21624810,Functional crosstalk between Bmi1 and MLL/Hoxa9 axis in establishment of normal hematopoietic and leukemic stem cells.,"Animals
+Coculture Techniques
+Hematopoietic Stem Cells/cytology/*metabolism
+Homeodomain Proteins/*metabolism
+Mice
+Mice, Inbred C57BL
+Mice, Knockout
+Neoplastic Stem Cells/*metabolism/pathology
+Nuclear Proteins/deficiency/*metabolism
+Oncogene Proteins, Fusion/*metabolism
+Polycomb Repressive Complex 1
+Proto-Oncogene Proteins/deficiency/*metabolism
+Repressor Proteins/deficiency/*metabolism",Smith LL and Yeung J and Zeisig BB and Popov N and Huijbers I and Barnes J and Wilson AJ and Taskesen E and Delwel R and Gil J and Van Lohuizen M and So CW,"Bmi1 is required for efficient self-renewal of hematopoietic stem cells (HSCs) and leukemic stem cells (LSCs). In this study, we investigated whether leukemia-associated fusion proteins, which differ in their ability to activate Hox expression, could initiate leukemia in the absence of Bmi1. AML1-ETO and PLZF-RARalpha, which do not activate Hox, triggered senescence in Bmi1(-/-) cells. In contrast, MLL-AF9, which drives expression of Hoxa7 and Hoxa9, readily transformed Bmi1(-/-) cells. MLL-AF9 could not initiate leukemia in Bmi1(-/-)Hoxa9(-/-) mice, which have further compromised HSC functions. But either gene could restore the ability of MLL-AF9 to establish LSCs in the double null background. As reported for Bmi1, Hoxa9 regulates expression of p16(Ink4a)/p19(ARF) locus and could overcome senescence induced by AML1-ETO. Together, these results reveal an important functional interplay between MLL/Hox and Bmi1 in regulating cellular senescence for LSC development, suggesting that a synergistic targeting of both molecules is required to eradicate a broader spectrum of LSCs.",Missing,Cell stem cell,8

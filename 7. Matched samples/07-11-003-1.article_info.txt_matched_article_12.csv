@@ -1,0 +1,14 @@
+21127196,Dynamic mathematical modeling of IL13-induced signaling in Hodgkin and primary mediastinal B-cell lymphoma allows prediction of therapeutic targets.,Cancer research,Raia V and Schilling M and Bohm M and Hahn B and Kowarsch A and Raue A and Sticht C and Bohl S and Saile M and Moller P and Gretz N and Timmer J and Theis F and Lehmann WD and Lichter P and Klingmuller U,Missing,"Primary mediastinal B-cell lymphoma (PMBL) and classical Hodgkin lymphoma (cHL) share a frequent constitutive activation of JAK (Janus kinase)/STAT signaling pathway. Because of complex, nonlinear relations within the pathway, key dynamic properties remained to be identified to predict possible strategies for intervention. We report the development of dynamic pathway models based on quantitative data collected on signaling components of JAK/STAT pathway in two lymphoma-derived cell lines, MedB-1 and L1236, representative of PMBL and cHL, respectively. We show that the amounts of STAT5 and STAT6 are higher whereas those of SHP1 are lower in the two lymphoma cell lines than in normal B cells. Distinctively, L1236 cells harbor more JAK2 and less SHP1 molecules per cell than MedB-1 or control cells. In both lymphoma cell lines, we observe interleukin-13 (IL13)-induced activation of IL4 receptor alpha, JAK2, and STAT5, but not of STAT6. Genome-wide, 11 early and 16 sustained genes are upregulated by IL13 in both lymphoma cell lines. Specifically, the known STAT-inducible negative regulators CISH and SOCS3 are upregulated within 2 hours in MedB-1 but not in L1236 cells. On the basis of this detailed quantitative information, we established two mathematical models, MedB-1 and L1236 model, able to describe the respective experimental data. Most of the model parameters are identifiable and therefore the models are predictive. Sensitivity analysis of the model identifies six possible therapeutic targets able to reduce gene expression levels in L1236 cells and three in MedB-1. We experimentally confirm reduction in target gene expression in response to inhibition of STAT5 phosphorylation, thereby validating one of the predicted targets.","Cell Line, Tumor
+Hodgkin Disease/genetics/*metabolism/therapy
+Humans
+Interleukin-13/*pharmacology
+Janus Kinase 2/antagonists & inhibitors/genetics/metabolism
+Lymphoma, B-Cell/genetics/*metabolism/therapy
+Mediastinal Neoplasms/genetics/*metabolism/therapy
+*Models, Biological
+Molecular Targeted Therapy/*methods
+Phosphorylation/drug effects
+STAT5 Transcription Factor/metabolism
+STAT6 Transcription Factor/metabolism
+Signal Transduction/drug effects
+Suppressor of Cytokine Signaling Proteins/metabolism"

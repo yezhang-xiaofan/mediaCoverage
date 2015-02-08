@@ -1,0 +1,15 @@
+21183056,"A Bayesian threshold-linear model evaluation of perinatal mortality, dystocia, birth weight, and gestation length in a Holstein herd.",Journal of dairy science,Johanson JM and Berger PJ and Tsuruta S and Misztal I,Missing,"The objective of this research was to estimate genetic parameters for a multiple-trait evaluation of dystocia (DYS), perinatal mortality (PM), birth weight (BWT), and gestation length (GL) in Holsteins. The data included 5,712 calving records collected between 1968 and 2005 from the Iowa State University dairy breeding herd in Ankeny. The incidence of PM was 8.8% and that of DYS 28.8%; mean BWT was 40.5 kg, and GL was 279 d. A threshold-linear animal model included the effects of year, season, sex of calf, parity, sire group, direct genetic, maternal genetic, and maternal permanent environment. Direct heritabilities for DYS, PM, BWT, and GL were 0.11 (0.04), 0.13 (0.05), 0.26 (0.04), and 0.51 (0.05), respectively. Maternal heritabilities were 0.14 (0.04), 0.15 (0.03), 0.08 (0.01), and 0.08 (0.02), for DYS, PM, BWT, and GL, respectively. The heritabilities are the posterior means of the Gibbs samples with their standard deviations in parentheses. The direct genetic correlation between PM and DYS was estimated at 0.67 (0.19), whereas the maternal genetic correlation was 0.45 (0.16). Direct and maternal PM and DYS are partially controlled by the same genes. Selection on only calving ease is not sufficient to control PM. With moderate genetic correlations between all 4 traits, BWT and GL should be included with DYS and PM in an evaluation of calving performance.","Animals
+Bayes Theorem
+Birth Weight/*genetics
+Breeding
+Cattle
+Cattle Diseases/epidemiology/*genetics
+Dystocia/epidemiology/genetics/*veterinary
+Female
+*Gestational Age
+Incidence
+Linear Models
+Male
+*Perinatal Mortality
+Pregnancy
+Species Specificity"

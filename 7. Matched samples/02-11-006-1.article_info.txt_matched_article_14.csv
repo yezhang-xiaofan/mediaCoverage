@@ -1,0 +1,14 @@
+20581716,Validation of accelerometer wear and nonwear time classification algorithm.,Medicine and science in sports and exercise,Choi L and Liu Z and Matthews CE and Buchowski MS,vanderbilt,"INTRODUCTION: the use of movement monitors (accelerometers) for measuring physical activity (PA) in intervention and population-based studies is becoming a standard methodology for the objective measurement of sedentary and active behaviors and for the validation of subjective PA self-reports. A vital step in PA measurement is the classification of daily time into accelerometer wear and nonwear intervals using its recordings (counts) and an accelerometer-specific algorithm. PURPOSE: the purpose of this study was to validate and improve a commonly used algorithm for classifying accelerometer wear and nonwear time intervals using objective movement data obtained in the whole-room indirect calorimeter. METHODS: we conducted a validation study of a wear or nonwear automatic algorithm using data obtained from 49 adults and 76 youth wearing accelerometers during a strictly monitored 24-h stay in a room calorimeter. The accelerometer wear and nonwear time classified by the algorithm was compared with actual wearing time. Potential improvements to the algorithm were examined using the minimum classification error as an optimization target. RESULTS: the recommended elements in the new algorithm are as follows: 1) zero-count threshold during a nonwear time interval, 2) 90-min time window for consecutive zero or nonzero counts, and 3) allowance of 2-min interval of nonzero counts with the upstream or downstream 30-min consecutive zero-count window for detection of artifactual movements. Compared with the true wearing status, improvements to the algorithm decreased nonwear time misclassification during the waking and the 24-h periods (all P values < 0.001). CONCLUSIONS: the accelerometer wear or nonwear time algorithm improvements may lead to more accurate estimation of time spent in sedentary and active behaviors.","*Acceleration
+Adult
+Aged
+*Algorithms
+Body Weight/physiology
+Female
+Humans
+Male
+Middle Aged
+Monitoring, Ambulatory/*instrumentation
+*Motor Activity
+Sedentary Lifestyle
+*Sports Equipment
+Young Adult"

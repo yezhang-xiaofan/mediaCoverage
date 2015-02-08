@@ -1,0 +1,17 @@
+22005676,Selective silencing of Na(V)1.7 decreases excitability and conduction in vagal sensory neurons.,The Journal of physiology,Muroi Y and Ru F and Kollarik M and Canning BJ and Hughes SA and Walsh S and Sigg M and Carr MJ and Undem BJ,Missing,"There has been much information learned in recent years about voltage gated sodium channel (Na(V)) subtypes in somatosensory pain signalling, but much less is known about the role of specific sodium channel subtypes in the vagal sensory system. In this study, we developed a technique using adeno-associated viruses (AAVs) to directly introduce shRNA against Na(V)1.7 subtype gene into the vagal sensory ganglia of guinea pigs in vivo. Na(V)1.7 gene expression in nodose ganglia was effectively and selectively reduced without influencing the expression of other sodium channel subtype genes including Na(V)1.1, 1.2, 1.3 1.6, 1.8, or 1.9. Using a whole cell patch-clamp technique, this effect on Na(V)1.7 gene expression coincided with a reduction in tetrodotoxin-sensitive sodium current, a requirement for much larger depolarizing stimulus to initiate action potentials, and reduction in repetitive action potential discharge. Extracellular recordings in the isolated vagus nerve revealed that the conduction of action potentials in sensory A- and C-fibres in many neurons was effectively abolished after Na(V)1.7 shRNA introduction. Moreover, bilateral Na(V)1.7 shRNA injected animals survived for several months and the vagal reflex behaviour, exemplified by citric acid-induced coughing, was significantly suppressed. These data indicate that selectively silencing Na(V)1.7 ion channel expression leads to a substantial decrease in neural excitability and conduction block in vagal afferent nerves.","Action Potentials/drug effects
+Animals
+Citric Acid
+Cough/chemically induced/*physiopathology
+Dependovirus/genetics
+Green Fluorescent Proteins/genetics
+Guinea Pigs
+Male
+Neurons, Afferent/physiology
+Nodose Ganglion/*physiology
+Patch-Clamp Techniques
+RNA, Small Interfering/genetics
+Sensory Receptor Cells/*physiology
+Sodium Channel Blockers/pharmacology
+Sodium Channels/genetics/*physiology
+Tetrodotoxin/pharmacology
+Transduction, Genetic"

@@ -1,0 +1,19 @@
+21809354,A protective antiarrhythmic role of ursodeoxycholic acid in an in vitro rat model of the cholestatic fetal heart.,"Adult
+Animals
+Anti-Arrhythmia Agents/administration & dosage/pharmacology
+Arrhythmias, Cardiac/etiology/*prevention & control
+Cells, Cultured/cytology/drug effects
+Cholestasis, Intrahepatic/*complications/drug therapy
+Disease Models, Animal
+Female
+Fetal Heart/*drug effects
+Heart Ventricles/cytology/pathology
+Humans
+In Vitro Techniques
+Muscle Cells/cytology/physiology
+Pregnancy
+Pregnancy Complications/diagnosis/drug therapy
+Rats
+Rats, Wistar
+Treatment Outcome
+Ursodeoxycholic Acid/administration & dosage/*pharmacology",Miragoli M and Kadir SH and Sheppard MN and Salvarani N and Virta M and Wells S and Lab MJ and Nikolaev VO and Moshkov A and Hague WM and Rohr S and Williamson C and Gorelik J,"Intrahepatic cholestasis of pregnancy may be complicated by fetal arrhythmia, fetal hypoxia, preterm labor, and, in severe cases, intrauterine death. The precise etiology of fetal death is not known. However, taurocholate has been demonstrated to cause arrhythmia and abnormal calcium dynamics in cardiomyocytes. To identify the underlying reason for increased susceptibility of fetal cardiomyocytes to arrhythmia, we studied myofibroblasts (MFBs), which appear during structural remodeling of the adult diseased heart. In vitro, they depolarize rat cardiomyocytes via heterocellular gap junctional coupling. Recently, it has been hypothesized that ventricular MFBs might appear in the developing human heart, triggered by physiological fetal hypoxia. However, their presence in the fetal heart (FH) and their proarrhythmogenic effects have not been systematically characterized. Immunohistochemistry demonstrated that ventricular MFBs transiently appear in the human FH during gestation. We established two in vitro models of the maternal heart (MH) and FH, both exposed to increasing doses of taurocholate. The MH model consisted of confluent strands of rat cardiomyocytes, whereas for the FH model, we added cardiac MFBs on top of cardiomyocytes. Taurocholate in the FH model, but not in the MH model, slowed conduction velocity from 19 to 9 cm/s, induced early after depolarizations, and resulted in sustained re-entrant arrhythmias. These arrhythmic events were prevented by ursodeoxycholic acid, which hyperpolarized MFB membrane potential by modulating potassium conductance. CONCLUSION: These results illustrate that the appearance of MFBs in the FH may contribute to arrhythmias. The above-described mechanism represents a new therapeutic approach for cardiac arrhythmias at the level of MFB.",Missing,"Hepatology (Baltimore, Md.)",54

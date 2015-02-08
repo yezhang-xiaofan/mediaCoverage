@@ -1,0 +1,17 @@
+21335554,Recognition of the major cat allergen Fel d 1 through the cysteine-rich domain of the mannose receptor determines its allergenicity.,"Animals
+Antibody Specificity/immunology
+Asthma/genetics/*immunology/metabolism
+Cats
+Dendritic Cells/*immunology/metabolism
+Gene Silencing
+Glycoproteins/*immunology/metabolism/pharmacology
+Humans
+Immunoglobulin E/immunology/metabolism
+Immunoglobulin G/immunology/metabolism
+Lectins, C-Type/genetics/*immunology/metabolism
+Mannose-Binding Lectins/genetics/*immunology/metabolism
+Mice
+Mice, Knockout
+Protein Binding
+Protein Structure, Tertiary
+Receptors, Cell Surface/genetics/*immunology/metabolism",Emara M and Royer PJ and Abbas Z and Sewell HF and Mohamed GG and Singh S and Peel S and Fox J and Shakib F and Martinez-Pomares L and Ghaemmaghami AM,"Dendritic cells are professional antigen-presenting cells that are specialized in antigen uptake and presentation. Allergy to cat has increased substantially in recent years and has been shown to be positively associated with asthma. We have recently shown that the mannose receptor (MR), a C-type lectin expressed by dendritic cells, recognizes various glycoallergens from diverse sources and is involved in promoting allergic responses to a major house dust mite allergen in vitro. Here we investigated the potential role of MR in allergic responses to Fel d 1, a major cat allergen. Fel d 1 binding to MR was confirmed by ELISA. Using blocking, gene silencing (siRNA) experiments, and MR knock-out (MR(-/-)) cells, we have demonstrated that MR plays a major role in internalization of Fel d 1 by human and mouse antigen-presenting cells. Intriguingly, unlike other glycoallergens, recognition of Fel d 1 by MR is mediated by the cysteine-rich domain, which correlates with the presence of sulfated carbohydrates in natural Fel d 1. WT and MR(-/-) mice were used to study the role of MR in allergic sensitization to Fel d 1 in vivo. MR(-/-) mice sensitized with cat dander extract and Fel d 1 produced significantly lower levels of total IgE, Fel d 1-specific-IgE and IgG1, the hallmarks of allergic response, compared with WT mice. Our data show for the first time that Fel d 1 is a novel ligand of the cysteine-rich domain of MR and that MR is likely to play a pivotal role in allergic sensitization to airborne allergens in vivo.",Missing,The Journal of biological chemistry,286

@@ -1,0 +1,17 @@
+21372205,DLC1 interaction with S100A10 mediates inhibition of in vitro cell invasion and tumorigenicity of lung cancer cells through a RhoGAP-independent mechanism.,Cancer research,Yang X and Popescu NC and Zimonjic DB,Missing,"The DLC1 gene encodes a Rho GTPase-activating protein (RhoGAP) that functions as a tumor suppressor in several common human cancers. The multidomain structure of DLC1 enables interaction with a number of other proteins. Here we report that the proinflammatory protein S100A10 (also known as p11), a key cell surface receptor for plasminogen which regulates pericellular proteolysis and tumor cell invasion, is a new binding partner of DLC1 in human cells. We determined that the 2 proteins colocalize in the cell cytoplasm and that their binding is mediated by central sequences in the central domain of DLC1 and the C-terminus of S100A10. Because the same S100A10 sequence also mediates binding to Annexin 2, we found that DLC1 competed with Annexin 2 for interaction with S100A10. DLC1 binding to S100A10 did not affect DLC1's RhoGAP activity, but it decreased the steady-state level of S100A10 expression in a dose-dependent manner by displacing it from Annexin 2 and making it accessible to ubiquitin-dependent degradation. This process attenuated plasminogen activation and resulted in inhibition of in vitro cell migration, invasion, colony formation, and anchorage-independent growth of aggressive lung cancer cells. These results suggest that a novel GAP-independent mechanism contributes to the tumor suppressive activity of DLC1, and highlight the importance and complexity of protein-protein interactions involving DLC1 in certain cancers.","Amino Acid Motifs
+Annexin A2/*metabolism
+Binding Sites
+Breast Neoplasms/metabolism/pathology
+Carcinoma, Non-Small-Cell Lung/*metabolism/pathology
+Cell Growth Processes/physiology
+Cell Line, Tumor
+Down-Regulation
+GTPase-Activating Proteins/*metabolism
+HEK293 Cells
+Humans
+Lung Neoplasms/*metabolism/pathology
+Plasminogen/metabolism
+Protein Binding
+S100 Proteins/*metabolism
+Tumor Suppressor Proteins/*metabolism
+Ubiquitination"

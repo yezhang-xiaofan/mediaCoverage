@@ -1,0 +1,9 @@
+22073188,RNA sequencing reveals differential expression of mitochondrial and oxidation reduction genes in the long-lived naked mole-rat when compared to mice.,"Animals
+Antigens, Neoplasm/genetics
+Cell Adhesion Molecules/genetics
+Mice
+Mitochondria/*genetics
+Mole Rats/*genetics
+Oxidation-Reduction
+*Sequence Analysis, RNA
+alpha-Macroglobulins/genetics",Yu C and Li Y and Holmes A and Szafranski K and Faulkes CG and Coen CW and Buffenstein R and Platzer M and de Magalhaes JP and Church GM,"The naked mole-rat (Heterocephalus glaber) is a long-lived, cancer resistant rodent and there is a great interest in identifying the adaptations responsible for these and other of its unique traits. We employed RNA sequencing to compare liver gene expression profiles between naked mole-rats and wild-derived mice. Our results indicate that genes associated with oxidoreduction and mitochondria were expressed at higher relative levels in naked mole-rats. The largest effect is nearly 300-fold higher expression of epithelial cell adhesion molecule (Epcam), a tumour-associated protein. Also of interest are the protease inhibitor, alpha2-macroglobulin (A2m), and the mitochondrial complex II subunit Sdhc, both ageing-related genes found strongly over-expressed in the naked mole-rat. These results hint at possible candidates for specifying species differences in ageing and cancer, and in particular suggest complex alterations in mitochondrial and oxidation reduction pathways in the naked mole-rat. Our differential gene expression analysis obviated the need for a reference naked mole-rat genome by employing a combination of Illumina/Solexa and 454 platforms for transcriptome sequencing and assembling transcriptome contigs of the non-sequenced species. Overall, our work provides new research foci and methods for studying the naked mole-rat's fascinating characteristics.",Missing,PloS one,6

@@ -1,0 +1,8 @@
+21451529,Factors affecting the effective number of tests in genetic association studies: a comparative study of three PCA-based methods.,Journal of human genetics,Wen SH and Lu ZS,tcu,"The number of tested marker becomes numerous in genetic association studies (GAS) and one major challenge is to derive the multiple testing threshold. Some approaches calculating an effective number (M(eff)) of tests in GAS were developed and have been shown to be promising. As yet, there have been no comparisons of their robustness to influencing factors. We evaluated the performance of three principal component analysis (PCA)-based M(eff) estimation formulas (M(eff-C) in Cheverud (2001), M(eff-L) in Li and Ji (2005), and M(eff-G) in Galwey (2009)). Four influencing factors including LD measurements, marker density, population samples and the total number of tested markers were considered. We validated them by the Bonferroni's method and the permutation test with 10 000 random shuffles based on three real data sets. For each factor, M(eff-C) yielded conservative threshold except with D' coefficient, and M(eff-G) would be too liberal compared with the permutation test. Our results indicated that M(eff-L) based on r(2) coefficient achieve close approximation of the permutation threshold. As for a large number of markers, we recommended to use M(eff-L) with r(2) coefficient according to fixed-length separation, as well as fixed-number separation, to obtain accurate estimate of the multiple testing threshold and to save more computational time.","Genetic Association Studies/*methods
+*Genetic Testing
+Genomics
+Humans
+Models, Genetic
+Models, Statistical
+Polymorphism, Single Nucleotide
+*Principal Component Analysis"

@@ -1,0 +1,21 @@
+21629154,The influence of maternal body mass index on infant adiposity and hepatic lipid content.,"Abdominal Fat
+*Adiposity
+Anthropometry
+Body Composition
+*Body Mass Index
+Body Weight
+Child
+Child, Preschool
+Female
+Great Britain
+Humans
+Infant
+*Infant, Newborn
+Lipids/*analysis
+Liver/*chemistry
+Male
+*Mothers
+Obesity/complications
+Overweight/complications
+Pregnancy
+*Prenatal Exposure Delayed Effects",Modi N and Murgasova D and Ruager-Martin R and Thomas EL and Hyde MJ and Gale C and Santhakumaran S and Dore CJ and Alavi A and Bell JD,"Maternal overweight and obesity are associated with adverse offspring outcome in later life. The causal biological effectors are uncertain. Postulating that initiating events may be alterations to infant body composition established in utero, we tested the hypothesis that neonatal adipose tissue (AT) content and distribution and liver lipid are influenced by maternal BMI. We studied 105 healthy mother-neonate pairs. We assessed infant AT compartments by whole body MR imaging and intrahepatocellular lipid content by H MR spectroscopy. Maternal BMI ranged from 16.7 to 36.0. With each unit increase in maternal BMI, having adjusted for infant sex and weight, there was an increase in infant total (8 mL; 95% CI, 0.09-14.0; p = 0.03), abdominal (2 mL; 95% CI, 0.7-4.0; p = 0.005), and nonabdominal (5 mL; 95% CI, 0.09-11.0; p = 0.054) AT, and having adjusted for infant sex and postnatal age, an increase of 8.6% (95% CI, 1.1-16.8; p = 0.03) in intrahepatocellular lipid. Infant abdominal AT and liver lipid increase with increasing maternal BMI across the normal range. These effects may be the initiating determinants of a life-long trajectory leading to adverse metabolic health.",Missing,Pediatric research,70

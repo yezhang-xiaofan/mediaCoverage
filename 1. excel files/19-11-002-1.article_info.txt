@@ -1,0 +1,14 @@
+21261804,Could increased time spent in a thermal comfort zone contribute to population increases in obesity?,"Adaptation, Physiological
+Adipose Tissue, Brown/physiology
+Adiposity
+Body Weight
+Energy Metabolism/physiology
+Great Britain/epidemiology
+*Heating
+Humans
+Obesity/*epidemiology/metabolism
+Prevalence
+Seasons
+*Temperature
+Thermogenesis
+United States/epidemiology",Johnson F and Mavrogianni A and Ucci M and Vidal-Puig A and Wardle J,"Domestic winter indoor temperatures in the USA, UK and other developed countries appear to be following an upwards trend. This review examines evidence of a causal link between thermal exposures and increases in obesity prevalence, focusing on acute and longer-term biological effects of time spent in thermal comfort compared with mild cold. Reduced exposure to seasonal cold may have a dual effect on energy expenditure, both minimizing the need for physiological thermogenesis and reducing thermogenic capacity. Experimental studies show a graded association between acute mild cold and human energy expenditure over the range of temperatures relevant to indoor heating trends. Meanwhile, recent studies of the role of brown adipose tissue (BAT) in human thermogenesis suggest that increased time spent in conditions of thermal comfort can lead to a loss of BAT and reduced thermogenic capacity. Pathways linking cold exposure and adiposity have not been directly tested in humans. Research in naturalistic and experimental settings is needed to establish effects of changes in thermal exposures on weight, which may raise possibilities for novel public health strategies to address obesity.",Missing,Obesity reviews : an official journal of the International Association for the Study of Obesity,12

@@ -1,0 +1,14 @@
+21944779,A hexanucleotide repeat expansion in C9ORF72 is the cause of chromosome 9p21-linked ALS-FTD.,"Alleles
+Amyotrophic Lateral Sclerosis/*genetics
+*Chromosomes, Human, Pair 9
+Female
+Finland
+Frontotemporal Dementia/*genetics
+Genetic Predisposition to Disease
+Genotype
+Haplotypes
+Humans
+Male
+*Microsatellite Repeats
+Pedigree
+Polymorphism, Single Nucleotide",Renton AE and Majounie E and Waite A and Simon-Sanchez J and Rollinson S and Gibbs JR and Schymick JC and Laaksovirta H and van Swieten JC and Myllykangas L and Kalimo H and Paetau A and Abramzon Y and Remes AM and Kaganovich A and Scholz SW and Duckworth J and Ding J and Harmer DW and Hernandez DG and Johnson JO and Mok K and Ryten M and Trabzuni D and Guerreiro RJ and Orrell RW and Neal J and Murray A and Pearson J and Jansen IE and Sondervan D and Seelaar H and Blake D and Young K and Halliwell N and Callister JB and Toulson G and Richardson A and Gerhard A and Snowden J and Mann D and Neary D and Nalls MA and Peuralinna T and Jansson L and Isoviita VM and Kaivorinne AL and Holtta-Vuori M and Ikonen E and Sulkava R and Benatar M and Wuu J and Chio A and Restagno G and Borghero G and Sabatelli M and Heckerman D and Rogaeva E and Zinman L and Rothstein JD and Sendtner M and Drepper C and Eichler EE and Alkan C and Abdullaev Z and Pack SD and Dutra A and Pak E and Hardy J and Singleton A and Williams NM and Heutink P and Pickering-Brown S and Morris HR and Tienari PJ and Traynor BJ,"The chromosome 9p21 amyotrophic lateral sclerosis-frontotemporal dementia (ALS-FTD) locus contains one of the last major unidentified autosomal-dominant genes underlying these common neurodegenerative diseases. We have previously shown that a founder haplotype, covering the MOBKL2b, IFNK, and C9ORF72 genes, is present in the majority of cases linked to this region. Here we show that there is a large hexanucleotide (GGGGCC) repeat expansion in the first intron of C9ORF72 on the affected haplotype. This repeat expansion segregates perfectly with disease in the Finnish population, underlying 46.0% of familial ALS and 21.1% of sporadic ALS in that population. Taken together with the D90A SOD1 mutation, 87% of familial ALS in Finland is now explained by a simple monogenic cause. The repeat expansion is also present in one-third of familial ALS cases of outbred European descent, making it the most common genetic cause of these fatal neurodegenerative diseases identified to date.",Missing,Neuron,72

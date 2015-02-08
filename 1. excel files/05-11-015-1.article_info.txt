@@ -1,0 +1,16 @@
+21566158,"Local macrophage proliferation, rather than recruitment from the blood, is a signature of TH2 inflammation.","Animals
+Blood
+Brugia malayi/immunology
+Cell Proliferation
+Female
+Filariasis/immunology
+Filarioidea/immunology
+Inflammation/*immunology
+Interleukin-4/immunology
+Macrophage Activation
+Macrophages/cytology/*immunology
+Male
+Mice
+Mice, Inbred C57BL
+Monocytes/cytology/immunology
+Th2 Cells/*immunology",Jenkins SJ and Ruckerl D and Cook PC and Jones LH and Finkelman FD and van Rooijen N and MacDonald AS and Allen JE,"A defining feature of inflammation is the accumulation of innate immune cells in the tissue that are thought to be recruited from the blood. We reveal that a distinct process exists in which tissue macrophages undergo rapid in situ proliferation in order to increase population density. This inflammatory mechanism occurred during T helper 2 (T(H)2)-related pathologies under the control of the archetypal T(H)2 cytokine interleukin-4 (IL-4) and was a fundamental component of T(H)2 inflammation because exogenous IL-4 was sufficient to drive accumulation of tissue macrophages through self-renewal. Thus, expansion of innate cells necessary for pathogen control or wound repair can occur without recruitment of potentially tissue-destructive inflammatory cells.",Missing,"Science (New York, N.Y.)",332

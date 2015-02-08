@@ -1,0 +1,14 @@
+21293047,Glyburide is anti-inflammatory and associated with reduced mortality in melioidosis.,"Adult
+Anti-Inflammatory Agents/*administration & dosage
+Burkholderia pseudomallei/isolation & purification
+Cohort Studies
+Female
+Glyburide/*administration & dosage
+Humans
+Male
+Melioidosis/*drug therapy/*mortality
+Middle Aged
+Prospective Studies
+Sepsis/drug therapy/microbiology/mortality
+Survival Analysis
+Treatment Outcome",Koh GC and Maude RR and Schreiber MF and Limmathurotsakul D and Wiersinga WJ and Wuthiekanun V and Lee SJ and Mahavanakul W and Chaowagul W and Chierakul W and White NJ and van der Poll T and Day NP and Dougan G and Peacock SJ,"BACKGROUND: Patients with diabetes mellitus are more prone to bacterial sepsis, but there are conflicting data on whether outcomes are worse in diabetics after presentation with sepsis. Glyburide is an oral hypoglycemic agent used to treat diabetes mellitus. This K(ATP)-channel blocker and broad-spectrum ATP-binding cassette (ABC) transporter inhibitor has broad-ranging effects on the immune system, including inhibition of inflammasome assembly and would be predicted to influence the host response to infection. METHODS: We studied a cohort of 1160 patients with gram-negative sepsis caused by a single pathogen (Burkholderia pseudomallei), 410 (35%) of whom were known to have diabetes. We subsequently studied prospectively diabetics with B. pseudomallei infection (n = 20) to compare the gene expression profile of peripheral whole blood leukocytes in patients who were taking glyburide against those not taking any sulfonylurea. RESULTS: Survival was greater in diabetics than in nondiabetics (38% vs 45%, respectively, P = .04), but the survival benefit was confined to the patient group taking glyburide (adjusted odds ratio .47, 95% confidence interval .28-.74, P = .005). We identified differential expression of 63 immune-related genes (P = .001) in patients taking glyburide, the sum effect of which we predict to be antiinflammatory in the glyburide group. CONCLUSIONS: We present observational evidence for a glyburide-associated benefit during human melioidosis and correlate this with an anti-inflammatory effect of glyburide on the immune system.",Missing,Clinical infectious diseases : an official publication of the Infectious Diseases Society of America,52

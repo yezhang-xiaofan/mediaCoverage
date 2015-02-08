@@ -1,0 +1,12 @@
+22157081,Stop signals provide cross inhibition in collective decision-making by honeybee swarms.,"*Animal Communication
+Animals
+Bees/*physiology
+Behavior, Animal
+Decision Making
+Models, Biological
+Models, Neurological
+Movement
+*Nesting Behavior
+Neural Inhibition
+Neurons/physiology
+Social Behavior",Seeley TD and Visscher PK and Schlegel T and Hogan PM and Franks NR and Marshall JA,"Honeybee swarms and complex brains show many parallels in how they make decisions. In both, separate populations of units (bees or neurons) integrate noisy evidence for alternatives, and, when one population exceeds a threshold, the alternative it represents is chosen. We show that a key feature of a brain--cross inhibition between the evidence-accumulating populations--also exists in a swarm as it chooses its nesting site. Nest-site scouts send inhibitory stop signals to other scouts producing waggle dances, causing them to cease dancing, and each scout targets scouts' reporting sites other than her own. An analytic model shows that cross inhibition between populations of scout bees increases the reliability of swarm decision-making by solving the problem of deadlock over equal sites.",cornell,"Science (New York, N.Y.)",335

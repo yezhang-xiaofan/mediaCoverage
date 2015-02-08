@@ -1,0 +1,7 @@
+21336331,Palladium-mediated intracellular chemistry.,"Carbamates/chemistry
+Catalysis
+HeLa Cells
+Humans
+Metal Nanoparticles/*chemistry
+Palladium/*chemistry
+Polystyrenes/chemistry",Yusop RM and Unciti-Broceta A and Johansson EM and Sanchez-Martin RM and Bradley M,"Many important intracellular biochemical reactions are modulated by transition metals, typically in the form of metalloproteins. The ability to carry out selective transformations inside a cell would allow researchers to manipulate or interrogate innumerable biological processes. Here, we show that palladium nanoparticles trapped within polystyrene microspheres can enter cells and mediate a variety of Pd(0)-catalysed reactions, such as allylcarbamate cleavage and Suzuki-Miyaura cross-coupling. The work provides the basis for the customization of heterogeneous unnatural catalysts as tools to carry out artificial chemistries within cells. Such in cellulo synthesis has potential for a plethora of applications ranging from cellular labelling to synthesis of modulators or inhibitors of cell function.",Missing,Nature chemistry,3

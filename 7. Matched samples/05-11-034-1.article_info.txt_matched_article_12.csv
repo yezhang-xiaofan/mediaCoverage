@@ -1,0 +1,11 @@
+21880777,A conserved peptide in West Nile virus NS4A protein contributes to proteolytic processing and is essential for replication.,Journal of virology,Ambrose RL and Mackenzie JM,Missing,"The West Nile virus strain Kunjin virus (WNV(KUN)) NS4A protein is a multifunctional protein involved in membrane proliferation, stimulation of cellular pathways, and evasion of host defense and is a major component of the WNV(KUN) RNA replication complex. We identified a highly conserved region ((120)P-E-P-E(123)) upstream of the viral protease dibasic cleavage site and investigated whether this motif was required for WNV(KUN) replication. Single point mutations to alanine and a PEPE deletion mutation were created in a full-length infectious WNV(KUN) molecular clone. All mutations drastically impaired viral replication and virion production, except that of the P122A mutant, which was slightly attenuated. These mutations were subsequently transferred to a WNV(KUN) replicon to specifically assess effects on RNA replication alone. Again, all mutants, except P122A, showed severely reduced negative-sense RNA production as well as decreased viral protein production. Correspondingly, immunofluorescence analyses showed a lack of double-stranded RNA (dsRNA) labeling and a dispersed localization of the WNV(KUN) proteins, suggesting that replication complex formation was additionally impaired. Attempts to rescue replication via conservative mutants largely failed except for substitution of Asp at E121, suggesting that a negative charge at this residue is equally important. Analysis of viral protein processing suggested that cleavage of the 2K peptide from NS4A did not occur with the mutant constructs. These observations imply that the combined effects of proline and negatively charged residues within the PEPE peptide are essential to promote the cleavage of 2K from NS4A, which is a prerequisite for efficient WNV replication.","*Amino Acid Motifs
+Amino Acid Substitution/genetics
+*Conserved Sequence
+Mutagenesis, Site-Directed
+Mutation, Missense
+Point Mutation
+Viral Nonstructural Proteins/genetics/*metabolism
+Virulence
+Virulence Factors/genetics/*metabolism
+*Virus Replication
+West Nile virus/genetics/growth & development/*physiology"

@@ -1,0 +1,15 @@
+21458011,Physical activity by stealth? The potential health benefits of a workplace transport plan.,"Adult
+Bicycling
+England
+*Exercise
+Female
+Health Promotion/methods
+Health Surveys
+Humans
+Male
+Middle Aged
+Organizational Policy
+Transportation/*methods
+Walking
+*Workplace
+Young Adult",Brockman R and Fox KR,"OBJECTIVES: There are few published evaluations of the effects of travel policy on health-enhancing physical activity. The purpose of this study was to investigate the effect of a workplace travel plan, which mainly focused on restricting parking opportunities, on levels of active commuting and its potential to contribute to public health. STUDY DESIGN: Analysis of a repeated bi-annual travel survey in a workplace setting. METHODS: Usual mode of commuting, gender, age, worksite location and distance commuted to and from work were obtained from the University of Bristol Staff Travel Surveys conducted in 1998 (n = 2292), 2001 (n = 2332), 2003 (n = 1950), 2005 (n = 2647) and 2007 (n = 2829). Z-tests were used to examine the significance of trends in active commuting between 1998 and 2007. The largest and most recent survey (2007) was used to calculate the effects of gender, age and salary band on mode of transport, length of commuter journey, and the extent to which active commuting contributed to meeting national recommendations for physical activity. RESULTS: Results showed that between 1998 and 2007, in contrast to national trends, the percentage of respondents who reported that they usually walked to work increased from 19.0% to 30.0% (Z = 4.24, P < 0.001). The percentage of regular cyclists increased from 7.0% to 11.8%, but this was not statistically significant. In 2007, regular walkers were more likely to be female, under 35 years of age and earning a middle-band salary. Regular cyclists were more likely to be male, aged 36-45 years and earning a higher-band salary. Approximately 70% of respondents who usually walked or cycled to work achieved greater than 80% of the recommended guidelines for physical activity through their active commuting. CONCLUSIONS: This study suggests that transport plans aimed at reducing car usage should be considered as a feasible and effective strategy for increasing health-enhancing physical activity among the workforce.",Missing,Public health,125

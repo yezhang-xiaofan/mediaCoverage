@@ -1,0 +1,19 @@
+21478199,ApoE isoform-specific regulation of regeneration in the peripheral nervous system.,"Animals
+Apolipoproteins E/genetics/*metabolism
+Axons/metabolism/ultrastructure
+Blotting, Western
+Electrophysiology
+Humans
+Immunohistochemistry
+Mice
+Mice, Inbred C57BL
+Mice, Knockout
+Microscopy, Electron, Transmission
+Microscopy, Fluorescence
+Nerve Regeneration/*physiology
+Orosomucoid/metabolism
+Peripheral Nervous System/injuries/*physiology
+Protein Isoforms/genetics/*metabolism
+Proteomics/methods
+Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+Tandem Mass Spectrometry",Comley LH and Fuller HR and Wishart TM and Mutsaers CA and Thomson D and Wright AK and Ribchester RR and Morris GE and Parson SH and Horsburgh K and Gillingwater TH,"Apolipoprotein E (apoE) is a 34 kDa glycoprotein with three distinct isoforms in the human population (apoE2, apoE3 and apoE4) known to play a major role in differentially influencing risk to, as well as outcome from, disease and injury in the central nervous system. In general, the apoE4 allele is associated with poorer outcomes after disease or injury, whereas apoE3 is associated with better responses. The extent to which different apoE isoforms influence degenerative and regenerative events in the peripheral nervous system (PNS) is still to be established, and the mechanisms through which apoE exerts its isoform-specific effects remain unclear. Here, we have investigated isoform-specific effects of human apoE on the mouse PNS. Experiments in mice ubiquitously expressing human apoE3 or human apoE4 on a null mouse apoE background revealed that apoE4 expression significantly disrupted peripheral nerve regeneration and subsequent neuromuscular junction re-innervation following nerve injury compared with apoE3, with no observable effects on normal development, maturation or Wallerian degeneration. Proteomic isobaric tag for relative and absolute quantitation (iTRAQ) screens comparing healthy and regenerating peripheral nerves from mice expressing apoE3 or apoE4 revealed significant differences in networks of proteins regulating cellular outgrowth and regeneration (myosin/actin proteins), as well as differences in expression levels of proteins involved in regulating the blood-nerve barrier (including orosomucoid 1). Taken together, these findings have identified isoform-specific roles for apoE in determining the protein composition of peripheral nerve as well as regulating nerve regeneration pathways in vivo.",Missing,Human molecular genetics,20

@@ -1,0 +1,15 @@
+22101974,Diabetes is associated with impairment of uterine contractility and high Caesarean section rate.,"Adult
+Body Mass Index
+Calcium/chemistry
+Calcium Channels/chemistry
+Cesarean Section/*statistics & numerical data
+Diabetes Complications/physiopathology
+Diabetes Mellitus/*physiopathology
+Diabetes, Gestational/metabolism
+Female
+Humans
+Oxytocin/chemistry
+Pregnancy
+Pregnancy Complications
+Signal Transduction
+Uterine Contraction/*metabolism",Al-Qahtani S and Heath A and Quenby S and Dawood F and Floyd R and Burdyga T and Wray S,"AIMS/HYPOTHESIS: The prevalence of births worldwide complicated by diabetes mellitus is increasing. In the UK, for example, <25% of diabetic women have a non-instrumental vaginal delivery. Strikingly, more than half the Caesarean sections (CS) in these patients are non-elective, but the reasons for this are not understood. We have tested the hypothesis that poor myometrial contractility as a consequence of the disease contributes to this high CS rate. METHODS: We compared spontaneous, high K depolarisation and oxytocin-induced contractions from diabetic and matched control patients having an elective CS. To investigate the mechanism of any differences we measured intracellular Ca, and performed western blotting and compared the tissues histologically. RESULTS: There was significantly decreased contraction amplitude and duration in uteri from diabetic compared with control patients, even when possible confounders such as BMI were analysed. Reduced intracellular calcium signals and expression of calcium entry channels were found in uteruses from diabetic patients, which, along with a reduction in muscle content found on histological examination, could explain the reduced force. Myometrium from diabetic patients was responsive to oxytocin, but still did not reach the levels found in non-diabetic patients. CONCLUSIONS/INTERPRETATIONS: These are the first data investigating myometrium in diabetic patients and they support the hypothesis that there is poorer contractility even in the presence of oxytocin. The underlying mechanism is related to reduced Ca channel expression and intracellular calcium signals and a decrease in muscle mass. We conclude that these factors significantly contribute to the increased emergency CS rate in diabetic patients.",Missing,Diabetologia,55

@@ -1,0 +1,111 @@
+18 May 2011 Last updated at 02:57 
+BBC
+Glasgow University researchers 'decode' brainwaves
+ 
+Scientists believe they are a step closer to being able to read people's minds after decoding human brainwaves.
+Glasgow University researchers asked volunteers to identify different emotions on images of human faces.
+They then measured the volunteers' resulting brainwaves using a technique called electroencephalography (EEG).
+Once researchers compared the answers to the brainwaves recorded, they were able to decode the type of information the brainwaves held relating to vision.
+The research was carried out by the university's institute of neuroscience and psychology.
+Six volunteers were presented with images of people's faces, displaying different emotions such as happiness, fear and surprise. 
+Facial information 
+On different experimental trials, parts of the images were randomly covered so that, for example, only the eyes or mouth were visible.
+The volunteers were then asked to identify the emotion being displayed.
+The participants' brainwaves were measured using EEG which allowed the researchers to identify which parts of the brain were active when looking at different parts of the face.
+Brainwaves vary widely in frequency, amplitude and phase. 
+In this study, the researchers found that 'beta' waves which have a cycle of 12 Hertz (Hz) carried information about the eyes, while 'theta' waves at 4Hz encoded information about the mouth.
+The researchers also found information could be encoded depending on the phase - or timing of the brainwave - and less so by its amplitude - or strength. 
+Institute director, Professor Philippe Schyns, who led the study, said: "It's a bit like unlocking a scrambled television channel.
+Before, we could detect the signal but couldn't watch the content - now we can.
+"While we are able to detect EEG activity in certain areas of the brain when particular tasks are performed, we've not known what information is being carried in those brainwaves.
+Brain code 
+"What we have done is to find a way of decoding brainwaves to identify the messages within."
+Prof Schyns said the research could give rise to other developments. 
+"By using multiple frequencies to encode two different parts of the face - a process called multiplexing - the brain can code more signals at the same time," he said. 
+"It is a bit like radiowaves coding different radio stations at different frequency bands.
+Likewise, the brain tunes in different waves to code different visual features. 
+"This work has huge potential in the development of brain-computer interfaces."
+
+
+Daily Star
+ May 19, 2011 Thursday  U.K. 1st Edition
+ ALL IN THE MIND  SECTION: NEWS; 27  LENGTH: 19 words
+SCIENTISTS are a step closer to reading people's minds after decoding brainwaves in a study at Glasgow University.
+
+
+  Metro (UK)
+ May 18, 2011 Wednesday  Edition 1;  Scotland
+ Your mind is on reading this, isn't it?  BYLINE: Stephen Deal  SECTION: NEWS; Pg. 29  LENGTH: 281 words
+SCIENTISTS believe they are a step closer to being able to read minds.
+Until now the ability to mind read has been largely the subject of fiction featured in Hollywood movies such as What Women Want, in which Mel Gibson's character is able to hear everything women around him are thinking.
+But neuroscientists at Glasgow University claim they can now identify the type of information contained within certain brainwaves related to vision.
+Brainwaves - the patterns of electrical activity created in the brain when it is engaged in different activities - can easily be measured using electroencephalography (EEG).
+However, knowing exactly what information is encoded within them, and how that encoding takes place, remains a mystery.
+Prof Philippe Schyns, who led the study, said: 'It's a bit like unlocking a scrambled TV channel.
+Before, we could detect the signal but couldn't watch the content - now we can.'
+In order to decode some of these brainwaves, the Glasgow scientists recruited six volunteers and presented them with images of people's faces, displaying different emotions such as happiness, fear and surprise.
+On different experimental trials, parts of the images were randomly covered so that, for example, only the eyes or mouth were visible.
+The volunteers were then asked to identify the emotion being displayed.
+While engaged in this exercise, the participants' brainwaves were measured, allowing researchers to identify which parts of the brain were active.
+The researchers found 'beta' waves carried information about the eyes, while 'theta' encoded information about the mouth.
+Prof Schyns added: 'This work has huge potential in the development of brain-computer interfaces.'
+
+ Press Association Mediapoint
+ May 18, 2011 Wednesday 2:46 AM BST 
+ SCIENTISTS CREATE 'MIND READER'  BYLINE: John von Radowitz, Press Association Science Correspondent  SECTION: HOME NEWS  LENGTH: 320 words
+Scientists have come a step closer to creating a ``mind-reading machine'' that can show mental images.
+A team from the University of Glasgow succeeded in decoding brain signals related to vision.
+Six volunteers were shown images of people's faces displaying different emotions such as happiness, fear and surprise.
+In a series of trials, parts of the images were randomly covered so that, for example, only the eyes or mouth were visible.
+Participants were then asked to identify the emotion being displayed while electrodes attached to the scalp measured the volunteers' brainwaves.
+The scientists were able to show that brainwaves varied greatly according to which part of the face was being looked at.
+``Beta'' waves, with a frequency of 12 hertz, carried information about the eyes, while four hertz ``theta'' waves were linked to the mouth.
+Information was also encoded by the phase, or timing, of the brainwave, and less so by its amplitude, or strength.
+Professor Philippe Schyns, who led the study, said: ``It's a bit like unlocking a scrambled television channel.
+Before, we could detect the signal but couldn't watch the content; now we can.
+``How the brain encodes the visual information that enables us to recognise faces and scenes has long been a mystery.
+While we are able to detect EEG activity in certain areas of the brain when particular tasks are performed, we've not known what information is being carried in those brainwaves.
+``What we have done is to find a way of decoding brainwaves to identify the messages within.''
+The research is published in the online journal Public Library of Science Biology.
+Prof Schyns said the study revealed how the brain tuned into different brainwave patterns to code different visual features.
+``It is a bit like radiowaves coding different radio stations at different frequency bands,'' he added.
+``This work has huge potential in the development of brain-computer interfaces.''
+
+
+The Express
+ May 18, 2011 Wednesday  Scottish Edition
+ Unlocking secret of mind reading  BYLINE: By Judith Duffy and Jodie Callander  SECTION: NEWS; 25  LENGTH: 366 words
+THE ability to read minds has long been confined to the realms of science fiction.
+But research by Scottish scientists has brought the possibility of identifying someone's thoughts a step closer to reality.
+A pioneering study has managed to decode the patterns of electrical activity created in the brain related to vision.
+While brainwaves have been easily measured for decades using an electroencephalography (EEG) test, knowing exactly what information is contained within them has remained mystery.
+Now neuroscientists at Glasgow University have identified which part of the mind becomes active when trying to decipher emotions while looking at faces.
+Study leader Professor Philippe Schyns said the process was like unlocking a "scrambled television channel".
+He said: "Before, we could detect the signal but couldn't watch the content - now we can.
+How the brain encodes the visual information that enables us to recognise faces and scenes has long been a mystery.
+"What we have done is to find a way of decoding brainwaves to identify the messages within."
+The study involved presenting six volunteers with images of people's faces, displaying emotions such as happiness, fear and surprise.
+Parts of the images were randomly covered so that, for example, only the eyes or mouth were visible.
+The participants were then asked to identify the emotion being displayed while their brainwaves were measured.
+Researchers found 'beta' waves of a particular frequency carried information about the eyes, while 'theta' waves of another frequency related to the mouth.
+Prof Schyns, director of the university's institute of neurosciences and psychology and the centre for cognitive neuroimaging, said: "It is a bit like radiowaves coding different radio stations at different frequency bands.
+Likewise, the brain tunes in different waves to code different features."
+He added that the work had "huge potential" in developing brain-computer interfaces, which are computers or machinery which can be controlled by the mind.
+The ability to read minds has frequently been explored in fiction and films, from the "Force" of the Star Wars films to legilmency, or magical mind reading, in JK Rowling's Harry Potter books.
+
+
+ The Mirror
+ May 19, 2011 Thursday  3 Star Edition
+ BRAIN FORECAST  SECTION: NEWS; Pg. 16  LENGTH: 21 words
+SCIENTISTS are closer to inventing a "mind reading machine" after decoding the brain signals that make mental images in Glasgow
+
+
+ The Sun (England)
+ May 18, 2011 Wednesday  Edition 2;  Scotland
+ Boffins in the brain  SECTION: NEWS; Pg. 4  LENGTH: 68 words
+SCOTS scientists claim they are a step closer to creating a "mind-reading machine" that will show mental images.
+A team from Glasgow Uni decoded brain signals created when subjects studied faces, showing they varied according to which part was looked at.
+Professor Philippe Schyns said: "It's a bit like unlocking a scrambled TV channel. 
+Before, we could detect the signal but couldn't watch content - now we can."
+
+

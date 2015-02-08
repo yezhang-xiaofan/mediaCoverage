@@ -1,0 +1,14 @@
+21209829,The brain reaction to viewing faces of opposite- and same-sex romantic partners.,"Adult
+Brain/*physiology
+Brain Mapping/methods
+*Face
+Female
+Heterosexuality/*physiology
+Homosexuality/*physiology
+Humans
+*Love
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Sexual Behavior/*physiology
+*Sexual Partners",Zeki S and Romaya JP,"We pursued our functional magnetic resonance imaging (fMRI) studies of the neural correlates of romantic love in 24 subjects, half of whom were female (6 heterosexual and 6 homosexual) and half male (6 heterosexual and 6 homosexual). We compared the pattern of activity produced in their brains when they viewed the faces of their loved partners with that produced when they viewed the faces of friends of the same sex to whom they were romantically indifferent. The pattern of activation and de-activation was very similar in the brains of males and females, and heterosexuals and homosexuals. We could therefore detect no difference in activation patterns between these groups.",Missing,PloS one,5

@@ -1,0 +1,13 @@
+22169108,Child maltreatment: variation in trends and policies in six developed countries.,"Child
+Child Abuse/prevention & control/*statistics & numerical data/*trends
+Child, Preschool
+*Developed Countries
+England/epidemiology
+Humans
+Infant
+Manitoba/epidemiology
+New Zealand/epidemiology
+*Public Policy
+Sweden/epidemiology
+United States/epidemiology
+Western Australia/epidemiology",Gilbert R and Fluke J and O'Donnell M and Gonzalez-Izquierdo A and Brownell M and Gulliver P and Janson S and Sidebotham P,"We explored trends in six developed countries in three types of indicators of child maltreatment for children younger than 11 years, since the inception of modern child protection systems in the 1970s. Despite several policy initiatives for child protection, we recorded no consistent evidence for a decrease in all types of indicators of child maltreatment. We noted falling rates of violent death in a few age and country groups, but these decreases coincided with reductions in admissions to hospital for maltreatment-related injury only in Sweden and Manitoba (Canada). One or more child protection agency indicators increased in five of six countries, particularly in infants, possibly as a result of early intervention policies. Comparisons of mean rates between countries showed five-fold to ten-fold differences in rates of agency indicators, but less than two-fold variation in violent deaths or maltreatment-related injury, apart from high rates of violent child death in the USA. These analyses draw attention to the need for robust research to establish whether the high and rising rates of agency contacts and out-of-home care in some settings are effectively reducing child maltreatment.",Missing,Lancet,379

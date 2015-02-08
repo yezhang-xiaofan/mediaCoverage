@@ -1,0 +1,60 @@
+Date Published: 27/06/2011
+Word Count Title: 10
+Word Count Body: 427
+Sentence Count: 23	
+DAILY MAIL (London)
+ June 27, 2011 Monday
+ A 'WONDER DRUG' THAT COULD KILL ALL TYPES OF CANCER  BYLINE: BY FIONA MACRAE SCIENCE CORRESPONDENT  LENGTH: 435 words
+A BREAST cancer 'wonder drug' could be turned into a universal weapon against tumours, British scientists said last night.
+They have discovered a way of making a family of breast cancer pills effective against other cancers.
+The finding could lead to new drugs that shrink many Ð or even all types Ð of tumour, the Newcastle University scientists said.
+In addition, side-effects such as nausea and tiredness should be minimal.
+The excitement centres on a family of cancer drugs known as PARP inhibitors, which affect the way tumour cells repair themselves.
+These target hereditary forms of breast cancer, as well as ovarian prostate cancers and pancreatic tumours with the same rogue gene.
+The drugs are of particular interest to doctors because they zero in on the tumour, and kill it without harming healthy cells.
+This means patients suffer fewer side effects than they would with chemotherapy or radiotherapy, in which healthy cells are affected.
+The drugs exploit the 'Achilles'' heel' of hereditary forms of breast cancer. This is caused by a flaw in a gene called BRCA1, which limits the cells' ability to repair damage their DNA.
+Healthy cells have two ways of patching up damage Ð which allows them to breed, grow and spread Ð but cells in BRCA tumours only have one.
+PARP inhibitors block this remaining pathway, stopping the tumour cells from multiplying, eventually leading them to die.
+ Some breast, ovarian and prostate tumours have flawed BRCA genes Ð but account for a small proportion of all cancers.
+The research would allow the drugs to be used on tumours which do not have this genetic flaw, by effectively 'recreating' the defect.
+In experiments on mice with lung tumours the researchers showed that blocking a molecule called Cdk1 also stopped DNA repair.
+When the animals were given a PARP inhibitor, it successfully shrunk their cancer, the journal Nature Medicine reports.
+Researcher Professor Nicola Curtin said: 'Blocking Cdk1 compromises DNA repair in cancer cells, making them sensitive to PARP inhibitors.
+'We were also able to show that this approach only targeted cancer cells.
+'Now we need to develop an effective drug that can block Cdk1, so more patients can benefit from treatment with PARP inhibitors. 
+It could be widely applicable, possibly universally.
+'The very fact that the defect that makes cells vulnerable to PARP inhibitors can be recreated in lung cancer is pretty hopeful.
+'It is very early days but it is exciting.'
+Dr Lesley Walker, from Cancer Research UK, which funded the research, said: 'We could have a powerful new tool to treat cancer patients.'
+fiona.macrae@dailymail.co.uk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date Published: 27/06/2011
+Word Count Title: 5
+Word Count Body: 147
+Sentence Count: 6	
+The Express
+ June 27, 2011 Monday  U.K. 1st Edition
+ New drug to shrink tumours  BYLINE: By Jo Willey Health Correspondent  SECTION: NEWS; 27  LENGTH: 144 words
+SCIENTISTS are a step closer to a new wonder drug to treat cancer.
+Chemotherapy, radiotherapy or the need for surgery could become a thing of the past thanks to a new range of "smart" drugs known as PARP inhibitors which target cancer cells.
+Their discovery three years ago was hailed as ground-breaking because of their ability to treat a third of patients with common forms of the disease including breast, prostate, skin, ovarian, womb and colon cancers.
+The treatment was found to dramatically shrink tumours without harming surrounding healthy cells.
+Now scientists at Newcastle University and Harvard in the US have found a way to use the treatment for any cancer by improving the range of PARP inhibitors by blocking a key component of the DNA repair process.
+Dr Lesley Walker of Cancer Research UK said: "We could have a powerful new tool to treat cancer patients."
+

@@ -1,0 +1,9 @@
+22099462,XPORT-dependent transport of TRP and rhodopsin.,Neuron,Rosenbaum EE and Brehm KS and Vasiljevic E and Liu CH and Hardie RC and Colley NJ,Missing,"TRP channels have emerged as key biological sensors in vision, taste, olfaction, hearing, and touch. Despite their importance, virtually nothing is known about the folding and transport of TRP channels during biosynthesis. Here, we identify XPORT (exit protein of rhodopsin and TRP) as a critical chaperone for TRP and its G protein-coupled receptor (GPCR), rhodopsin (Rh1). XPORT is a resident ER and secretory pathway protein that interacts with TRP and Rh1, as well as with Hsp27 and Hsp90. XPORT promotes the targeting of TRP to the membrane in Drosophila S2 cells, a finding that provides a critical first step toward solving a longstanding problem in the successful heterologous expression of TRP. Mutations in xport result in defective transport of TRP and Rh1, leading to retinal degeneration. Our results identify XPORT as a molecular chaperone and provide a mechanistic link between TRP channels and their GPCRs during biosynthesis and transport.","Animals
+Cell Line
+Drosophila
+Drosophila Proteins/*metabolism
+Molecular Chaperones/metabolism
+Photoreceptor Cells, Invertebrate/metabolism
+Protein Transport/physiology
+Rhodopsin/*metabolism
+TRPC Cation Channels/*metabolism"

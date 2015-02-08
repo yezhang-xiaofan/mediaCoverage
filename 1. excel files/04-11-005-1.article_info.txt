@@ -1,0 +1,8 @@
+21609847,Enacyloxins are products of an unusual hybrid modular polyketide synthase encoded by a cryptic Burkholderia ambifaria Genomic Island.,"Anti-Infective Agents/chemistry/*metabolism/pharmacology
+Burkholderia/enzymology/*genetics
+Genomic Islands
+Isomerism
+Microbial Sensitivity Tests
+Multigene Family
+Polyenes/chemistry/metabolism/pharmacology
+Polyketide Synthases/genetics/*metabolism",Mahenthiralingam E and Song L and Sass A and White J and Wilmot C and Marchbank A and Boaisha O and Paine J and Knight D and Challis GL,"Gram-negative Burkholderia cepacia complex (Bcc) isolates were screened for antimicrobial activity against cystic fibrosis microbial pathogens, and the ability of B. ambifaria to inhibit B. multivorans was identified. The activity was mapped to a cluster of cryptic, quorum-sensing-regulated modular polyketide synthase (PKS) genes. Enacyloxin IIa and its stereoisomer designated iso-enacyloxin IIa were identified as metabolic products of the gene cluster, which encoded an unusual hybrid modular PKS consisting of multiple proteins with sequence similarity to cis-acyltransferase (cis-AT) PKSs and a single protein with sequence similarity to trans-AT PKSs. The discovery of the potent activity of enacyloxins against drug-resistant bacteria and the gene cluster that directs their production provides an opportunity for engineered biosynthesis of innovative enacyloxin derivatives and highlights the potential of Bcc bacteria as an underexploited resource for antibiotic discovery.",Missing,Chemistry & biology,18

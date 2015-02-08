@@ -1,0 +1,23 @@
+22083728,De novo CNV analysis implicates specific abnormalities of postsynaptic signalling complexes in the pathogenesis of schizophrenia.,"AIDS-Related Complex/genetics
+Bulgaria
+Case-Control Studies
+DNA Copy Number Variations/*genetics
+Family Health
+Female
+Gene Frequency
+*Genetic Predisposition to Disease
+Genotype
+Humans
+Iceland
+Japan
+Male
+Meta-Analysis as Topic
+Microarray Analysis
+Models, Biological
+Post-Synaptic Density/genetics/pathology
+Psychiatric Status Rating Scales
+Receptors, N-Methyl-D-Aspartate
+Schizophrenia/*genetics/*pathology
+Signal Transduction/genetics
+Statistics, Nonparametric
+Synapses/*genetics/*pathology",Kirov G and Pocklington AJ and Holmans P and Ivanov D and Ikeda M and Ruderfer D and Moran J and Chambert K and Toncheva D and Georgieva L and Grozeva D and Fjodorova M and Wollerton R and Rees E and Nikolov I and van de Lagemaat LN and Bayes A and Fernandez E and Olason PI and Bottcher Y and Komiyama NH and Collins MO and Choudhary J and Stefansson K and Stefansson H and Grant SG and Purcell S and Sklar P and O'Donovan MC and Owen MJ,"A small number of rare, recurrent genomic copy number variants (CNVs) are known to substantially increase susceptibility to schizophrenia. As a consequence of the low fecundity in people with schizophrenia and other neurodevelopmental phenotypes to which these CNVs contribute, CNVs with large effects on risk are likely to be rapidly removed from the population by natural selection. Accordingly, such CNVs must frequently occur as recurrent de novo mutations. In a sample of 662 schizophrenia proband-parent trios, we found that rare de novo CNV mutations were significantly more frequent in cases (5.1% all cases, 5.5% family history negative) compared with 2.2% among 2623 controls, confirming the involvement of de novo CNVs in the pathogenesis of schizophrenia. Eight de novo CNVs occurred at four known schizophrenia loci (3q29, 15q11.2, 15q13.3 and 16p11.2). De novo CNVs of known pathogenic significance in other genomic disorders were also observed, including deletion at the TAR (thrombocytopenia absent radius) region on 1q21.1 and duplication at the WBS (Williams-Beuren syndrome) region at 7q11.23. Multiple de novos spanned genes encoding members of the DLG (discs large) family of membrane-associated guanylate kinases (MAGUKs) that are components of the postsynaptic density (PSD). Two de novos also affected EHMT1, a histone methyl transferase known to directly regulate DLG family members. Using a systems biology approach and merging novel CNV and proteomics data sets, systematic analysis of synaptic protein complexes showed that, compared with control CNVs, case de novos were significantly enriched for the PSD proteome (P=1.72 x 10(-)(6). This was largely explained by enrichment for members of the N-methyl-D-aspartate receptor (NMDAR) (P=4.24 x 10(-)(6)) and neuronal activity-regulated cytoskeleton-associated protein (ARC) (P=3.78 x 10(-)(8)) postsynaptic signalling complexes. In an analysis of 18 492 subjects (7907 cases and 10 585 controls), case CNVs were enriched for members of the NMDAR complex (P=0.0015) but not ARC (P=0.14). Our data indicate that defects in NMDAR postsynaptic signalling and, possibly, ARC complexes, which are known to be important in synaptic plasticity and cognition, play a significant role in the pathogenesis of schizophrenia.",Missing,Molecular psychiatry,17

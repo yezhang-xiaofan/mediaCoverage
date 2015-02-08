@@ -1,0 +1,13 @@
+21993621,Targeted gene correction of alpha1-antitrypsin deficiency in induced pluripotent stem cells.,"Animals
+Cell Line
+DNA Transposable Elements/genetics
+Hepatocytes/metabolism/transplantation
+Humans
+Induced Pluripotent Stem Cells/*physiology
+Liver/cytology
+Mice
+Serum Albumin/genetics/metabolism
+*Targeted Gene Repair
+Time Factors
+alpha 1-Antitrypsin/*genetics/metabolism
+alpha 1-Antitrypsin Deficiency/*genetics",Yusa K and Rashid ST and Strick-Marchand H and Varela I and Liu PQ and Paschon DE and Miranda E and Ordonez A and Hannan NR and Rouhani FJ and Darche S and Alexander G and Marciniak SJ and Fusaki N and Hasegawa M and Holmes MC and Di Santo JP and Lomas DA and Bradley A and Vallier L,"Human induced pluripotent stem cells (iPSCs) represent a unique opportunity for regenerative medicine because they offer the prospect of generating unlimited quantities of cells for autologous transplantation, with potential application in treatments for a broad range of disorders. However, the use of human iPSCs in the context of genetically inherited human disease will require the correction of disease-causing mutations in a manner that is fully compatible with clinical applications. The methods currently available, such as homologous recombination, lack the necessary efficiency and also leave residual sequences in the targeted genome. Therefore, the development of new approaches to edit the mammalian genome is a prerequisite to delivering the clinical promise of human iPSCs. Here we show that a combination of zinc finger nucleases (ZFNs) and piggyBac technology in human iPSCs can achieve biallelic correction of a point mutation (Glu342Lys) in the alpha(1)-antitrypsin (A1AT, also known as SERPINA1) gene that is responsible for alpha(1)-antitrypsin deficiency. Genetic correction of human iPSCs restored the structure and function of A1AT in subsequently derived liver cells in vitro and in vivo. This approach is significantly more efficient than any other gene-targeting technology that is currently available and crucially prevents contamination of the host genome with residual non-human sequences. Our results provide the first proof of principle, to our knowledge, for the potential of combining human iPSCs with genetic correction to generate clinically relevant cells for autologous cell-based therapies.",Missing,Nature,478

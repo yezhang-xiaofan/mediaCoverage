@@ -1,0 +1,23 @@
+21482963,Late sodium current contributes to the reverse rate-dependent effect of IKr inhibition on ventricular repolarization.,Circulation,Wu L and Ma J and Li H and Wang C and Grandi E and Zhang P and Luo A and Bers DM and Shryock JC and Belardinelli L,Missing,"BACKGROUND: The reverse rate dependence (RRD) of actions of I(Kr)-blocking drugs to increase the action potential duration (APD) and beat-to-beat variability of repolarization (BVR) of APD is proarrhythmic. We determined whether inhibition of endogenous, physiological late Na(+) current (late I(Na)) attenuates the RRD and proarrhythmic effect of I(Kr) inhibition. METHODS AND RESULTS: Duration of the monophasic APD (MAPD) was measured from female rabbit hearts paced at cycle lengths from 400 to 2000 milliseconds, and BVR was calculated. In the absence of a drug, duration of monophasic action potential at 90% completion of repolarization (MAPD(90)) and BVR increased as the cycle length was increased from 400 to 2000 milliseconds (n=36 and 26; P<0.01). Both E-4031 (20 nmol/L) and d-sotalol (10 mumol/L) increased MAPD(90) and BVR at all stimulation rates, and the increase was greater at slower than at faster pacing rates (n=19, 11, 12 and 7, respectively; P<0.01). Tetrodotoxin (1 mumol/L) and ranolazine significantly attenuated the RRD of MAPD(90,) reduced BVR (P<0.01), and abolished torsade de pointes in hearts treated with either 20 nmol/L E-4031 or 10 mumol/L d-sotalol. Endogenous late I(Na) in cardiomyocytes stimulated at cycle lengths from 500 to 4000 milliseconds was greater at slower than at faster stimulation rates, and rapidly decreased during the first several beats at faster but not at slower rates (n=8; P<0.01). In a computational model, simulated RRD of APD caused by E-4031 and d-sotalol was attenuated when late I(Na) was inhibited. CONCLUSION: Endogenous late I(Na) contributes to the RRD of I(Kr) inhibitor-induced increases in APD and BVR and to bradycardia-related ventricular arrhythmias.","Acetanilides/pharmacology
+Action Potentials/drug effects/*physiology
+Animals
+Anti-Arrhythmia Agents/pharmacology
+Bradycardia/drug therapy/physiopathology
+Disease Models, Animal
+Enzyme Inhibitors/pharmacology
+Female
+Heart Rate/drug effects/physiology
+Long QT Syndrome/drug therapy/physiopathology
+Models, Cardiovascular
+Myocardial Contraction/drug effects/*physiology
+Myocytes, Cardiac/*physiology
+Patch-Clamp Techniques
+Piperazines/pharmacology
+Piperidines/pharmacology
+Pyridines/pharmacology
+Rabbits
+Sodium/metabolism
+Sodium Channel Blockers/pharmacology
+Sodium Channels/*physiology
+Tetrodotoxin/pharmacology
+Torsades de Pointes/drug therapy/*physiopathology"

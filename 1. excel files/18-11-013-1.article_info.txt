@@ -1,0 +1,10 @@
+22155336,Possible net harms of breast cancer screening: updated modelling of Forrest report.,"Breast Neoplasms/psychology/*radiography
+Female
+Great Britain
+Humans
+*Mammography
+Mass Screening/adverse effects
+Middle Aged
+Quality of Life
+Quality-Adjusted Life Years
+Review Literature as Topic",Raftery J and Chorozoglou M,"OBJECTIVE: To assess the claim in a Cochrane review that mammographic breast cancer screening could be doing more harm than good by updating the analysis in the Forrest report, which led to screening in the United Kingdom. DESIGN: Development of a life table model, which replicated Forrest's results before updating and extending them with data from relevant systematic reviews, trials, and other models based on purposive literature searches. PARTICIPANTS: Women aged 50 and over invited for breast cancer screening. MAIN OUTCOME MEASURES: Quality adjusted life years (QALYs), combining life years gained from screening with losses of quality of life from false positive diagnoses and surgery. RESULTS: Inclusion of the effects of harms reduced the updated estimate of net cumulative QALYs gained after 20 years from 3301 to 1536 or by more than half. The best estimates from the Cochrane review generated negative QALYs for the first seven years of screening, 70 QALYs after 10 years, and 834 QALYs after 20 years. Sensitivity analysis showed these results were robust to a range of assumptions, particularly up to 10 years. It also indicated the importance of the level and duration of harms from surgery. CONCLUSIONS: This analysis supports the claim that the introduction of breast cancer screening might have caused net harm for up to 10 years after the start of screening.",Missing,BMJ (Clinical research ed.),343

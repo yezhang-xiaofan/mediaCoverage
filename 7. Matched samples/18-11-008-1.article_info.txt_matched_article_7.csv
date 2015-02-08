@@ -1,0 +1,23 @@
+21636855,p16INK4a deficiency promotes IL-4-induced polarization and inhibits proinflammatory signaling in macrophages.,Blood,Cudejko C and Wouters K and Fuentes L and Hannou SA and Paquet C and Bantubungi K and Bouchaert E and Vanhoutte J and Fleury S and Remy P and Tailleux A and Chinetti-Gbaguidi G and Dombrowicz D and Staels B and Paumelle R,Missing,"The CDKN2A locus, which contains the tumor suppressor gene p16(INK4a), is associated with an increased risk of age-related inflammatory diseases, such as cardiovascular disease and type 2 diabetes, in which macrophages play a crucial role. Monocytes can polarize toward classically (CAMvarphi) or alternatively (AAMvarphi) activated macrophages. However, the molecular mechanisms underlying the acquisition of these phenotypes are not well defined. Here, we show that p16(INK4a) deficiency (p16(-/-)) modulates the macrophage phenotype. Transcriptome analysis revealed that p16(-/-) BM-derived macrophages (BMDMs) exhibit a phenotype resembling IL-4-induced macrophage polarization. In line with this observation, p16(-/-) BMDMs displayed a decreased response to classically polarizing IFNgamma and LPS and an increased sensitivity to alternative polarization by IL-4. Furthermore, mice transplanted with p16(-/-) BM displayed higher hepatic AAMvarphi marker expression levels on Schistosoma mansoni infection, an in vivo model of AAMvarphi phenotype skewing. Surprisingly, p16(-/-) BMDMs did not display increased IL-4-induced STAT6 signaling, but decreased IFNgamma-induced STAT1 and lipopolysaccharide (LPS)-induced IKKalpha,beta phosphorylation. This decrease correlated with decreased JAK2 phosphorylation and with higher levels of inhibitory acetylation of STAT1 and IKKalpha,beta. These findings identify p16(INK4a) as a modulator of macrophage activation and polarization via the JAK2-STAT1 pathway with possible roles in inflammatory diseases.","Animals
+Bone Marrow Transplantation
+Cyclin-Dependent Kinase Inhibitor p16/*deficiency/physiology
+Cytokines/biosynthesis
+*Genes, p16
+I-kappa B Kinase/physiology
+Inflammation/*genetics
+Interferon-gamma/pharmacology
+Interleukin-4/pharmacology
+Janus Kinase 2/*physiology
+Lipopolysaccharides/pharmacology
+Liver/metabolism/pathology
+*Macrophage Activation/drug effects
+Macrophages/drug effects/physiology
+Mice
+Mice, Inbred C57BL
+Phosphorylation
+Protein Processing, Post-Translational
+Radiation Chimera
+STAT1 Transcription Factor/*physiology
+STAT6 Transcription Factor/physiology
+Schistosomiasis/immunology
+Signal Transduction"

@@ -1,0 +1,11 @@
+21841545,Established preeclampsia risk factors are related to patterns of blood pressure change in normal term pregnancy: findings from the Avon Longitudinal Study of Parents and Children.,"Adolescent
+Adult
+*Blood Pressure
+Cohort Studies
+Female
+Great Britain
+Humans
+Longitudinal Studies
+Pre-Eclampsia/*epidemiology/physiopathology
+Pregnancy/*physiology
+Risk Factors",Macdonald-Wallis C and Tilling K and Fraser A and Nelson SM and Lawlor DA,"OBJECTIVE: Hypertension during pregnancy is one of the diagnostic criteria for preeclampsia. We investigated the pattern of blood pressure (BP) change across pregnancy and associations of risk factors for preeclampsia with BP changes in normal pregnancy. METHODS: We examined repeat antenatal BP measurements (median 14 per woman) of 11,789 women from the Avon Longitudinal Study of Parents and Children cohort with a live-term birth and no evidence of preeclampsia or previous hypertension. Linear spline random effects models with knots at 18, 30 and 36 weeks gestation described changes in BP with gestational age. RESULTS: On average, SBP and DBP decreased slowly until 18 weeks and rose from 18 weeks onwards, with increasing rate at 30 weeks and then again at 36 weeks. In obese women, BP was higher at 8 weeks and rose more slowly between 18 and 30 weeks and more rapidly between 30 and 36 weeks than in normal-weight women. Nulliparous women had higher BP at 8 weeks and faster increases in DBP from 30 weeks and SBP from 36 weeks onwards than multiparas. Women who smoked throughout pregnancy had lower BP at 8 weeks and throughout pregnancy; women who only smoked in the first trimester soon attained the same pattern of change as never smokers. In twin pregnancies, BP rose more rapidly from 30 weeks onwards than in singleton pregnancies. CONCLUSION: Established preeclampsia risk factors are associated with higher BP in early pregnancy and faster BP increases later in gestation in normal pregnancy, suggesting a continuum of risk.",Missing,Journal of hypertension,29

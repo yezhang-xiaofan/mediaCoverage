@@ -1,0 +1,15 @@
+22187379,Nerve growth factor gene therapy using adeno-associated viral vectors prevents cardiomyopathy in type 1 diabetic mice.,"Animals
+Dependovirus/*genetics/physiology
+Diabetes Mellitus, Experimental/chemically induced/complications/genetics/therapy
+Diabetes Mellitus, Type 1/complications/genetics/metabolism/*therapy
+Diabetic Cardiomyopathies/genetics/metabolism/*prevention & control
+Gene Expression Regulation
+Genetic Therapy/*methods
+*Genetic Vectors/genetics
+HEK293 Cells
+Humans
+Male
+Mice
+Myocardium/metabolism/pathology
+Nerve Growth Factor/*genetics
+Streptozocin",Meloni M and Descamps B and Caporali A and Zentilin L and Floris I and Giacca M and Emanueli C,"Diabetes is a cause of cardiac dysfunction, reduced myocardial perfusion, and ultimately heart failure. Nerve growth factor (NGF) exerts protective effects on the cardiovascular system. This study investigated whether NGF gene transfer can prevent diabetic cardiomyopathy in mice. We worked with mice with streptozotocin-induced type 1 diabetes and with nondiabetic control mice. After having established that diabetes reduces cardiac NGF mRNA expression, we tested NGF gene therapies with adeno-associated viral vectors (AAVs) for the capacity to protect the diabetic mouse heart. To this aim, after 2 weeks of diabetes, cardiac expression of human NGF or beta-Gal (control) genes was induced by either intramyocardial injection of AAV serotype 2 (AAV2) or systemic delivery of AAV serotype 9 (AAV9). Nondiabetic mice were given AAV2-beta-Gal or AAV9-beta-Gal. We found that the diabetic mice receiving NGF gene transfer via either AAV2 or AAV9 were spared the progressive deterioration of cardiac function and left ventricular chamber dilatation observed in beta-Gal-injected diabetic mice. Moreover, they were additionally protected from myocardial microvascular rarefaction, hypoperfusion, increased deposition of interstitial fibrosis, and increased apoptosis of endothelial cells and cardiomyocytes, which afflicted the beta-Gal-injected diabetic control mice. Our data suggest therapeutic potential of NGF for the prevention of cardiomyopathy in diabetic subjects.",Missing,Diabetes,61

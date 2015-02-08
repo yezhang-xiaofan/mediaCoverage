@@ -1,0 +1,20 @@
+22162954,Measuring the population burden of injuries--implications for global and national estimates: a multi-centre prospective UK longitudinal study.,"Adolescent
+Adult
+Aged
+Cities/epidemiology
+Cohort Studies
+*Disability Evaluation
+Emergency Medical Services
+England/epidemiology
+Female
+Hospitalization/statistics & numerical data
+Humans
+Longitudinal Studies
+Male
+Middle Aged
+Prospective Studies
+Quality of Life
+*Quality-Adjusted Life Years
+Self Report
+Wounds and Injuries/*classification/*epidemiology/mortality
+Young Adult",Lyons RA and Kendrick D and Towner EM and Christie N and Macey S and Coupland C and Gabbe BJ,"BACKGROUND: Current methods of measuring the population burden of injuries rely on many assumptions and limited data available to the global burden of diseases (GBD) studies. The aim of this study was to compare the population burden of injuries using different approaches from the UK Burden of Injury (UKBOI) and GBD studies. METHODS AND FINDINGS: The UKBOI was a prospective cohort of 1,517 injured individuals that collected patient-reported outcomes. Extrapolated outcome data were combined with multiple sources of morbidity and mortality data to derive population metrics of the burden of injury in the UK. Participants were injured patients recruited from hospitals in four UK cities and towns: Swansea, Nottingham, Bristol, and Guildford, between September 2005 and April 2007. Patient-reported changes in quality of life using the EQ-5D at baseline, 1, 4, and 12 months after injury provided disability weights used to calculate the years lived with disability (YLDs) component of disability adjusted life years (DALYs). DALYs were calculated for the UK and extrapolated to global estimates using both UKBOI and GBD disability weights. Estimated numbers (and rates per 100,000) for UK population extrapolations were 750,999 (1,240) for hospital admissions, 7,982,947 (13,339) for emergency department (ED) attendances, and 22,185 (36.8) for injury-related deaths in 2005. Nonadmitted ED-treated injuries accounted for 67% of YLDs. Estimates for UK DALYs amounted to 1,771,486 (82% due to YLDs), compared with 669,822 (52% due to YLDs) using the GBD approach. Extrapolating patient-derived disability weights to GBD estimates would increase injury-related DALYs 2.6-fold. CONCLUSIONS: The use of disability weights derived from patient experiences combined with additional morbidity data on ED-treated patients and inpatients suggests that the absolute burden of injury is higher than previously estimated. These findings have substantial implications for improving measurement of the national and global burden of injury.",Missing,PLoS medicine,8

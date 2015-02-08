@@ -1,0 +1,10 @@
+22039501,Identification and characterisation of an iron-responsive candidate probiotic.,"Cell Proliferation
+Humans
+Interleukin-8/biosynthesis
+Intestinal Mucosa/cytology
+Iron/*metabolism
+NF-kappa B/biosynthesis
+Norepinephrine/metabolism
+*Probiotics
+Streptococcus thermophilus/growth & development/metabolism
+T-Lymphocytes/metabolism",Bailey JR and Probert CS and Cogan TA,"BACKGROUND: Iron is an essential cofactor in almost all biological systems. The lactic acid bacteria (LAB), frequently employed as probiotics, are unusual in having little or no requirement for iron. Iron in the human body is sequestered by transferrins and lactoferrin, limiting bacterial growth. An increase in the availability of iron in the intestine by bleeding, surgery, or under stress leads to an increase in the growth and virulence of many pathogens. Under these high iron conditions, LAB are rapidly out-competed; for the levels of probiotic bacteria to be maintained under high iron conditions they must be able to respond by increasing growth rate to compete with the normal flora. Despite this, iron-responsive genera are poorly characterised as probiotics. METHODOLOGY/PRINCIPAL FINDINGS: Here, we show that a panel of probiotics are not able to respond to increased iron availability, and identify an isolate of Streptococcus thermophilus that can increase growth rate in response to increased iron availability. The isolate of S. thermophilus selected was able to reduce epithelial cell death as well as NF-kappaB signalling and IL-8 production triggered by pathogens. It was capable of crossing an epithelial cell barrier in conjunction with E. coli and downregulating Th1 and Th17 responses in primary human intestinal leukocytes. CONCLUSIONS/SIGNIFICANCE: We propose that an inability to compete with potential pathogens under conditions of high iron availability such as stress and trauma may contribute to the lack of efficacy of many LAB-based probiotics in treating disease. Therefore, we offer an alternative paradigm which considers that probiotics should be able to be competitive during periods of intestinal bleeding, trauma or stress.",Missing,PloS one,6

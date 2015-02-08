@@ -1,0 +1,16 @@
+22047557,A CFTR potentiator in patients with cystic fibrosis and the G551D mutation.,"Administration, Oral
+Adolescent
+Adult
+Aminophenols/adverse effects/pharmacology/*therapeutic use
+Child
+Cystic Fibrosis/*drug therapy/genetics/physiopathology
+Cystic Fibrosis Transmembrane Conductance Regulator/*genetics/metabolism
+Drug Synergism
+Female
+Forced Expiratory Volume/drug effects
+Humans
+Male
+Middle Aged
+Mutation
+Quinolones/adverse effects/pharmacology/*therapeutic use
+Young Adult",Ramsey BW and Davies J and McElvaney NG and Tullis E and Bell SC and Drevinek P and Griese M and McKone EF and Wainwright CE and Konstan MW and Moss R and Ratjen F and Sermet-Gaudelus I and Rowe SM and Dong Q and Rodriguez S and Yen K and Ordonez C and Elborn JS,"BACKGROUND: Increasing the activity of defective cystic fibrosis transmembrane conductance regulator (CFTR) protein is a potential treatment for cystic fibrosis. METHODS: We conducted a randomized, double-blind, placebo-controlled trial to evaluate ivacaftor (VX-770), a CFTR potentiator, in subjects 12 years of age or older with cystic fibrosis and at least one G551D-CFTR mutation. Subjects were randomly assigned to receive 150 mg of ivacaftor every 12 hours (84 subjects, of whom 83 received at least one dose) or placebo (83, of whom 78 received at least one dose) for 48 weeks. The primary end point was the estimated mean change from baseline through week 24 in the percent of predicted forced expiratory volume in 1 second (FEV(1)). RESULTS: The change from baseline through week 24 in the percent of predicted FEV(1) was greater by 10.6 percentage points in the ivacaftor group than in the placebo group (P<0.001). Effects on pulmonary function were noted by 2 weeks, and a significant treatment effect was maintained through week 48. Subjects receiving ivacaftor were 55% less likely to have a pulmonary exacerbation than were patients receiving placebo, through week 48 (P<0.001). In addition, through week 48, subjects in the ivacaftor group scored 8.6 points higher than did subjects in the placebo group on the respiratory-symptoms domain of the Cystic Fibrosis Questionnaire-revised instrument (a 100-point scale, with higher numbers indicating a lower effect of symptoms on the patient's quality of life) (P<0.001). By 48 weeks, patients treated with ivacaftor had gained, on average, 2.7 kg more weight than had patients receiving placebo (P<0.001). The change from baseline through week 48 in the concentration of sweat chloride, a measure of CFTR activity, with ivacaftor as compared with placebo was -48.1 mmol per liter (P<0.001). The incidence of adverse events was similar with ivacaftor and placebo, with a lower proportion of serious adverse events with ivacaftor than with placebo (24% vs. 42%). CONCLUSIONS: Ivacaftor was associated with improvements in lung function at 2 weeks that were sustained through 48 weeks. Substantial improvements were also observed in the risk of pulmonary exacerbations, patient-reported respiratory symptoms, weight, and concentration of sweat chloride. (Funded by Vertex Pharmaceuticals and others; VX08-770-102 ClinicalTrials.gov number, NCT00909532.).",seattlechildrens,The New England journal of medicine,365

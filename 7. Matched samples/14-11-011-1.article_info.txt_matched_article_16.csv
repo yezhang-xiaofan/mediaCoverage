@@ -1,0 +1,21 @@
+21324906,Late activation of stress-activated protein kinases/c-Jun N-terminal kinases triggered by cisplatin-induced DNA damage in repair-defective cells.,The Journal of biological chemistry,Helbig L and Damrot J and Hulsenbeck J and Koberle B and Brozovic A and Osmak M and Fiket Z and Kaina B and Fritz G,Missing,"Although stress-activated protein kinases/c-Jun N-terminal kinases (SAPK/JNK) are rapidly activated by genotoxins, the role of DNA damage in this response is not well defined. Here we show that the SEK1/MKK4-mediated dual phosphorylation of SAPK/JNK (Thr-183/Tyr-185) correlates with the level of cisplatin-DNA adducts at late times (16-24 h) after drug treatment in both human and mouse cells. Transfection of platinated plasmid DNA also caused SAPK/JNK activation. A defect in transcription-coupled nucleotide excision repair resting on a mutation in Cockayne syndrome group B protein promoted the late SAPK/JNK activation following cisplatin exposure. Signaling to SAPK/JNK was accompanied by activation of Ataxia telangiectasia mutated- and Rad3-related kinase, replication protein A, and checkpoint kinases as well as by the formation of DNA double strand breaks (DSBs). Ionizing radiation-induced DSBs did not provoke SAPK/JNK activation, and inhibition of transcription also failed to provoke this response. Late activation of SAPK/JNK stimulated by cisplatin-induced DNA lesions was reduced in the absence of specific DNA repair proteins, such as xeroderma pigmentosum protein C, pointing to an essential function of individual repair factors in DNA damage signaling to SAPK/JNK. Collectively, the data indicate that late SAPK/JNK activation is triggered by non-repaired cisplatin adducts in transcribed genes and involves replication-associated events, DSBs, tyrosine kinases, Rho GTPases, and specific repair factors.","Animals
+Antineoplastic Agents/*pharmacology
+Ataxia Telangiectasia Mutated Proteins
+Cell Cycle Proteins/genetics/metabolism
+Cells, Cultured
+Cisplatin/*pharmacology
+DNA Adducts/genetics/*metabolism
+DNA Breaks, Double-Stranded/*drug effects/radiation effects
+DNA Repair/*drug effects/radiation effects
+DNA-Binding Proteins/genetics/metabolism
+Enzyme Activation/drug effects/radiation effects
+Humans
+JNK Mitogen-Activated Protein Kinases/genetics/*metabolism
+MAP Kinase Kinase 4/genetics/metabolism
+Mice
+Mice, Knockout
+Protein-Serine-Threonine Kinases/genetics/metabolism
+Radiation, Ionizing
+Signal Transduction/drug effects/radiation effects
+Tumor Suppressor Proteins/genetics/metabolism
+rho GTP-Binding Proteins/genetics/metabolism"

@@ -1,0 +1,13 @@
+21239490,Gcn1 and actin binding to Yih1: implications for activation of the eIF2 kinase GCN2.,The Journal of biological chemistry,Sattlegger E and Barbosa JA and Moraes MC and Martins RM and Hinnebusch AG and Castilho BA,Missing,"Yeast Yih1 protein and its mammalian ortholog IMPACT, abundant in neurons, are inhibitors of Gcn2, a kinase involved in amino acid homeostasis, stress response, and memory formation. Like Gcn2, Yih1/IMPACT harbors an N-terminal RWD domain that mediates binding to the Gcn2 activator Gcn1. Yih1 competes with Gcn2 for Gcn1 binding, thus inhibiting Gcn2. Yih1 also binds G-actin. Here, we show that Yih1-actin interaction is independent of Gcn1 and that Yih1-Gcn1 binding does not require actin. The Yih1 RWD (residues 1-132) was sufficient for Gcn2 inhibition and Gcn1 binding, but not for actin binding, showing that actin binding is dispensable for inhibiting Gcn2. Actin binding required Yih1 residues 68-258, encompassing part of the RWD and the C-terminal ""ancient domain""; however, residues Asp-102 and Glu-106 in helix3 of the RWD were essential for Gcn1 binding and Gcn2 inhibition but dispensable for actin binding. Thus, the Gcn1- and actin-binding sites overlap in the RWD but have distinct binding determinants. Unexpectedly, Yih1 segment 68-258 was defective for inhibiting Gcn2 even though it binds Gcn1 at higher levels than does full-length Yih1. This and other results suggest that Yih1 binds with different requirements to distinct populations of Gcn1 molecules, and its ability to disrupt Gcn1-Gcn2 complexes is dependent on a complete RWD and hindered by actin binding. Modeling of the ancient domain on the bacterial protein YigZ showed peculiarities to the eukaryotic and prokaryotic lineages, suggesting binding sites for conserved cellular components. Our results support a role for Yih1 in a cross-talk between the cytoskeleton and translation.","Actins/genetics/metabolism
+Binding Sites
+Cytoskeleton/genetics/*metabolism
+Enzyme Activation/physiology
+Microfilament Proteins/genetics/*metabolism
+Multienzyme Complexes/genetics/*metabolism
+Peptide Elongation Factors/genetics/*metabolism
+Protein Binding
+Protein Biosynthesis/*physiology
+Protein Structure, Tertiary
+Protein-Serine-Threonine Kinases/genetics/*metabolism
+Saccharomyces cerevisiae/genetics/*metabolism
+Saccharomyces cerevisiae Proteins/genetics/*metabolism"

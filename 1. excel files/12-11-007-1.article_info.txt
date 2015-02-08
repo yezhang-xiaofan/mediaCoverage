@@ -1,0 +1,12 @@
+22165157,"Composition, concentration and deprivation: exploring their association with social cohesion among different ethnic groups in the UK.","Acculturation/history
+*Cultural Diversity
+*Ethnic Groups/education/ethnology/history/legislation & jurisprudence/psychology
+Great Britain/ethnology
+History, 20th Century
+History, 21st Century
+Humans
+*Residence Characteristics/history
+*Social Change/history
+Social Conformity
+*Social Identification
+Statistics as Topic/economics/education/history",Becares L and Stafford M and Laurence J and Nazroo J,"Although studies in the US have shown an association between the ethnic residential composition of an area and reports of decreased social cohesion among its residents, this association is not clear in the UK, and particularly for ethnic minority groups. The current study analyses a merged dataset from the 2005 and 2007 Citizenship Survey to assess the evidence for an association between social cohesion and ethnic residential concentration, composition and area deprivation across different ethnic groups in the UK. Results of the multilevel regression models show that, after adjusting for area deprivation, increased levels of social cohesion are found in areas of greater ethnic residential heterogeneity. Although different patterns emerge across ethnic groups and the measure of social cohesion used, findings consistently show that it is area deprivation, and not ethnic residential heterogeneity, which erodes social cohesion in the UK.",Missing,"Urban studies (Edinburgh, Scotland)",48

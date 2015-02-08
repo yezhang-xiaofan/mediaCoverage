@@ -1,0 +1,14 @@
+21441907,Mapping and analysis of chromatin state dynamics in nine human cell types.,Nature,Ernst J and Kheradpour P and Mikkelsen TS and Shoresh N and Ward LD and Epstein CB and Zhang X and Wang L and Issner R and Coyne M and Ku M and Durham T and Kellis M and Bernstein BE,Missing,"Chromatin profiling has emerged as a powerful means of genome annotation and detection of regulatory activity. The approach is especially well suited to the characterization of non-coding portions of the genome, which critically contribute to cellular phenotypes yet remain largely uncharted. Here we map nine chromatin marks across nine cell types to systematically characterize regulatory elements, their cell-type specificities and their functional interactions. Focusing on cell-type-specific patterns of promoters and enhancers, we define multicell activity profiles for chromatin state, gene expression, regulatory motif enrichment and regulator expression. We use correlations between these profiles to link enhancers to putative target genes, and predict the cell-type-specific activators and repressors that modulate them. The resulting annotations and regulatory predictions have implications for the interpretation of genome-wide association studies. Top-scoring disease single nucleotide polymorphisms are frequently positioned within enhancer elements specifically active in relevant cell types, and in some cases affect a motif instance for a predicted regulator, thus suggesting a mechanism for the association. Our study presents a general framework for deciphering cis-regulatory connections and their roles in disease.","Binding Sites
+Cell Line
+Cell Line, Tumor
+*Cell Physiological Phenomena
+Cells, Cultured
+Chromatin/*genetics/*metabolism
+*Chromosome Mapping
+Gene Expression Regulation
+Genome, Human/genetics
+Hep G2 Cells
+Humans
+Promoter Regions, Genetic/genetics
+Reproducibility of Results
+Transcription Factors/genetics"

@@ -1,0 +1,16 @@
+21733839,The trypanocidal drug suramin and other trypan blue mimetics are inhibitors of pyruvate kinases and bind to the adenosine site.,"Adenosine/*metabolism
+Animals
+Binding Sites
+Binding, Competitive
+Humans
+Inhibitory Concentration 50
+Kinetics
+Leishmania mexicana/enzymology
+Mice
+Protein Binding
+Protein Kinase Inhibitors/pharmacology/therapeutic use
+Pyruvate Kinase/*antagonists & inhibitors
+Suramin/*pharmacology
+Trypan Blue/analogs & derivatives/*pharmacology
+Trypanocidal Agents/*pharmacology
+Trypanosoma cruzi/enzymology",Morgan HP and McNae IW and Nowicki MW and Zhong W and Michels PA and Auld DS and Fothergill-Gilmore LA and Walkinshaw MD,"Ehrlich's pioneering chemotherapeutic experiments published in 1904 (Ehrlich, P., and Shiga, K. (1904) Berlin Klin. Wochenschrift 20, 329-362) described the efficacy of a series of dye molecules including trypan blue and trypan red to eliminate trypanosome infections in mice. The molecular structures of the dyes provided a starting point for the synthesis of suramin, which was developed and used as a trypanocidal drug in 1916 and is still in clinical use. Despite the biological importance of these dye-like molecules, the mode of action on trypanosomes has remained elusive. Here we present crystal structures of suramin and three related dyes in complex with pyruvate kinases from Leishmania mexicana or from Trypanosoma cruzi. The phenyl sulfonate groups of all four molecules (suramin, Ponceau S, acid blue 80, and benzothiazole-2,5-disulfonic acid) bind in the position of ADP/ATP at the active sites of the pyruvate kinases (PYKs). The binding positions in the two different trypanosomatid PYKs are nearly identical. We show that suramin competitively inhibits PYKs from humans (muscle, tumor, and liver isoenzymes, K(i) = 1.1-17 muM), T. cruzi (K(i) = 108 muM), and L. mexicana (K(i) = 116 muM), all of which have similar active sites. Synergistic effects were observed when examining suramin inhibition in the presence of an allosteric effector molecule, whereby IC(50) values decreased up to 2-fold for both trypanosomatid and human PYKs. These kinetic and structural analyses provide insight into the promiscuous inhibition observed for suramin and into the mode of action of the dye-like molecules used in Ehrlich's original experiments.",Missing,The Journal of biological chemistry,286

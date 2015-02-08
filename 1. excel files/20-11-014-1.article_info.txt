@@ -1,0 +1,20 @@
+22001908,Deregulation of the serum- and glucocorticoid-inducible kinase SGK1 in the endometrium causes reproductive failure.,"Animals
+Cell Death
+Cells, Cultured
+Embryo Implantation/*physiology
+Endometrium/cytology/*enzymology
+Female
+Humans
+Immediate-Early Proteins/genetics/*metabolism
+*Infertility, Female
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Knockout
+Oxidative Stress
+Placenta/cytology/physiology
+Pregnancy
+*Pregnancy Complications
+Pregnancy Outcome
+Protein-Serine-Threonine Kinases/genetics/*metabolism
+Stromal Cells/cytology/metabolism",Salker MS and Christian M and Steel JH and Nautiyal J and Lavery S and Trew G and Webster Z and Al-Sabbagh M and Puchchakayala G and Foller M and Landles C and Sharkey AM and Quenby S and Aplin JD and Regan L and Lang F and Brosens JJ,"Infertility and recurrent pregnancy loss (RPL) are prevalent but distinct causes of reproductive failure that often remain unexplained despite extensive investigations. Analysis of midsecretory endometrial samples revealed that SGK1, a kinase involved in epithelial ion transport and cell survival, is upregulated in unexplained infertility, most prominently in the luminal epithelium, but downregulated in the endometrium of women suffering from RPL. To determine the functional importance of these observations, we first expressed a constitutively active SGK1 mutant in the luminal epithelium of the mouse uterus. This prevented expression of certain endometrial receptivity genes, perturbed uterine fluid handling and abolished embryo implantation. By contrast, implantation was unhindered in Sgk1-/- mice, but pregnancy was often complicated by bleeding at the decidual-placental interface and fetal growth retardation and subsequent demise. Compared to wild-type mice, Sgk1-/- mice had gross impairment of pregnancy-dependent induction of genes involved in oxidative stress defenses. Relative SGK1 deficiency was also a hallmark of decidualizing stromal cells from human subjects with RPL and sensitized these cells to oxidative cell death. Thus, depending on the cellular compartment, deregulated SGK1 activity in cycling endometrium interferes with embryo implantation, leading to infertility, or predisposes to pregnancy complications by rendering the feto-maternal interface vulnerable to oxidative damage.",Missing,Nature medicine,17

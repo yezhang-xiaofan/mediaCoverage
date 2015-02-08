@@ -1,0 +1,16 @@
+22071969,Targeted cancer immunotherapy with oncolytic adenovirus coding for a fully human monoclonal antibody specific for CTLA-4.,Gene therapy,Dias JD and Hemminki O and Diaconu I and Hirvinen M and Bonetti A and Guse K and Escutenaire S and Kanerva A and Pesonen S and Loskog A and Cerullo V and Hemminki A,Missing,"Promising clinical results have been achieved with monoclonal antibodies (mAbs) such as ipilimumab and tremelimumab that block cytotoxic T lymphocyte-associated antigen-4 (CTLA-4, CD152). However, systemic administration of these agents also has the potential for severe immune-related adverse events. Thus, local production might allow higher concentrations at the target while reducing systemic side effects. We generated a transductionally and transcriptionally targeted oncolytic adenovirus Ad5/3-Delta24aCTLA4 expressing complete human mAb specific for CTLA-4 and tested it in vitro, in vivo and in peripheral blood mononuclear cells (PBMCs) of normal donors and patients with advanced solid tumors. mAb expression was confirmed by western blotting and immunohistochemistry. Biological functionality was determined in a T-cell line and in PBMCs from cancer patients. T cells of patients, but not those of healthy donors, were activated by an anti-CTLA4mAb produced by Ad5/3-Delta24aCTLA4. In addition to immunological effects, a direct anti-CTLA-4-mediated pro-apoptotic effect was observed in vitro and in vivo. Local production resulted in 43-fold higher (P<0.05) tumor versus plasma anti-CTLA4mAb concentration. Plasma levels in mice remained below what has been reported safe in humans. Replication-competent Ad5/3-Delta24aCTLA4 resulted in 81-fold higher (P<0.05) tumor mAb levels as compared with a replication-deficient control. This is the first report of an oncolytic adenovirus producing a full-length human mAb. High mAb concentrations were seen at tumors with lower systemic levels. Stimulation of T cells of cancer patients by Ad5/3-Delta24aCTLA4 suggests feasibility of testing the approach in clinical trials.","Adenoviridae/*genetics
+Animals
+Antibodies, Monoclonal/*genetics/immunology/metabolism
+CTLA-4 Antigen/*immunology
+Cell Line, Tumor
+Genetic Vectors
+HEK293 Cells
+Humans
+Immunotherapy
+Mice
+Mice, Inbred C57BL
+Neoplasms/immunology/*therapy
+Oncolytic Virotherapy
+Oncolytic Viruses/*genetics
+T-Lymphocytes/immunology
+Xenograft Model Antitumor Assays"

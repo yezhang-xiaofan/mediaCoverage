@@ -1,0 +1,16 @@
+21280060,Time trends (1998-2007) in brain cancer incidence rates in relation to mobile phone use in England.,"Adolescent
+Adult
+Age Distribution
+Brain Neoplasms/*epidemiology/*etiology
+Causality
+Cell Phones/*utilization
+Child
+England/epidemiology
+Female
+Humans
+Incidence
+Male
+Middle Aged
+Radio Waves/*adverse effects
+Risk
+Temporal Lobe/pathology",de Vocht F and Burstyn I and Cherrie JW,"Mobile phone use in the United Kingdom and other countries has risen steeply since the early 1990's when the first digital mobile phones were introduced. There is an ongoing controversy about whether radio frequency (RF) exposure from mobile phones increases the risk of brain cancer. However, given the widespread use and nearly two decades elapsing since mobile phones were introduced, an association should have produced a noticeable increase in the incidence of brain cancer by now. Trends in rates of newly diagnosed brain cancer cases in England between 1998 and 2007 were examined. There were no time trends in overall incidence of brain cancers for either gender, or any specific age group. Systematic increases in rates for cancers of the temporal lobe in men (0.04 new cases/year) and women (0.02/year) were observed, along with decreases in the rates of cancers of the parietal lobe (-0.03/year), cerebrum (-0.02/year) and cerebellum (-0.01/year) in men only. The increased use of mobile phones between 1985 and 2003 has not led to a noticeable change in the incidence of brain cancer in England between 1998 and 2007. The observed increase in the rate of cancers in the temporal lobe, if caused by mobile phone use, would constitute <1 additional case per 100,000 people in that period. These data do not indicate a pressing need to implement a precautionary principle by means of population-wide interventions to reduce RF exposure from mobile phones.",Missing,Bioelectromagnetics,32

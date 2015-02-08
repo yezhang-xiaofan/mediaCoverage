@@ -1,0 +1,12 @@
+21298098,Tendon is covered by a basement membrane epithelium that is required for cell retention and the prevention of adhesion formation.,"Animals
+Basement Membrane/*chemistry
+*Cell Movement
+Collagen Type IV/analysis
+Epithelium/physiology
+In Vitro Techniques
+Keratins/analysis
+Laminin/analysis
+Mice
+Models, Animal
+Tendons/*anatomy & histology/physiology
+Tissue Adhesions/prevention & control",Taylor SH and Al-Youha S and Van Agtmael T and Lu Y and Wong J and McGrouther DA and Kadler KE,"The ability of tendons to glide smoothly during muscle contraction is impaired after injury by fibrous adhesions that form between the damaged tendon surface and surrounding tissues. To understand how adhesions form we incubated excised tendons in fibrin gels (to mimic the homeostatic environment at the injury site) and assessed cell migration. We noticed cells exiting the tendon from only the cut ends. Furthermore, treatment of the tendon with trypsin resulted in cell extravagation from the shaft of the tendons. Electron microscopy and immunolocalisation studies showed that the tendons are covered by a novel cell layer in which a collagen type IV/laminin basement membrane (BM) overlies a keratinised epithelium. PCR and western blot analyses confirmed the expression of laminin beta1 in surface cells, only. To evaluate the cell retentive properties of the BM in vivo we examined the tendons of the Col4a1(+/Svc) mouse that is heterozygous for a G-to-A transition in the Col4a1 gene that produces a G1064D substitution in the alpha1(IV) chain of collagen IV. The flexor tendons had a discontinuous BM, developed fibrous adhesions with overlying tissues, and were acellular at sites of adhesion formation. In further experiments, tenotomy of wild-type mice resulted in expression of laminin throughout the adhesion. In conclusion, we show the existence of a novel tendon BM-epithelium that is required to prevent adhesion formation. The Col4a1(+/Svc) mouse is an effective animal model for studying adhesion formation because of the presence of a structurally-defective collagen type IV-containing BM.",Missing,PloS one,6

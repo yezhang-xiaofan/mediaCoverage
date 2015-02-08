@@ -1,0 +1,19 @@
+21303776,Dietary iron intake during early pregnancy and birth outcomes in a cohort of British women.,"Adolescent
+Adult
+Birth Weight
+Cohort Studies
+Diet
+Diet, Vegetarian
+Dietary Supplements
+Female
+Great Britain
+Humans
+Infant, Newborn
+Iron/*deficiency
+Iron, Dietary/*administration & dosage
+Middle Aged
+Pregnancy
+Pregnancy Complications/prevention & control
+Pregnancy Outcome
+Prospective Studies
+Social Class",Alwan NA and Greenwood DC and Simpson NA and McArdle HJ and Godfrey KM and Cade JE,"BACKGROUND Iron deficiency during pregnancy is associated with adverse birth outcomes, particularly, if present during early gestation. Iron supplements are widely recommended during pregnancy, but evidence of their benefit in relation to infant outcomes is not established. This study was performed in the UK, where iron supplements are not routinely recommended during pregnancy, to investigate the association between iron intake in pregnancy and size at birth. METHODS From a prospective cohort of 1274 pregnant women aged 18-45 years, dietary intake was reported in a 24-h recall administered by a research midwife at 12-week gestation. Dietary supplement intake was ascertained using dietary recall and three questionnaires in the first, second and third trimesters. RESULTS Of the cohort of pregnant women, 80% reported dietary iron intake below the UK Reference Nutrient Intake of 14.8 mg/day. Those reported taking iron-containing supplements in the first, second and third trimesters were 24, 15 and 8%, respectively. Women with dietary iron intake >14.8 mg/day were more likely to be older, have a higher socioeconomic profile and take supplements during the first trimester. Vegetarians were less likely to have low dietary iron intake [odds ratio = 0.5, 95% confidence interval (CI): 0.4, 0.8] and more likely to take supplements during the first and second trimesters. Total iron intake, but not iron intake from food only, was associated with birthweight centile (adjusted change = 2.5 centiles/10 mg increase in iron, 95% CI: 0.4, 4.6). This association was stronger in the high vitamin C intake group, but effect modification was not significant. CONCLUSION There was a positive relationship between total iron intake, from food and supplements, in early pregnancy and birthweight. Iron intake, both from diet and supplements, during the first trimester of pregnancy was higher in vegetarians and women with a better socioeconomic profile.",Missing,"Human reproduction (Oxford, England)",26

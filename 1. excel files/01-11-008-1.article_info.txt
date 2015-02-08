@@ -1,0 +1,14 @@
+21569808,Focusing on food during lunch enhances lunch memory and decreases later snack intake.,"Adolescent
+Appetite/physiology
+*Appetite Regulation
+*Attention
+Eating/*physiology
+Feeding Behavior/*psychology
+Female
+Food
+*Food Habits
+Humans
+Memory
+Newspapers
+Questionnaires
+Young Adult",Higgs S and Donohoe JE,"We investigated whether eating lunch mindfully, in contrast to eating with distractions or no particular focus, reduces later snack intake and if this is related to a measure of meal memory. The design was between-subjects with three conditions. Twenty-nine female undergraduate students either ate a fixed lunch while (1) focusing on the sensory characteristics of the food as they ate (food focus group), (2) reading a newspaper article about food (food thoughts control group) or (3) in the absence of any secondary task (neutral control group). Cookie intake later that afternoon was measured as well as rated vividness of memory of the lunch. Participants ate significantly fewer cookies in the food focus group than in both the food thoughts control group or the neutral control group. Rated appetite before the snack session was lower in the food focus group than in the other two groups and rated vividness of lunch memory was higher. Rated vividness of lunch memory was negatively correlated with snack intake. These results suggest that enhancing meal memory by paying attention to food while eating can reduce later intake and are consistent with the suggestion that memory plays an important role in appetite control.",Missing,Appetite,57

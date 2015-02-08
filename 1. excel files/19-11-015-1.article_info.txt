@@ -1,0 +1,13 @@
+22152681,Dissecting the genetics of complex inheritance: linkage disequilibrium mapping provides insight into Crohn disease.,"Cadherins/genetics
+Case-Control Studies
+Chromosome Mapping
+Chromosomes, Human, Pair 16
+Crohn Disease/*genetics
+Genome-Wide Association Study
+*Heredity
+Humans
+Interferon Regulatory Factors/genetics
+*Linkage Disequilibrium
+Nod2 Signaling Adaptor Protein/genetics
+Polymorphism, Single Nucleotide
+Tumor Suppressor Proteins/genetics",Elding H and Lau W and Swallow DM and Maniatis N,"Family studies for Crohn disease (CD) report extensive linkage on chromosome 16q and pinpoint NOD2 as a possible causative locus. However, linkage is also observed in families that do not bear the most frequent NOD2 causative mutations, but no other signals on 16q have been found so far in published genome-wide association studies. Our aim is to identify this missing genetic contribution. We apply a powerful genetic mapping approach to the Wellcome Trust Case-Control Consortium and the National Institute of Diabetes and Digestive and Kidney Diseases genome-wide association data on CD. This method takes into account the underlying structure of linkage disequilibrium (LD) by using genetic distances from LD maps and provides a location for the causal agent. We find genetic heterogeneity within the NOD2 locus and also show an independent and unsuspected involvement of the neighboring gene, CYLD. We find associations with the IRF8 region and the region containing CDH1 and CDH3, as well as substantial phenotypic and genetic heterogeneity for CD itself. The genes are known to be involved in inflammation and immune dysregulation. These findings provide insight into the genetics of CD and suggest promising directions for understanding disease heterogeneity. The application of this method thus paves the way for understanding complex inheritance in general, leading to the dissection of different pathways and ultimately, personalized treatment.",Missing,American journal of human genetics,89

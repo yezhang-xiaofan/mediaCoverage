@@ -1,0 +1,16 @@
+22006925,Regulation of cellular levels of Sprouty2 protein by prolyl hydroxylase domain and von Hippel-Lindau proteins.,The Journal of biological chemistry,Anderson K and Nordquist KA and Gao X and Hicks KC and Zhai B and Gygi SP and Patel TB,Missing,"Sprouty (Spry) proteins modulate the actions of receptor tyrosine kinases during development and tumorigenesis. Decreases in cellular levels of Spry, especially Sprouty2 (Spry2), have been implicated in the growth and progression of tumors of the breast, prostate, lung, and liver. During development and tumor growth, cells experience hypoxia. Therefore, we investigated how hypoxia modulates the levels of Spry proteins. Hypoxia elevated the levels of all four expressed Spry isoforms in HeLa cells. Amounts of endogenous Spry2 in LS147T and HEP3B cells were also elevated by hypoxia. Using Spry2 as a prototype, we demonstrate that silencing and expression of prolyl hydroxylase domain proteins (PHD1-3) increase and decrease, respectively, the cellular content of Spry2. Spry2 also preferentially interacted with PHD1-3 and von Hippel-Lindau protein (pVHL) during normoxia but not in hypoxia. Additionally, Spry2 is hydroxylated on Pro residues 18, 144, and 160, and substitution of these residues with Ala enhanced stability of Spry2 and abrogated its interactions with pVHL. Silencing of pVHL increased levels of Spry2 by decreasing its ubiquitylation and degradation and thereby augmented the ability of Spry2 to inhibit FGF-elicited activation of ERK1/2. Thus, prolyl hydroxylase mediated hydroxylation and subsequent pVHL-elicited ubiquitylation of Spry2 target it for degradation and, consequently, provide a novel mechanism of regulating growth factor signaling.","Anoxia
+Gene Silencing
+HEK293 Cells
+HeLa Cells
+Humans
+Intracellular Signaling Peptides and Proteins/*metabolism
+Membrane Proteins
+Phosphorylation
+Procollagen-Proline Dioxygenase/metabolism
+Protein Structure, Tertiary
+RNA, Small Interfering/metabolism
+Receptor Protein-Tyrosine Kinases/metabolism
+Signal Transduction
+Ubiquitin/chemistry
+Ubiquitin-Protein Ligases/metabolism
+Von Hippel-Lindau Tumor Suppressor Protein/*metabolism"

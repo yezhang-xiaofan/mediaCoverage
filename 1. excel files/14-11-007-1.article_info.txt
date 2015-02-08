@@ -1,0 +1,11 @@
+21382949,Secondhand smoke and adverse fetal outcomes in nonsmoking pregnant women: a meta-analysis.,"Abortion, Spontaneous/*etiology
+Congenital Abnormalities/*etiology
+Female
+Humans
+Infant, Newborn
+Infant, Newborn, Diseases/*mortality
+Pregnancy
+*Prenatal Exposure Delayed Effects
+Risk Assessment
+*Stillbirth
+Tobacco Smoke Pollution/*adverse effects",Leonardi-Bee J and Britton J and Venn A,"OBJECTIVE: To determine the risk of adverse fetal outcomes of secondhand smoke exposure in nonsmoking pregnant women. METHODS: This was a systematic review and meta-analysis in accordance with Meta-analysis of Observational Studies in Epidemiology (MOOSE) guidelines. We searched Medline and Embase (to March 2009) and reference lists for eligible studies; no language restrictions were imposed. Pooled odds ratios (ORs) with 95% confidence intervals (CIs) were estimated by using random-effect models. Our search was for epidemiologic studies of maternal exposure to secondhand smoke during pregnancy in nonsmoking pregnant women. The main outcome measures were spontaneous abortion, perinatal and neonatal death, stillbirth, and congenital malformations. RESULTS: We identified 19 studies that assessed the effects of secondhand smoke exposure in nonsmoking pregnant women. We found no evidence of a statistically significant effect of secondhand smoke exposure on the risk of spontaneous abortion (OR: 1.17 [95% CI: 0.88-1.54]; 6 studies). However, secondhand smoke exposure significantly increased the risk of stillbirth (OR: 1.23 [95% CI: 1.09-1.38]; 4 studies) and congenital malformation (OR: 1.13 [95% CI: 1.01-1.26]; 7 studies), although none of the associations with specific congenital abnormalities were individually significant. Secondhand smoke exposure had no significant effect on perinatal or neonatal death. CONCLUSIONS: Pregnant women who are exposed to secondhand smoke are estimated to be 23% more likely to experience stillbirth and 13% more likely give birth to a child with a congenital malformation. Because the timing and mechanism of this effect is not clear, it is important to prevent secondhand smoke exposure in women before and during pregnancy.",Missing,Pediatrics,127

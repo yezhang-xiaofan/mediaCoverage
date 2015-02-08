@@ -1,0 +1,13 @@
+21487035,Lung cancer diagnosis from proteomic analysis of preinvasive lesions.,Cancer research,Rahman SM and Gonzalez AL and Li M and Seeley EH and Zimmerman LJ and Zhang XJ and Manier ML and Olson SJ and Shah RN and Miller AN and Putnam JB and Miller YE and Franklin WA and Blot WJ and Carbone DP and Shyr Y and Caprioli RM and Massion PP,Missing,"Early detection may help improve survival from lung cancer. In this study, our goal was to derive and validate a signature from the proteomic analysis of bronchial lesions that could predict the diagnosis of lung cancer. Using previously published studies of bronchial tissues, we selected a signature of nine matrix-assisted laser desorption ionization mass spectrometry (MALDI MS) mass-to-charge ratio features to build a prediction model diagnostic of lung cancer. The model was based on MALDI MS signal intensity (MALDI score) from bronchial tissue specimens from our 2005 published cohort of 51 patients. The performance of the prediction model in identifying lung cancer was tested in an independent cohort of bronchial specimens from 60 patients. The probability of having lung cancer based on the proteomic analysis of the bronchial specimens was characterized by an area under the receiver operating characteristic curve of 0.77 (95% CI 0.66-0.88) in this validation cohort. Eight of the nine features were identified and validated by Western blotting and immunohistochemistry. These results show that proteomic analysis of endobronchial lesions may facilitate the diagnosis of lung cancer and the monitoring of high-risk individuals for lung cancer in surveillance and chemoprevention trials.","Aged
+Blotting, Western
+Early Detection of Cancer/methods
+Female
+Humans
+Immunohistochemistry
+Lung Neoplasms/*diagnosis/metabolism
+Male
+Middle Aged
+Neoplasm Proteins/*analysis/metabolism
+Proteomics/*methods
+Reproducibility of Results
+Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization/methods"

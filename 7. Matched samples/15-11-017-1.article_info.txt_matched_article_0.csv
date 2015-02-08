@@ -1,0 +1,16 @@
+22113316,siRNA-mediated silencing of PD-1 ligands enhances tumor-specific human T-cell effector functions.,Gene therapy,Iwamura K and Kato T and Miyahara Y and Naota H and Mineno J and Ikeda H and Shiku H,Missing,"Adoptive cell therapy using tumor-specific T cells is a promising strategy for treating patients with malignancy. However, accumulating evidences have demonstrated that optimal function of tumor-reactive T cells is often attenuated by negative regulatory signal(s) delivered through receptors, such as cytotoxic T-lymphocyte antigen 4 (CTLA-4), programmed death 1 (PD-1), and their cognate ligands. Although systemic blocking of these molecules needs careful attention on the risk of uncontrolled immune activation, selective inhibition of negative signals in tumor-specific T cells by their genetic modification is an attractive approach to overcome immunological suppression in cancer patients. Here, we demonstrate the improved effector functions of tumor-specific CD4(+) and CD8(+) human T cells by small interfering RNA (siRNA) -mediated silencing of PD-1 ligands, PD-L1 or PD-L2. Tumor antigen MAGE-A4-specific human T-cell clones upregulated the expression of PD-1 ligands upon activation. siRNA-mediated knockdown of PD-L1 or -L2 enhanced the interferon-gamma production and antigen-specific cytotoxicity of these cells. Peripheral blood mononuclear cells transduced with a retroviral vector encoding MAGE-A4-specific T-cell receptor alpha/beta chains also increased their effector functions by this modification. These results suggest that siRNA-mediated knockdown of PD-1 ligands is an attractive strategy to inhibit a negative regulatory mechanism of tumor-specific T cells resulting in enhanced efficacy of adoptive T-cell therapy of cancer using genetically modified autologous lymphocytes.","Antigens, CD274/antagonists & inhibitors/genetics/*metabolism
+Antigens, Neoplasm/*immunology
+CD4-Positive T-Lymphocytes/*immunology
+CD8-Positive T-Lymphocytes/*immunology
+Cell Line, Tumor
+Cytotoxicity, Immunologic
+Genetic Vectors
+Humans
+Interferon-gamma/genetics/metabolism
+Neoplasm Proteins/*immunology
+Programmed Cell Death 1 Ligand 2 Protein/antagonists &
+inhibitors/genetics/*metabolism
+*RNA Interference
+*RNA, Small Interfering
+Transfection
+Up-Regulation"

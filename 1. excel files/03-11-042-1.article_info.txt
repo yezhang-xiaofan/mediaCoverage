@@ -1,0 +1,14 @@
+22112805,Evaluation of the sensitivity and specificity of (11)C-metomidate positron emission tomography (PET)-CT for lateralizing aldosterone secretion by Conn's adenomas.,"Adrenal Cortex Neoplasms/*radionuclide imaging/secretion
+Adrenocortical Adenoma/*radionuclide imaging/secretion
+Adult
+Aldosterone/*secretion
+Carbon Radioisotopes/diagnostic use
+Etomidate/*analogs & derivatives/diagnostic use
+Humans
+Incidental Findings
+Middle Aged
+Multimodal Imaging/*methods
+*Positron-Emission Tomography
+ROC Curve
+Sensitivity and Specificity
+*Tomography, X-Ray Computed",Burton TJ and Mackenzie IS and Balan K and Koo B and Bird N and Soloviev DV and Azizan EA and Aigbirhio F and Gurnell M and Brown MJ,"CONTEXT: Identification of unilateral aldosterone-producing (Conn's) adenomas has traditionally required lateralization by the invasive and technically difficult procedure of adrenal vein sampling (AVS). (11)C-metomidate, a potent inhibitor of adrenal steroidogenic enzymes, is a positron emission tomography (PET) radiotracer that is selectively accumulated by Conn's adenomas. OBJECTIVE: The objective of the study was to compare the sensitivity and specificity of (11)C-metomidate PET-computed tomography (CT) against the current gold standard of AVS. DESIGN: The design of the study was within-patient comparison of diagnostic techniques. SETTING: The study was conducted at a single center-university teaching hospital. PATIENTS: Thirty-nine patients with primary hyperaldosteronism (PHA) and five with nonfunctioning adenomas (incidentalomas) participated in the study. INTERVENTION(S): The first six PHA patients were studied on three occasions to determine whether steroid pretreatment reduced (11)C-metomidate uptake by normal adrenal. Subsequent patients received dexamethasone for 3 d prior to injection of (11)C-metomidate 150-500 MBq. MAIN OUTCOME MEASURE(S): Maximum standardized uptake values (SUV(max)) over regions of interest determined from 35-45 min after injection were measured. RESULTS: Dexamethasone increased tumor to normal adrenal SUV(max) ratio by 25.6 +/- 5.0% (P < 0.01). PET-CT visualized subcentimeter adenomas and distinguished hot from cold adenomas within a gland. In 25 patients with PHA and AVS lateralization to the side of an adenoma, SUV(max) over tumor (mean +/- sem) of 21.7 +/- 1.6 was greater than over normal adrenal, 13.8 +/- 0.6 (P = 0.00003); this difference was absent in 10 patients without lateralization on AVS (P = 0.28) and in four of five incidentalomas. On receiver-operator characteristics analysis, an SUV(max) ratio of 1.25:1 provided a specificity of 87% [95% confidence interval (69, 104)] and sensitivity of 76% (59, 93); in tumors with SUV(max) greater than 17, the specificity rose to 100%. CONCLUSIONS: (11)C-metomidate PET-CT is a sensitive and specific noninvasive alternative to AVS in the management of PHA.",Missing,The Journal of clinical endocrinology and metabolism,97

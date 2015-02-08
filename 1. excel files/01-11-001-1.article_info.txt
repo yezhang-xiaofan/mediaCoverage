@@ -1,0 +1,15 @@
+21299319,The nature of gestures' beneficial role in spatial problem solving.,"Adolescent
+Adult
+Analysis of Variance
+Female
+*Gestures
+Humans
+Male
+Photic Stimulation/methods
+Problem Solving/*physiology
+Reaction Time/physiology
+Space Perception/*physiology
+Students/psychology
+Task Performance and Analysis
+Thinking/physiology
+Young Adult",Chu M and Kita S,"Co-thought gestures are hand movements produced in silent, noncommunicative, problem-solving situations. In the study, we investigated whether and how such gestures enhance performance in spatial visualization tasks such as a mental rotation task and a paper folding task. We found that participants gestured more often when they had difficulties solving mental rotation problems (Experiment 1). The gesture-encouraged group solved more mental rotation problems correctly than did the gesture-allowed and gesture-prohibited groups (Experiment 2). Gestures produced by the gesture-encouraged group enhanced performance in the very trials in which they were produced (Experiments 2 & 3). Furthermore, gesture frequency decreased as the participants in the gesture-encouraged group solved more problems (Experiments 2 & 3). In addition, the advantage of the gesture-encouraged group persisted into subsequent spatial visualization problems in which gesturing was prohibited: another mental rotation block (Experiment 2) and a newly introduced paper folding task (Experiment 3). The results indicate that when people have difficulty in solving spatial visualization problems, they spontaneously produce gestures to help them, and gestures can indeed improve performance. As they solve more problems, the spatial computation supported by gestures becomes internalized, and the gesture frequency decreases. The benefit of gestures persists even in subsequent spatial visualization problems in which gesture is prohibited. Moreover, the beneficial effect of gesturing can be generalized to a different spatial visualization task when two tasks require similar spatial transformation processes. We concluded that gestures enhance performance on spatial visualization tasks by improving the internal computation of spatial transformations. (PsycINFO Database Record (c) 2010 APA, all rights reserved).",mpi,Journal of experimental psychology. General,140

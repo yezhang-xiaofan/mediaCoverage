@@ -1,0 +1,9 @@
+21517206,Internal representations reveal cultural diversity in expectations of facial expressions of emotion.,"Adult
+*Cultural Diversity
+Culture
+*Emotions
+*Facial Expression
+Female
+Humans
+Male
+*Recognition (Psychology)",Jack RE and Caldara R and Schyns PG,"Facial expressions have long been considered the ""universal language of emotion."" Yet consistent cultural differences in the recognition of facial expressions contradict such notions (e.g., R. E. Jack, C. Blais, C. Scheepers, P. G. Schyns, & R. Caldara, 2009). Rather, culture--as an intricate system of social concepts and beliefs--could generate different expectations (i.e., internal representations) of facial expression signals. To investigate, they used a powerful psychophysical technique (reverse correlation) to estimate the observer-specific internal representations of the 6 basic facial expressions of emotion (i.e., happy, surprise, fear, disgust, anger, and sad) in two culturally distinct groups (i.e., Western Caucasian [WC] and East Asian [EA]). Using complementary statistical image analyses, cultural specificity was directly revealed in these representations. Specifically, whereas WC internal representations predominantly featured the eyebrows and mouth, EA internal representations showed a preference for expressive information in the eye region. Closer inspection of the EA observer preference revealed a surprising feature: changes of gaze direction, shown primarily among the EA group. For the first time, it is revealed directly that culture can finely shape the internal representations of common facial expressions of emotion, challenging notions of a biologically hardwired ""universal language of emotion.""",Missing,Journal of experimental psychology. General,141

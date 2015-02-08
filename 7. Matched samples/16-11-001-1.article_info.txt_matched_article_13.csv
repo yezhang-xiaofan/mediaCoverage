@@ -1,0 +1,20 @@
+20884633,Metabolic profiling detects field effects in nondysplastic tissue from esophageal cancer patients.,Cancer research,Yakoub D and Keun HC and Goldin R and Hanna GB,Missing,"The variable rate of missed cancer in endoscopic biopsies and lack of other biomarkers reduce the effectiveness of surveillance programs in esophageal cancer. Based on the ""field cancerization"" hypothesis that tumors arise within a transformed field with an altered biochemical phenotype, we sought to test if metabolic profiling could differentiate between histologically normal tissue from individuals with and without esophageal cancer. Thirty-five patients with esophageal adenocarcinoma and 52 age-matched controls participated in the study. Using 1H magic angle spinning-nuclear magnetic resonance spectroscopy of intact tissue, we generated metabolic profiles of tumor tissue, proximal histologically normal mucosa from cancer patients (PHINOM), and proximal histologically normal mucosa from a control group. Using multivariate regression and receiver-operator characteristic analysis, we identified a panel of metabolites discriminating malignant and histologically normal tissues from cancer patients and from that of controls. Whereas 26% and 12% of the spectral profile regions were uniquely discriminating tumor or control tissue, respectively, 5% of the profile exhibited a significant progressive change in signal intensity from controls to PHINOM to tumor. Regions identified were assigned to phosphocholine (PC), glutamate (Glu), myo-inositol, adenosine-containing compounds, uridine-containing compounds, and inosine. In particular, the PC/Glu ratio in histologically normal tissue signified the presence of esophageal cancer (n=123; area under the curve, 0.84; P<0.001). In conclusion, our findings support the hypothesis of the presence of metabonomic field effects in esophageal cancer, even in non-Barrett's segments. This indicates that metabolic profiling of tissue can potentially play a role in the surveillance of cancer by reporting on the phenotypic consequences of field cancerization.","Adenocarcinoma/diagnosis/*metabolism
+Barrett Esophagus/diagnosis/metabolism
+Cell Transformation, Neoplastic/metabolism
+Diagnosis, Differential
+Esophageal Neoplasms/diagnosis/*metabolism
+Esophagus/metabolism/pathology
+Female
+Glutamic Acid/metabolism
+Humans
+Inosine/metabolism
+Inositol/metabolism
+Magnetic Resonance Spectroscopy
+Male
+*Metabolome
+Middle Aged
+Mucous Membrane/*metabolism
+Multivariate Analysis
+Phosphorylcholine/metabolism
+Regression Analysis
+Sensitivity and Specificity"

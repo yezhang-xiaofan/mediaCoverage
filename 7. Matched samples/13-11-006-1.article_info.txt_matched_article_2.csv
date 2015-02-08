@@ -1,0 +1,17 @@
+21300915,CXCR7 influences leukocyte entry into the CNS parenchyma by controlling abluminal CXCL12 abundance during autoimmunity.,The Journal of experimental medicine,Cruz-Orengo L and Holman DW and Dorsey D and Zhou L and Zhang P and Wright M and McCandless EE and Patel JR and Luker GD and Littman DR and Russell JH and Klein RS,Missing,"Loss of CXCL12, a leukocyte localizing cue, from abluminal surfaces of the blood-brain barrier occurs in multiple sclerosis (MS) lesions. However, the mechanisms and consequences of reduced abluminal CXCL12 abundance remain unclear. Here, we show that activation of CXCR7, which scavenges CXCL12, is essential for leukocyte entry via endothelial barriers into the central nervous system (CNS) parenchyma during experimental autoimmune encephalomyelitis (EAE), a model for MS. CXCR7 expression on endothelial barriers increased during EAE at sites of inflammatory infiltration. Treatment with a CXCR7 antagonist ameliorated EAE, reduced leukocyte infiltration into the CNS parenchyma and parenchymal VCAM-1 expression, and increased abluminal levels of CXCL12. Interleukin 17 and interleukin 1beta increased, whereas interferon-gamma decreased, CXCR7 expression on and CXCL12 internalization in primary brain endothelial cells in vitro. These findings identify molecular requirements for the transvascular entry of leukocytes into the CNS and suggest that CXCR7 blockade may have therapeutic utility for the treatment of MS.","Analysis of Variance
+Animals
+Autoimmunity/*immunology
+Blood-Brain Barrier/*immunology/metabolism
+Cell Movement/*immunology
+Cell Proliferation
+Chemokine CXCL12/*metabolism
+Chemotaxis, Leukocyte/*immunology
+Flow Cytometry
+Gene Knock-In Techniques
+Immunohistochemistry
+Mice
+Mice, Inbred C57BL
+Polymerase Chain Reaction
+Receptors, CXCR/genetics/*metabolism
+Spinal Cord/*immunology/metabolism
+T-Lymphocytes/immunology"

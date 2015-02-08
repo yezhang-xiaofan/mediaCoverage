@@ -1,0 +1,16 @@
+21266972,Development and evaluation of human AP endonuclease inhibitors in melanoma and glioma cell lines.,British journal of cancer,Mohammed MZ and Vyjayanti VN and Laughton CA and Dekker LV and Fischer PM and Wilson DM 3rd and Abbotts R and Shah S and Patel PM and Hickson ID and Madhusudan S,Missing,"AIMS: Modulation of DNA base excision repair (BER) has the potential to enhance response to chemotherapy and improve outcomes in tumours such as melanoma and glioma. APE1, a critical protein in BER that processes potentially cytotoxic abasic sites (AP sites), is a promising new target in cancer. In the current study, we aimed to develop small molecule inhibitors of APE1 for cancer therapy. METHODS: An industry-standard high throughput virtual screening strategy was adopted. The Sybyl8.0 (Tripos, St Louis, MO, USA) molecular modelling software suite was used to build inhibitor templates. Similarity searching strategies were then applied using ROCS 2.3 (Open Eye Scientific, Santa Fe, NM, USA) to extract pharmacophorically related subsets of compounds from a chemically diverse database of 2.6 million compounds. The compounds in these subsets were subjected to docking against the active site of the APE1 model, using the genetic algorithm-based programme GOLD2.7 (CCDC, Cambridge, UK). Predicted ligand poses were ranked on the basis of several scoring functions. The top virtual hits with promising pharmaceutical properties underwent detailed in vitro analyses using fluorescence-based APE1 cleavage assays and counter screened using endonuclease IV cleavage assays, fluorescence quenching assays and radiolabelled oligonucleotide assays. Biochemical APE1 inhibitors were then subjected to detailed cytotoxicity analyses. RESULTS: Several specific APE1 inhibitors were isolated by this approach. The IC(50) for APE1 inhibition ranged between 30 nM and 50 muM. We demonstrated that APE1 inhibitors lead to accumulation of AP sites in genomic DNA and potentiated the cytotoxicity of alkylating agents in melanoma and glioma cell lines. CONCLUSIONS: Our study provides evidence that APE1 is an emerging drug target and could have therapeutic application in patients with melanoma and glioma.","Brain Neoplasms/*drug therapy/pathology
+Cell Line, Tumor
+DNA-(Apurinic or Apyrimidinic Site) Lyase/*antagonists & inhibitors
+Drug Discovery
+Drug Evaluation, Preclinical
+Enzyme Inhibitors/*chemical synthesis/isolation &
+purification/pharmacology/*therapeutic use
+Glioma/*drug therapy/pathology
+HeLa Cells
+High-Throughput Screening Assays/methods
+Humans
+Inhibitory Concentration 50
+Melanoma/*drug therapy/pathology
+Models, Biological
+Models, Molecular
+Structure-Activity Relationship"

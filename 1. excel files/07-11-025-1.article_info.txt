@@ -1,0 +1,18 @@
+21841185,A role for sensory nerves in the late asthmatic response.,"Acetanilides/pharmacology
+Animals
+Asthma/chemically induced/*physiopathology
+Bronchi/drug effects/*innervation/physiopathology
+Bronchoconstriction/*physiology
+Disease Models, Animal
+Disease Progression
+Male
+Mice
+Mice, Inbred C57BL
+Ovalbumin/administration & dosage/immunology/toxicity
+Parasympathetic Nervous System/drug effects/*physiopathology
+Purines/pharmacology
+Rats
+Rats, Inbred BN
+Ruthenium Red/pharmacology
+Sensory Receptor Cells/drug effects/*physiology
+Transient Receptor Potential Channels/antagonists & inhibitors",Raemdonck K and de Alba J and Birrell MA and Grace M and Maher SA and Irvin CG and Fozard JR and O'Byrne PM and Belvisi MG,"BACKGROUND: In allergic asthma, exposure to relevant antigens leads to an early asthmatic response (EAR) followed, in certain subjects, by a late asthmatic response (LAR). Although many subjects with asthma consider LAR to be one of the defining symptoms of their disease, and despite its widespread use in the clinical assessment of new therapeutic entities, the mechanism underlying the LAR remains unclear. METHOD: A study was undertaken using ovalbumin-sensitised and challenged Brown Norway rat and C57BL/6J mouse models which recapitulate phenotypic features of allergic asthma including the LAR and its susceptibility to clinically effective agents. RESULTS: In conscious animals an EAR was followed by a LAR. The LAR was subjectively evidenced by audible (wheeze) and visual signs of respiratory distress associated with quantifiable changes in non-invasive lung function assessment. Treatments that attenuated the EAR failed to impact on the LAR and, while anaesthesia did not impact on EAR, it abolished LAR. A key role for airway sensory neuronal reflexes in the LAR was therefore hypothesised, which was confirmed by the blockade observed after administration of ruthenium red (non-selective cation channel blocker), HC-030031 (TRPA1 inhibitor) and tiotropium bromide (anticholinergic) but not JNJ-17203212 (TRPV1 inhibitor). CONCLUSION: These results suggest that LAR involves the following processes: allergen challenge triggering airway sensory nerves via the activation of TRPA1 channels which initiates a central reflex event leading to a parasympathetic cholinergic constrictor response. These data are supported by recent clinical trials suggesting that an anticholinergic agent improved symptoms and lung function in patients with asthma.",Missing,Thorax,67

@@ -1,0 +1,18 @@
+21336306,How APC/C-Cdc20 changes its substrate specificity in mitosis.,Nature cell biology,Izawa D and Pines J,Missing,"Progress through mitosis requires that the right protein be degraded at the right time. One ubiquitin ligase, the anaphase-promoting complex or cyclosome (APC/C) targets most of the crucial mitotic regulators by changing its substrate specificity throughout mitosis. The spindle assembly checkpoint (SAC) acts on the APC/C co-activator, Cdc20 (cell division cycle 20), to block the degradation of metaphase substrates (for example, cyclin B1 and securin), but not others (for example, cyclin A). How this is achieved is unclear. Here we show that Cdc20 binds to different sites on the APC/C depending on the SAC. Cdc20 requires APC3 and APC8 to bind and activate the APC/C when the SAC is satisfied, but requires only APC8 to bind the APC/C when the SAC is active. Moreover, APC10 is crucial for the destruction of cyclin B1 and securin, but not cyclin A. We conclude that the SAC causes Cdc20 to bind to different sites on the APC/C and this alters APC/C substrate specificity.","Anaphase-Promoting Complex-Cyclosome
+Animals
+Binding Sites
+Cdc20 Proteins
+Cell Cycle Proteins/*metabolism
+Cyclin A/metabolism
+Cyclin B1/metabolism
+HeLa Cells
+Humans
+Metaphase
+*Mitosis
+Models, Biological
+Mutation
+Neoplasm Proteins/metabolism
+Securin
+Spindle Apparatus
+Substrate Specificity
+Ubiquitin-Protein Ligase Complexes/*metabolism"

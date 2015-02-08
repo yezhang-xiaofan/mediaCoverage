@@ -1,0 +1,20 @@
+21576463,Regulation of type 17 helper T-cell function by nitric oxide during inflammation.,"Animals
+Autoimmune Diseases/metabolism
+Cell Proliferation
+Cyclic GMP/metabolism
+Cytochrome P-450 CYP1A1/metabolism
+Humans
+Inflammation
+Interleukin-10/metabolism
+Interleukin-2/metabolism
+Interleukins/metabolism
+Ligands
+Mice
+Mice, Inbred BALB C
+Models, Biological
+Nitric Oxide/*metabolism
+Nitric Oxide Synthase Type II/metabolism
+Proto-Oncogene Protein c-ets-1/metabolism
+Receptors, Interleukin/metabolism
+T-Lymphocytes, Helper-Inducer/*cytology
+Th17 Cells/*metabolism",Niedbala W and Alves-Filho JC and Fukada SY and Vieira SM and Mitani A and Sonego F and Mirchandani A and Nascimento DC and Cunha FQ and Liew FY,"Type 17 helper T (Th17) cells are implicated in the pathogenesis many of human autoimmune diseases. Development of Th17 can be enhanced by the activation of aryl hydrocarbon receptor (AHR) whose ligands include the environmental pollutant dioxin, potentially linking environmental factors to the increased prevalence of autoimmune disease. We report here that nitric oxide (NO) can suppress the proliferation and function of polarized murine and human Th17 cells. NO also inhibits AHR expression in Th17 cells and the downstream events of AHR activation, including IL-22, IL-23 receptor, and Cyp1a1. Conversely, NO did not affect the polarization of Th17 cells from mice deficient in AHR. Furthermore, mice lacking inducible nitric oxide synthase (Nos2(-/-)) developed more severe experimental autoimmune encephalomyelitis than WT mice, with elevated AHR expression, increased IL-17A, and IL-22 synthesis. NO may therefore represent an important endogenous regulator to prevent overexpansion of Th17 cells and control of autoimmune diseases caused by environmental pollutants.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

@@ -1,0 +1,11 @@
+22194182,Sleep and circadian rhythm disruption in schizophrenia.,"Adult
+Case-Control Studies
+Female
+Humans
+Male
+Melatonin/urine
+Monitoring, Ambulatory
+Schizophrenia/complications/*physiopathology
+Sleep Disorders, Circadian Rhythm/complications/*physiopathology
+Time Factors
+Unemployment",Wulff K and Dijk DJ and Middleton B and Foster RG and Joyce EM,"BACKGROUND: Sleep disturbances comparable with insomnia occur in up to 80% of people with schizophrenia, but very little is known about the contribution of circadian coordination to these prevalent disruptions. AIMS: A systematic exploration of circadian time patterns in individuals with schizophrenia with recurrent sleep disruption. METHOD: We examined the relationship between sleep-wake activity, recorded actigraphically over 6 weeks, along with ambient light exposure and simultaneous circadian clock timing, by collecting weekly 48 h profiles of a urinary metabolite of melatonin in 20 out-patients with schizophrenia and 21 healthy control individuals matched for age, gender and being unemployed. RESULTS: Significant sleep/circadian disruption occurred in all the participants with schizophrenia. Half these individuals showed severe circadian misalignment ranging from phase-advance/delay to non-24 h periods in sleep-wake and melatonin cycles, and the other half showed patterns from excessive sleep to highly irregular and fragmented sleep epochs but with normally timed melatonin production. CONCLUSIONS: Severe circadian sleep/wake disruptions exist despite stability in mood, mental state and newer antipsychotic treatment. They cannot be explained by the individuals' level of everyday function.",Missing,The British journal of psychiatry : the journal of mental science,200

@@ -1,0 +1,18 @@
+21452944,Silent reading of direct versus indirect speech activates voice-selective areas in the auditory cortex.,"Acoustic Stimulation
+Adult
+Attention/physiology
+Auditory Cortex/blood supply/*physiology
+Auditory Perception/*physiology
+*Brain Mapping
+Eye Movements
+Female
+Humans
+Image Processing, Computer-Assisted/methods
+*Lipreading
+Magnetic Resonance Imaging/methods
+Male
+Oxygen/blood
+Psychomotor Performance
+Semantics
+Speech/*physiology
+Young Adult",Yao B and Belin P and Scheepers C,"In human communication, direct speech (e.g., Mary said: ""I'm hungry"") is perceived to be more vivid than indirect speech (e.g., Mary said [that] she was hungry). However, for silent reading, the representational consequences of this distinction are still unclear. Although many of us share the intuition of an ""inner voice,"" particularly during silent reading of direct speech statements in text, there has been little direct empirical confirmation of this experience so far. Combining fMRI with eye tracking in human volunteers, we show that silent reading of direct versus indirect speech engenders differential brain activation in voice-selective areas of the auditory cortex. This suggests that readers are indeed more likely to engage in perceptual simulations (or spontaneous imagery) of the reported speaker's voice when reading direct speech as opposed to meaning-equivalent indirect speech statements as part of a more vivid representation of the former. Our results may be interpreted in line with embodied cognition and form a starting point for more sophisticated interdisciplinary research on the nature of auditory mental simulation during reading.",Missing,Journal of cognitive neuroscience,23

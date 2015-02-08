@@ -1,0 +1,10 @@
+22002719,alpha-Ketoglutarate coordinates carbon and nitrogen utilization via enzyme I inhibition.,Nature chemical biology,Doucette CD and Schwab DJ and Wingreen NS and Rabinowitz JD,Missing,"Microbes survive in a variety of nutrient environments by modulating their intracellular metabolism. Balanced growth requires coordinated uptake of carbon and nitrogen, the primary substrates for biomass production. Yet the mechanisms that balance carbon and nitrogen uptake are poorly understood. We find in Escherichia coli that a sudden increase in nitrogen availability results in an almost immediate increase in glucose uptake. The concentrations of glycolytic intermediates and known regulators, however, remain homeostatic. Instead, we find that alpha-ketoglutarate, which accumulates in nitrogen limitation, directly blocks glucose uptake by inhibiting enzyme I, the first step of the sugar-phosphoenolpyruvate phosphotransferase system (PTS). This inhibition enables rapid modulation of glycolytic flux without marked changes in the concentrations of glycolytic intermediates by simultaneously altering import of glucose and consumption of the terminal glycolytic intermediate phosphoenolpyruvate. Quantitative modeling shows that this previously unidentified regulatory connection is, in principle, sufficient to coordinate carbon and nitrogen utilization.","Biomass
+Carbon/chemistry/*metabolism
+Enzyme Inhibitors/chemistry/*pharmacology
+Escherichia coli/enzymology/growth & development/metabolism
+Glucose/antagonists & inhibitors/metabolism
+Ketoglutaric Acids/chemistry/*pharmacology
+Nitrogen/chemistry/*metabolism
+Phosphoenolpyruvate Sugar Phosphotransferase System/*antagonists &
+inhibitors/metabolism
+Structure-Activity Relationship"

@@ -1,0 +1,10 @@
+21133413,Construction and analyses of tetrameric forms of yeast NAD+-specific isocitrate dehydrogenase.,Biochemistry,Lin AP and Demeler B and Minard KI and Anderson SL and Schirf V and Galaleldeen A and McAlister-Henn L,Missing,"Yeast NAD(+)-specific isocitrate dehydrogenase (IDH) is an octameric enzyme composed of four heterodimers of regulatory IDH1 and catalytic IDH2 subunits. The crystal structure suggested that the interactions between tetramers in the octamer are restricted to defined regions in IDH1 subunits from each tetramer. Using truncation and mutagenesis, we constructed three tetrameric forms of IDH. Truncation of five residues from the amino terminus of IDH1 did not alter the octameric form of the enzyme, but this truncation with an IDH1 G15D or IDH1 D168K residue substitution produced tetrameric enzymes as assessed by sedimentation velocity ultracentrifugation. The IDH1 G15D substitution in the absence of any truncation of IDH1 was subsequently found to be sufficient for production of a tetrameric enzyme. The tetrameric forms of IDH exhibited approximately 50% reductions in V(max) and in cooperativity with respect to isocitrate relative to those of the wild-type enzyme, but they retained the property of allosteric activation by AMP. The truncated (-5)IDH1/IDH2 and tetrameric enzymes were much more sensitive than the wild-type enzyme to inhibition by the oxidant diamide and concomitant formation of a disulfide bond between IDH2 Cys-150 residues. Binding of ligands reduced the sensitivity of the wild-type enzyme to diamide but had no effect on inhibition of the truncated or tetrameric enzymes. These results suggest that the octameric structure of IDH has in part evolved for regulation of disulfide bond formation and activity by ensuring the proximity of the amino terminus of an IDH1 subunit of one tetramer to the IDH2 Cys-150 residues in the other tetramer.","Amino Acid Sequence
+Diamide/chemistry
+Disulfides/chemistry
+Isocitrate Dehydrogenase/*chemistry/genetics
+Models, Molecular
+Molecular Sequence Data
+Mutation
+Protein Multimerization
+Protein Subunits/chemistry
+Saccharomyces cerevisiae/*chemistry/*enzymology/genetics"

@@ -1,0 +1,18 @@
+21600942,Taste perception and implicit attitude toward sweet related to body mass index and soft drink supplementation.,"Adult
+Appetite
+*Attitude
+Body Composition
+*Body Mass Index
+Body Weight
+*Carbonated Beverages
+Female
+*Food Preferences
+Humans
+Leptin/blood
+Male
+Mouth/physiology
+Obesity
+Sucrose
+*Taste Perception
+Taste Threshold/*physiology
+Young Adult",Sartor F and Donaldson LF and Markland DA and Loveday H and Jackson MJ and Kubis HP,"These studies examined the differences in sweet taste perception and implicit attitude toward sweet between normal-weight and overweight/obese adults; and tested the effects of soft drink consumption on sweet taste, explicit preference and implicit attitude toward sweet in normal-weight subjects. In study 1, normal-weight (n = 22) and overweight/obese (n = 11) adults were assessed for sweet taste intensity and pleasantness. Implicit attitude toward sweet was assessed by implicit association test (IAT). In study 2, normal-weight, lightly active adults (n = 12) underwent one month soft drink supplementation ( approximately 760 ml/day). This increased their daily carbohydrate intake by 2.1 +/- 0.2g/kg body weight. Sweet taste perception, explicit preference and implicit attitudes to sweet were assessed. In both studies salty taste was also assessed as a contrasting perception. Overweight/obese subjects perceived sweet and salty tastes as less intense (-23% and -19%, respectively) and reported higher IAT scores for sweet than normal-weight controls (2.1-fold). The supplementation changed sweet intensity/pleasantness ratings and it increased explicit preference (2.3-fold) for sweet in a subgroup of initial sucrose-dislikers. In conclusion, overweight/obese individuals are more implicitly attracted to sweet. One month of soft drink supplementation changed sweet taste perception of normal-weight subjects.",Missing,Appetite,57

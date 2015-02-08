@@ -1,0 +1,14 @@
+22832521,A novel functional brain imaging endophenotype of autism: the neural response to facial expression of emotion.,"Adolescent
+Autistic Disorder/genetics/*physiopathology
+Biological Markers
+Brain/*physiopathology
+Child
+Emotions/*physiology
+*Endophenotypes
+*Facial Expression
+Female
+Humans
+Magnetic Resonance Imaging/instrumentation/*methods
+Male
+Risk
+Siblings",Spencer MD and Holt RJ and Chura LR and Suckling J and Calder AJ and Bullmore ET and Baron-Cohen S,"Siblings of individuals with autism have over 20 times the population risk of autism. Evidence of comparable, but less marked, cognitive and social communication deficits in siblings suggests a role for these traits in the search for biomarkers of familial risk. However, no neuroimaging biomarkers of familial risk have been identified to date. Here we show, for the first time, that the neural response to facial expression of emotion differs between unaffected siblings and healthy controls with no family history of autism. Strikingly, the functional magnetic resonance imaging (fMRI) response to happy versus neutral faces was significantly reduced in unaffected siblings compared with controls within a number of brain areas implicated in empathy and face processing. The response in unaffected siblings did not differ significantly from the response in autism. Furthermore, investigation of the response to faces versus fixation crosses suggested that, within the context of this study, an atypical response specifically to happy faces, rather than to faces in general, accounts for the observed sibling versus controls difference and is a clear biomarker of familial risk. Our findings suggest that an atypical implicit response to facial expression of emotion may form the basis of impaired emotional reactivity in autism and in the broader autism phenotype in relatives. These results demonstrate that the fMRI response to facial expression of emotion is a candidate neuroimaging endophenotype for autism, and may offer far-reaching insights into the etiology of autism.",Missing,Translational psychiatry,1

@@ -1,0 +1,16 @@
+21792889,Mechanisms of FGFR3 actions in endocrine resistant breast cancer.,"Antineoplastic Agents, Hormonal/*pharmacology
+Breast Neoplasms/*drug therapy/metabolism/pathology
+Cell Line, Tumor
+Drug Resistance, Neoplasm
+Estradiol/analogs & derivatives/pharmacology
+Female
+Fibroblast Growth Factor 1/pharmacology
+Gene Expression Regulation, Neoplastic
+Humans
+Mitogen-Activated Protein Kinases/metabolism
+Phosphatidylinositol 3-Kinases/metabolism
+Phospholipase C gamma/biosynthesis/metabolism
+Receptor, Fibroblast Growth Factor, Type 3/biosynthesis/*metabolism
+Receptors, Estrogen/biosynthesis/metabolism
+Signal Transduction
+Tamoxifen/pharmacology",Tomlinson DC and Knowles MA and Speirs V,"Although endocrine therapy has dramatically improved the treatment of breast cancer therapeutic resistance and tumour recurrence occurs, even in estrogen receptor (ER) positive cases. Identifying and understanding the molecular mechanisms which underpin endocrine resistance is therefore important if future therapeutic strategies are to be developed. Members of the fibroblast growth factor (FGF) and fibroblast growth factor receptor (FGFR) families have been implicated in breast cancer development and progression. Our results demonstrate that culture of michigan cancer foundation - 1 (MCF)7 cells with FGF1 results in reduced sensitivity to tamoxifen in vitro. Furthermore, our tissue microarray expression data demonstrates that FGFR3 expression is increased in tamoxifen resistant breast tumours. To confirm that activation of FGFR3 reduced sensitivity to tamoxifen we used an inducible activation system and a constitutively active mutant of FGFR3 expressed in MCF7 cells. Activation of FGFR3 reduced sensitivity to tamoxifen and Fulvestrant but did not lead to phosphorylation of ER demonstrating that FGFR3 does not feedback to modulate ER activity. FGFR3 activation in MCF7 cells stimulated activation of the mitogen-activated protein kinase (MAPK) and phosphoinositide 3-kinase (PI3K) signalling pathways, both of which have been implicated in tamoxifen resistance in breast cancer. Furthermore, our data indicates that activation of phospholipase C gamma is a key-signalling event regulating MAPK and PI3K activation and that its activation reduces sensitivity to tamoxifen. Therefore, we hypothesise that FGFRs could play an integral part, not only in breast cancer development but also in resistance to endocrine-therapy.",Missing,International journal of cancer. Journal international du cancer,130

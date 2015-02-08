@@ -1,0 +1,7 @@
+21545486,Comprehension of argument structure and semantic roles: evidence from English-learning children and the forced-choice pointing paradigm.,"*Child Language
+Child, Preschool
+*Choice Behavior
+*Comprehension
+Humans
+Language Tests
+Semantics",Noble CH and Rowland CF and Pine JM,"Research using the intermodal preferential looking paradigm (IPLP) has consistently shown that English-learning children aged 2 can associate transitive argument structure with causal events. However, studies using the same methodology investigating 2-year-old children's knowledge of the conjoined agent intransitive and semantic role assignment have reported inconsistent findings. The aim of the present study was to establish at what age English-learning children have verb-general knowledge of both transitive and intransitive argument structure using a new method: the forced-choice pointing paradigm. The results suggest that young 2-year-olds can associate transitive structures with causal (or externally caused) events and can use transitive structure to assign agent and patient roles correctly. However, the children were unable to associate the conjoined agent intransitive with noncausal events until aged 3;4. The results confirm the pattern from previous IPLP studies and indicate that children may develop the ability to comprehend different aspects of argument structure at different ages. The implications for theories of language acquisition and the nature of the language acquisition mechanism are discussed.",Missing,Cognitive science,35

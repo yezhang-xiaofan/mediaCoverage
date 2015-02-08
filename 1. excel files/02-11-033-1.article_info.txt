@@ -1,0 +1,16 @@
+21849555,Oxygen/glucose deprivation induces a reduction in synaptic AMPA receptors on hippocampal CA3 neurons mediated by mGluR1 and adenosine A3 receptors.,"Animals
+Animals, Newborn
+CA3 Region, Hippocampal/cytology/*metabolism
+Excitatory Postsynaptic Potentials/physiology
+Glucose/*deficiency
+Male
+Neural Inhibition/*physiology
+Neurons/metabolism
+Organ Culture Techniques
+Oxygen/*metabolism
+Rats
+Rats, Wistar
+Receptor, Adenosine A3/metabolism/*physiology
+Receptors, AMPA/*antagonists & inhibitors/metabolism
+Receptors, Metabotropic Glutamate/*physiology
+Synapses/*metabolism",Dennis SH and Jaafari N and Cimarosti H and Hanley JG and Henley JM and Mellor JR,"Hippocampal CA1 pyramidal neurons are highly sensitive to ischemic damage, whereas neighboring CA3 pyramidal neurons are less susceptible. It is proposed that switching of AMPA receptor (AMPAR) subunits on CA1 neurons during an in vitro model of ischemia, oxygen/glucose deprivation (OGD), leads to an enhanced permeability of AMPARs to Ca(2+), resulting in delayed cell death. However, it is unclear whether the same mechanisms exist in CA3 neurons and whether this underlies the differential sensitivity to ischemia. Here, we investigated the consequences of OGD for AMPAR function in CA3 neurons using electrophysiological recordings in rat hippocampal slices. Following a 15 min OGD protocol, a substantial depression of AMPAR-mediated synaptic transmission was observed at CA3 associational/commissural and mossy fiber synapses but not CA1 Schaffer collateral synapses. The depression of synaptic transmission following OGD was prevented by metabotropic glutamate receptor 1 (mGluR1) or A(3) receptor antagonists, indicating a role for both glutamate and adenosine release. Inhibition of PLC, PKC, or chelation of intracellular Ca(2+) also prevented the depression of synaptic transmission. Inclusion of peptides to interrupt the interaction between GluA2 and PICK1 or dynamin and amphiphysin prevented the depression of transmission, suggesting a dynamin and PICK1-dependent internalization of AMPARs after OGD. We also show that a reduction in surface and total AMPAR protein levels after OGD was prevented by mGluR1 or A(3) receptor antagonists, indicating that AMPARs are degraded following internalization. Thus, we describe a novel mechanism for the removal of AMPARs in CA3 pyramidal neurons following OGD that has the potential to reduce excitotoxicity and promote neuroprotection.",Missing,The Journal of neuroscience : the official journal of the Society for Neuroscience,31

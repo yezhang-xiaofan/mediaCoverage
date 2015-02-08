@@ -1,0 +1,16 @@
+21811609,Household tobacco smoke and admission weight predict severe bronchiolitis in infants independent of deprivation: prospective cohort study.,"*Body Weight
+Bronchiolitis/epidemiology/*pathology/virology
+Demography
+*Family Characteristics
+Female
+Humans
+Infant
+Male
+Multivariate Analysis
+*Patient Admission
+Prognosis
+Prospective Studies
+Respiratory Syncytial Viruses/physiology
+Severity of Illness Index
+Socioeconomic Factors
+*Tobacco Smoke Pollution",Semple MG and Taylor-Robinson DC and Lane S and Smyth RL,"OBJECTIVES: To examine demographic, environmental and clinical factors associated with severe bronchiolitis in infants admitted to hospital and quantify the independent effects of these factors. DESIGN: Prospective cohort study. SETTING: Alder Hey Children's Hospital, Liverpool, United Kingdom. PARTICIPANTS: 378 infants admitted to hospital with a diagnosis of bronchiolitis, of whom 299 (79%) were antigen positive to respiratory syncytial virus (RSV). OUTCOME: Severity of disease during admission, defined as ""no need for supplemental oxygen"" (reference group), ""any need for supplemental oxygen"" and ""any need for mechanical ventilation"". RESULTS: Univariate analysis found male sex (p = 0.035) and tobacco smoking by a household member (p<0.001) were associated with need for both supplemental oxygen and mechanical ventilation. Premature birth, low gestation, low birth weight, low admission weight and low corrected age on admission were also associated with need for mechanical ventilation (all p</=0.002). Deprivation scores (IMD 2004) were significantly higher in households where a member smoked compared to non-smoking households (p<0.001). The odds of smoking predicted by deprivation were 7 times higher (95%CI (3.59, 14.03)), when comparing the least and most deprived quintiles of the study population. Family history of atopic disease and deprivation score were not associated with severe disease. Multivariate multinomial logistic regression which initially included all covariates, found household tobacco smoking (adjusted OR = 2.45, 95%CI (1.60, 3.74) predicted need for oxygen supplementation. Household tobacco smoking (adjusted OR = 5.49, (2.78, 10.83)) and weight (kg) on admission (adjusted OR = 0.51, (0.40, 0.65)) were both significant predictors in the final model for mechanical ventilation. The same associations and similar size of effects were found when only children with proven RSV infection were included in analysis. CONCLUSIONS: Low admission weight and householder tobacco smoking increased the risk of severe bronchiolitis in infants admitted to hospital. These effects were independent of a standard deprivation measure. NIHR Study Ref. DHCS/G121/10.",Missing,PloS one,6

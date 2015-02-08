@@ -1,0 +1,12 @@
+21552263,Genome partitioning of genetic variation for complex traits using common SNPs.,Nature genetics,Yang J and Manolio TA and Pasquale LR and Boerwinkle E and Caporaso N and Cunningham JM and de Andrade M and Feenstra B and Feingold E and Hayes MG and Hill WG and Landi MT and Alonso A and Lettre G and Lin P and Ling H and Lowe W and Mathias RA and Melbye M and Pugh E and Cornelis MC and Weir BS and Goddard ME and Visscher PM,Missing,"We estimate and partition genetic variation for height, body mass index (BMI), von Willebrand factor and QT interval (QTi) using 586,898 SNPs genotyped on 11,586 unrelated individuals. We estimate that approximately 45%, approximately 17%, approximately 25% and approximately 21% of the variance in height, BMI, von Willebrand factor and QTi, respectively, can be explained by all autosomal SNPs and a further approximately 0.5-1% can be explained by X chromosome SNPs. We show that the variance explained by each chromosome is proportional to its length, and that SNPs in or near genes explain more variation than SNPs between genes. We propose a new approach to estimate variation due to cryptic relatedness and population stratification. Our results provide further evidence that a substantial proportion of heritability is captured by common SNPs, that height, BMI and QTi are highly polygenic traits, and that the additive variation explained by a part of the genome is approximately proportional to the total length of DNA contained within genes therein.","Body Height/genetics
+Body Mass Index
+*Chromosomes
+Chromosomes, Human, X
+*Genetic Variation
+Genetics, Population
+Genome-Wide Association Study
+Humans
+Models, Genetic
+*Polymorphism, Single Nucleotide
+X Chromosome Inactivation
+von Willebrand Factor/genetics"

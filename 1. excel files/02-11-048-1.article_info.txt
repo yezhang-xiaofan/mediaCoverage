@@ -1,0 +1,14 @@
+22121145,Early school attainment in late-preterm infants.,"Child
+Developmental Disabilities/*epidemiology/etiology
+*Educational Status
+England/epidemiology
+Epidemiologic Methods
+Female
+Gestational Age
+Humans
+Infant, Newborn
+Infant, Premature/*psychology
+Male
+Mathematics
+Reading
+Writing",Peacock PJ and Henderson J and Odd D and Emond A,"AIM: To investigate whether infants born late-preterm have poorer school attainment compared to those born at term. METHODS: This study used data from the Avon Longitudinal Study of Parents and Children. Key stage one (KS1) school assessment results were obtained from local education authorities. Logistic regression models were used to investigate the effect of gestation, that is, late-preterm (32-36 weeks) versus term (37-41 weeks), on success in KS1 teacher assessments. Regression models were adjusted for potential confounders, including maternal education and markers of socioeconomic status. RESULTS: There were 12 089 term infants and 734 late-preterm infants. 71% of late-preterm children were successful in KS1 assessments compared to 79% of those born at term (OR 0.64 (95% CI 0.53 to 0.78); p<0.001). This difference persisted on adjusting for potential confounders (OR 0.74 (95% CI 0.59 to 0.92); p=0.007). CONCLUSIONS: Children born late-preterm are less likely to be successful in early school assessments than those born at term. This group of vulnerable children warrants closer surveillance for early identification of potential educational failure.",Missing,Archives of disease in childhood,97

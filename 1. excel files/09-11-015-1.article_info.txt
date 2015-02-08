@@ -1,0 +1,9 @@
+21957440,The neurotropic parasite Toxoplasma gondii increases dopamine metabolism.,"Animals
+Brain/enzymology/*metabolism/*parasitology
+Dopamine/*metabolism
+Female
+Gene Expression Regulation, Enzymologic
+Humans
+Mice
+Toxoplasma/*physiology
+Tyrosine 3-Monooxygenase/genetics",Prandovszky E and Gaskell E and Martin H and Dubey JP and Webster JP and McConkey GA,"The highly prevalent parasite Toxoplasma gondii manipulates its host's behavior. In infected rodents, the behavioral changes increase the likelihood that the parasite will be transmitted back to its definitive cat host, an essential step in completion of the parasite's life cycle. The mechanism(s) responsible for behavioral changes in the host is unknown but two lines of published evidence suggest that the parasite alters neurotransmitter signal transduction: the disruption of the parasite-induced behavioral changes with medications used to treat psychiatric disease (specifically dopamine antagonists) and identification of a tyrosine hydroxylase encoded in the parasite genome. In this study, infection of mammalian dopaminergic cells with T. gondii enhanced the levels of K+-induced release of dopamine several-fold, with a direct correlation between the number of infected cells and the quantity of dopamine released. Immunostaining brain sections of infected mice with dopamine antibody showed intense staining of encysted parasites. Based on these analyses, T. gondii orchestrates a significant increase in dopamine metabolism in neural cells. Tyrosine hydroxylase, the rate-limiting enzyme for dopamine synthesis, was also found in intracellular tissue cysts in brain tissue with antibodies specific for the parasite-encoded tyrosine hydroxylase. These observations provide a mechanism for parasite-induced behavioral changes. The observed effects on dopamine metabolism could also be relevant in interpreting reports of psychobehavioral changes in toxoplasmosis-infected humans.",Missing,PloS one,6

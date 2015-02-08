@@ -1,0 +1,25 @@
+22073118,A malaria vaccine based on the polymorphic block 2 region of MSP-1 that elicits a broad serotype-spanning immune response.,"Adolescent
+Adult
+Animals
+Antibodies, Monoclonal/immunology
+Antibodies, Protozoan/*blood/*immunology
+Case-Control Studies
+Child
+Child, Preschool
+Cross-Sectional Studies
+Enzyme-Linked Immunosorbent Assay
+Female
+Fluorescent Antibody Technique, Indirect
+Humans
+Immunization
+Immunoblotting
+Immunoglobulin G/*immunology
+Macaca mulatta
+Malaria Vaccines/*immunology
+Malaria, Falciparum/*immunology/prevention & control
+Merozoite Surface Protein 1/*immunology
+Mice
+Mice, Inbred DBA
+Plasmodium falciparum/growth & development/*immunology
+Rabbits
+Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Cowan GJ and Creasey AM and Dhanasarnsombut K and Thomas AW and Remarque EJ and Cavanagh DR,"Polymorphic parasite antigens are known targets of protective immunity to malaria, but this antigenic variation poses challenges to vaccine development. A synthetic MSP-1 Block 2 construct, based on all polymorphic variants found in natural Plasmodium falciparum isolates has been designed, combined with the relatively conserved Block 1 sequence of MSP-1 and expressed in E.coli. The MSP-1 Hybrid antigen has been produced with high yield by fed-batch fermentation and purified without the aid of affinity tags resulting in a pure and extremely thermostable antigen preparation. MSP-1 hybrid is immunogenic in experimental animals using adjuvants suitable for human use, eliciting antibodies against epitopes from all three Block 2 serotypes. Human serum antibodies from Africans naturally exposed to malaria reacted to the MSP-1 hybrid as strongly as, or better than the same serum reactivities to individual MSP-1 Block 2 antigens, and these antibody responses showed clear associations with reduced incidence of malaria episodes. The MSP-1 hybrid is designed to induce a protective antibody response to the highly polymorphic Block 2 region of MSP-1, enhancing the repertoire of MSP-1 Block 2 antibody responses found among immune and semi-immune individuals in malaria endemic areas. The target population for such a vaccine is young children and vulnerable adults, to accelerate the acquisition of a full range of malaria protective antibodies against this polymorphic parasite antigen.",Missing,PloS one,6

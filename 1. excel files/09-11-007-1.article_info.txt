@@ -1,0 +1,17 @@
+21907015,"Homozygous mutations in PXDN cause congenital cataract, corneal opacity, and developmental glaucoma.","Animals
+Base Sequence
+Cataract/*genetics/pathology
+Cornea/metabolism/pathology
+Corneal Opacity/*genetics/pathology
+Extracellular Matrix Proteins/chemistry/*genetics/metabolism
+Genetic Predisposition to Disease/*genetics
+Glaucoma/*genetics/pathology
+Humans
+Mice
+Microscopy, Fluorescence
+*Models, Molecular
+Molecular Sequence Data
+Mutation/genetics
+Pedigree
+Peroxidase/chemistry/*genetics/metabolism
+Sequence Analysis, DNA",Khan K and Rudkin A and Parry DA and Burdon KP and McKibbin M and Logan CV and Abdelhamed ZI and Muecke JS and Fernandez-Fuentes N and Laurie KJ and Shires M and Fogarty R and Carr IM and Poulter JA and Morgan JE and Mohamed MD and Jafri H and Raashid Y and Meng N and Piseth H and Toomes C and Casson RJ and Taylor GR and Hammerton M and Sheridan E and Johnson CA and Inglehearn CF and Craig JE and Ali M,"Anterior segment dysgenesis describes a group of heterogeneous developmental disorders that affect the anterior chamber of the eye and are associated with an increased risk of glaucoma. Here, we report homozygous mutations in peroxidasin (PXDN) in two consanguineous Pakistani families with congenital cataract-microcornea with mild to moderate corneal opacity and in a consanguineous Cambodian family with developmental glaucoma and severe corneal opacification. These results highlight the diverse ocular phenotypes caused by PXDN mutations, which are likely due to differences in genetic background and environmental factors. Peroxidasin is an extracellular matrix-associated protein with peroxidase catalytic activity, and we confirmed localization of the protein to the cornea and lens epithelial layers. Our findings imply that peroxidasin is essential for normal development of the anterior chamber of the eye, where it may have a structural role in supporting cornea and lens architecture as well as an enzymatic role as an antioxidant enzyme in protecting the lens, trabecular meshwork, and cornea against oxidative damage.",Missing,American journal of human genetics,89

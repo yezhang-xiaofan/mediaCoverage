@@ -1,0 +1,24 @@
+21481708,Cytomegalovirus glycoprotein-B vaccine with MF59 adjuvant in transplant recipients: a phase 2 randomised placebo-controlled trial.,"Adjuvants, Immunologic/administration & dosage
+Adult
+Aged
+Antibodies, Viral/isolation & purification
+Cytomegalovirus/genetics/immunology/*isolation & purification
+Cytomegalovirus Infections/*diagnosis/*prevention & control
+Cytomegalovirus Vaccines/*administration & dosage/pharmacology
+DNA, Viral/isolation & purification
+Enzyme-Linked Immunosorbent Assay
+Female
+Humans
+Immunosuppressive Agents/administration & dosage/*adverse effects
+Kidney Transplantation
+Liver Transplantation
+Male
+Middle Aged
+*Organ Transplantation
+Polymerase Chain Reaction
+Polysorbates/*administration & dosage
+Squalene/*administration & dosage
+Time Factors
+Treatment Outcome
+Viral Envelope Proteins/*administration & dosage/pharmacology
+Viremia/diagnosis/prevention & control",Griffiths PD and Stanton A and McCarrell E and Smith C and Osman M and Harber M and Davenport A and Jones G and Wheeler DC and O'Beirne J and Thorburn D and Patch D and Atkinson CE and Pichon S and Sweny P and Lanzman M and Woodford E and Rothwell E and Old N and Kinyanjui R and Haque T and Atabani S and Luck S and Prideaux S and Milne RS and Emery VC and Burroughs AK,"BACKGROUND: Cytomegalovirus end-organ disease can be prevented by giving ganciclovir when viraemia is detected in allograft recipients. Values of viral load correlate with development of end-organ disease and are moderated by pre-existing natural immunity. Our aim was to determine whether vaccine-induced immunity could do likewise. METHODS: We undertook a phase-2 randomised placebo controlled trial in adults awaiting kidney or liver transplantation at the Royal Free Hospital, London, UK. Exclusion criteria were pregnancy, receipt of blood products (except albumin) in the previous 3 months, and simultaneous multiorgan transplantation. 70 patients seronegative and 70 seropositive for cytomegalovirus were randomly assigned from a scratch-off randomisation code in a 1:1 ratio to receive either cytomegalovirus glycoprotein-B vaccine with MF59 adjuvant or placebo, each given at baseline, 1 month and 6 months later. If a patient was transplanted, no further vaccinations were given and serial blood samples were tested for cytomegalovirus DNA by real-time quantitative PCR (rtqPCR). Any patient with one blood sample containing more than 3000 cytomegalovirus genomes per mL received ganciclovir until two consecutive undetectable cytomegalovirus DNA measurements. Safety and immunogenicity were coprimary endpoints and were assessed by intention to treat in patients who received at least one dose of vaccine or placebo. This trial is registered with ClinicalTrials.gov, NCT00299260. FINDINGS: 67 patients received vaccine and 73 placebo, all of whom were evaluable. Glycoprotein-B antibody titres were significantly increased in both seronegative (geometric mean titre 12,537 (95% CI 6593-23,840) versus 86 (63-118) in recipients of placebo recipients; p<0.0001) and seropositive (118,395; 64,503-217,272) versus 24,682 (17,909-34,017); p<0.0001) recipients of vaccine. In those who developed viraemia after transplantation, glycoprotein-B antibody titres correlated inversely with duration of viraemia (p=0.0022). In the seronegative patients with seropositive donors, the duration of viraemia (p=0.0480) and number of days of ganciclovir treatment (p=0.0287) were reduced in vaccine recipients. INTERPRETATION: Although cytomegalovirus disease occurs in the context of suppressed cell-mediated immunity post-transplantation, humoral immunity has a role in reduction of cytomegalovirus viraemia. Vaccines containing cytomegalovirus glycoprotein B merit further assessment in transplant recipients. FUNDING: National Institute of Allergy and Infectious Diseases, Grant R01AI051355 and Wellcome Trust, Grant 078332. SPONSOR: University College London (UCL).",Missing,Lancet,377

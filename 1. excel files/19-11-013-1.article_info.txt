@@ -1,0 +1,7 @@
+22355626,The role of nitrogen oxides in human adaptation to hypoxia.,"*Adaptation, Physiological
+Altitude
+Anoxia/metabolism/*physiopathology
+Exercise
+Humans
+Nitrogen Oxides/*metabolism
+Regional Blood Flow",Levett DZ and Fernandez BO and Riley HL and Martin DS and Mitchell K and Leckstrom CA and Ince C and Whipp BJ and Mythen MG and Montgomery HE and Grocott MP and Feelisch M,"Lowland residents adapt to the reduced oxygen availability at high altitude through a process known as acclimatisation, but the molecular changes underpinning these functional alterations are not well understood. Using an integrated biochemical/whole-body physiology approach we here show that plasma biomarkers of NO production (nitrite, nitrate) and activity (cGMP) are elevated on acclimatisation to high altitude while S-nitrosothiols are initially consumed, suggesting multiple nitrogen oxides contribute to improve hypoxia tolerance by enhancing NO availability. Unexpectedly, oxygen cost of exercise and mechanical efficiency remain unchanged with ascent while microvascular blood flow correlates inversely with nitrite. Our results suggest that NO is an integral part of the human physiological response to hypoxia. These findings may be of relevance not only to healthy subjects exposed to high altitude but also to patients in whom oxygen availability is limited through disease affecting the heart, lung or vasculature, and to the field of developmental biology.",Missing,Scientific reports,1

@@ -1,0 +1,18 @@
+21423181,Silencing of microRNA families by seed-targeting tiny LNAs.,Nature genetics,Obad S and dos Santos CO and Petri A and Heidenblad M and Broom O and Ruse C and Fu C and Lindow M and Stenvang J and Straarup EM and Hansen HF and Koch T and Pappin D and Hannon GJ and Kauppinen S,Missing,"The challenge of understanding the widespread biological roles of animal microRNAs (miRNAs) has prompted the development of genetic and functional genomics technologies for miRNA loss-of-function studies. However, tools for exploring the functions of entire miRNA families are still limited. We developed a method that enables antagonism of miRNA function using seed-targeting 8-mer locked nucleic acid (LNA) oligonucleotides, termed tiny LNAs. Transfection of tiny LNAs into cells resulted in simultaneous inhibition of miRNAs within families sharing the same seed with concomitant upregulation of direct targets. In addition, systemically delivered, unconjugated tiny LNAs showed uptake in many normal tissues and in breast tumors in mice, coinciding with long-term miRNA silencing. Transcriptional and proteomic profiling suggested that tiny LNAs have negligible off-target effects, not significantly altering the output from mRNAs with perfect tiny LNA complementary sites. Considered together, these data support the utility of tiny LNAs in elucidating the functions of miRNA families in vivo.","3' Untranslated Regions
+Animals
+Base Sequence
+Cell Line, Tumor
+Female
+Gene Knockdown Techniques
+*Gene Silencing
+Genes, Reporter
+*Genetic Techniques
+HeLa Cells
+Humans
+Liver/metabolism
+Luciferases, Renilla/genetics
+Mammary Neoplasms, Experimental/genetics/pathology/therapy
+Mice
+Mice, Inbred BALB C
+MicroRNAs/*antagonists & inhibitors/genetics
+Oligonucleotides/administration & dosage/*genetics/pharmacokinetics"

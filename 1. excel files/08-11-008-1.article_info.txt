@@ -1,0 +1,26 @@
+21533175,Eight common genetic variants associated with serum DHEAS levels suggest a key role in ageing mechanisms.,"Actin-Related Protein 2-3 Complex/genetics/metabolism
+Adaptor Proteins, Signal Transducing/genetics/metabolism
+Adult
+Aged
+Aging/*blood/genetics
+Apoptosis Regulatory Proteins/genetics/*metabolism
+Aryl Hydrocarbon Hydroxylases/genetics/metabolism
+Cytochrome P-450 CYP2C9
+Dehydroepiandrosterone Sulfate/*blood
+European Continental Ancestry Group/genetics
+Female
+Gene Expression
+Genome-Wide Association Study
+Homeodomain Proteins/genetics/metabolism
+Humans
+Kruppel-Like Transcription Factors/genetics/metabolism
+Linkage Disequilibrium
+Liver/metabolism
+Male
+Membrane Proteins/genetics/*metabolism
+Middle Aged
+*Polymorphism, Single Nucleotide
+Proto-Oncogene Proteins/genetics/*metabolism
+Sulfotransferases/genetics/metabolism
+Transcription Factors/genetics/metabolism
+Young Adult",Zhai G and Teumer A and Stolk L and Perry JR and Vandenput L and Coviello AD and Koster A and Bell JT and Bhasin S and Eriksson J and Eriksson A and Ernst F and Ferrucci L and Frayling TM and Glass D and Grundberg E and Haring R and Hedman AK and Hofman A and Kiel DP and Kroemer HK and Liu Y and Lunetta KL and Maggio M and Lorentzon M and Mangino M and Melzer D and Miljkovic I and Nica A and Penninx BW and Vasan RS and Rivadeneira F and Small KS and Soranzo N and Uitterlinden AG and Volzke H and Wilson SG and Xi L and Zhuang WV and Harris TB and Murabito JM and Ohlsson C and Murray A and de Jong FH and Spector TD and Wallaschofski H,"Dehydroepiandrosterone sulphate (DHEAS) is the most abundant circulating steroid secreted by adrenal glands--yet its function is unknown. Its serum concentration declines significantly with increasing age, which has led to speculation that a relative DHEAS deficiency may contribute to the development of common age-related diseases or diminished longevity. We conducted a meta-analysis of genome-wide association data with 14,846 individuals and identified eight independent common SNPs associated with serum DHEAS concentrations. Genes at or near the identified loci include ZKSCAN5 (rs11761528; p = 3.15 x 10(-36)), SULT2A1 (rs2637125; p = 2.61 x 10(-19)), ARPC1A (rs740160; p = 1.56 x 10(-16)), TRIM4 (rs17277546; p = 4.50 x 10(-11)), BMF (rs7181230; p = 5.44 x 10(-11)), HHEX (rs2497306; p = 4.64 x 10(-9)), BCL2L11 (rs6738028; p = 1.72 x 10(-8)), and CYP2C9 (rs2185570; p = 2.29 x 10(-8)). These genes are associated with type 2 diabetes, lymphoma, actin filament assembly, drug and xenobiotic metabolism, and zinc finger proteins. Several SNPs were associated with changes in gene expression levels, and the related genes are connected to biological pathways linking DHEAS with ageing. This study provides much needed insight into the function of DHEAS.",Missing,PLoS genetics,7

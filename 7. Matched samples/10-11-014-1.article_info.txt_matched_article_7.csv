@@ -1,0 +1,18 @@
+22038522,Common genetic variants differentially influence the transition from clinically defined states of fasting glucose metabolism.,Diabetologia,Walford GA and Green T and Neale B and Isakova T and Rotter JI and Grant SF and Fox CS and Pankow JS and Wilson JG and Meigs JB and Siscovick DS and Bowden DW and Daly MJ and Florez JC,Missing,"AIMS/HYPOTHESIS: Common genetic variants have been associated with type 2 diabetes. We hypothesised that a subset of these variants may have different effects on the transition from normal fasting glucose (NFG) to impaired fasting glucose (IFG) than on that from IFG to diabetes. METHODS: We identified 16 type 2 diabetes risk variants from the Illumina Broad Candidate-gene Association Resource (CARe) array genotyped in 26,576 CARe participants. Participants were categorised at baseline as NFG, IFG or type 2 diabetic (n = 16,465, 8,017 or 2,291, respectively). Using Cox proportional hazards and likelihood ratio tests (LRTs), we compared rates of progression by genotype for 4,909 (NFG to IFG) and 1,518 (IFG to type 2 diabetes) individuals, respectively. We then performed multinomial regression analyses at baseline, comparing the risk of assignment to the NFG, IFG or diabetes groups by genotype. RESULTS: The rate of progression from NFG to IFG was significantly greater in participants carrying the risk allele at MTNR1B (p = 1 x 10(-4)), nominally greater at GCK and SLC30A8 (p < 0.05) and nominally smaller at IGF2BP2 (p = 0.01) than the rate of progression from IFG to diabetes by the LRT. Results of the baseline, multinomial regression model were consistent with these findings. CONCLUSIONS/INTERPRETATION: Common genetic risk variants at GCK, SLC30A8, IGF2BP2 and MTNR1B influence to different extents the development of IFG and the transition from IFG to type 2 diabetes. Our findings may have implications for understanding the genetic contribution of these variants to the development of IFG and type 2 diabetes.","Adult
+Aged
+Blood Glucose/analysis/*metabolism
+Cohort Studies
+Diabetes Mellitus, Type 2/*genetics
+Disease Progression
+Fasting
+Female
+*Genetic Variation
+Genotype
+Humans
+Male
+Middle Aged
+Models, Genetic
+Polymorphism, Single Nucleotide
+Proportional Hazards Models
+Regression Analysis
+Risk"

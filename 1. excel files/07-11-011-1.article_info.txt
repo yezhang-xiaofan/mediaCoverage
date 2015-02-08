@@ -1,0 +1,20 @@
+21378988,A genome-wide association study in Europeans and South Asians identifies five new loci for coronary artery disease.,"ADAM Proteins/genetics
+Adult
+Aged
+Asian Continental Ancestry Group/genetics
+Case-Control Studies
+Coronary Artery Disease/*genetics
+European Continental Ancestry Group/genetics
+Female
+Genetic Predisposition to Disease
+Genome-Wide Association Study
+Humans
+Lymphokines/genetics
+Male
+Middle Aged
+Oligonucleotide Array Sequence Analysis
+Platelet-Derived Growth Factor/genetics
+Polymorphism, Single Nucleotide
+Quantitative Trait Loci
+Sterol Esterase/genetics
+Transcription Factors/genetics",Missing,"Genome-wide association studies have identified 11 common variants convincingly associated with coronary artery disease (CAD)(1)(-)(7), a modest number considering the apparent heritability of CAD(8). All of these variants have been discovered in European populations. We report a meta-analysis of four large genome-wide association studies of CAD, with approximately 575,000 genotyped SNPs in a discovery dataset comprising 15,420 individuals with CAD (cases) (8,424 Europeans and 6,996 South Asians) and 15,062 controls. There was little evidence for ancestry-specific associations, supporting the use of combined analyses. Replication in an independent sample of 21,408 cases and 19,185 controls identified five loci newly associated with CAD (P < 5 x 10(-)(8) in the combined discovery and replication analysis): LIPA on 10q23, PDGFD on 11q22, ADAMTS7-MORF4L1 on 15q25, a gene rich locus on 7q22 and KIAA1462 on 10p11. The CAD-associated SNP in the PDGFD locus showed tissue-specific cis expression quantitative trait locus effects. These findings implicate new pathways for CAD susceptibility.",Missing,Nature genetics,43

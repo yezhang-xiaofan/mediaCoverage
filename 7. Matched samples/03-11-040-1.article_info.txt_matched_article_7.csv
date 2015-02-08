@@ -1,0 +1,12 @@
+22099466,Dissociable reward and timing signals in human midbrain and ventral striatum.,Neuron,Klein-Flugge MC and Hunt LT and Bach DR and Dolan RJ and Behrens TE,Missing,"Reward prediction error (RPE) signals are central to current models of reward-learning. Temporal difference (TD) learning models posit that these signals should be modulated by predictions, not only of magnitude but also timing of reward. Here we show that BOLD activity in the VTA conforms to such TD predictions: responses to unexpected rewards are modulated by a temporal hazard function and activity between a predictive stimulus and reward is depressed in proportion to predicted reward. By contrast, BOLD activity in ventral striatum (VS) does not reflect a TD RPE, but instead encodes a signal on the variable relevant for behavior, here timing but not magnitude of reward. The results have important implications for dopaminergic models of cortico-striatal learning and suggest a modification of the conventional view that VS BOLD necessarily reflects inputs from dopaminergic VTA neurons signaling an RPE.","Adult
+Basal Ganglia/*physiology
+Female
+Humans
+Magnetic Resonance Imaging/methods
+Male
+Mesencephalon/*physiology
+Photic Stimulation/methods
+Psychomotor Performance/*physiology
+*Reward
+Time Factors
+Young Adult"

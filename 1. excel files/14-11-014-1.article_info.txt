@@ -1,0 +1,9 @@
+21601553,Interventions for alcohol-related offending by women: a systematic review.,"Alcohol Drinking/psychology/*therapy
+Alcohol-Related Disorders/psychology/*therapy
+Behavior Therapy
+Criminals/*psychology
+Female
+Humans
+Risk Factors
+Treatment Outcome
+Women",McMurran M and Riemsma R and Manning N and Misso K and Kleijnen J,"Treatment programmes specifically for women offenders are under-developed. A systematic review of studies that could inform interventions for alcohol-related offending by women is reported. Three questions were addressed: 1) What is the most up to date knowledge of 'what works' with females who commit alcohol-related offences? 2) What are the identifiable risk-needs factors for non-alcohol dependent women who commit offences involving alcohol misuse? 3) Are there differences between male and female alcohol-related offending? Four studies addressed the effectiveness of psychosocial interventions; three addressed identifiable risk-needs; and 19 addressed differences between male and female offenders' alcohol-related offending. Heterogeneity of these studies precluded meta-analyses, and so a narrative synthesis method was used. There is insufficient evidence to answer the question of what treatment works with women who commit alcohol-related offences. Drunk-driving is most widely studied, and women offenders appear to have more psychosocial problems than men. Alcohol increases the likelihood of violence for both men and women, and, while the mechanisms whereby alcohol increases the likelihood of violence are likely the same in men and women, the effect may be moderated by gender-associated issues. Again, women offenders appear to have more psychosocial problems than men. Implications for developing interventions are discussed.",Missing,Clinical psychology review,31

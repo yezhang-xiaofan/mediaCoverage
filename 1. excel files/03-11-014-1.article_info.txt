@@ -1,0 +1,16 @@
+21493665,Overnight closed loop insulin delivery (artificial pancreas) in adults with type 1 diabetes: crossover randomised controlled studies.,"Adolescent
+Adult
+Aged
+Algorithms
+Blood Glucose/metabolism
+Cross-Over Studies
+Diabetes Mellitus, Type 1/*drug therapy
+Female
+Humans
+Hypoglycemic Agents/*administration & dosage
+Insulin/*administration & dosage
+*Insulin Infusion Systems
+Male
+Middle Aged
+Treatment Outcome
+Young Adult",Hovorka R and Kumareswaran K and Harris J and Allen JM and Elleri D and Xing D and Kollman C and Nodale M and Murphy HR and Dunger DB and Amiel SA and Heller SR and Wilinska ME and Evans ML,"OBJECTIVE: To compare the safety and efficacy of overnight closed loop delivery of insulin (artificial pancreas) with conventional insulin pump therapy in adults with type 1 diabetes. DESIGN: Two sequential, open label, randomised controlled crossover, single centre studies. SETTING: Clinical research facility. PARTICIPANTS: 24 adults (10 men, 14 women) with type 1 diabetes, aged 18-65, who had used insulin pump therapy for at least three months: 12 were tested after consuming a medium sized meal and the other 12 after consuming a larger meal accompanied by alcohol. INTERVENTION: During overnight closed loop delivery, sensor measurements of glucose were fed into a computer algorithm, which advised on insulin pump infusion rates at 15 minute intervals. During control nights, conventional insulin pump settings were applied. One study compared closed loop delivery of insulin with conventional pump therapy after a medium sized evening meal (60 g of carbohydrates) at 1900, depicting the scenario of ""eating in."" The other study was carried out after a later large evening meal (100 g of carbohydrates) at 2030, accompanied by white wine (0.75 g/kg ethanol) and depicted the scenario of ""eating out."" MAIN OUTCOME MEASURES: The primary outcome was the time plasma glucose levels were in target (3.91-8.0 mmol/L) during closed loop delivery and a comparable control period. Secondary outcomes included pooled data analysis and time plasma glucose levels were below target (</= 3.9 mmol/L). RESULTS: For the eating in scenario, overnight closed loop delivery of insulin increased the time plasma glucose levels were in target by a median 15% (interquartile range 3-35%), P = 0.002. For the eating out scenario, closed loop delivery increased the time plasma glucose levels were in target by a median 28% (2-39%), P = 0.01. Analysis of pooled data showed that the overall time plasma glucose was in target increased by a median 22% (3-37%) with closed loop delivery (P < 0.001). Closed loop delivery reduced overnight time spent hypoglycaemic (plasma glucose </= 3.9 mmol/L) by a median 3% (0-20%), P=0.04, and eliminated plasma glucose concentrations below 3.0 mmol/L after midnight. CONCLUSION: These two small crossover trials suggest that closed loop delivery of insulin may improve overnight control of glucose levels and reduce the risk of nocturnal hypoglycaemia in adults with type 1 diabetes. Trial registration ClinicalTrials.gov NCT00910767 and NCT00944619.",Missing,BMJ (Clinical research ed.),342

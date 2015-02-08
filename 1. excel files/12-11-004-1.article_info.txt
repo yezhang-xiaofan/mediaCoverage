@@ -1,0 +1,16 @@
+21170681,Heparin cofactor II-thrombin complex and dermatan sulphate:chondroitin sulphate ratio are biomarkers of short- and long-term treatment effects in mucopolysaccharide diseases.,"Animals
+Biological Markers/metabolism
+Child
+Child, Preschool
+Chondroitin Sulfates/*chemistry
+Dermatan Sulfate/*chemistry
+Enzyme-Linked Immunosorbent Assay/methods
+Glycosaminoglycans/*metabolism/urine
+Heparin Cofactor II/*chemistry
+Humans
+Infant
+Infant, Newborn
+Mice
+Neonatal Screening/methods
+Thrombin/*chemistry
+Treatment Outcome",Langford-Smith KJ and Mercer J and Petty J and Tylee K and Church H and Roberts J and Moss G and Jones S and Wynn R and Wraith JE and Bigger BW,"Early detection of mucopolysaccharidosis (MPS) is an important factor in treatment success; therefore, good disease biomarkers are vital. We evaluate heparin cofactor II-thrombin complex (HCII-T) as a biomarker in serum and dried blood spots (DBS) of MPS patients. Serum HCII-T and urine dermatan sulphate:chondroitin sulphate (DS:CS) ratio are also compared longitudinally against clinical outcomes in MPSI, II and VI patients following treatment. Samples were collected from MPS patients at the Royal Manchester Children's Hospital. DS:CS ratio was obtained by measuring the area density of spots from 2D electrophoresis of urinary glycosaminoglycans. Serum and DBS HCII-T was measured by sandwich ELISA. Serum HCII-T is elevated approximately 25-fold in MPS diseases that store DS, clearly distinguishing untreated MPSI, II and VI patients from unaffected age-matched controls. Serum HCII-T is also elevated in MPSIII, which leads to storage of heparan sulphate, with an increase of approximately 4-fold over unaffected age-matched controls. Urine DS:CS ratio and serum HCII-T decrease in response to treatment of MPSI, II and VI patients. HCII-T appears to respond rapidly to perturbations in treatment, whilst DS:CS ratio responds more slowly. HCII-T is a suitable biomarker for MPSI, II and VI, and it may also be informative for MPS diseases storing HS alone, such as MPSIII, although the elevation observed is smaller. In treated MPS patients, HCII-T and DS:CS ratio appear to measure short-term and long-term treatment outcomes, respectively. The potential value of HCII-T measurement in DBS for newborn screening of MPS diseases warrants further investigation.",Missing,Journal of inherited metabolic disease,34

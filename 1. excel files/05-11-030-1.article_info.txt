@@ -1,0 +1,19 @@
+22037309,Somatic retrotransposition alters the genetic landscape of the human brain.,"Alu Elements/genetics
+Base Sequence/genetics
+Brain/*metabolism
+Caudate Nucleus/metabolism
+Clonal Evolution/genetics
+DNA Copy Number Variations/genetics
+Epistasis, Genetic
+Genome, Human/genetics
+Germ-Line Mutation/*genetics
+Hippocampus/metabolism
+Histone Deacetylase 1/genetics
+Humans
+Mosaicism
+Mutagenesis, Insertional/*genetics
+Nerve Tissue Proteins/genetics
+Organ Specificity/genetics
+Polymerase Chain Reaction
+Retroelements/*genetics
+Transcription Factors/genetics",Baillie JK and Barnett MW and Upton KR and Gerhardt DJ and Richmond TA and De Sapio F and Brennan PM and Rizzu P and Smith S and Fell M and Talbot RT and Gustincich S and Freeman TC and Mattick JS and Hume DA and Heutink P and Carninci P and Jeddeloh JA and Faulkner GJ,"Retrotransposons are mobile genetic elements that use a germline 'copy-and-paste' mechanism to spread throughout metazoan genomes. At least 50 per cent of the human genome is derived from retrotransposons, with three active families (L1, Alu and SVA) associated with insertional mutagenesis and disease. Epigenetic and post-transcriptional suppression block retrotransposition in somatic cells, excluding early embryo development and some malignancies. Recent reports of L1 expression and copy number variation in the human brain suggest that L1 mobilization may also occur during later development. However, the corresponding integration sites have not been mapped. Here we apply a high-throughput method to identify numerous L1, Alu and SVA germline mutations, as well as 7,743 putative somatic L1 insertions, in the hippocampus and caudate nucleus of three individuals. Surprisingly, we also found 13,692 somatic Alu insertions and 1,350 SVA insertions. Our results demonstrate that retrotransposons mobilize to protein-coding genes differentially expressed and active in the brain. Thus, somatic genome mosaicism driven by retrotransposition may reshape the genetic circuitry that underpins normal and abnormal neurobiological processes.",Missing,Nature,479

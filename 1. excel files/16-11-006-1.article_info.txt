@@ -1,0 +1,13 @@
+21792569,A phase I study of combined docetaxel and repeated high activity 186Re-HEDP in castration-resistant prostate cancer (CRPC) metastatic to bone (the TAXIUM trial).,"Aged
+Bone Neoplasms/*secondary
+Chemoradiotherapy/*adverse effects/*methods
+Etidronic Acid/*adverse effects/therapeutic use
+Humans
+Male
+Middle Aged
+*Orchiectomy
+Organometallic Compounds/*adverse effects/therapeutic use
+Prostatic Neoplasms/pathology/surgery/*therapy
+Radiotherapy Dosage
+Taxoids/*adverse effects/therapeutic use
+Treatment Outcome",van Dodewaard-de Jong JM and de Klerk JM and Bloemendal HJ and van Bezooijen BP and de Haas MJ and Wilson RH and O'Sullivan JM,"PURPOSE: Bone-seeking radiopharmaceuticals have palliative benefit in castration-resistant prostate cancer (CRPC) metastatic to bone. Recent studies have shown improvement of survival and quality of life when radiopharmaceuticals were given repeatedly or in combination with chemotherapy. We designed a phase I study combining docetaxel and (186)Re-labelled hydroxyethylidene diphosphonate (HEDP) in men with CRPC and bone metastases to evaluate toxicity. METHODS: A dose escalation schedule was designed consisting of four dose levels with a standard dosage of docetaxel (75 mg/m(2) 3-weekly). (186)Re-HEDP was given in increasing activities (1,250 MBq up to 2,500 MBq) after the third and sixth cycle of docetaxel. Dose limiting toxicity (DLT) was defined as any grade 4 toxicity lasting more than 7 days or any grade 3 toxicity that did not recover within 10 days. Three patients were planned for each dose level expanding to six if a DLT occurred. RESULTS: Fourteen patients were recruited with a median age of 64.6 years. One DLT, grade 3 thrombocytopenia lasting >10 days, occurred at dose level 3 leading to expansion of this group to six. One of these patients had an episode of acute renal failure which resolved. Because of production problems of (186)Re-HEDP dose level 4 was not started. CONCLUSION: Combined therapy with docetaxel and (186)Re-HEDP is generally well tolerated in patients with CRPC metastatic to bone. We will conduct a randomized phase II study using three cycles of docetaxel 75 mg/m(2) 3-weekly followed by (188)Re-HEDP 40 MBq/kg body weight, followed by another three cycles of docetaxel 75 mg/m(2), followed by (188)Re-HEDP 20 MBq/kg body weight.",meandermc,European journal of nuclear medicine and molecular imaging,38

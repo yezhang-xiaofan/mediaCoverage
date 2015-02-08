@@ -1,0 +1,13 @@
+21310274,"A fast, powerful method for detecting identity by descent.",American journal of human genetics,Browning BL and Browning SR,uw,"We present a method, fastIBD, for finding tracts of identity by descent (IBD) between pairs of individuals. FastIBD can be applied to thousands of samples across genome-wide SNP data and is significantly more powerful for finding short tracts of IBD than existing methods for finding IBD tracts in such data. We show that fastIBD can detect facets of population structure that are not revealed by other methods. In the Wellcome Trust Case Control Consortium bipolar disorder case-control data, we find a genome-wide excess of IBD in case-case pairs of individuals compared to control-control pairs. We show that this excess can be explained by the geographical clustering of cases. We also show that it is possible to use fastIBD to generate highly accurate estimates of genome-wide IBD sharing between pairs of distant relatives. This is useful for estimation of relationship and for adjusting for relatedness in association studies. FastIBD is incorporated in the freely available Beagle software package.","Bipolar Disorder/*genetics
+Case-Control Studies
+Chromosome Mapping
+Cohort Studies
+*Computer Simulation
+Genetics, Population/*statistics & numerical data
+Genome-Wide Association Study
+Great Britain
+Haplotypes/*genetics
+Homozygote
+Humans
+Polymorphism, Single Nucleotide/*genetics
+Software"

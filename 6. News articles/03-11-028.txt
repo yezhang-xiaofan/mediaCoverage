@@ -1,0 +1,140 @@
+http://www.bbc.co.uk/news/health-14837879
+9 September 2011 Last updated at 02:00
+BBC
+Gene find could lead to drug for chronic back pain
+A gene responsible for chronic pain has been identified, with scientists saying this could lead to drugs for treating long-lasting back pain.
+Writing in the journal Science, University of Cambridge researchers removed the HCN2 gene from pain-sensitive nerves in mice.
+Deleting the gene stopped any chronic pain but did not affect acute pain. 
+About one in seven people in the UK suffer from chronic pain, which can also include arthritis and headaches.
+The researchers say their findings open up the possibility that new drugs could be developed to block the protein produced by the HCN2 gene, which regulates chronic pain.
+The HCN2 gene, which is expressed in pain-sensitive nerve endings, has been known for several years, but its role in regulating pain was not understood. 
+For the study, the researchers removed the HCN2 gene from pain-sensitive nerves.
+They then carried out studies using electrical stimuli on these nerves in cell cultures to determine how they were altered by the removal of HCN2. 
+They then studied genetically modified mice in which the HCN2 gene had been deleted. 
+By measuring the speed that the mice withdrew from different types of painful stimuli, the scientists were able to conclude that deleting the HCN2 gene abolished neuropathic pain. 
+However, they found that deleting HCN2 did not affect normal acute pain - which occurs suddenly, for example when biting one's tongue.
+'No respite' 
+Chronic pain comes in two main varieties. Inflammatory pain occurs when a persistent injury, such as a burn or arthritis, results in very sensitive nerve endings which increase the sensation of pain. 
+Neuropathic pain occurs when nerves are damaged, causing ongoing pain. 
+This type of chronic pain, which is often lifelong, is surprisingly common and is poorly treated by current drugs, the study says. 
+It is often seen in patients with diabetes and shingles, and in the aftermath of cancer chemotherapy. It is also common in lower back pain and other chronic painful conditions.
+Professor Peter McNaughton, lead author of the study and head of the department of pharmacology at the University of Cambridge, said there was now hope for these people. 
+"Individuals suffering from neuropathic pain often have little or no respite because of the lack of effective medications. Our research lays the groundwork for the development of new drugs to treat chronic pain by blocking HCN2."
+He added: "Many genes play a critical role in pain sensation, but in most cases interfering with them simply abolishes all pain, or even all sensation. 
+"What is exciting about the work on the HCN2 gene is that removing it - or blocking it pharmacologically - eliminates neuropathic pain without affecting normal acute pain. 
+This finding could be very valuable clinically because normal pain sensation is essential for avoiding accidental damage."
+Dr Brian Hammond, chairman of charity BackCare, said the findings of the study were good news.
+"Any effective treatment which relieves the suffering of chronic pain is to be welcomed. 
+Treatment which helps reduce pain but still leaves the body's warning mechanisms intact is a major breakthrough."
+The study was funded by the Biotechnology and Biological Sciences Research Council (BBSRC), and the European Union.
+
+
+DAILY MAIL (London)
+ Date Published: September 10, 2011 Saturday
+Title: 7
+Body: 329
+Sentences: 16
+ GENE CLUE TO HELP CURE BACK PAIN  LENGTH: 336 words
+Daily Mail Reporter
+FOR those of us who are martyrs to our backs, help could be at hand Ð in a few years' time, anyway.
+Scientists claim to have identified the gene behind back pain, in a development that could lead to effective treatment within a decade.
+Experts at Cambridge University said their research into the HCN2 gene could provide relief to millions.
+About one in seven Britons suffer from so-called chronic back pain, which can also include arthritis and headaches.
+This chronic pain comes in two main varieties. Inflammatory ailments occur when a persistent injury results in very sensitive nerve endings, which increases the sensation of pain. 
+The other kind Ð neuropathic Ð is felt when nerves are damaged, causing ongoing, and often permanent, pain.
+This is often seen in patients with diabetes and shingles and in the aftermath of cancer chemotherapy Ð as well as in cases of back pain.
+When researchers removed the HCN2 gene from pain-sensitive nerves in mice, they put a stop to their neuropathic pain.
+However, the mice were still able to feel acute pain, which occurs suddenly, such as when biting one's tongue.
+Professor Peter McNaughton, lead author of the study and head of Cambridge's department of pharmacology, said a drug based on his team's research could be available within a decade.
+ 'Individuals suffering from neuropathic pain often have little or no respite because of the lack of effective medications,' he said.
+'Our research lays the groundwork for the development of new drugs to treat chronic pain by blocking HCN2.'
+Prof McNaughton told the journal Science: 'Many genes play a critical role in pain sensation, but in most cases interfering with them simply abolishes all pain, or even all sensation.
+'What is exciting about the work on the HCN2 gene is that removing it Ð or blocking it pharmacologically Ð eliminates neuropathic pain without affecting normal acute pain.
+'This finding could be very valuable clinically because normal pain sensation is essential for avoiding accidental damage.'
+
+
+
+REUTERS
+Scientists find gene that controls chronic pain
+(Reporting by Kate Kelland, Editing by Sitaraman Shankar)
+
+(Reuters) - British scientists have identified a gene responsible for regulating chronic pain, called HCN2, and say their discovery should help drug researchers in their search for more effective, targeted pain-killing medicines.
+
+Scientists from Cambridge University said that if drugs could be designed to block the protein produced by the gene, they could treat a type of pain known as neuropathic pain, which is linked to nerve damage and often very difficult to control with currently available drugs.
+"Individuals suffering from neuropathic pain often have little or no respite because of the lack of effective medications," said Peter McNaughton of Cambridge's pharmacology department, who led the study.
+"Our research lays the groundwork for the development of new drugs to treat chronic pain by blocking HCN2."
+Pain is an enormous health burden worldwide, estimated to cost more than 200 billion euros ($281 billion) a year in Europe and around $150 billion a year in the United States.
+Studies show that around 22 percent of people with chronic pain become depressed and 25 percent go on to lose their jobs.
+ A 2002/03 survey by a group called Pain in Europe estimated that as many as one in five Europeans suffers chronic pain.
+Scientists have known about the HCN2 gene, which is found in pain-sensitive nerve endings, for several years, but had not yet fully understood its role in regulating pain.
+Because a related gene called HCN4 plays a critical role in controlling electrical activity in the heart, McNaughton's team suspected that HCN2 might have a similar function and regulate electrical activity in pain-sensitive nerves.
+For the study, published in the journal Science on Thursday, the researchers engineered the removal of the HCN2 gene from pain-sensitive nerves and then used electrical stimuli on these nerves in lab dishes to find out how the nerves had been changed by the removal of HCN2.
+The scientists then studied genetically modified mice in which the HCN2 gene had been deleted.
+ By measuring the speed the mice withdrew from different types of painful stimuli, the scientists were able to show that deleting the HCN2 gene took away neuropathic pain.
+They also found that deleting HCN2 appeared to have no effect on normal acute pain -- such as the type of pain caused by accidentally cutting yourself or biting your own tongue -- a factor they said was important since this type of pain acts as a useful warning signal to the body.
+"What is exciting about the work on the HCN2 gene is that removing it -- or blocking it pharmacologically -- eliminates neuropathic pain without affecting normal acute pain," McNaughton said in a statement about this work.
+ "This finding could be very valuable clinically because normal pain sensation is essential for avoiding accidental damage."
+Neuropathic pain, which is distinguished from inflammatory pain, is seen in patients with diabetes -- a condition which affects an estimated 280 million people around the world -- and as a painful after-effect of shingles and of chemotherapy in cancer patients. It is a also common factor in lower back pain and other chronic painful conditions.
+
+
+The Sun (England)
+
+Date Published: September 13, 2011 Tuesday  Title: 5
+Body: 118
+Sentences: 8
+ 'Relief' set for arthritis agony  SECTION: NEWS; Pg. 19  LENGTH: 121 words
+BOFFINS have developed a painkiller that could mean the end of misery for more than 900,000 Irish arthritis sufferers.
+They have discovered a gene, HCN2, that controls chronic pain and hope to turn it into a drug.
+It blocks other genes that make us feel pain.
+Professor Peter McNaughton, who worked on the discovery at Cambridge University, said the gene works without affecting other sensations.
+He said: "This finding could be very valuable clinically because normal pain sensation is essential for avoiding accidental damage."
+An Arthritis Ireland spokesman said: "We welcome any development that may improve pain relief for people suffering from chronic pain."
+Around a fifth off Irish people - 915,000 - are affected by the disease.
+
+
+
+
+
+
+
+
+
+
+
+
+The Express
+ Date Published: September 10, 2011 Saturday 
+Title: 13
+Body: 527
+Sentences: 27
+ U.K. 1st Edition
+ Found . . . a gene to help beat back pain for ever  BYLINE: By Sarah Westcott  SECTION: NEWS; 04  LENGTH: 532 words
+THE agony of long-term back pain could soon be over after scientists discovered the role of a rogue gene behind the condition.
+Experts at Cambridge University have identified a gene called HCN which could help them develop drugs to combat long-lasting back pain.
+Up to one in five Britons suffer from chronic back pain, which can also include debilitating conditions such as arthritis and headaches.
+The findings, which have been hailed as a "major breakthrough", open up the possibility that new drugs could be developed to block the protein produced by the HCN2 gene, which regulates chronic pain.
+The HCN2 gene, which is expressed in pain-sensitive nerve endings, has been known for several years, but its role in regulating pain is not fully understood.
+The researchers removed the HCN2 gene from pain-sensitive nerves in mice.
+By measuring the speed that the mice withdrew from different types of painful stimuli, they concluded that deleting the HCN2 gene abolished pain.
+However, they found that deleting HCN2 did not affect normal acute pain - which occurs suddenly, for example when biting one's tongue - a factor they said was important since this type of pain acts as a useful warning signal to the body. 
+Chronic pain comes in two main varieties and is an enormous health burden worldwide. 
+Inflammatory pain occurs when a persistent injury, such as a burn, results in very sensitive nerve endings and increased pain.
+Neuropathic pain occurs when nerves are damaged, causing ongoing pain. 
+This type of chronic pain, which is often lifelong, is surprisingly common and is poorly treated by current drugs, the study found.
+It is often seen in patients with diabetes and shingles, and in the aftermath of cancer chemotherapy. 
+It is also common in lower back pain and other chronic painful conditions.
+Lead author Professor Peter McNaughton, said a drug based on his research could be available within a decade.
+"Individuals suffering from neuropathic pain often have little or no respite because of the lack of effective medications, " said Professor McNaughton.
+"Our research lays the groundwork for the development of new drugs to treat chronic pain by blocking HCN2."
+ He told the journal Science: "Many genes play a critical role in pain sensation, but in most cases interfering with them simply abolishes all pain, or even all sensation.
+"What is exciting about the work on the HCN2 gene is that removing it - or blocking it pharmacologically - eliminates neuropathic pain without affecting normal acute pain.
+"This finding could be very valuable clinically because normal pain sensation is essential for avoiding accidental damage."
+Dr Brian Hammond, chairman of the BackCare charity, welcomed the research findings.
+He said: "Any effective treatment which relieves the suffering of chronic pain is to be welcomed.
+"Treatment which helps reduce pain but still leaves the body's warning mechanisms intact is a major breakthrough."
+Studies show that around 22 per cent of people with chronic pain become depressed and 25 per cent go on to lose their jobs.
+Back pain alone accounts for 4.9 million sick days and costs the UK economy GBP 5billion a year.
+It is estimated to cost the NHS GBP 1.5billion a year.
+
+
+

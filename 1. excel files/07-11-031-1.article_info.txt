@@ -1,0 +1,18 @@
+21900085,Role of cardiovascular magnetic resonance as a gatekeeper to invasive coronary angiography in patients presenting with heart failure of unknown etiology.,"Aged
+Cardiac Imaging Techniques/economics/*standards/statistics & numerical data
+*Coronary Angiography/economics
+Decision Trees
+Female
+Follow-Up Studies
+Gadolinium/diagnostic use
+Great Britain
+Health Care Costs
+Heart Failure/*diagnosis/economics/*etiology
+Humans
+Magnetic Resonance Imaging/economics/*standards/statistics & numerical data
+Male
+Middle Aged
+Observer Variation
+Referral and Consultation/economics/standards/statistics & numerical data
+Reproducibility of Results
+Sensitivity and Specificity",Assomull RG and Shakespeare C and Kalra PR and Lloyd G and Gulati A and Strange J and Bradlow WM and Lyne J and Keegan J and Poole-Wilson P and Cowie MR and Pennell DJ and Prasad SK,"BACKGROUND: In patients presenting with new-onset heart failure of uncertain etiology, the role of coronary angiography (CA) is unclear. Although conventionally performed to differentiate underlying coronary artery disease from dilated cardiomyopathy, CA is associated with a risk of complications and may not detect an ischemic cause resulting from arterial recanalization or an embolic episode. In this study, we assessed the diagnostic accuracy of a cardiovascular magnetic resonance (CMR) protocol incorporating late gadolinium enhancement (LGE) and magnetic resonance CA as a noninvasive gatekeeper to CA in determining the etiology of heart failure in this subset of patients. METHODS AND RESULTS: One hundred twenty consecutive patients underwent CMR and CA. The etiology was ascribed by a consensus panel that used the results of the CMR scans. Similarly, a separate consensus group ascribed an underlying cause by using the results of CA. The diagnostic accuracy of both strategies was compared against a gold-standard panel that made a definitive judgment by reviewing all clinical data. The study was powered to show noninferiority between the 2 techniques. The sensitivity of 100%, specificity of 96%, and diagnostic accuracy of 97% for LGE-CMR were equivalent to CA (sensitivity, 93%; specificity, 96%; and diagnostic accuracy, 95%). As a gatekeeper to CA, LGE-CMR was also found to be a cheaper diagnostic strategy in a decision tree model when United Kingdom-based costs were assumed. The economic merits of this model would change, depending on the relative costs of LGE-CMR and CA in any specific healthcare system. CONCLUSION: This study showed that LGE-CMR is a safe, clinically effective, and potentially economical gatekeeper to CA in patients presenting with heart failure of uncertain etiology.",Missing,Circulation,124

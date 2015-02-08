@@ -1,0 +1,16 @@
+21664573,Spindle checkpoint silencing requires association of PP1 to both Spc7 and kinesin-8 motors.,"Amino Acid Sequence
+Chromatids
+Chromatin Immunoprecipitation
+Chromosomal Proteins, Non-Histone/genetics/*metabolism
+Chromosome Segregation
+Kinesin/genetics/*metabolism
+Kinetochores/physiology
+Microtubule-Associated Proteins/genetics/*metabolism
+Mitosis
+Molecular Sequence Data
+Phosphoprotein Phosphatases/genetics/*metabolism
+Schizosaccharomyces/genetics/growth & development/*metabolism
+Schizosaccharomyces pombe Proteins/genetics/*metabolism
+Sequence Homology, Amino Acid
+Spindle Apparatus/*physiology
+Two-Hybrid System Techniques",Meadows JC and Shepperd LA and Vanoosthuyse V and Lancaster TC and Sochaj AM and Buttrick GJ and Hardwick KG and Millar JB,"The spindle checkpoint is the prime cell-cycle control mechanism that ensures sister chromatids are bioriented before anaphase takes place. Aurora B kinase, the catalytic subunit of the chromosome passenger complex, both destabilizes kinetochore attachments that do not generate tension and simultaneously maintains the spindle checkpoint signal. However, it is unclear how the checkpoint is silenced following chromosome biorientation. We demonstrate that association of type 1 phosphatase (PP1(Dis2)) with both the N terminus of Spc7 and the nonmotor domains of the Klp5-Klp6 (kinesin-8) complex is necessary to counteract Aurora B kinase to efficiently silence the spindle checkpoint. The role of Klp5 and Klp6 in checkpoint silencing is specific to this class of kinesin and independent of their motor activities. These data demonstrate that at least two distinct pools of PP1, one kinetochore associated and the other motor associated, are needed to silence the spindle checkpoint.",Missing,Developmental cell,20

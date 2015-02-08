@@ -1,0 +1,20 @@
+21397319,Separate and combined associations of body-mass index and abdominal adiposity with cardiovascular disease: collaborative analysis of 58 prospective studies.,"Age Factors
+Blood Pressure
+*Body Mass Index
+Cardiovascular Diseases/*epidemiology
+Cholesterol/blood
+Cholesterol, HDL/blood
+Diabetes Mellitus/epidemiology
+Female
+Humans
+Male
+Middle Aged
+Obesity, Abdominal/*epidemiology
+Proportional Hazards Models
+Prospective Studies
+*Risk Assessment
+Sex Factors
+Smoking/epidemiology
+Systole
+Waist Circumference
+Waist-Hip Ratio",Wormser D and Kaptoge S and Di Angelantonio E and Wood AM and Pennells L and Thompson A and Sarwar N and Kizer JR and Lawlor DA and Nordestgaard BG and Ridker P and Salomaa V and Stevens J and Woodward M and Sattar N and Collins R and Thompson SG and Whitlock G and Danesh J,"BACKGROUND: Guidelines differ about the value of assessment of adiposity measures for cardiovascular disease risk prediction when information is available for other risk factors. We studied the separate and combined associations of body-mass index (BMI), waist circumference, and waist-to-hip ratio with risk of first-onset cardiovascular disease. METHODS: We used individual records from 58 cohorts to calculate hazard ratios (HRs) per 1 SD higher baseline values (4.56 kg/m(2) higher BMI, 12.6 cm higher waist circumference, and 0.083 higher waist-to-hip ratio) and measures of risk discrimination and reclassification. Serial adiposity assessments were used to calculate regression dilution ratios. RESULTS: Individual records were available for 221,934 people in 17 countries (14,297 incident cardiovascular disease outcomes; 1.87 million person-years at risk). Serial adiposity assessments were made in up to 63,821 people (mean interval 5.7 years [SD 3.9]). In people with BMI of 20 kg/m(2) or higher, HRs for cardiovascular disease were 1.23 (95% CI 1.17-1.29) with BMI, 1.27 (1.20-1.33) with waist circumference, and 1.25 (1.19-1.31) with waist-to-hip ratio, after adjustment for age, sex, and smoking status. After further adjustment for baseline systolic blood pressure, history of diabetes, and total and HDL cholesterol, corresponding HRs were 1.07 (1.03-1.11) with BMI, 1.10 (1.05-1.14) with waist circumference, and 1.12 (1.08-1.15) with waist-to-hip ratio. Addition of information on BMI, waist circumference, or waist-to-hip ratio to a cardiovascular disease risk prediction model containing conventional risk factors did not importantly improve risk discrimination (C-index changes of -0.0001, -0.0001, and 0.0008, respectively), nor classification of participants to categories of predicted 10-year risk (net reclassification improvement -0.19%, -0.05%, and -0.05%, respectively). Findings were similar when adiposity measures were considered in combination. Reproducibility was greater for BMI (regression dilution ratio 0.95, 95% CI 0.93-0.97) than for waist circumference (0.86, 0.83-0.89) or waist-to-hip ratio (0.63, 0.57-0.70). INTERPRETATION: BMI, waist circumference, and waist-to-hip ratio, whether assessed singly or in combination, do not importantly improve cardiovascular disease risk prediction in people in developed countries when additional information is available for systolic blood pressure, history of diabetes, and lipids. FUNDING: British Heart Foundation and UK Medical Research Council.",Missing,Lancet,377

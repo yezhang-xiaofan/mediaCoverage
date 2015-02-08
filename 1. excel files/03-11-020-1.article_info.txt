@@ -1,0 +1,18 @@
+21707557,Anticholinergic medication use and cognitive impairment in the older population: the medical research council cognitive function and ageing study.,"Aged
+Aged, 80 and over
+Cholinergic Antagonists/*adverse effects/therapeutic use
+Cognition Disorders/*chemically induced/diagnosis/mortality
+Comorbidity
+England
+Female
+Geriatric Assessment/statistics & numerical data
+Health Surveys
+Humans
+Longitudinal Studies
+Male
+Mental Status Schedule/statistics & numerical data
+Odds Ratio
+Prospective Studies
+Psychometrics
+Risk Factors
+Wales",Fox C and Richardson K and Maidment ID and Savva GM and Matthews FE and Smithard D and Coulton S and Katona C and Boustani MA and Brayne C,"OBJECTIVES: To determine whether the use of medications with possible and definite anticholinergic activity increases the risk of cognitive impairment and mortality in older people and whether risk is cumulative. DESIGN: A 2-year longitudinal study of participants enrolled in the Medical Research Council Cognitive Function and Ageing Study between 1991 and 1993. SETTING: Community-dwelling and institutionalized participants. PARTICIPANTS: Thirteen thousand four participants aged 65 and older. MEASUREMENTS: Baseline use of possible or definite anticholinergics determined according to the Anticholinergic Cognitive Burden Scale and cognition determined using the Mini-Mental State Examination (MMSE). The main outcome measure was decline in the MMSE score at 2 years. RESULTS: At baseline, 47% of the population used a medication with possible anticholinergic properties, and 4% used a drug with definite anticholinergic properties. After adjusting for age, sex, educational level, social class, number of nonanticholinergic medications, number of comorbid health conditions, and cognitive performance at baseline, use of medication with definite anticholinergic effects was associated with a 0.33-point greater decline in MMSE score (95% confidence interval (CI)=0.03-0.64, P=.03) than not taking anticholinergics, whereas the use of possible anticholinergics at baseline was not associated with further decline (0.02, 95% CI=-0.14-0.11, P=.79). Two-year mortality was greater for those taking definite (OR=1.68; 95% CI=1.30-2.16; P<.001) and possible (OR=1.56; 95% CI=1.36-1.79; P<.001) anticholinergics. CONCLUSION: The use of medications with anticholinergic activity increases the cumulative risk of cognitive impairment and mortality.",Missing,Journal of the American Geriatrics Society,59

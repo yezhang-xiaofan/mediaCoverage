@@ -1,0 +1,14 @@
+22181976,The development of communicative and narrative skills among preschoolers: lessons from forensic interviews about child abuse.,"Child Abuse, Sexual/*legislation & jurisprudence/*psychology
+Child, Preschool
+*Communication
+Female
+Humans
+*Interview, Psychological
+*Language Development
+Male
+Mental Recall
+*Narration
+Reproducibility of Results
+*Self Disclosure
+Suggestion
+Truth Disclosure",Hershkowitz I and Lamb ME and Orbach Y and Katz C and Horowitz D,"This study examined age differences in 299 preschoolers' responses to investigative interviewers' questions exploring the suspected occurrence of child abuse. Analyses focused on the children's tendencies to respond (a) at all, (b) appropriately to the issue raised by the investigator, and (c) informatively, providing previously undisclosed information. Linear developmental trends characterized all types of responding. When the types of prompts were considered, 3- to 4-year-olds responded slightly more informatively to specific (directive) recall prompts than to open-ended prompts whereas children aged 5 and older were more responsive to open-ended recall prompts. The findings suggest that even 3-year-olds can provide information about experienced events when recall processes are activated, although the ability to provide narrative responses to open-ended recall prompts only becomes reliable later in development.",Missing,Child development,83

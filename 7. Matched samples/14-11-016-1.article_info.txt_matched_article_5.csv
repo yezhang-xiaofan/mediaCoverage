@@ -1,0 +1,11 @@
+21239494,Lys-63-specific deubiquitination of SDS3 by USP17 regulates HDAC activity.,The Journal of biological chemistry,Ramakrishna S and Suresh B and Lee EJ and Lee HJ and Ahn WS and Baek KH,Missing,"SDS3 is a key component of the histone deacetylase (HDAC)-dependent Sin3A co-repressor complex, serving to maintain its HDAC activity. Here, we report both exogenous and endogenous functional interaction between deubiquitinating enzyme USP17 and human SDS3 by MALDI-TOF-MS, co-immunoprecipitation assay, and GST pull-down assay. In this study, we demonstrated that SDS3 readily undergoes endogenous polyubiquitination, which is associated specifically with Lys-63-branched polyubiquitin chains and not with Lys-48-branched polyubiquitin chains. Further, we also demonstrated that USP17 specifically deubiquitinates Lys-63-linked ubiquitin chains from SDS3 and regulates its biological functions. The deubiquitinating activity of USP17 on SDS3 negatively regulates SDS3-associated HDAC activity. The constitutive expression of USP17 and its substrate SDS3 was involved in the inhibition of anchorage-independent tumor growth and blocks cell proliferation, leading to apoptosis in cervical carcinoma cells. Furthermore, we showed that USP17 and SDS3 mutually interact with each other to regulate cancer cell viability. These data support the possibility that SDS3, being a substrate of USP17, may play an important role in developing a novel therapeutic means to inhibit specific HDAC activities in cancer.","Cell Survival
+Endopeptidases/genetics/*metabolism
+HEK293 Cells
+HeLa Cells
+Histone Deacetylases/genetics/*metabolism
+Humans
+Lysine/genetics/metabolism
+Neoplasm Proteins/genetics/*metabolism
+Neoplasms/genetics/*metabolism
+Repressor Proteins/genetics/*metabolism
+Ubiquitination/*physiology"

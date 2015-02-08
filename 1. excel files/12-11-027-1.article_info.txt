@@ -1,0 +1,21 @@
+22056990,HIV-1 restriction factor SAMHD1 is a deoxynucleoside triphosphate triphosphohydrolase.,"Allosteric Regulation
+Biocatalysis
+Catalytic Domain
+Crystallography, X-Ray
+Dendritic Cells/metabolism/virology
+Deoxyadenine Nucleotides/metabolism
+Deoxycytosine Nucleotides/metabolism
+Deoxyguanine Nucleotides/metabolism
+HIV-1/*physiology
+Humans
+Hydrolysis
+Models, Biological
+Models, Molecular
+Monomeric GTP-Binding Proteins/*chemistry/genetics/*metabolism
+Myeloid Cells/virology
+Nucleoside-Triphosphatase/*chemistry/genetics/*metabolism
+Protein Structure, Tertiary
+Reverse Transcription
+Thymine Nucleotides/metabolism
+Viral Regulatory and Accessory Proteins/metabolism
+Virus Replication",Goldstone DC and Ennis-Adeniran V and Hedden JJ and Groom HC and Rice GI and Christodoulou E and Walker PA and Kelly G and Haire LF and Yap MW and de Carvalho LP and Stoye JP and Crow YJ and Taylor IA and Webb M,"SAMHD1, an analogue of the murine interferon (IFN)-gamma-induced gene Mg11 (ref. 1), has recently been identified as a human immunodeficiency virus-1 (HIV-1) restriction factor that blocks early-stage virus replication in dendritic and other myeloid cells and is the target of the lentiviral protein Vpx, which can relieve HIV-1 restriction. SAMHD1 is also associated with Aicardi-Goutieres syndrome (AGS), an inflammatory encephalopathy characterized by chronic cerebrospinal fluid lymphocytosis and elevated levels of the antiviral cytokine IFN-alpha. The pathology associated with AGS resembles congenital viral infection, such as transplacentally acquired HIV. Here we show that human SAMHD1 is a potent dGTP-stimulated triphosphohydrolase that converts deoxynucleoside triphosphates to the constituent deoxynucleoside and inorganic triphosphate. The crystal structure of the catalytic core of SAMHD1 reveals that the protein is dimeric and indicates a molecular basis for dGTP stimulation of catalytic activity against dNTPs. We propose that SAMHD1, which is highly expressed in dendritic cells, restricts HIV-1 replication by hydrolysing the majority of cellular dNTPs, thus inhibiting reverse transcription and viral complementary DNA (cDNA) synthesis.",Missing,Nature,480

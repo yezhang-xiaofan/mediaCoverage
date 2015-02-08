@@ -1,0 +1,11 @@
+22095828,Physician procedure volume and complications of cardioverter-defibrillator implantation.,Circulation,Freeman JV and Wang Y and Curtis JP and Heidenreich PA and Hlatky MA,Missing,"BACKGROUND: The outcomes of procedures are often better when they are performed by more experienced physicians. We assessed whether the rate of complications after implantable cardioverter-defibrillator (ICD) placement varied with the volume of procedures a physician performed. METHODS AND RESULTS: We studied 356 515 initial ICD implantations in the National Cardiovascular Data Registry-ICD Registry, performed by 4011 physicians in 1463 hospitals. We examined the relationship between physician annual ICD implantation volume and in-hospital complications, using hierarchical logistic regression to adjust for patient characteristics, implanting physician certification, hospital characteristics, hospital annual procedure volume, and the clustering of patients within hospitals and by physician. We repeated this analysis for ICD subtypes: single chamber, dual chamber, and biventricular. There were 10 994 patients (3.1%) with a complication after ICD implantation, and 1375 died (0.39%). The complication rate decreased with increasing physician procedure volume from 4.6% in the lowest quartile to 2.9% in the highest quartile (P<0.0001), and the mortality rate decreased from 0.72% to 0.36% (P<0.0001). The inverse relationship between physician procedure volume and complications remained significant after adjusting for patient, physician, and hospital characteristics (OR 1.55 for complications in lowest-volume quartile compared with highest; 95% confidence interval, 1.34-1.79; P<0.0001). This inverse relationship was independent of physician specialty and of hospital volume, was consistent across ICD subtypes, and was also evident for in-hospital mortality. CONCLUSION: Physicians who implant more ICDs have lower rates of procedural complications and in-hospital mortality, independent of hospital procedure volume, physician specialty, and ICD type.","Aged
+Clinical Competence/*standards
+Defibrillators, Implantable/adverse effects/*trends
+Female
+Humans
+Male
+Medicine/standards/trends
+Physicians/*standards/*trends
+Postoperative Complications/*epidemiology/etiology
+*Registries
+Treatment Outcome"

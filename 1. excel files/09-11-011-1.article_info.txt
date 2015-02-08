@@ -1,0 +1,28 @@
+21853245,The determinants of serum vitamin D levels in participants in a melanoma case-control study living in a temperate climate.,"Adolescent
+Adult
+Aged
+Aged, 80 and over
+Alleles
+Calcifediol/administration & dosage/*blood
+Case-Control Studies
+Child
+Child, Preschool
+Climate
+Dietary Supplements
+Female
+Genetic Variation
+Genotype
+Great Britain
+Heterozygote
+Humans
+Infant
+Infant, Newborn
+Male
+Melanoma/*blood/genetics/metabolism
+Middle Aged
+Seasons
+Skin Neoplasms/*blood/genetics/metabolism
+Sunlight
+Vitamin D Deficiency/blood/genetics
+Vitamin D-Binding Protein/blood/genetics
+Young Adult",Davies JR and Chang YM and Snowden H and Chan M and Leake S and Karpavicius B and Haynes S and Kukalizch K and Randerson-Moor J and Elliott F and Barth J and Kanetsky PA and Harland M and Bishop DT and Barrett JH and Newton-Bishop JA,"BACKGROUND: We report the determinants of serum levels of vitamin D in a U.K. melanoma case-control study benefitting from detailed exposure and genotyping data. METHODS: Sun exposure, supplemental vitamin D, and SNPs reported to be associated with serum levels were assessed as predictors of a single serum 25-hydroxyvitamin D3 measurement adjusted for season, age, sex, and body mass index. RESULTS: Adjusted analyses showed that vitamin D levels were sub-optimal especially in the sun-sensitive individuals (-2.61 nmol/L, p = 0.03) and for inheritance of a genetic variant in the GC gene coding for the vitamin D-binding protein (-5.79 for heterozygotes versus wild type, p = <0.0001). Higher levels were associated with sun exposure at the weekend in summer (+4.71 nmol/L per tertile, p = <0.0001), and on hot holidays (+4.17 nmol/L per tertile, p = <0.0001). In smoothed scatter plots, vitamin D levels of 60 nmol/L in the non-sun-sensitive individuals were achieved after an average 6 h/day summer weekend sun exposure but not in the sun-sensitive individuals. Users of supplements had levels on average 11.0 nmol/L higher, p = <0.0001, and achieved optimal levels irrespective of sun exposure. CONCLUSIONS: Sun exposure was associated with increased vitamin D levels, but levels more than 60 nmol/L were reached on average only in individuals reporting lengthy exposure (>/=12 h/weekend). The sun-sensitive individuals did not achieve optimal levels without supplementation, which therefore should be considered for the majority of populations living in a temperate climate and melanoma patients in particular. Inherited variation in genes such as GC is a strong factor, and carriers of variant alleles may therefore require higher levels of supplementation.",Missing,Cancer causes & control : CCC,22

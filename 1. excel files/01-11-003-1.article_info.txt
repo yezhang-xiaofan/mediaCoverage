@@ -1,0 +1,15 @@
+21343178,Inappropriate 999 calls: an online pilot survey.,"Adolescent
+Adult
+Aged
+Ambulances/*utilization
+Emergencies
+Female
+Health Services Misuse/*statistics & numerical data
+Humans
+Internet
+Male
+Middle Aged
+Pilot Projects
+Questionnaires
+Regression Analysis
+Young Adult",Kirkby HM and Roberts LM,"BACKGROUND: Abuse of ambulance services is high, and there is concern among healthcare professionals that misuse of ambulances places stress on services, which may jeopardise patient care. This study aims to determine the proportion of people who correctly identify appropriate situations to call for an ambulance, and determine the characteristics of those most likely to call inappropriately. METHODS: An online questionnaire presented 12 common scenarios that may require medical attention and required participants to identify when they would request an ambulance. Proportions correctly responding to each scenario were calculated and each respondent was given a total score. t-Tests compared mean scores between groups (with and without first aid (FA) training), and chi(2) tests compared between-group proportions of correct answers for scenarios. Backwards stepwise logistic regression analyses determined the characteristics of those most likely to call inappropriately. RESULTS: 150 respondents completed the questionnaire. 5.2-47.8% responded with an inappropriate answer, depending on the scenario. Almost all participants identified the need for an ambulance in 3/5 scenarios when it was required; however, fewer (74.8%) respondents identified the need for an ambulance to a suspected stroke. The majority correctly identified an ambulance was not required in only 2/7 scenarios. Those with FA training were less likely to call inappropriately in all scenarios (significant in three situations). However, no participant characteristics were predictive of calling an ambulance inappropriately once confounders were taken into account. CONCLUSIONS: The majority would call for an ambulance appropriately when a real emergency occurred, and most inappropriate classification occurs when an ambulance is not required.",Missing,Emergency medicine journal : EMJ,29

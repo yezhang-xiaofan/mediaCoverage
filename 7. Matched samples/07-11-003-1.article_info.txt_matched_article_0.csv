@@ -1,0 +1,17 @@
+21156648,miRNA-7 attenuation in Schwannoma tumors stimulates growth by upregulating three oncogenic signaling pathways.,Cancer research,Saydam O and Senol O and Wurdinger T and Mizrak A and Ozdener GB and Stemmer-Rachamimov AO and Yi M and Stephens RM and Krichevsky AM and Saydam N and Brenner GJ and Breakefield XO,Missing,"Micro RNAs (miRNA) negatively regulate protein-coding genes at the posttranscriptional level and are critical in tumorigenesis. Schwannomas develop from proliferation of dedifferentiated Schwann cells, which normally wrap nerve fibers to help support and insulate nerves. In this study, we carried out high-throughput miRNA expression profiling of human vestibular schwannomas by using an array representing 407 known miRNAs to explore the role of miRNAs in tumor growth. Twelve miRNAs were found to be significantly deregulated in tumor samples as compared with control nerve tissue, defining a schwannoma-typical signature. Among these miRNAs, we focused on miR-7, which was one of the most downregulated in these tumors and has several known oncogene targets, including mRNAs for epidermal growth factor receptor (EGFR) and p21-activated kinase 1 (Pak1). We found that overexpression of miR-7 inhibited schwannoma cell growth both in culture and in xenograft tumor models in vivo, which correlated with downregulation of these signaling pathways. Furthermore, we identified a novel direct target of miR-7, the mRNA for associated cdc42 kinase 1 (Ack1), with the expression levels of miR-7 and Ack1 being inversely correlated in human schwannoma samples. These results represent the first miRNA profiling of schwannomas and the first report of a tumor suppressor function for miR-7 in these tumors that is mediated by targeting the EGFR, Pak1, and Ack1 oncogenes. Our findings suggest miR-7 as a potential therapeutic molecule for schwannoma treatment, and they prompt clinical evaluation of drugs that can inhibit the EGFR, Pak1, and Ack1 signaling pathways to treat this tumor type.","Animals
+Cell Growth Processes/genetics
+Cell Line, Tumor
+Female
+Humans
+Mice
+Mice, Nude
+MicroRNAs/biosynthesis/*genetics
+Neurilemmoma/*genetics/*metabolism/pathology
+Protein-Tyrosine Kinases/antagonists & inhibitors/biosynthesis/metabolism
+Receptor, Epidermal Growth Factor/antagonists &
+inhibitors/biosynthesis/metabolism
+Signal Transduction
+Transfection
+Transplantation, Heterologous
+Up-Regulation
+p21-Activated Kinases/antagonists & inhibitors/biosynthesis/metabolism"

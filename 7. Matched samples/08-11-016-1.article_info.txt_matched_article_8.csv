@@ -1,0 +1,15 @@
+21529750,"Risk prediction of complex diseases from family history and known susceptibility loci, with applications for cancer screening.",American journal of human genetics,So HC and Kwan JS and Cherny SS and Sham PC,Missing,"Risk prediction based on genomic profiles has raised a lot of attention recently. However, family history is usually ignored in genetic risk prediction. In this study we proposed a statistical framework for risk prediction given an individual's genotype profile and family history. Genotype information about the relatives can also be incorporated. We allow risk prediction given the current age and follow-up period and consider competing risks of mortality. The framework allows easy extension to any family size and structure. In addition, the predicted risk at any percentile and the risk distribution graphs can be computed analytically. We applied the method to risk prediction for breast and prostate cancers by using known susceptibility loci from genome-wide association studies. For breast cancer, in the population the 10-year risk at age 50 ranged from 1.1% at the 5th percentile to 4.7% at the 95th percentile. If we consider the average 10-year risk at age 50 (2.39%) as the threshold for screening, the screening age ranged from 62 at the 20th percentile to 38 at the 95th percentile (and some never reach the threshold). For women with one affected first-degree relative, the 10-year risks ranged from 2.6% (at the 5th percentile) to 8.1% (at the 95th percentile). For prostate cancer, the corresponding 10-year risks at age 60 varied from 1.8% to 14.9% in the population and from 4.2% to 23.2% in those with an affected first-degree relative. We suggest that for some diseases genetic testing that incorporates family history can stratify people into diverse risk categories and might be useful in targeted prevention and screening.","Age Factors
+Algorithms
+Breast Neoplasms/*diagnosis/*genetics
+*Early Detection of Cancer
+Female
+Genetic Association Studies
+Genetic Loci
+Genetic Predisposition to Disease
+Genotype
+Humans
+Male
+Models, Statistical
+Prostatic Neoplasms/*diagnosis/*genetics
+Risk Assessment
+Risk Factors"

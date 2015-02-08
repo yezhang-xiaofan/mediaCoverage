@@ -1,0 +1,11 @@
+22171023,Human fine body hair enhances ectoparasite detection.,"Adult
+Animals
+Bedbugs/*physiology
+Ectoparasitic Infestations/*immunology/parasitology
+England
+Feeding Behavior
+Female
+Hair/*anatomy & histology/immunology/*physiology
+Humans
+Male
+Young Adult",Dean I and Siva-Jothy MT,"Although we are relatively naked in comparison with other primates, the human body is covered in a layer of fine hair (vellus and terminal hair) at a relatively high follicular density. There are relatively few explanations for the evolutionary maintenance of this type of human hair. Here, we experimentally test the hypothesis that human fine body hair plays a defensive function against ectoparasites (bed bugs). Our results show that fine body hair enhances the detection of ectoparasites through the combined effects of (i) increasing the parasite's search time and (ii) enhancing its detection.",Missing,Biology letters,8

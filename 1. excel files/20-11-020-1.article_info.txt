@@ -1,0 +1,16 @@
+22130691,Confidence mediates the sex difference in mental rotation performance.,"Adolescent
+Attention/physiology
+Cognition
+*Emotions
+Female
+Gender Identity
+Humans
+Imagination/*physiology
+Male
+Neuropsychological Tests
+Rotation
+*Self Concept
+*Sex Characteristics
+Sex Factors
+Space Perception/*physiology
+Young Adult",Estes Z and Felker S,"On tasks that require the mental rotation of 3-dimensional figures, males typically exhibit higher accuracy than females. Using the most common measure of mental rotation (i.e., the Mental Rotations Test), we investigated whether individual variability in confidence mediates this sex difference in mental rotation performance. In each of four experiments, the sex difference was reliably elicited and eliminated by controlling or manipulating participants' confidence. Specifically, confidence predicted performance within and between sexes (Experiment 1), rendering confidence irrelevant to the task reliably eliminated the sex difference in performance (Experiments 2 and 3), and manipulating confidence significantly affected performance (Experiment 4). Thus, confidence mediates the sex difference in mental rotation performance and hence the sex difference appears to be a difference of performance rather than ability. Results are discussed in relation to other potential mediators and mechanisms, such as gender roles, sex stereotypes, spatial experience, rotation strategies, working memory, and spatial attention.",Missing,Archives of sexual behavior,41

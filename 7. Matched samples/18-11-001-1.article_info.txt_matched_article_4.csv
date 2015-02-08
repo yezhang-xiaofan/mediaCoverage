@@ -1,0 +1,10 @@
+21138328,Controlling the activity of the Tec kinase Itk by mutation of the phenylalanine gatekeeper residue.,Biochemistry,Joseph RE and Andreotti AH,Missing,"The regulatory spine is a set of conserved residues that are assembled and disassembled upon activation and inactivation of kinases. We recently identified the regulatory spine within the immunologically important Tec family kinases and have shown that in addition to the core spine residues within the kinase domain itself, contributions from the SH2-kinase linker region result in an extended spine structure for this kinase family. Disruption of the regulatory spine, either by mutation or by removal of the amino-terminal SH2-kinase linker region or by mutation of core spine residues, leads to inactivation of the Tec kinases. With a focus on the Tec family members, Itk and Btk, we now show that the gatekeeper residue is also critical for the assembly of the regulatory spine. Mutation of the bulky Itk F434 gatekeeper residue to alanine or glycine inactivates Itk. The activity of the Itk F434A mutant can be recovered by a secondary site mutation within the N-terminal lobe, specifically L432I. The Itk L432I mutation likely rescues the activity of the gatekeeper F434A mutation by promoting the assembly of the regulatory spine. We also show that mutation of the Itk and Btk gatekeeper residues to methionine is sufficient to activate the isolated kinase domains of Tec kinases in the absence of the amino-terminal SH2-kinase linker. Thus, shifting the conformational equilibrium between the assembled and disassembled states of the regulatory spine by changing the nature of the gatekeeper residue is key to regulating the activity of Tec kinases.","Amino Acid Sequence
+Animals
+Mice
+Models, Molecular
+Molecular Sequence Data
+Mutagenesis, Site-Directed
+Phenylalanine/chemistry/*genetics/metabolism
+*Point Mutation
+Protein-Tyrosine Kinases/chemistry/*genetics/*metabolism
+src Homology Domains"

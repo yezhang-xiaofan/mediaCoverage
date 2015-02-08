@@ -1,0 +1,10 @@
+21865391,Heterogeneous nuclear ribonucleoprotein A2 participates in the replication of Japanese encephalitis virus through an interaction with viral proteins and RNA.,Journal of virology,Katoh H and Mori Y and Kambara H and Abe T and Fukuhara T and Morita E and Moriishi K and Kamitani W and Matsuura Y,Missing,"Japanese encephalitis virus (JEV) is a mosquito-borne flavivirus that is kept in a zoonotic transmission cycle between pigs and mosquitoes. JEV causes infection of the central nervous system with a high mortality rate in dead-end hosts, including humans. Many studies have suggested that the flavivirus core protein is not only a component of nucleocapsids but also an important pathogenic determinant. In this study, we identified heterogeneous nuclear ribonucleoprotein A2 (hnRNP A2) as a binding partner of the JEV core protein by pulldown purification and mass spectrometry. Reciprocal coimmunoprecipitation analyses in transfected and infected cells confirmed a specific interaction between the JEV core protein and hnRNP A2. Expression of the JEV core protein induced cytoplasmic retention of hnRNP A2 in JEV subgenomic replicon cells. Small interfering RNA (siRNA)-mediated knockdown of hnRNP A2 resulted in a 90% reduction of viral RNA replication in cells infected with JEV, and the reduction was cancelled by the expression of an siRNA-resistant hnRNP A2 mutant. In addition to the core protein, hnRNP A2 also associated with JEV nonstructural protein 5, which has both methyltransferase and RNA-dependent RNA polymerase activities, and with the 5'-untranslated region of the negative-sense JEV RNA. During one-step growth, synthesis of both positive- and negative-strand JEV RNAs was delayed by the knockdown of hnRNP A2. These results suggest that hnRNP A2 plays an important role in the replication of JEV RNA through the interaction with viral proteins and RNA.","Animals
+Cell Line
+Encephalitis Virus, Japanese/*pathogenicity
+Heterogeneous-Nuclear Ribonucleoprotein Group A-B/*metabolism
+*Host-Pathogen Interactions
+Humans
+Immunoprecipitation
+RNA, Viral/*metabolism
+Viral Proteins/*metabolism
+Virus Replication"

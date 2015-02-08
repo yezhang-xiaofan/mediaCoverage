@@ -1,0 +1,24 @@
+22086967,Intelligence across childhood in relation to illegal drug use in adulthood: 1970 British Cohort Study.,"Adult
+Age Factors
+Cannabis/drug effects
+Child
+Cocaine/adverse effects
+Cognition/*physiology
+Cohort Studies
+Fathers/psychology/statistics & numerical data
+Female
+Follow-Up Studies
+Great Britain/epidemiology
+Humans
+*Intelligence
+Intelligence Tests
+Logistic Models
+Longitudinal Studies
+Male
+Mothers/psychology/statistics & numerical data
+Multivariate Analysis
+Sex Factors
+*Social Class
+Street Drugs/*adverse effects
+Stress, Psychological/*epidemiology
+Substance-Related Disorders/*epidemiology",White J and Batty GD,"BACKGROUND: Recent reports have linked high childhood IQ scores with excess alcohol intake and alcohol dependency in adult life, but the relationship with illegal drug use in later life is relatively unknown. METHODS: The authors used data from a large population-based birth cohort (1970 British Cohort Study) with measures of lifetime cannabis and cocaine use, parental social class and psychological distress at 16 years; cannabis, cocaine, amphetamine, ecstasy and polydrug use (more than three drugs) in the past 12 months; and social class, educational attainment and gross monthly income at 30 years. All members of the cohort with IQ scores at 5 or 10 years were eligible to be included in the analyses. RESULTS: Of the 11603 (at 5 years) and 11397 (at 10 years) cohort members eligible, 7904 (68.1%) and 7946 (69.7%) were included in the analyses. IQ scores at 5 years were positively associated with cannabis (OR ((bottom vs top tertile)) =2.25, 95% CI 1.71 to 2.97) and cocaine use (OR 2.35, 95% CI 1.41 to 3.92) in women and with amphetamines (OR 1.46, 95% CI 1.03 to 2.06), ecstasy (OR 1.65, 95% CI 1.15 to 2.36) and polydrug use (OR 1.57, 95% CI 1.09 to 2.26) in men at 30 years. IQ scores at 10 years were positively associated with cannabis, cocaine (only at 30 years), ecstasy, amphetamine and polydrug use. Associations were stronger in women than in men and were independent from psychological distress in adolescence and life-course socioeconomic position. CONCLUSION: High childhood IQ may increase the risk of illegal drug use in adolescence and adulthood.",Missing,Journal of epidemiology and community health,66

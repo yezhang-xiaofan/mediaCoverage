@@ -1,0 +1,16 @@
+21697825,Structure of the human histamine H1 receptor complex with doxepin.,"Binding Sites
+Crystallography, X-Ray
+Doxepin/chemistry/*metabolism
+Histamine Antagonists/chemistry/*metabolism
+Humans
+Hydrophobic and Hydrophilic Interactions
+Isomerism
+Ligands
+Models, Molecular
+Phosphates/chemistry/metabolism
+Protein Binding
+Protein Conformation
+Receptors, Adrenergic, beta-2/chemistry
+Receptors, Dopamine D3/chemistry
+Receptors, Histamine H1/*chemistry/*metabolism
+Substrate Specificity",Shimamura T and Shiroishi M and Weyand S and Tsujimoto H and Winter G and Katritch V and Abagyan R and Cherezov V and Liu W and Han GW and Kobayashi T and Stevens RC and Iwata S,"The biogenic amine histamine is an important pharmacological mediator involved in pathophysiological processes such as allergies and inflammations. Histamine H(1) receptor (H(1)R) antagonists are very effective drugs alleviating the symptoms of allergic reactions. Here we show the crystal structure of the H(1)R complex with doxepin, a first-generation H(1)R antagonist. Doxepin sits deep in the ligand-binding pocket and directly interacts with Trp 428(6.48), a highly conserved key residue in G-protein-coupled-receptor activation. This well-conserved pocket with mostly hydrophobic nature contributes to the low selectivity of the first-generation compounds. The pocket is associated with an anion-binding region occupied by a phosphate ion. Docking of various second-generation H(1)R antagonists reveals that the unique carboxyl group present in this class of compounds interacts with Lys 191(5.39) and/or Lys 179(ECL2), both of which form part of the anion-binding region. This region is not conserved in other aminergic receptors, demonstrating how minor differences in receptors lead to pronounced selectivity differences with small molecules. Our study sheds light on the molecular basis of H(1)R antagonist specificity against H(1)R.",Missing,Nature,475

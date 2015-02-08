@@ -1,0 +1,19 @@
+21826061,Genome-wide association studies establish that human intelligence is highly heritable and polygenic.,"Adolescent
+Adult
+Aged
+Aged, 80 and over
+Child
+Cohort Studies
+Female
+*Genome, Human
+Genome-Wide Association Study
+Humans
+Intelligence/*genetics
+Longitudinal Studies
+Male
+Middle Aged
+Multifactorial Inheritance/*genetics
+Polymorphism, Single Nucleotide/*genetics
+Quantitative Trait, Heritable
+Reference Values
+Young Adult",Davies G and Tenesa A and Payton A and Yang J and Harris SE and Liewald D and Ke X and Le Hellard S and Christoforou A and Luciano M and McGhee K and Lopez L and Gow AJ and Corley J and Redmond P and Fox HC and Haggarty P and Whalley LJ and McNeill G and Goddard ME and Espeseth T and Lundervold AJ and Reinvang I and Pickles A and Steen VM and Ollier W and Porteous DJ and Horan M and Starr JM and Pendleton N and Visscher PM and Deary IJ,"General intelligence is an important human quantitative trait that accounts for much of the variation in diverse cognitive abilities. Individual differences in intelligence are strongly associated with many important life outcomes, including educational and occupational attainments, income, health and lifespan. Data from twin and family studies are consistent with a high heritability of intelligence, but this inference has been controversial. We conducted a genome-wide analysis of 3511 unrelated adults with data on 549,692 single nucleotide polymorphisms (SNPs) and detailed phenotypes on cognitive traits. We estimate that 40% of the variation in crystallized-type intelligence and 51% of the variation in fluid-type intelligence between individuals is accounted for by linkage disequilibrium between genotyped common SNP markers and unknown causal variants. These estimates provide lower bounds for the narrow-sense heritability of the traits. We partitioned genetic variation on individual chromosomes and found that, on average, longer chromosomes explain more variation. Finally, using just SNP data we predicted approximately 1% of the variance of crystallized and fluid cognitive phenotypes in an independent sample (P=0.009 and 0.028, respectively). Our results unequivocally confirm that a substantial proportion of individual differences in human intelligence is due to genetic variation, and are consistent with many genes of small effects underlying the additive genetic influences on intelligence.",Missing,Molecular psychiatry,16

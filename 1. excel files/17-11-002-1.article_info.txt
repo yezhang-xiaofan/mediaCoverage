@@ -1,0 +1,9 @@
+21245307,miR-96 regulates the progression of differentiation in mammalian cochlear inner and outer hair cells.,"Animals
+Cell Differentiation/*physiology
+Hair Cells, Auditory, Inner/*metabolism/ultrastructure
+Hair Cells, Auditory, Outer/*metabolism/ultrastructure
+Mice
+Mice, Mutant Strains
+MicroRNAs/genetics/*metabolism
+Mutation
+Organ Specificity",Kuhn S and Johnson SL and Furness DN and Chen J and Ingham N and Hilton JM and Steffes G and Lewis MA and Zampini V and Hackney CM and Masetto S and Holley MC and Steel KP and Marcotti W,"MicroRNAs (miRNAs) are small noncoding RNAs able to regulate a broad range of protein-coding genes involved in many biological processes. miR-96 is a sensory organ-specific miRNA expressed in the mammalian cochlea during development. Mutations in miR-96 cause nonsyndromic progressive hearing loss in humans and mice. The mouse mutant diminuendo has a single base change in the seed region of the Mir96 gene leading to widespread changes in the expression of many genes. We have used this mutant to explore the role of miR-96 in the maturation of the auditory organ. We found that the physiological development of mutant sensory hair cells is arrested at around the day of birth, before their biophysical differentiation into inner and outer hair cells. Moreover, maturation of the hair cell stereocilia bundle and remodelling of auditory nerve connections within the cochlea fail to occur in miR-96 mutants. We conclude that miR-96 regulates the progression of the physiological and morphological differentiation of cochlear hair cells and, as such, coordinates one of the most distinctive functional refinements of the mammalian auditory system.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

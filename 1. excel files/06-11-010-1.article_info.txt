@@ -1,0 +1,22 @@
+21471969,DISC1-dependent switch from progenitor proliferation to migration in the developing cortex.,"Animals
+COS Cells
+Cell Movement/genetics
+Cell Proliferation
+Cercopithecus aethiops
+Cerebral Cortex/cytology/*embryology/physiology
+Gene Knockdown Techniques
+Glycogen Synthase Kinase 3/metabolism
+HEK293 Cells
+Humans
+Mice
+Microtubule-Associated Proteins/genetics/metabolism
+*Nerve Tissue Proteins/genetics/metabolism
+Neurons/*cytology/metabolism/*physiology
+PC12 Cells
+Phosphorylation
+Protein Binding
+Rats
+Signal Transduction
+Stem Cells/*cytology
+Wnt Proteins/metabolism
+beta Catenin/metabolism",Ishizuka K and Kamiya A and Oh EC and Kanki H and Seshadri S and Robinson JF and Murdoch H and Dunlop AJ and Kubo K and Furukori K and Huang B and Zeledon M and Hayashi-Takagi A and Okano H and Nakajima K and Houslay MD and Katsanis N and Sawa A,"Regulatory mechanisms governing the sequence from progenitor cell proliferation to neuronal migration during corticogenesis are poorly understood. Here we report that phosphorylation of DISC1, a major susceptibility factor for several mental disorders, acts as a molecular switch from maintaining proliferation of mitotic progenitor cells to activating migration of postmitotic neurons in mice. Unphosphorylated DISC1 regulates canonical Wnt signalling via an interaction with GSK3beta, whereas specific phosphorylation at serine 710 (S710) triggers the recruitment of Bardet-Biedl syndrome (BBS) proteins to the centrosome. In support of this model, loss of BBS1 leads to defects in migration, but not proliferation, whereas DISC1 knockdown leads to deficits in both. A phospho-dead mutant can only rescue proliferation, whereas a phospho-mimic mutant rescues exclusively migration defects. These data highlight a dual role for DISC1 in corticogenesis and indicate that phosphorylation of this protein at S710 activates a key developmental switch.",Missing,Nature,473

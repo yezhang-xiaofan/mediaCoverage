@@ -1,0 +1,12 @@
+21723952,Regulation of osteoarthritis by omega-3 (n-3) polyunsaturated fatty acids in a naturally occurring model of disease.,"Alkaline Phosphatase/metabolism
+Animals
+Disease Models, Animal
+Fatty Acids, Omega-3/*pharmacology
+Fibrillar Collagens/metabolism
+Glycosaminoglycans/metabolism
+Guinea Pigs
+Hindlimb/pathology
+Knee Joint/metabolism/*pathology
+Matrix Metalloproteinases/metabolism
+*Menisci, Tibial/drug effects/pathology
+Osteoarthritis/*drug therapy/metabolism/pathology",Knott L and Avery NC and Hollander AP and Tarlton JF,"OBJECTIVE: To examine effects of high omega-3 (n-3) polyunsaturated fatty acid (PUFA) diets on development of osteoarthritis (OA) in a spontaneous guinea pig model, and to further characterise pathogenesis in this model. Modern diets low in n-3 PUFAs have been linked with increases in inflammatory disorders, possibly including OA. However, n-3 is also thought to increases bone density, which is a possible contributing factor in OA. Therefore we aim to determine the net influence of n-3 in disease development. METHOD: OA-prone Dunkin-Hartley (DH) Guinea pigs were compared with OA-resistant Bristol Strain-2s (BS2) each fed a standard or an n-3 diet from 10 to 30 weeks (10/group). We examined cartilage and subchondral bone pathology by histology, and biochemistry, including collagen cross-links, matrix metalloproteinases (MMPs), alkaline phosphatase, glycosaminoglycan (GAG), and denatured type II collagen. RESULTS: Dietary n-3 reduced disease in OA-prone animals. Most cartilage parameters were modified by n-3 diet towards those seen in the non-pathological BS2 strain - significantly active MMP-2, lysyl-pyridinoline and total collagen cross-links - the only exception being pro MMP-9 which was lower in the BS2, yet increased with n-3. GAG content was higher and denatured type II lower in the n-3 group. Subchondral bone parameters in the DH n-3 group also changed towards those seen in the non-pathological strain, significantly calcium:phosphate ratios and epiphyseal bone density. CONCLUSION: Dietary n-3 PUFA reduced OA in the prone strain, and most disease markers were modified towards those of the non-OA strain, though not all significantly so. Omega-3 did not increase markers of pathology in either strain.",Missing,"Osteoarthritis and cartilage / OARS, Osteoarthritis Research Society",19

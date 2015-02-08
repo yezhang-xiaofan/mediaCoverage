@@ -1,0 +1,16 @@
+20801725,"Obesity under affluence varies by welfare regimes: the effect of fast food, insecurity, and inequality.","Australia/epidemiology
+Canada/epidemiology
+Europe/epidemiology
+Fast Foods/*economics
+Food Supply/*economics
+*Health Status Disparities
+Health Surveys
+Humans
+Models, Economic
+Multivariate Analysis
+Obesity/*economics/epidemiology/psychology
+Prejudice
+*Social Class
+Social Welfare/*economics/psychology
+Stress, Psychological
+United States/epidemiology",Offer A and Pechey R and Ulijaszek S,"Among affluent countries, those with market-liberal welfare regimes (which are also English-speaking) tend to have the highest prevalence of obesity. The impact of cheap, accessible high-energy food is often invoked in explanation. An alternative approach is that overeating is a response to stress, and that competition, uncertainty, and inequality make market-liberal societies more stressful. This ecological regression meta-study pools 96 body-weight surveys from 11 countries c. 1994-2004. The fast-food 'shock' impact is found to work most strongly in market-liberal countries. Economic insecurity, measured in several different ways, was almost twice as powerful, while the impact of inequality was weak, and went in the opposite direction.",Missing,Economics and human biology,8

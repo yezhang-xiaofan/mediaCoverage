@@ -1,0 +1,13 @@
+21363914,"Mathematical modeling predicts synergistic antitumor effects of combining a macrophage-based, hypoxia-targeted gene therapy with chemotherapy.","Animals
+Antineoplastic Agents, Alkylating/*therapeutic use
+Cell Hypoxia/genetics
+Combined Modality Therapy
+Cyclophosphamide/*therapeutic use
+Genetic Therapy/*methods
+Humans
+Macrophages/*physiology
+Magnetics
+*Models, Biological
+Nanoparticles/administration & dosage
+Neoplasms/genetics/metabolism/*therapy
+Oxygen/metabolism",Owen MR and Stamper IJ and Muthana M and Richardson GW and Dobson J and Lewis CE and Byrne HM,"Tumor hypoxia is associated with low rates of cell proliferation and poor drug delivery, limiting the efficacy of many conventional therapies such as chemotherapy. Because many macrophages accumulate in hypoxic regions of tumors, one way to target tumor cells in these regions could be to use genetically engineered macrophages that express therapeutic genes when exposed to hypoxia. Systemic delivery of such therapeutic macrophages may also be enhanced by preloading them with nanomagnets and applying a magnetic field to the tumor site. Here, we use a new mathematical model to compare the effects of conventional cyclophosphamide therapy with those induced when macrophages are used to deliver hypoxia-inducible cytochrome P450 to locally activate cyclophosphamide. Our mathematical model describes the spatiotemporal dynamics of vascular tumor growth and treats cells as distinct entities. Model simulations predict that combining conventional and macrophage-based therapies would be synergistic, producing greater antitumor effects than the additive effects of each form of therapy. We find that timing is crucial in this combined approach with efficacy being greatest when the macrophage-based, hypoxia-targeted therapy is administered shortly before or concurrently with chemotherapy. Last, we show that therapy with genetically engineered macrophages is markedly enhanced by using the magnetic approach described above, and that this enhancement depends mainly on the strength of the applied field, rather than its direction. This insight may be important in the treatment of nonsuperficial tumors, where generating a specific orientation of a magnetic field may prove difficult. In conclusion, we demonstrate that mathematical modeling can be used to design and maximize the efficacy of combined therapeutic approaches in cancer.",Missing,Cancer research,71

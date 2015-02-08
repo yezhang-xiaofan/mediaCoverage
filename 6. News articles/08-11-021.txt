@@ -1,0 +1,52 @@
+3 June 2011 Last updated at 01:49 
+BBC
+Hopes raised of blocking return of leukaemia
+Scientists are working on a way to stop one of the most aggressive forms of acute leukaemia, MLL, returning after a patient has received treatment.
+Recurrence of the blood cancer caused by rogue leukaemic stem cells is a major problem for doctors.
+But a team at King's College London, working on mice, have raised hopes of a solution.
+They describe in the journal Cell Stem Cell how they eliminated the stem cells by suppressing two key proteins.
+It is hoped the work, funded by Cancer Research UK and Leukaemia Lymphoma Research, will lead to new treatments which will enable complete remission for patients with a form of acute leukaemia.
+Cancer stem cells appear to be more resistant than other leukaemia cells to standard treatments, such as radiotherapy and chemotherapy.
+So even after treatment appears to have been initially successful, they can remain to trigger a new round of disease, which often reappears in a more aggressive form.
+More than 50% of acute leukaemia patients will relapse and survival is poor, with fewer than half living for five years.
+The King's team looked at leukaemic stem cells found in a type of acute leukaemia involving mutations in a gene called MLL.
+This particularly aggressive form of the disease accounts for about 70% of infant leukaemias, and 10% of adult acute leukaemias.
+Only half of children diagnosed with the disease survive for two years after receiving standard treatment.
+Double assault
+A protein called Bmi1 was already known to play a key role in the survival and proliferation of various cancer stem cells.
+ 
+But the King's team showed that targeting Bmi1 alone was not enough to eradicate the rogue stem cells, as had previously been thought.
+To do that, the scientists found that Bmi1 had to be targeted in harness with a second protein, Hoxa9.
+This double assault abolished the ability of MLL mutation to induce leukaemia. 
+Researcher Professor Eric So said: "These findings take us a step forward in our understanding of how this devastating disease can return in patients after they have received the standard treatment.
+"Now we know that leukaemic stem cells in certain types of leukaemia, such as MLL, can survive and proliferate independently of the Bmi1 protein, we need to consider more carefully the future of stem cell therapy to treat the disease. 
+"It's not as easy as people originally thought it might be." 
+Professor So said the next step would be to pin down exactly how the two proteins help cancer cells to grow.
+Professor Peter Johnson, Cancer Research UK's chief clinician, said: "Cancer stem cells appear to be more resistant to radiotherapy and chemotherapy than the other leukaemia cells, so understanding how they originate - and how we can kill them - will be a major step in being able to help even more people survive leukaemia in future."
+Dr David Grant, scientific director of Leukaemia & Lymphoma Research, said: "It is now widely agreed that leukaemia stem cells are the true target for new or existing drugs if patients are to be cured. 
+"This research is important in uncovering how leukaemia stem cells are controlled at the genetic level which in turn will guide new treatments to tackle this difficult problem." 
+
+
+
+
+TELEGRAPH
+By Martin Beckford, Health Correspondent
+7:00AM BST 03 Jun 2011
+Leukaemia discovery could lead to complete remission
+Scientists have made a discovery that could enable leukaemia sufferers to be completely rid of the disease. 
+British researchers found a way to destroy stem cells that sustain the potentially fatal blood cancer, in an early study on mice. 
+The team from King’s College London, funded by Cancer Research UK, learned that suppressing two particular proteins stops the leukaemia stem cells growing. 
+This could pave the way for better treatment that may enable patients to be in "complete remission". 
+Prof Peter Johnson, the leading charity’s chief clinician, said: “This study builds on previous Cancer Research UK-funded work trying to pinpoint the molecules responsible for driving the development of MLL-related leukaemia stem cells. 
+“Cancer stem cells appear to be more resistant to radiotherapy and chemotherapy than the other leukaemia cells, so understanding how they originate – and how we can kill them – will be a major step in being able to help even more people survive leukaemia in future.” 
+As many as 28,500 people are diagnosed with leukaemia in Britain every year and about 70 per cent of children and 10 per cent of adults have a type that involves mutations of the MLL gene. 
+Only half of these children survive for two years after receiving standard treatment. 
+But in a paper published in the journal Cell Stem Cell, researchers at King’s describe how they found a way to “abolish” the MLL stem cells. 
+They already knew that a protein called Bmi1 played a key role in the survival and growth of cancer stem cells, but also found high levels of another protein, called Hoxa9, in mice and human patients with MLL leukaemia. 
+The team was able to suppress both these proteins and so remove the ability of the stem cells to grow. 
+Professor Eric So, Head of the Leukaemia and Stem Cell Biology group at King’s, said: “These findings take us a step forward in our understanding of how this devastating disease can return in patients after they have received the standard treatment. 
+“Now we know that leukaemic stem cells in certain types of leukaemia, such as MLL, can survive and proliferate independently of the Bmi1 protein, we need to consider more carefully the future of stem cell therapy to treat the disease.
+ It’s not as easy as people originally thought it might be. 
+“But these findings provide us with vital information that will help us look at alternative ways of combating different forms of the disease, which will ultimately allow patients to achieve long-term complete remission.” 
+
+

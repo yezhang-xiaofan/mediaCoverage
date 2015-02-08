@@ -1,0 +1,15 @@
+21772314,Contribution of inappropriate complementary foods to the salt intake of 8-month-old infants.,"Cereals
+Diet/*standards
+Diet Records
+Diet Surveys
+Energy Intake
+Female
+Flavoring Agents/administration & dosage
+Humans
+Infant
+Infant Food/*standards
+*Infant Nutritional Physiological Phenomena/standards
+Longitudinal Studies
+Male
+*Nutrition Policy
+Sodium, Dietary/*administration & dosage",Cribb VL and Warren JM and Emmett PM,"BACKGROUND/OBJECTIVE: Complementary feeding is a critical developmental time for establishing variety, and appropriate feeding practices are important. These include recommendations for a maximum intake of sodium (salt), because of the potential harmful effect of excessive intake on the developing kidneys and blood pressure in later life. Sodium intakes were examined to establish, if inappropriate complementary feeding practices were contributing to high intakes. SUBJECTS/METHODS: Data were collected from a cohort of 1178 8-month-old infants born in 1991/92, participating in the Avon Longitudinal Study of Parents and Children, using a 3-day dietary records completed by their mothers. Sodium and energy intakes were calculated and infants were categorised into quartiles of sodium intake. RESULTS: Majority of infants were first introduced to solids around 3-4 months, with plain baby rice, rusks and other cereals being the first foods consumed during complementary feeding. In the whole sample, 70% consumed in excess, of 400 mg sodium per day, the maximum UK recommendation for children up to age 12 months. The mean sodium intake for the highest quartile was 1060 mg per day. Infants in this quartile were often consuming cows' milk as a main drink; eating three times the amount of bread compared with the lowest quartile and used salty flavourings such as yeast extract and gravy. CONCLUSIONS: Sodium intakes in this cohort of infants were higher than recommendations. Clear and practical education is needed on complementary feeding practice for mothers highlighting what foods to introduce and when. Manufacturers have a responsibility to reduce the sodium content of food products.",Missing,European journal of clinical nutrition,66

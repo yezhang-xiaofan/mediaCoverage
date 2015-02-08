@@ -1,0 +1,9 @@
+21364553,Retinoid-independent motor neurogenesis from human embryonic stem cells reveals a medial columnar ground state.,"Animals
+Cell Line
+Embryonic Stem Cells/cytology/*metabolism
+Humans
+Mice
+Motor Neurons/cytology/*metabolism
+*Neurogenesis
+Signal Transduction
+Tretinoin/*metabolism",Patani R and Hollins AJ and Wishart TM and Puddifoot CA and Alvarez S and de Lera AR and Wyllie DJ and Compston DA and Pedersen RA and Gillingwater TH and Hardingham GE and Allen ND and Chandran S,"A major challenge in neurobiology is to understand mechanisms underlying human neuronal diversification. Motor neurons (MNs) represent a diverse collection of neuronal subtypes, displaying differential vulnerability in different human neurodegenerative diseases. The ability to manipulate cell subtype diversification is critical to establish accurate, clinically relevant in vitro disease models. Retinoid signalling contributes to caudal precursor specification and subsequent MN subtype diversification. Here we investigate the necessity for retinoic acid in motor neurogenesis from human embryonic stem cells. We show that activin/nodal signalling inhibition, followed by sonic hedgehog agonist treatment, is sufficient for MN precursor specification, which occurs even in the presence of retinoid pathway antagonists. Importantly, precursors mature into HB9/ChAT-expressing functional MNs. Furthermore, retinoid-independent motor neurogenesis results in a ground state biased to caudal, medial motor columnar identities from which a greater retinoid-dependent diversity of MNs, including those of lateral motor columns, can be selectively derived in vitro.",Missing,Nature communications,2

@@ -1,0 +1,19 @@
+21471514,O-GlcNAcylation increases ChREBP protein content and transcriptional activity in the liver.,Diabetes,Guinez C and Filhoulaud G and Rayah-Benhamed F and Marmier S and Dubuquoy C and Dentin R and Moldes M and Burnol AF and Yang X and Lefebvre T and Girard J and Postic C,Missing,"OBJECTIVE: Carbohydrate-responsive element-binding protein (ChREBP) is a key transcription factor that mediates the effects of glucose on glycolytic and lipogenic genes in the liver. We have previously reported that liver-specific inhibition of ChREBP prevents hepatic steatosis in ob/ob mice by specifically decreasing lipogenic rates in vivo. To better understand the regulation of ChREBP activity in the liver, we investigated the implication of O-linked beta-N-acetylglucosamine (O-GlcNAc or O-GlcNAcylation), an important glucose-dependent posttranslational modification playing multiple roles in transcription, protein stabilization, nuclear localization, and signal transduction. RESEARCH DESIGN AND METHODS: O-GlcNAcylation is highly dynamic through the action of two enzymes: the O-GlcNAc transferase (OGT), which transfers the monosaccharide to serine/threonine residues on a target protein, and the O-GlcNAcase (OGA), which hydrolyses the sugar. To modulate ChREBP(OG) in vitro and in vivo, the OGT and OGA enzymes were overexpressed or inhibited via adenoviral approaches in mouse hepatocytes and in the liver of C57BL/6J or obese db/db mice. RESULTS: Our study shows that ChREBP interacts with OGT and is subjected to O-GlcNAcylation in liver cells. O-GlcNAcylation stabilizes the ChREBP protein and increases its transcriptional activity toward its target glycolytic (L-PK) and lipogenic genes (ACC, FAS, and SCD1) when combined with an active glucose flux in vivo. Indeed, OGT overexpression significantly increased ChREBP(OG) in liver nuclear extracts from fed C57BL/6J mice, leading in turn to enhanced lipogenic gene expression and to excessive hepatic triglyceride deposition. In the livers of hyperglycemic obese db/db mice, ChREBP(OG) levels were elevated compared with controls. Interestingly, reducing ChREBP(OG) levels via OGA overexpression decreased lipogenic protein content (ACC, FAS), prevented hepatic steatosis, and improved the lipidic profile of OGA-treated db/db mice. CONCLUSIONS: Taken together, our results reveal that O-GlcNAcylation represents an important novel regulation of ChREBP activity in the liver under both physiological and pathophysiological conditions.","Animals
+Cell Line
+Cells, Cultured
+Chromatin Immunoprecipitation
+Fatty Liver/enzymology/genetics/*metabolism
+Hep G2 Cells
+Hepatocytes/metabolism
+Humans
+Immunoblotting
+Immunoprecipitation
+Liver/enzymology/*metabolism
+Male
+Mice
+Mice, Inbred C57BL
+N-Acetylglucosaminyltransferases/genetics/*metabolism
+Nuclear Proteins/genetics/*metabolism
+Protein Binding
+Transcription Factors/genetics/*metabolism
+beta-N-Acetylhexosaminidases/genetics/metabolism"

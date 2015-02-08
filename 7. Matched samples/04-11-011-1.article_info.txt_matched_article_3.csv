@@ -1,0 +1,16 @@
+21151189,Allowing for sex differences increases power in a GWAS of multiplex Autism families.,Molecular psychiatry,Lu AT and Cantor RM,Missing,"Current genomewide association studies account for only a small fraction of the estimated heritabilities of genetically complex neuropsychiatric disorders, indicating they are likely to result from the small effects of numerous predisposing variants, many of which have gone undetected. The statistical power to detect associations of common variants with small effects is increased by conducting joint association tests of a single nucleotide polymorphism (SNP), an additional risk factor (F), and their interaction. F can represent an environmental exposure, another genotype or any source of genetic heterogeneity. In case and control studies, logistic regression makes joint tests straightforward. This analytic method cannot be employed directly when SNP transmission tests are used to detect associations in parent/affected child trios and multiplex families. However, the method can be implemented using the case/pseudocontrol approach. We applied this approach to analyze data from a genomewide association study of multiplex families ascertained for Autism Spectrum Disorder, where sex was used to define the F. Joint analyses revealed two associations exceeding genomewide significance. One novel gene, Ryandine Receptor 2, implicated in calcium channel defects, was identified with a joint P-value of 3.9E-11. Calcium channel defects have been connected to Autism spectrum disorder (ASD) by Timothy Syndrome, which is Mendelian, and a previous targeted sex-specific association analysis of idiopathic Autism. A second gene, uridine phosphorylase 2, with a joint P-value of 2.3E-9, has been previously linked and associated with Autism in independent samples. These findings highlight two Autism candidate genes for follow-up studies.","Child
+Child Development Disorders, Pervasive/*genetics
+Family Health
+Female
+*Genetic Predisposition to Disease
+Genome-Wide Association Study
+Genotype
+Humans
+Linkage Disequilibrium
+Male
+Polymorphism, Single Nucleotide/*genetics
+Probability
+Risk Factors
+Ryanodine Receptor Calcium Release Channel/*genetics
+*Sex Characteristics
+Uridine Phosphorylase/*genetics"

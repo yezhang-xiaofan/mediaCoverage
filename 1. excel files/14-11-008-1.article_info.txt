@@ -1,0 +1,15 @@
+21439830,Compensatory neural reorganization in Tourette syndrome.,"Adolescent
+Brain/metabolism/*physiopathology/*ultrastructure
+Brain Mapping
+Child
+Corpus Callosum/physiopathology/ultrastructure
+Diffusion Magnetic Resonance Imaging
+Female
+Humans
+Magnetic Resonance Imaging
+Male
+Motor Activity
+*Neuronal Plasticity
+Neurons/*metabolism
+Tics
+Tourette Syndrome/*pathology/*physiopathology",Jackson SR and Parkinson A and Jung J and Ryan SE and Morgan PS and Hollis C and Jackson GM,"Children with neurological disorders may follow unique developmental trajectories whereby they undergo compensatory neuroplastic changes in brain structure and function that help them gain control over their symptoms. We used behavioral and brain imaging techniques to investigate this conjecture in children with Tourette syndrome (TS). Using a behavioral task that induces high levels of intermanual conflict, we show that individuals with TS exhibit enhanced control of motor output. Then, using structural (diffusion-weighted imaging) brain imaging techniques, we demonstrate widespread differences in the white matter (WM) microstructure of the TS brain that include alterations in the corpus callosum and forceps minor (FM) WM that significantly predict tic severity in TS. Most importantly, we show that task performance for the TS group (but not for controls) is strongly predicted by the WM microstructure of the FM pathways that lead to the prefrontal cortex and by the functional magnetic resonance imaging blood oxygen level-dependent response in prefrontal areas connected by these tracts. These results provide evidence for compensatory brain reorganization that may underlie the increased self-regulation mechanisms that have been hypothesized to bring about the control of tics during adolescence.",Missing,Current biology : CB,21

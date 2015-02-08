@@ -1,0 +1,17 @@
+21690575,Abnormal structure of frontostriatal brain systems is associated with aspects of impulsivity and compulsivity in cocaine dependence.,"Adult
+*Brain Mapping
+Cocaine-Related Disorders/*complications
+Compulsive Personality Disorder/*etiology/*pathology
+Corpus Striatum/*pathology
+Female
+Frontal Lobe/*pathology
+Humans
+Individuality
+Magnetic Resonance Imaging
+Male
+Nerve Fibers, Myelinated/pathology
+Neural Pathways/pathology
+Principal Component Analysis
+Psychiatric Status Rating Scales
+Statistics as Topic
+Young Adult",Ersche KD and Barnes A and Jones PS and Morein-Zamir S and Robbins TW and Bullmore ET,"A growing body of preclinical evidence indicates that addiction to cocaine is associated with neuroadaptive changes in frontostriatal brain systems. Human studies in cocaine-dependent individuals have shown alterations in brain structure, but it is less clear how these changes may be related to the clinical phenotype of cocaine dependence characterized by impulsive behaviours and compulsive drug-taking. Here we compared self-report, behavioural and structural magnetic resonance imaging data on a relatively large sample of cocaine-dependent individuals (n = 60) with data on healthy volunteers (n = 60); and we investigated the relationships between grey matter volume variation, duration of cocaine use, and measures of impulsivity and compulsivity in the cocaine-dependent group. Cocaine dependence was associated with an extensive system of abnormally decreased grey matter volume in orbitofrontal, cingulate, insular, temporoparietal and cerebellar cortex, and with a more localized increase in grey matter volume in the basal ganglia. Greater duration of cocaine dependence was correlated with greater grey matter volume reduction in orbitofrontal, cingulate and insular cortex. Greater impairment of attentional control was associated with reduced volume in insular cortex and increased volume of caudate nucleus. Greater compulsivity of drug use was associated with reduced volume in orbitofrontal cortex. Cocaine-dependent individuals had abnormal structure of corticostriatal systems, and variability in the extent of anatomical changes in orbitofrontal, insular and striatal structures was related to individual differences in duration of dependence, inattention and compulsivity of cocaine consumption.",Missing,Brain : a journal of neurology,134

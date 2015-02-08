@@ -1,0 +1,18 @@
+21615299,Mortality after fluid bolus in African children with severe infection.,"Africa, Eastern
+Albumins/*administration & dosage
+Child
+Child, Preschool
+Critical Illness/mortality/therapy
+Female
+Fever
+Fluid Therapy/*methods/mortality
+Humans
+Hypotension/therapy
+Infant
+Infection/mortality/*therapy
+Intention to Treat Analysis
+Male
+Resuscitation/methods
+Risk
+Shock/mortality/*therapy
+Sodium Chloride/*administration & dosage",Maitland K and Kiguli S and Opoka RO and Engoru C and Olupot-Olupot P and Akech SO and Nyeko R and Mtove G and Reyburn H and Lang T and Brent B and Evans JA and Tibenderana JK and Crawley J and Russell EC and Levin M and Babiker AG and Gibb DM,"BACKGROUND: The role of fluid resuscitation in the treatment of children with shock and life-threatening infections who live in resource-limited settings is not established. METHODS: We randomly assigned children with severe febrile illness and impaired perfusion to receive boluses of 20 to 40 ml of 5% albumin solution (albumin-bolus group) or 0.9% saline solution (saline-bolus group) per kilogram of body weight or no bolus (control group) at the time of admission to a hospital in Uganda, Kenya, or Tanzania (stratum A); children with severe hypotension were randomly assigned to one of the bolus groups only (stratum B). All children received appropriate antimicrobial treatment, intravenous maintenance fluids, and supportive care, according to guidelines. Children with malnutrition or gastroenteritis were excluded. The primary end point was 48-hour mortality; secondary end points included pulmonary edema, increased intracranial pressure, and mortality or neurologic sequelae at 4 weeks. RESULTS: The data and safety monitoring committee recommended halting recruitment after 3141 of the projected 3600 children in stratum A were enrolled. Malaria status (57% overall) and clinical severity were similar across groups. The 48-hour mortality was 10.6% (111 of 1050 children), 10.5% (110 of 1047 children), and 7.3% (76 of 1044 children) in the albumin-bolus, saline-bolus, and control groups, respectively (relative risk for saline bolus vs. control, 1.44; 95% confidence interval [CI], 1.09 to 1.90; P=0.01; relative risk for albumin bolus vs. saline bolus, 1.01; 95% CI, 0.78 to 1.29; P=0.96; and relative risk for any bolus vs. control, 1.45; 95% CI, 1.13 to 1.86; P=0.003). The 4-week mortality was 12.2%, 12.0%, and 8.7% in the three groups, respectively (P=0.004 for the comparison of bolus with control). Neurologic sequelae occurred in 2.2%, 1.9%, and 2.0% of the children in the respective groups (P=0.92), and pulmonary edema or increased intracranial pressure occurred in 2.6%, 2.2%, and 1.7% (P=0.17), respectively. In stratum B, 69% of the children (9 of 13) in the albumin-bolus group and 56% (9 of 16) in the saline-bolus group died (P=0.45). The results were consistent across centers and across subgroups according to the severity of shock and status with respect to malaria, coma, sepsis, acidosis, and severe anemia. CONCLUSIONS: Fluid boluses significantly increased 48-hour mortality in critically ill children with impaired perfusion in these resource-limited settings in Africa. (Funded by the Medical Research Council, United Kingdom; FEAST Current Controlled Trials number, ISRCTN69856593.).",Missing,The New England journal of medicine,364

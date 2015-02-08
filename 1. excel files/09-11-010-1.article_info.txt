@@ -1,0 +1,11 @@
+22017761,Male breast carcinoma: increased awareness needed.,"Australia/epidemiology
+BRCA2 Protein/genetics
+Breast Neoplasms, Male/*epidemiology/*etiology/*therapy
+Canada/epidemiology
+England/epidemiology
+Health Knowledge, Attitudes, Practice
+Humans
+Life Style
+Male
+Risk Factors
+Scotland/epidemiology",White J and Kearins O and Dodwell D and Horgan K and Hanby AM and Speirs V,"Male breast carcinoma is a rare condition. Few male breast cancer-specific epidemiological or clinical trial data are available - our understanding of male breast cancer thus comes from studies of female breast cancer, painting an inaccurate picture when it comes to determining contributing factors. Clinicians report an increase in diagnoses of male breast cancer but this has not been formally reported. We therefore undertook a review of data obtained from four western nations: England, Scotland, Canada and Australia. When adjusted for age, this review clearly showed an increase in the incidence of male breast cancer over a 15-year period. Reasons for the increased incidence are discussed in the context of suggested risk factors such as BRCA2 and lifestyle changes over the past few decades. The clinical management of male breast carcinoma is considered, in particular the potential role of aromatase inhibitors and fulvestrant and targeting pathways involving prolactin and androgen receptor.",Missing,Breast cancer research : BCR,13

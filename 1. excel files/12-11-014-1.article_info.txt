@@ -1,0 +1,16 @@
+21467016,High-frequency triazole resistance found In nonculturable Aspergillus fumigatus from lungs of patients with chronic fungal disease.,"Antifungal Agents/*pharmacology/therapeutic use
+Aspergillosis, Allergic Bronchopulmonary/drug therapy/epidemiology/microbiology
+Aspergillus fumigatus/*drug effects/genetics/isolation & purification
+Bronchoalveolar Lavage Fluid/microbiology
+Chronic Disease
+Culture Media
+DNA, Fungal/analysis
+*Drug Resistance, Fungal/genetics
+Humans
+Invasive Pulmonary Aspergillosis/drug therapy/epidemiology/microbiology
+Lung/*microbiology
+Mutation
+Polymerase Chain Reaction
+Pulmonary Aspergillosis/drug therapy/*epidemiology/microbiology
+Sputum/microbiology
+Triazoles/*pharmacology/therapeutic use",Denning DW and Park S and Lass-Florl C and Fraczek MG and Kirwan M and Gore R and Smith J and Bueid A and Moore CB and Bowyer P and Perlin DS,"BACKGROUND: Oral triazole therapy is well established for the treatment of invasive (IPA), allergic (ABPA), and chronic pulmonary (CPA) aspergillosis, and is often long-term. Triazole resistance rates are rising internationally. Microbiological diagnosis of aspergillosis is limited by poor culture yield, leading to uncertainty about the frequency of triazole resistance. METHODS: Using an ultrasensitive real-time polymerase chain reaction (PCR) assay for Aspergillus spp., we assessed respiratory fungal load in bronchoalveolar lavage (BAL) and sputum specimens. In a subset of PCR-positive, culture negative samples, we further amplified the CYP51A gene to detect key single-nucleotide polymorphisms (SNPs) associated with triazole resistance. RESULTS: Aspergillus DNA was detected in BAL from normal volunteers (4/11, 36.4%) and patients with culture or microscopy confirmed IPA (21/22, 95%). Aspergillus DNA was detected in sputum in 15 of 19 (78.9%) and 30 of 42 (71.4%) patients with ABPA and CPA, compared with 0% and 16.7% by culture, respectively. In culture-negative, PCR-positive samples, we detected triazole-resistance mutations (L98H with tandem repeat [TR] and M220) within the drug target CYP51A in 55.1% of samples. Six of 8 (75%) of those with ABPA and 12 of 24 (50%) with CPA had resistance markers present, some without prior triazole treatment, and in most despite adequate plasma drug concentrations around the time of sampling. CONCLUSIONS: The very low organism burdens of fungi causing infection have previously prevented direct culture and detection of antifungal resistance in clinical samples. These findings have major implications for the sustainability of triazoles for human antifungal therapy.",Missing,Clinical infectious diseases : an official publication of the Infectious Diseases Society of America,52

@@ -1,0 +1,11 @@
+21371500,Incidence of obesity during childhood and adolescence in a large contemporary cohort.,"Adolescent
+Child
+Child, Preschool
+Cohort Studies
+Female
+Great Britain/epidemiology
+Humans
+Incidence
+Male
+Obesity/*epidemiology/etiology/prevention & control
+Risk Assessment/methods/statistics & numerical data",Hughes AR and Sherriff A and Lawlor DA and Ness AR and Reilly JJ,"BACKGROUND AND AIMS: Timing of obesity development during childhood and adolescence is unclear, hindering preventive strategies. The primary aim of the present study was to quantify the incidence of overweight and obesity throughout childhood and adolescence in a large contemporary cohort of English children (the Avon Longitudinal Study of Parents and Children, ALSPAC; children born 1991-1992). A secondary aim was to examine the persistence of overweight and obesity. METHODS: Longitudinal data on weight and height were collected annually from age 7-15 years in the entire ALSPAC cohort (n=4283), and from 3 to 15 years in a randomly selected subsample of the cohort (n=549; 'Children in Focus' CiF). Incidence of overweight and obesity (BMI (Body mass index) at or above the 85th and 95th centiles relative to U.K. reference data) was calculated. Risk ratios (RR) for overweight and obesity at 15 years based on weight status at 3, 7, and 11 years were also calculated. RESULTS: In the entire cohort, four-year incidence of obesity was higher between ages 7 and 11 years than between 11 and 15 years (5.0% vs. 1.4% respectively). In the CiF sub-sample, four-year incidence of obesity was also highest during mid-childhood (age 7-11years, 6.7%), slightly lower during early childhood (3-7 years, 5.1%) and lowest during adolescence (11-15 years 1.6%). Overweight and obesity at all ages had a strong tendency to persist to age 15 years as indicated by risk ratios (95% CI (Confidence interval)) for overweight and obesity at 15 years from overweight and obesity (relative to healthy weight status) at 3 years (2.4, 1.8-3.1), 7 years (4.6, 3.6-5.8), and 11 years (9.3, 6.5-13.2). CONCLUSION: Mid-late childhood (around age 7-11 years) may merit greater attention in future obesity prevention interventions.",Missing,Preventive medicine,52

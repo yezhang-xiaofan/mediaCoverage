@@ -1,0 +1,25 @@
+22137099,Finding disease variants in Mendelian disorders by using sequence data: methods and applications.,American journal of human genetics,Ionita-Laza I and Makarov V and Yoon S and Raby B and Buxbaum J and Nicolae DL and Lin X,columbia,"Many sequencing studies are now underway to identify the genetic causes for both Mendelian and complex traits. Via exome-sequencing, genes harboring variants implicated in several Mendelian traits have already been identified. The underlying methodology in these studies is a multistep algorithm based on filtering variants identified in a small number of affected individuals and depends on whether they are novel (not yet seen in public resources such as dbSNP), shared among affected individuals, and other external functional information on the variants. Although intuitive, these filter-based methods are nonoptimal and do not provide any measure of statistical uncertainty. We describe here a formal statistical approach that has several distinct advantages: (1) it provides fast computation of approximate p values for individual genes, (2) it adjusts for the background variation in each gene, (3) it allows for incorporation of functional or linkage-based information, and (4) it accommodates designs based on both affected relative pairs and unrelated affected individuals. We show via simulations that the proposed approach can be used in conjunction with the existing filter-based methods to achieve a substantially better ranking of a gene relevant for disease when compared to currently used filter-based approaches, this is especially so in the presence of disease locus heterogeneity. We revisit recent studies on three Mendelian diseases and show that the proposed approach results in the implicated gene being ranked first in all studies, and approximate p values of 10(-6) for the Miller Syndrome gene, 1.0 x 10(-4) for the Freeman-Sheldon Syndrome gene, and 3.5 x 10(-5) for the Kabuki Syndrome gene.","Abnormalities, Multiple/*genetics
+Algorithms
+Case-Control Studies
+Computer Simulation
+Craniofacial Dysostosis/*genetics
+Cytoskeletal Proteins/genetics
+DNA Mutational Analysis/*methods
+DNA-Binding Proteins/genetics
+Exome/genetics
+Face/abnormalities
+Genetic Association Studies
+Hematologic Diseases/*genetics
+Heredity
+Heterozygote
+Humans
+Limb Deformities, Congenital/*genetics
+Mandibulofacial Dysostosis/*genetics
+Micrognathism/*genetics
+*Models, Genetic
+Mutation
+Neoplasm Proteins/genetics
+Oxidoreductases Acting on CH-CH Group Donors/genetics
+Poisson Distribution
+Software
+Vestibular Diseases/*genetics"

@@ -1,0 +1,8 @@
+21784244,SSB functions as a sliding platform that migrates on DNA via reptation.,Cell,Zhou R and Kozlov AG and Roy R and Zhang J and Korolev S and Lohman TM and Ha T,Missing,"SSB proteins bind to and control the accessibility of single-stranded DNA (ssDNA), likely facilitated by their ability to diffuse on ssDNA. Using a hybrid single-molecule method combining fluorescence and force, we probed how proteins with large binding site sizes can migrate rapidly on DNA and how protein-protein interactions and tension may modulate the motion. We observed force-induced progressive unraveling of ssDNA from the SSB surface between 1 and 6 pN, followed by SSB dissociation at approximately 10 pN, and obtained experimental evidence of a reptation mechanism for protein movement along DNA wherein a protein slides via DNA bulge formation and propagation. SSB diffusion persists even when bound with RecO and at forces under which the fully wrapped state is perturbed, suggesting that even in crowded cellular conditions SSB can act as a sliding platform to recruit and carry its interacting proteins for use in DNA replication, recombination and repair.","DNA, Single-Stranded/chemistry/metabolism
+DNA-Binding Proteins/*chemistry/*metabolism
+Escherichia coli/*metabolism
+Escherichia coli Proteins/*chemistry/*metabolism
+Fluorescence Resonance Energy Transfer
+Models, Molecular
+Optical Tweezers
+Protein Binding"

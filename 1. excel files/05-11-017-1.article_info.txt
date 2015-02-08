@@ -1,0 +1,17 @@
+21620708,Modality-independent coding of spatial layout in the human brain.,"Adult
+Aged
+Blindness/physiopathology
+Brain Mapping
+Cerebral Cortex/*physiology
+Cues
+Feedback, Sensory
+Female
+Form Perception/*physiology
+Humans
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Photic Stimulation
+Space Perception/*physiology
+Visual Perception/*physiology
+Visually Impaired Persons/psychology",Wolbers T and Klatzky RL and Loomis JM and Wutte MG and Giudice NA,"In many nonhuman species, neural computations of navigational information such as position and orientation are not tied to a specific sensory modality [1, 2]. Rather, spatial signals are integrated from multiple input sources, likely leading to abstract representations of space. In contrast, the potential for abstract spatial representations in humans is not known, because most neuroscientific experiments on human navigation have focused exclusively on visual cues. Here, we tested the modality independence hypothesis with two functional magnetic resonance imaging (fMRI) experiments that characterized computations in regions implicated in processing spatial layout [3]. According to the hypothesis, such regions should be recruited for spatial computation of 3D geometric configuration, independent of a specific sensory modality. In support of this view, sighted participants showed strong activation of the parahippocampal place area (PPA) and the retrosplenial cortex (RSC) for visual and haptic exploration of information-matched scenes but not objects. Functional connectivity analyses suggested that these effects were not related to visual recoding, which was further supported by a similar preference for haptic scenes found with blind participants. Taken together, these findings establish the PPA/RSC network as critical in modality-independent spatial computations and provide important evidence for a theory of high-level abstract spatial information processing in the human brain.",Missing,Current biology : CB,21

@@ -1,0 +1,25 @@
+17 July 2011 Last updated at 18:00 
+BBC
+Scientists find 'better way' to grow adult stem cells
+ 
+A new plastic surface which overcomes the difficulties associated with growing adult stem cells has been developed, according to scientists.
+Standard surfaces have proved limited for growing large amounts and retaining the stem cells' useful characteristics.
+It is hoped the discovery could lead to the creation of stem cell therapies for re-growing bone and tissue, and also for conditions such as arthritis.
+The study was carried out by Glasgow and Southampton universities.
+The new "nano-patterned" surface was created using a manufacturing process similar to that used to make Blu-ray discs.
+The surface is covered with tiny pits, which the researchers said made it more effective in allowing stem cells to grow and spread into useful cells for therapy.
+Currently, when adult stem cells are harvested from a patient, they are then cultured in a laboratory to increase the quantities of cells and create a batch of sufficient volume to kick-start the process of cellular regeneration. 
+At this point they can be reintroduced back into the patient.
+The process of culturing is made difficult because stem cells grown on standard plastic tissue culture surfaces do not always expand to create new stem cells but instead create other cells which are of no use in therapy. 
+Stem cell expansion can be boosted by immersing the cells in chemical solutions, but the scientists said these methods were limited in their effectiveness.
+Dr Matthew Dalby, from the University of Glasgow, led the research alongside colleague Dr Nikolaj Gadegaard and Prof Richard Oreffo of the University of Southampton.
+'Stem cell factories'
+Mr Dalby said: "This new nano-structured surface can be used to very effectively culture mesencyhmal stem cells, taken from sources such as bone marrow, which can then be put to use in musculoskeletal, orthopaedic and connective tissues.
+"If the same process can be used to culture other types of stem cells too - and this research is under way in our labs - our technology could be the first step on the road to developing large-scale stem cell culture factories, which would allow for the creation of a wide range of therapies for many common diseases such as diabetes, arthritis, Alzheimer's disease and Parkinson's disease."
+ 
+He said the group hoped to make the surface commercially available.
+Prof Oreffo added: "It is important to realise the ability to retain skeletal stem cell phenotype using surface topography offers a step change in current approaches for stem cell biology. 
+"The implications for research and future interventions for patients with arthritis and other musculoskeletal diseases are substantial." 
+The study was funded by the Biotechnology and Biological Sciences Research Council (BBSRC) and the University of Glasgow.
+The paper, Nanoscale surfaces for the long-term maintenance of mesenchymalstem cell phenotype and multipotency, was published in the journal Nature Materials.
+

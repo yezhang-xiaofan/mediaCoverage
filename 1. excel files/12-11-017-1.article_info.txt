@@ -1,0 +1,13 @@
+21712358,Is adult education associated with reduced coronary heart disease risk?,"Adult
+Child
+Cohort Studies
+Coronary Disease/*epidemiology/psychology
+Educational Status
+Female
+Health Behavior
+*Health Knowledge, Attitudes, Practice
+Humans
+Male
+Middle Aged
+Patient Education as Topic/statistics & numerical data
+Risk Factors",Chandola T and Plewis I and Morris JM and Mishra G and Blane D,"BACKGROUND: Although there is consistent evidence that higher levels of education are associated with better health and reduced disease risk, there is little evidence on whether this is true throughout the lifecourse. This study examines whether additional higher educational qualifications acquired later on in adulthood are associated with a reduction in coronary heart disease (CHD) risk over and above qualifications from earlier on in life. METHODS: The National Child Development Study 1958 British birth cohort was analysed, with data at birth, age 7 (1965), age 23 (1981), 42 (2000) and age 44 years (2002). The effect of highest academic and vocational qualifications obtained by the age of 23 years, and after the age of 23 years on 10-year risk of developing CHD was estimated. RESULTS: CHD risk among women who left school without any qualifications but went on to obtain some qualifications was lower (0.1% risk) compared with their peers who left school without any qualifications (0.14% risk). Among men, the effect of additional higher qualifications on CHD risk was also negative but restricted to those who left school without any qualifications. CONCLUSIONS: Men and women who leave school without any qualifications may be able to 'catch up' to some extent with more qualified people in terms of lowered CHD risk, if they obtain qualifications later on in life. However, there are important limitations to these observed associations which limit any causal interpretation of the results.",Missing,International journal of epidemiology,40

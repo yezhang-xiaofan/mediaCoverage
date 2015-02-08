@@ -1,0 +1,15 @@
+21285348,Sequential activation and inactivation of Dishevelled in the Wnt/beta-catenin pathway by casein kinases.,The Journal of biological chemistry,Bernatik O and Ganji RS and Dijksterhuis JP and Konik P and Cervenka I and Polonio T and Krejci P and Schulte G and Bryja V,Missing,"Dishevelled (Dvl) is a key component in the Wnt/beta-catenin signaling pathway. Dvl can multimerize to form dynamic protein aggregates, which are required for the activation of downstream signaling. Upon pathway activation by Wnts, Dvl becomes phosphorylated to yield phosphorylated and shifted (PS) Dvl. Both activation of Dvl in Wnt/beta-catenin signaling and Wnt-induced PS-Dvl formation are dependent on casein kinase 1 (CK1) delta/epsilon activity. However, the overexpression of CK1 was shown to dissolve Dvl aggregates, and endogenous PS-Dvl forms irrespective of whether or not the activating Wnt triggers the Wnt/beta-catenin pathway. Using a combination of gain-of-function, loss-of-function, and domain mapping approaches, we attempted to solve this discrepancy regarding the role of CK1epsilon in Dvl biology. We analyzed mutual interaction of CK1delta/epsilon and two other Dvl kinases, CK2 and PAR1, in the Wnt/beta-catenin pathway. We show that CK2 acts as a constitutive kinase whose activity is required for the further action of CK1epsilon. Furthermore, we demonstrate that the two consequences of CK1epsilon phosphorylation are separated both spatially and functionally; first, CK1epsilon-mediated induction of TCF/LEF-driven transcription (associated with dynamic recruitment of Axin1) is mediated via a PDZ-proline-rich region of Dvl. Second, CK1epsilon-mediated formation of PS-Dvl is mediated by the Dvl3 C terminus. Furthermore, we demonstrate with several methods that PS-Dvl has decreased ability to polymerize with other Dvls and could, thus, act as the inactive signaling intermediate. We propose a multistep and multikinase model for Dvl activation in the Wnt/beta-catenin pathway that uncovers a built-in de-activation mechanism that is triggered by activating phosphorylation of Dvl by CK1delta/epsilon.","Adaptor Proteins, Signal Transducing/genetics/*metabolism
+Animals
+Casein Kinase II/genetics/metabolism
+Casein Kinase Idelta/genetics/metabolism
+Casein Kinase Iepsilon/genetics/metabolism
+HEK293 Cells
+Humans
+Mice
+Peptide Mapping
+Phosphoproteins/genetics/*metabolism
+Phosphorylation/physiology
+Receptor, PAR-1/genetics/metabolism
+Signal Transduction/*physiology
+Wnt Proteins/genetics/*metabolism
+beta Catenin/genetics/*metabolism"

@@ -1,0 +1,16 @@
+21336304,Stat3 controls lysosomal-mediated cell death in vivo.,"Animals
+Cathepsin B/metabolism
+Cathepsin L/metabolism
+Cathepsins/metabolism
+Cell Death
+Cell Membrane Permeability
+Crosses, Genetic
+Female
+*Gene Expression Regulation
+Immunohistochemistry/methods
+Lysosomes/*metabolism
+Mammary Neoplasms, Animal/pathology
+Mice
+Mice, Inbred C57BL
+Neoplasms/*metabolism
+STAT3 Transcription Factor/*metabolism",Kreuzaler PA and Staniszewska AD and Li W and Omidvar N and Kedjouar B and Turkson J and Poli V and Flavell RA and Clarkson RW and Watson CJ,"It is well established that lysosomes play an active role during the execution of cell death. A range of stimuli can lead to lysosomal membrane permeabilization (LMP), thus inducing programmed cell death without involvement of the classical apoptotic programme. However, these lysosomal pathways of cell death have mostly been described in vitro or under pathological conditions. Here we show that the physiological process of post-lactational regression of the mammary gland is accomplished through a non-classical, lysosomal-mediated pathway of cell death. We found that, during involution, lysosomes in the mammary epithelium undergo widespread LMP. Furthermore, although cell death through LMP is independent of executioner caspases 3, 6 and 7, it requires Stat3, which upregulates the expression of lysosomal proteases cathepsin B and L, while downregulating their endogenous inhibitor Spi2A (ref. 8). Our findings report a previously unknown, Stat3-regulated lysosomal-mediated pathway of cell death under physiological circumstances. We anticipate that these findings will be of major importance in the design of treatments for cancers such as breast, colon and liver, where cathepsins and Stat3 are commonly overexpressed and/or hyperactivated respectively.",Missing,Nature cell biology,13

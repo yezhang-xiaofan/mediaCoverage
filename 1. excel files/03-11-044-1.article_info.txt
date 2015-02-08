@@ -1,0 +1,23 @@
+22184634,A novel neuroprotective therapy for Parkinson's disease using a viral noncoding RNA that protects mitochondrial complex I activity.,"Animals
+Cell Death
+Cell Line
+Cytomegalovirus/genetics
+Disease Models, Animal
+Dopaminergic Neurons/metabolism
+Electron Transport Complex I/*metabolism
+Enzyme Activation
+HEK293 Cells
+Humans
+Injections, Intravenous
+Male
+Mitochondria/*metabolism
+Neuroprotective Agents/*administration & dosage/metabolism
+Neurotoxins/metabolism
+Parkinson Disease/metabolism/*therapy
+Peptides/administration & dosage/chemistry/metabolism
+RNA Transport
+RNA, Untranslated/*administration & dosage/metabolism
+RNA, Viral/*administration & dosage/metabolism
+Rats
+Rats, Sprague-Dawley
+Substantia Nigra/metabolism",Kuan WL and Poole E and Fletcher M and Karniely S and Tyers P and Wills M and Barker RA and Sinclair JH,"Parkinson's disease (PD) is a neurodegenerative disorder that results in the loss of nigrostriatal dopamine neurons. The etiology of this cell loss is unknown, but it involves abnormalities in mitochondrial function. In this study, we have demonstrated that the administration of a novel noncoding p137 RNA, derived from the human cytomegaloviral beta2.7 transcript, can prevent and rescue dopaminergic cell death in vitro and in animal models of PD by protecting mitochondrial Complex I activity. Furthermore, as this p137 RNA is fused to a rabies virus glycoprotein peptide that facilitates delivery of RNA across the blood-brain barrier, such protection can be achieved through a peripheral intravenous administration of this agent after the initiation of a dopaminergic lesion. This approach has major implications for the potential treatment of PD, especially given that this novel agent could have the same protective effect on all diseased neurons affected as part of this disease process, not just the dopaminergic nigrostriatal pathway.",Missing,The Journal of experimental medicine,209

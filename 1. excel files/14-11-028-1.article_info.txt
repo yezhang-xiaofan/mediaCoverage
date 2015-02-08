@@ -1,0 +1,22 @@
+22355641,Polymeric human Fc-fusion proteins with modified effector functions.,"Animals
+B-Lymphocytes/immunology/metabolism
+Base Sequence
+Biological Therapy
+Complement System Proteins/metabolism
+DNA Primers/genetics
+Female
+Histocompatibility Antigens Class I/metabolism
+Humans
+Immunization
+Immunoglobulin Fc Fragments/chemistry/genetics/*metabolism/therapeutic use
+Immunoglobulin G/chemistry/genetics/metabolism
+Malaria/immunology/parasitology/therapy
+Mice
+Mice, Inbred BALB C
+Models, Molecular
+Plasmodium berghei
+Protein Binding
+Protein Multimerization
+Receptors, Fc/metabolism
+Receptors, IgG/metabolism
+Recombinant Fusion Proteins/chemistry/genetics/metabolism/therapeutic use",Mekhaiel DN and Czajkowsky DM and Andersen JT and Shi J and El-Faham M and Doenhoff M and McIntosh RS and Sandlie I and He J and Hu J and Shao Z and Pleass RJ,"The success of Fc-fusion bio-therapeutics has spurred the development of other Fc-fusion products for treating and/or vaccinating against a range of diseases. We describe a method to modulate their function by converting them into well-defined stable polymers. This strategy resulted in cylindrical hexameric structures revealed by tapping mode atomic force microscopy (AFM). Polymeric Fc-fusions were significantly less immunogenic than their dimeric or monomeric counterparts, a result partly owing to their reduced ability to interact with critical Fc-receptors. However, in the absence of the fusion partner, polymeric IgG1-Fc molecules were capable of binding selectively to FcgammaRs, with significantly increased affinity owing to their increased valency, suggesting that these reagents may prove of immediate utility in the development of well-defined replacements for intravenous immunoglobulin (IVIG) therapy. Overall, these findings establish an effective IgG Fc-fusion based polymeric platform with which the therapeutic and vaccination applications of Fc-fusion immune-complexes can now be explored.",Missing,Scientific reports,1

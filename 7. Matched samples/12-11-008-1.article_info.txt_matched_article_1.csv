@@ -1,0 +1,11 @@
+21280061,Electromagnetic exposure of scaffold-free three-dimensional cell culture systems.,Bioelectromagnetics,Daus AW and Goldhammer M and Layer PG and Thielemann C,Missing,"In recent years, a number of in vitro studies have reported on the possible athermal effects of electromagnetic exposure on biological tissue. Typically, this kind of study is performed on monolayers of primary cells or cell lines. However, two-dimensional cell layer systems lack physiological relevance since cells in vivo are organized in a three-dimensional (3D) architecture. In monolayer studies, cell-cell and cell-ECM interactions obviously differ from live tissue and scale-ups of experimental results to in vivo systems should be considered carefully. To overcome this problem, we used a scaffold-free 3D cell culture system, suitable for the exploration of electrophysiological effects due to electromagnetic fields (EMF) at 900 MHz. Dissociated cardiac myocytes were reaggregated into cellular spheres by constant rotation, and non-invasive extracellular recordings of these so-called spheroids were performed with microelectrode arrays (MEA). In this study, 3D cell culture systems were exposed to pulsed EMFs in a stripline setup. We found that inhomogeneities in the EMF due to electrodes and conducting lines of the MEA chip had only a minor influence on the field distribution in the spheroid if the exposure parameters were chosen carefully.","Animals
+Cell Culture Techniques
+Cell Proliferation/radiation effects
+Chick Embryo
+*Electromagnetic Fields
+Finite Element Analysis
+Microscopy, Electron, Scanning
+Myocytes, Cardiac/metabolism/*pathology/*radiation effects
+Rotation
+Spheroids, Cellular/metabolism/*ultrastructure
+Temperature"

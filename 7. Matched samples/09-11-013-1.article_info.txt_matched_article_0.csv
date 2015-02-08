@@ -1,0 +1,9 @@
+22006304,Physical limits of cells and proteomes.,Proceedings of the National Academy of Sciences of the United States of America,Dill KA and Ghosh K and Schmit JD,laufercenter,"What are the physical limits to cell behavior? Often, the physical limitations can be dominated by the proteome, the cell's complement of proteins. We combine known protein sizes, stabilities, and rates of folding and diffusion, with the known protein-length distributions P(N) of proteomes (Escherichia coli, yeast, and worm), to formulate distributions and scaling relationships in order to address questions of cell physics. Why do mesophilic cells die around 50 degrees C? How can the maximal growth-rate temperature (around 37 degrees C) occur so close to the cell-death temperature? The model shows that the cell's death temperature coincides with a denaturation catastrophe of its proteome. The reason cells can function so well just a few degrees below their death temperature is because proteome denaturation is so cooperative. Why are cells so dense-packed with protein molecules (about 20% by volume)? Cells are packed at a density that maximizes biochemical reaction rates. At lower densities, proteins collide too rarely. At higher densities, proteins diffuse too slowly through the crowded cell. What limits cell sizes and growth rates? Cell growth is limited by rates of protein synthesis, by the folding rates of its slowest proteins, and--for large cells--by the rates of its protein diffusion. Useful insights into cell physics may be obtainable from scaling laws that encapsulate information from protein knowledge bases.","Cell Death
+Cell Division
+*Cells
+Diffusion
+Kinetics
+Protein Folding
+Protein Transport
+*Proteome
+Temperature"

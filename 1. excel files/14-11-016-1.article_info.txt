@@ -1,0 +1,22 @@
+21245146,"Identification of the synthetic cannabinoid R(+)WIN55,212-2 as a novel regulator of IFN regulatory factor 3 activation and IFN-beta expression: relevance to therapeutic effects in models of multiple sclerosis.","Adult
+Analgesics/*pharmacology
+Animals
+Benzoxazines/*pharmacology
+Cannabinoids/*pharmacology
+Cell Line, Tumor
+Encephalomyelitis, Autoimmune, Experimental/genetics/metabolism
+Female
+Gene Expression Regulation/*drug effects
+HEK293 Cells
+Humans
+Interferon Regulatory Factor-3/*biosynthesis/genetics
+Interferon-beta/*biosynthesis/genetics
+Male
+Mice
+Mice, Knockout
+Middle Aged
+Morpholines/*pharmacology
+Multiple Sclerosis/*drug therapy/genetics/metabolism
+Naphthalenes/*pharmacology
+Toll-Like Receptor 3/genetics/metabolism
+Toll-Like Receptor 4/genetics/metabolism",Downer EJ and Clifford E and Gran B and Nel HJ and Fallon PG and Moynagh PN,"beta-Interferons (IFN-betas) represent one of the first line treatments for relapsing-remitting multiple sclerosis, slowing disease progression while reducing the frequency of relapses. Despite this, more effective, well tolerated therapeutic strategies are needed. Cannabinoids palliate experimental autoimmune encephalomyelitis (EAE) symptoms and have therapeutic potential in MS patients although the precise molecular mechanism for these effects is not understood. Toll-like receptor (TLR) signaling controls innate immune responses and TLRs are implicated in MS. Here we demonstrate that the synthetic cannabinoid R(+)WIN55,212-2 is a novel regulator of TLR3 and TLR4 signaling by inhibiting the pro-inflammatory signaling axis triggered by TLR3 and TLR4, whereas selectively augmenting TLR3-induced activation of IFN regulatory factor 3 (IRF3) and expression of IFN-beta. We present evidence that R(+)WIN55,212-2 strongly promotes the nuclear localization of IRF3. The potentiation of IFN-beta expression by R(+)WIN55,212-2 is critical for manifesting its protective effects in the murine MS model EAE as evidenced by its reduced therapeutic efficacy in the presence of an anti-IFN-beta antibody. R(+)WIN55,212-2 also induces IFN-beta expression in MS patient peripheral blood mononuclear cells, whereas down-regulating inflammatory signaling in these cells. These findings identify R(+)WIN55,212-2 as a novel regulator of TLR3 signaling to IRF3 activation and IFN-beta expression and highlights a new mechanism that may be open to exploitation in the development of new therapeutics for the treatment of MS.",Missing,The Journal of biological chemistry,286

@@ -1,0 +1,12 @@
+22171048,Induction of activity-dependent LTD requires muscarinic receptor activation in medial prefrontal cortex.,"Animals
+Carbachol/pharmacology
+Cholinergic Agonists/pharmacology
+Electric Stimulation
+Excitatory Postsynaptic Potentials/drug effects/physiology
+Long-Term Synaptic Depression/drug effects/*physiology
+Male
+Prefrontal Cortex/drug effects/*physiology
+Pyramidal Cells/drug effects/*physiology
+Rats
+Receptors, Muscarinic/*metabolism
+Synaptic Transmission/drug effects/physiology",Caruana DA and Warburton EC and Bashir ZI,"The medial prefrontal cortex (mPFC) forms part of a neural circuit involved in the formation of lasting associations between objects and places. Cholinergic inputs from the basal forebrain innervate the mPFC and may modulate synaptic processes required for the formation of object-in-place memories. To investigate whether acetylcholine regulates synaptic function in the rat mPFC, whole-cell voltage-clamp recordings were made from pyramidal neurons in layer V. Bath application of the cholinergic agonist carbachol caused a potent and long-term depression (LTD) of synaptic responses that was blocked by the muscarinic receptor antagonist scopolamine and was mimicked, in part, by the M(1) receptor agonists McN-A-343 or AF102B. Furthermore, inhibition of PKC blocked carbachol-mediated LTD. We next determined the requirements for activity-dependent LTD in the prefrontal cortex. Synaptic stimulation that was subthreshold for producing LTD did, however, result in LTD when acetylcholine levels were enhanced by inhibition of acetylcholinesterase or when delivered in the presence of the M(1)-selective positive allosteric modulator BQCA. Increasing the levels of synaptic stimulation resulted in M(1) receptor-dependent LTD without the need for pharmacological manipulation of acetylcholine levels. These results show that synaptic stimulation of muscarinic receptors alone can be critical for plastic changes in excitatory synaptic transmission in the mPFC. In turn, these muscarinic mediated events may be important in the formation of object-in-place memories. A loss of basal forebrain cholinergic neurons is a classic hallmark of Alzheimer's dementia and our results provide a potential explanation for the loss of memory associated with the disease.",Missing,The Journal of neuroscience : the official journal of the Society for Neuroscience,31

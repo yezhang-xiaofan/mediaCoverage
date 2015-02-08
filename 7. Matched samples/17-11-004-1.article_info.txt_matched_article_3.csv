@@ -1,0 +1,13 @@
+21343391,Systematic analysis of microRNAs targeting the androgen receptor in prostate cancer cells.,Cancer research,Ostling P and Leivonen SK and Aakula A and Kohonen P and Makela R and Hagman Z and Edsjo A and Kangaspeska S and Edgren H and Nicorici D and Bjartell A and Ceder Y and Perala M and Kallioniemi O,Missing,"Androgen receptor (AR) is expressed in all stages of prostate cancer progression, including in castration-resistant tumors. Eliminating AR function continues to represent a focus of therapeutic investigation, but AR regulatory mechanisms remain poorly understood. To systematically characterize mechanisms involving microRNAs (miRNAs), we conducted a gain-of function screen of 1129 miRNA molecules in a panel of human prostate cancer cell lines and quantified changes in AR protein content using protein lysate microarrays. In this way, we defined 71 unique miRNAs that influenced the level of AR in human prostate cancer cells. RNA sequencing data revealed that the 3'UTR of AR (and other genes) is much longer than currently used in miRNA target prediction programs. Our own analyses predicted that most of the miRNA regulation of AR would target an extended 6 kb 3'UTR. 3'UTR-binding assays validated 13 miRNAs that are able to regulate this long AR 3'UTR (miR-135b, miR-185, miR-297, miR-299-3p, miR-34a, miR-34c, miR-371-3p, miR-421, miR-449a, miR-449b, miR-634, miR-654-5p, and miR-9). Fifteen AR downregulating miRNAs decreased androgen-induced proliferation of prostate cancer cells. In particular, analysis of clinical prostate cancers confirmed a negative correlation of miR-34a and miR-34c expression with AR levels. Our findings establish that miRNAs interacting with the long 3'UTR of the AR gene are important regulators of AR protein levels, with implications for developing new therapeutic strategies to inhibit AR function and androgen-dependent cell growth.","3' Untranslated Regions
+Blotting, Western
+Cell Line, Tumor
+Gene Expression
+Gene Expression Regulation, Neoplastic/*genetics
+Humans
+Immunohistochemistry
+Male
+MicroRNAs/*genetics
+Prostatic Neoplasms/*genetics
+Protein Array Analysis
+Receptors, Androgen/*genetics
+Reverse Transcriptase Polymerase Chain Reaction"

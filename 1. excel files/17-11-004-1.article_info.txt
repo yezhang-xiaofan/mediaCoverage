@@ -1,0 +1,15 @@
+21233334,Use of macrophages to target therapeutic adenovirus to human prostate tumors.,"Adenoviridae/*genetics
+Adenovirus E1A Proteins/genetics
+Animals
+Cell Hypoxia/physiology
+Electrophoresis, Polyacrylamide Gel
+Humans
+Macrophages/*virology
+Male
+Mice
+Mice, Nude
+Oncolytic Virotherapy/*methods
+Oncolytic Viruses/*genetics
+Prostatic Neoplasms/*therapy
+Transduction, Genetic
+Xenograft Model Antitumor Assays",Muthana M and Giannoudis A and Scott SD and Fang HY and Coffelt SB and Morrow FJ and Murdoch C and Burton J and Cross N and Burke B and Mistry R and Hamdy F and Brown NJ and Georgopoulos L and Hoskin P and Essand M and Lewis CE and Maitland NJ,"New therapies are required to target hypoxic areas of tumors as these sites are highly resistant to conventional cancer therapies. Monocytes continuously extravasate from the bloodstream into tumors where they differentiate into macrophages and accumulate in hypoxic areas, thereby opening up the possibility of using these cells as vehicles to deliver gene therapy to these otherwise inaccessible sites. We describe a new cell-based method that selectively targets an oncolytic adenovirus to hypoxic areas of prostate tumors. In this approach, macrophages were cotransduced with a hypoxia-regulated E1A/B construct and an E1A-dependent oncolytic adenovirus, whose proliferation is restricted to prostate tumor cells using prostate-specific promoter elements from the TARP, PSA, and PMSA genes. When such cotransduced cells reach an area of extreme hypoxia, the E1A/B proteins are expressed, thereby activating replication of the adenovirus. The virus is subsequently released by the host macrophage and infects neighboring tumor cells. Following systemic injection into mice bearing subcutaneous or orthotopic prostate tumors, cotransduced macrophages migrated into hypoxic tumor areas, upregulated E1A protein, and released multiple copies of adenovirus. The virus then infected neighboring cells but only proliferated and was cytotoxic in prostate tumor cells, resulting in the marked inhibition of tumor growth and reduction of pulmonary metastases. This novel delivery system employs 3 levels of tumor specificity: the natural ""homing"" of macrophages to hypoxic tumor areas, hypoxia-induced proliferation of the therapeutic adenovirus in host macrophages, and targeted replication of oncolytic virus in prostate tumor cells.",Missing,Cancer research,71

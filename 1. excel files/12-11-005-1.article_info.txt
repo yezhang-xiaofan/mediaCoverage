@@ -1,0 +1,15 @@
+21325004,Trends in mortality from 1965 to 2008 across the English north-south divide: comparative observational study.,"Adolescent
+Adult
+Age Distribution
+Aged
+Cause of Death/*trends
+Child
+England/epidemiology
+Female
+Humans
+Life Expectancy
+Male
+Residence Characteristics
+Sex Distribution
+Socioeconomic Factors
+Young Adult",Hacking JM and Muller S and Buchan IE,"OBJECTIVE: To compare all cause mortality between the north and south of England over four decades. DESIGN: Population wide comparative observational study of mortality. SETTING: Five northernmost and four southernmost English government office regions. POPULATION: All residents in each year from 1965 to 2008. MAIN OUTCOME MEASURES: Death rate ratios of north over south England by age band and sex, and northern excess mortality (percentage of excess deaths in north compared with south, adjusted for age and sex and examined for annual trends, using Poisson regression). RESULTS: During 1965 to 2008 the northern excess mortality remained substantial, at an average of 13.8% (95% confidence interval 13.7% to 13.9%). This geographical inequality was significantly larger for males than for females (14.9%, 14.7% to 15.0% v 12.7%, 12.6% to 12.9%, P<0.001). The inequality decreased significantly but temporarily for both sexes from the early 80s to the late 90s, followed by a steep significant increase from 2000 to 2008. Inequality varied with age, being higher for ages 0-9 years and 40-74 years and lower for ages 10-39 years and over 75 years. Time trends also varied with age. The strongest trend over time by age group was the increase among the 20-34 age group, from no significant northern excess mortality in 1965-95 to 22.2% (18.7% to 26.0%) in 1996-2008. Overall, the north experienced a fifth more premature (<75 years) deaths than the south, which was significant: a pattern that changed only by a slight increase between 1965 and 2008. CONCLUSION: Inequalities in all cause mortality in the north-south divide were severe and persistent over the four decades from 1965 to 2008. Males were affected more than females, and the variation across age groups was substantial. The increase in this inequality from 2000 to 2008 was notable and occurred despite the public policy emphasis in England over this period on reducing inequalities in health.",manchester,BMJ (Clinical research ed.),342

@@ -1,0 +1,17 @@
+22059690,Individualized prediction of illness course at the first psychotic episode: a support vector machine MRI study.,"Adult
+Brain/physiopathology
+Brain Mapping/methods
+Cohort Studies
+Disease Progression
+Female
+Follow-Up Studies
+Humans
+Image Processing, Computer-Assisted/methods
+*Individuality
+Magnetic Resonance Imaging/*methods
+Male
+Observer Variation
+Predictive Value of Tests
+Psychotic Disorders/*diagnosis/*physiopathology
+Reproducibility of Results
+*Support Vector Machines",Mourao-Miranda J and Reinders AA and Rocha-Rego V and Lappin J and Rondina J and Morgan C and Morgan KD and Fearon P and Jones PB and Doody GA and Murray RM and Kapur S and Dazzan P,"BACKGROUND: To date, magnetic resonance imaging (MRI) has made little impact on the diagnosis and monitoring of psychoses in individual patients. In this study, we used a support vector machine (SVM) whole-brain classification approach to predict future illness course at the individual level from MRI data obtained at the first psychotic episode. METHOD: One hundred patients at their first psychotic episode and 91 healthy controls had an MRI scan. Patients were re-evaluated 6.2 years (s.d.=2.3) later, and were classified as having a continuous, episodic or intermediate illness course. Twenty-eight subjects with a continuous course were compared with 28 patients with an episodic course and with 28 healthy controls. We trained each SVM classifier independently for the following contrasts: continuous versus episodic, continuous versus healthy controls, and episodic versus healthy controls. RESULTS: At baseline, patients with a continuous course were already distinguishable, with significance above chance level, from both patients with an episodic course (p=0.004, sensitivity=71, specificity=68) and healthy individuals (p=0.01, sensitivity=71, specificity=61). Patients with an episodic course could not be distinguished from healthy individuals. When patients with an intermediate outcome were classified according to the discriminating pattern episodic versus continuous, 74% of those who did not develop other episodes were classified as episodic, and 65% of those who did develop further episodes were classified as continuous (p=0.035). CONCLUSIONS: We provide preliminary evidence of MRI application in the individualized prediction of future illness course, using a simple and automated SVM pipeline. When replicated and validated in larger groups, this could enable targeted clinical decisions based on imaging data.",Missing,Psychological medicine,42

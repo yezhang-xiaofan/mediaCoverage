@@ -1,0 +1,15 @@
+22082706,"Cognitive behavior therapy, exercise, or both for treating chronic widespread pain.","Adult
+Aged
+Aged, 80 and over
+Chronic Pain/*therapy
+*Cognitive Therapy
+Combined Modality Therapy
+Cost-Benefit Analysis
+*Exercise
+Female
+Fibromyalgia/*therapy
+Humans
+Male
+Middle Aged
+*Primary Health Care
+Treatment Outcome",McBeth J and Prescott G and Scotland G and Lovell K and Keeley P and Hannaford P and McNamee P and Symmons DP and Woby S and Gkazinou C and Beasley M and Macfarlane GJ,"BACKGROUND: The clinical impact of telephone-delivered cognitive behavioral therapy (TCBT), exercise, or a combined intervention in primary care patients with chronic widespread pain (CWP) is unclear. METHODS: A total of 442 patients with CWP (meeting the American College of Rheumatology criteria) were randomized to receive 6 months of TCBT, graded exercise, combined intervention, or treatment as usual (TAU). The primary outcome, using a 7-point patient global assessment scale of change in health since trial enrollment (range: very much worse to very much better), was assessed at baseline and 6 months (intervention end) and 9 months after randomization. A positive outcome was defined as ""much better"" or ""very much better."" Data were analyzed using logistic regression according to the intention-to-treat principle. RESULTS: The percentages reporting a positive outcome at 6 and 9 months, respectively, were TAU group, 8% and 8%; TCBT group, 30% and 33%; exercise group, 35% and 24%; and combined intervention group, 37% and 37% (P < .001). After adjustment for age, sex, center, and baseline predictors of outcome, active interventions improved outcome compared with TAU: TCBT (6 months: odds ratio [OR], 5.0 [95% CI, 2.0-12.5]; 9 months: OR, 5.4 [95% CI, 2.3-12.8]), exercise (6 months: OR, 6.1 [95% CI, 2.5-15.1]; 9 months: OR, 3.6 [95% CI, 1.5-8.5]), and combined intervention (6 months: OR, 7.1 [95% CI, 2.9-17.2]; 9 months: OR, 6.2 [95% CI, 2.7-14.4]). At 6 and 9 months, combined intervention was associated with improvements in the 36-Item Short Form Health Questionnaire physical component score and a reduction in passive coping strategies. Conclusions on cost-effectiveness were sensitive to missing data. CONCLUSION: TCBT was associated with substantial, statistically significant, and sustained improvements in patient global assessment. TRIAL REGISTRATION: clinicaltrials.gov Identifier: ISRCTN67013851.",Missing,Archives of internal medicine,172

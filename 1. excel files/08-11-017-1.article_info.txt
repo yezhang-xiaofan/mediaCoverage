@@ -1,0 +1,12 @@
+21572415,Identification of an imprinted master trans regulator at the KLF14 locus related to multiple metabolic phenotypes.,"Adipose Tissue/*metabolism
+Cholesterol, HDL/*genetics
+Diabetes Mellitus, Type 2/*genetics
+Female
+*Gene Expression Regulation
+Genome-Wide Association Study
+*Genomic Imprinting
+Humans
+Phenotype
+Polymorphism, Single Nucleotide
+Quantitative Trait Loci
+Sp Transcription Factors/*genetics",Small KS and Hedman AK and Grundberg E and Nica AC and Thorleifsson G and Kong A and Thorsteindottir U and Shin SY and Richards HB and Soranzo N and Ahmadi KR and Lindgren CM and Stefansson K and Dermitzakis ET and Deloukas P and Spector TD and McCarthy MI,"Genome-wide association studies have identified many genetic variants associated with complex traits. However, at only a minority of loci have the molecular mechanisms mediating these associations been characterized. In parallel, whereas cis regulatory patterns of gene expression have been extensively explored, the identification of trans regulatory effects in humans has attracted less attention. Here we show that the type 2 diabetes and high-density lipoprotein cholesterol-associated cis-acting expression quantitative trait locus (eQTL) of the maternally expressed transcription factor KLF14 acts as a master trans regulator of adipose gene expression. Expression levels of genes regulated by this trans-eQTL are highly correlated with concurrently measured metabolic traits, and a subset of the trans-regulated genes harbor variants directly associated with metabolic phenotypes. This trans-eQTL network provides a mechanistic understanding of the effect of the KLF14 locus on metabolic disease risk and offers a potential model for other complex traits.",Missing,Nature genetics,43

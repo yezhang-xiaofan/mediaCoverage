@@ -1,0 +1,19 @@
+21441928,Systematic exploration of essential yeast gene function with temperature-sensitive mutants.,Nature biotechnology,Li Z and Vizeacoumar FJ and Bahr S and Li J and Warringer J and Vizeacoumar FS and Min R and Vandersluis B and Bellay J and Devit M and Fleming JA and Stephens A and Haase J and Lin ZY and Baryshnikova A and Lu H and Yan Z and Jin K and Barker S and Datti A and Giaever G and Nislow C and Bulawa C and Myers CL and Costanzo M and Gingras AC and Zhang Z and Blomberg A and Bloom K and Andrews B and Boone C,Missing,"Conditional temperature-sensitive (ts) mutations are valuable reagents for studying essential genes in the yeast Saccharomyces cerevisiae. We constructed 787 ts strains, covering 497 ( approximately 45%) of the 1,101 essential yeast genes, with approximately 30% of the genes represented by multiple alleles. All of the alleles are integrated into their native genomic locus in the S288C common reference strain and are linked to a kanMX selectable marker, allowing further genetic manipulation by synthetic genetic array (SGA)-based, high-throughput methods. We show two such manipulations: barcoding of 440 strains, which enables chemical-genetic suppression analysis, and the construction of arrays of strains carrying different fluorescent markers of subcellular structure, which enables quantitative analysis of phenotypes using high-content screening. Quantitative analysis of a GFP-tubulin marker identified roles for cohesin and condensin genes in spindle disassembly. This mutant collection should facilitate a wide range of systematic studies aimed at understanding the functions of essential genes.","Alleles
+Databases, Genetic
+*Genes, Essential
+Genes, Fungal
+Genes, Lethal
+Genetic Engineering/methods
+Genetic Loci
+*Genome, Fungal
+Mass Spectrometry/methods
+Microarray Analysis/methods
+Microscopy, Confocal
+Mutation
+Phenotype
+Plasmids
+RNA, Messenger
+Saccharomyces cerevisiae/*genetics/growth & development
+Single-Cell Analysis
+*Temperature
+Tubulin/analysis"

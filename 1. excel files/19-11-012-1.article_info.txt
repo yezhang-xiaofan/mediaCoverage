@@ -1,0 +1,19 @@
+21969391,The intergenerational transmission of thinness.,"Adolescent
+Adult
+Age Factors
+Body Mass Index
+Body Weight
+Child
+Child, Preschool
+Cross-Sectional Studies
+England/epidemiology
+Female
+Growth Charts
+Health Surveys
+Humans
+Logistic Models
+Male
+*Parents
+Risk Factors
+Socioeconomic Factors
+Thinness/epidemiology/*genetics",Whitaker KL and Jarvis MJ and Boniface D and Wardle J,"OBJECTIVES: To examine intergenerational associations for thinness and to compare maternal and paternal effects. DESIGN: Population-based, cross-sectional design using data from the Health Survey for England from January 1, 2001, through December 31, 2006. SETTING: The Health Survey for England, an annual, national survey representative of the population living in private households in England. PARTICIPANTS: Families with children and adolescents aged 2 to 15 years with anthropometric data available for children and adolescents and 2 parents (N = 4423 families, N = 7078 children and adolescents). MAIN EXPOSURE: Trained interviewers collected height and weight measurements. MAIN OUTCOME MEASURE: Child/adolescent thinness, categorized using International Obesity Task Force criteria. RESULTS: Of 7078 children and adolescents, 402 (5.7%) were categorized as being thin. Thinness was more common in 2- to 5-year-olds (odds ratio, 1.61; 95% confidence interval, 1.22-2.13) than in 11- to 15-year-olds and in children and adolescents from ethnic minority (black: 2.28; 1.22-4.26; and Asian: 3.65; 2.76-4.83) than white backgrounds, but no differences were observed by sex or socioeconomic status. The strongest predictor of child/adolescent thinness was parental weight status. The prevalence of thinness was highest (16.2%) when both parents were thinner and progressively lower when both parents were in the upper half of the healthy-weight range (7.8%) or were overweight (5.3%) or obese (2.5%), with no differences in the magnitude of maternal and paternal influences. CONCLUSIONS: These results are consistent with the idea that many cases of thinness are likely to represent the low end of the healthy distribution of weight and, as such, are likely to have a primarily genetic origin.",Missing,Archives of pediatrics & adolescent medicine,165

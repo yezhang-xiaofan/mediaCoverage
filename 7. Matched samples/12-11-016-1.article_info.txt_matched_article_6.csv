@@ -1,0 +1,11 @@
+21454635,"Processing the interspecies quorum-sensing signal autoinducer-2 (AI-2): characterization of phospho-(S)-4,5-dihydroxy-2,3-pentanedione isomerization by LsrG protein.",The Journal of biological chemistry,Marques JC and Lamosa P and Russell C and Ventura R and Maycock C and Semmelhack MF and Miller ST and Xavier KB,Missing,"The molecule (S)-4,5-dihydroxy-2,3-pentanedione (DPD) is produced by many different species of bacteria and is the precursor of the signal molecule autoinducer-2 (AI-2). AI-2 mediates interspecies communication and facilitates regulation of bacterial behaviors such as biofilm formation and virulence. A variety of bacterial species have the ability to sequester and process the AI-2 present in their environment, thereby interfering with the cell-cell communication of other bacteria. This process involves the AI-2-regulated lsr operon, comprised of the Lsr transport system that facilitates uptake of the signal, a kinase that phosphorylates the signal to phospho-DPD (P-DPD), and enzymes (like LsrG) that are responsible for processing the phosphorylated signal. Because P-DPD is the intracellular inducer of the lsr operon, enzymes involved in P-DPD processing impact the levels of Lsr expression. Here we show that LsrG catalyzes isomerization of P-DPD into 3,4,4-trihydroxy-2-pentanone-5-phosphate. We present the crystal structure of LsrG, identify potential catalytic residues, and determine which of these residues affects P-DPD processing in vivo and in vitro. We also show that an lsrG deletion mutant accumulates at least 10 times more P-DPD than wild type cells. Consistent with this result, we find that the lsrG mutant has increased expression of the lsr operon and an altered profile of AI-2 accumulation and removal. Understanding of the biochemical mechanisms employed by bacteria to quench signaling of other species can be of great utility in the development of therapies to control bacterial behavior.","Crystallography, X-Ray
+Escherichia coli/*enzymology/genetics
+*Escherichia coli Proteins/chemistry/genetics/metabolism
+Gene Deletion
+Homoserine/*analogs & derivatives/chemistry/metabolism
+*Lactones/chemistry/metabolism
+*Mixed Function Oxygenases/chemistry/genetics/metabolism
+Operon/physiology
+*Pentanones/chemistry/metabolism
+Protein Structure, Tertiary
+Quorum Sensing/*physiology"

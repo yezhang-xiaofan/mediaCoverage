@@ -1,0 +1,17 @@
+21135115,Hedgehog signaling drives cellular survival in human colon carcinoma cells.,Cancer research,Mazumdar T and DeVecchio J and Shi T and Jones J and Agyeman A and Houghton JA,Missing,"Aberrant activation of Hedgehog (HH) signaling is implicated in many human cancers. Classical HH signaling is characterized by Smoothened (Smo)-dependent activation of Gli1 and Gli2, which transcriptionally regulate target genes. A small molecule inhibitor of Gli1 and Gli2, GANT61, was used to block HH signaling in human colon carcinoma cell lines that express HH signaling components. GANT61 administration induced robust cytotoxicity in 5 of 6 cell lines and moderate cytotoxicity in the remaining 1 cell line. In comparison, the classical Smo inhibitor, cyclopamine, induced modest cytotoxicity. Further, GANT61 treatment abolished the clonogenicity of all six human colon carcinoma cell lines. Analysis of the molecular mechanisms of GANT61-induced cytotoxicity in HT29 cells showed increased Fas expression and decreased expression of PDGFRalpha, which also regulates Fas. Furthermore, DR5 expression was increased whereas Bcl-2 (direct target of Gli2) was downregulated following GANT61 treatment. Suppression of Gli1 by shRNA mimicked the changes in gene expression observed in GANT61-treated cells. Overexpression of dominant-negative FADD (to abrogate Fas/DR5-mediated death receptor signaling) and/or Bcl-2 (to block mitochondria-mediated apoptosis) partially rescued GANT61-induced cytotoxicity in HT29 cells. Thus, activated GLI genes repress DR5 and Fas expressions while upregulating Bcl-2 and PDGFRalpha expressions to inhibit Fas and facilitate cell survival. Collectively, these results highlight the importance of Gli activation downstream of Smo as a therapeutic target in models of human colon carcinoma.","Cell Line, Tumor
+Cell Survival/drug effects/physiology
+Colonic Neoplasms/*metabolism/*pathology
+Fas-Associated Death Domain Protein/biosynthesis
+HCT116 Cells
+HT29 Cells
+Hedgehog Proteins/*antagonists & inhibitors/*metabolism
+Humans
+Kruppel-Like Transcription Factors/biosynthesis/genetics
+Nuclear Proteins/biosynthesis/genetics
+Proto-Oncogene Proteins c-bcl-2/biosynthesis
+Pyridines/pharmacology
+Pyrimidines/pharmacology
+Receptors, G-Protein-Coupled/antagonists & inhibitors/biosynthesis
+Signal Transduction/drug effects
+Transcription Factors/biosynthesis/genetics
+Veratrum Alkaloids/pharmacology"

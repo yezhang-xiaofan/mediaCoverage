@@ -1,0 +1,10 @@
+21220396,Metronidazole population pharmacokinetics in preterm neonates using dried blood-spot sampling.,"Blood Specimen Collection/*methods/standards
+Enterocolitis, Necrotizing/blood/drug therapy
+Female
+Humans
+Infant, Newborn
+Infant, Premature
+Male
+Metronidazole/*blood/*pharmacokinetics/therapeutic use
+*Models, Biological
+Prospective Studies",Suyagh M and Collier PS and Millership JS and Iheagwaram G and Millar M and Halliday HL and McElnay JC,"OBJECTIVES: To characterize the population pharmacokinetics of metronidazole in preterm neonates. PATIENTS AND METHODS: Data were collected prospectively from 32 preterm neonates who received intravenous metronidazole for the treatment of or prophylaxis against necrotizing enterocolitis. Dried blood spots (n = 203) on filter paper were analyzed by high-performance liquid chromatography, and the data were subjected to pharmacokinetic analysis performed by using nonlinear mixed-effect modeling. RESULTS: A 1-compartment model best described the data. Significant covariates were weight (WT) and postmenstrual age (PMA). The final population models for metronidazole clearance (CL) and volume of distribution (V) were: CL = 0.0247 x (WT/1.00)(0.75) x (1 + 0.107 x [PMA - 30]) and V = 0.726 x WT, where CL is in liters per hour, WT is in kilograms, PMA is in weeks, and V is in liters. This model predicts that the half-life of metronidazole decreases rapidly from approximately 40 hours at 25 weeks' PMA to 19 hours at 32 weeks' PMA, after which it starts to plateau. This decrease in half-life is the result of a 5-fold increase in CL compared with only a 2.5-fold increase in V during the same period. CONCLUSIONS: Currently, there are no specific dose recommendations for metronidazole in preterm neonates. However, a dosing scheme for preterm neonates that takes into consideration both the weight and PMA has been suggested and should avoid administration of doses that are excessive or more frequent than necessary.",Missing,Pediatrics,127

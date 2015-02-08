@@ -1,0 +1,32 @@
+21 November 2011 Last updated at 14:19 
+BBC
+Chicken virus study sheds light on human cancers
+A study into a virus commonly found in chickens could shed new light on how human cancers develop.
+The study into Marek's disease could also benefit the poultry industry, making it possible to breed birds with greater resistance to the disease.
+Edinburgh University scientists analysed thousands of genes to pinpoint those with a role in Marek's disease.
+It is a viral infection that costs the global poultry industry more than £1.4bn a year.
+The scientists at The Roslin Institute at Edinburgh University and the Institute for Animal Health identified a gene called IRG1 that makes chickens more susceptible to the disease.
+The gene is thought to cause the death of cells, which can in turn lead to diseases including cancer.
+Researchers also found how the Marek's disease virus may also encourage tumour growth.
+Chickens and mammals, including humans, have anti-tumour mechanisms, one of which is controlled by a gene called HIC1. 
+HIC1 switches on lots of other genes which have anti-tumour effects. 
+The Marek's disease virus switches off the genes controlled by HIC1, meaning it turns off key genes that would normally work to block tumours. 
+These genes are also linked to fighting tumours in humans and the study could help research into preventing some types of cancers in people, which like Marek's disease, are caused by viruses.
+Such viruses include the human papilloma virus, which can lead to cervical cancer, and Kaposi's sarcoma, which affects patients with HIV.
+Professor Pete Kaiser, of The Roslin Institute who led the research, said: "Marek's disease is highly contagious and chickens are becoming increasingly resistant to vaccination. 
+"Identifying a gene that increases the risk of Marek's disease could help us breed chickens that are less susceptible to infection. 
+"Also, learning about how chickens affected by Marek's disease fail to combat the onset of tumours will help us learn more about how certain viruses can trigger cancer in humans."
+The research, funded by the Biotechnology and Biological Sciences Research Council, is published in the Journal of Virology.
+
+ Metro (UK)
+ November 22, 2011 Tuesday  Edition 1;  Scotland
+ Chicken virus may aid cancer research  BYLINE: JEN LAVERY  SECTION: NEWS; Pg. 31  LENGTH: 188 words
+A VIRUS commonly found in chickens could shed new light on how human cancers develop, say scientists.
+Researchers analysed thousands of genes to pinpoint those that play a role in Marek's disease - a viral infection that costs the global poultry industry more than £1.4billion a year.
+The scientists at the Roslin Institute at Edinburgh University and the Institute for Animal Health identified a gene called IRG1 that makes chickens more susceptible to the disease.
+The gene is thought to cause the death of cells, which can in turn lead to diseases including cancer.
+Researchers also found how the virus can also encourage tumour growth.
+Chickens and mammals, including humans, have anti-tumour mechanisms, one of which is controlled by a gene called HIC1, which switches on other genes that have anti-tumour effects.
+However, Marek's disease switches off the genes controlled by HIC1, leading to tumour growth.
+Prof Pete Kaiser, of the Roslin Institute, said: 'Learning about how chickens affected by Marek's disease fail to combat the onset of tumours will help us learn more about how certain viruses can trigger cancer in humans.'
+

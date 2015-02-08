@@ -1,0 +1,14 @@
+21801549,Barriers engaging families and GPs in childhood weight management strategies.,"Adolescent
+Body Mass Index
+Body Weight/*physiology
+Child
+Child, Preschool
+England
+Female
+*General Practice
+Humans
+Male
+Obesity/*prevention & control
+Pilot Projects
+Professional-Family Relations
+Referral and Consultation/statistics & numerical data",Banks J and Shield JP and Sharp D,"BACKGROUND: The rapid increase in the prevalence of childhood obesity in recent years has led to inconclusive debate about the most effective way to manage the condition and the most appropriate care setting. Primary care has been suggested as a key site to identify and treat obesity in children. AIM: To identify children from general practice databases with a body mass index (BMI) categorised as 'obese', and invite them for a primary care consultation and possible referral to a specialist secondary care clinic. DESIGN AND SETTING: Targeted screening of GP practice databases for obese children in 12 general practices in Bristol, UK. METHOD: Participating GP practices searched databases for children's BMIs which were then screened by the study team to identify obese children (>/=98th centile). Practices invited families of obese children to consult their GP with the potential for referral to a specialist clinic. Follow-up data was recorded with respect to: consultations; consultations about child's weight; and referrals to specialist clinic; and other referrals. RESULTS: A total of 285 letters inviting families to consult their GP were sent; 134 patients consulted their GP in the follow-up period (minimum 3 months), and 42 of these consultations discussed the child's weight. Nineteen patients received a secondary care referral and six received an alternative weight-management referral. CONCLUSION: The low take-up following the mail-out of an invitation to consult highlights the inherent difficulties of engaging families and their obese children in care pathways that facilitate long-term weight management.",Missing,The British journal of general practice : the journal of the Royal College of General Practitioners,61

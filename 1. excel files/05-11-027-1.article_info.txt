@@ -1,0 +1,14 @@
+21966271,Host phylogeny determines viral persistence and replication in novel hosts.,"Animals
+Bayes Theorem
+Disease Susceptibility/physiopathology
+Drosophilidae/genetics/virology
+Evolution, Molecular
+Genetic Predisposition to Disease
+Host-Pathogen Interactions/genetics/*physiology
+Humans
+Insect Viruses/growth & development
+*Phylogeny
+RNA Viruses/*growth & development
+Rhabdoviridae/genetics/*growth & development
+Species Specificity
+Virus Replication/physiology",Longdon B and Hadfield JD and Webster CL and Obbard DJ and Jiggins FM,"Pathogens switching to new hosts can result in the emergence of new infectious diseases, and determining which species are likely to be sources of such host shifts is essential to understanding disease threats to both humans and wildlife. However, the factors that determine whether a pathogen can infect a novel host are poorly understood. We have examined the ability of three host-specific RNA-viruses (Drosophila sigma viruses from the family Rhabdoviridae) to persist and replicate in 51 different species of Drosophilidae. Using a novel analytical approach we found that the host phylogeny could explain most of the variation in viral replication and persistence between different host species. This effect is partly driven by viruses reaching a higher titre in those novel hosts most closely related to the original host. However, there is also a strong effect of host phylogeny that is independent of the distance from the original host, with viral titres being similar in groups of related hosts. Most of this effect could be explained by variation in general susceptibility to all three sigma viruses, as there is a strong phylogenetic correlation in the titres of the three viruses. These results suggest that the source of new emerging diseases may often be predictable from the host phylogeny, but that the effect may be more complex than simply causing most host shifts to occur between closely related hosts.",Missing,PLoS pathogens,7

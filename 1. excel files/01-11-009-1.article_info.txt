@@ -1,0 +1,12 @@
+21571914,A comparison of clinical officers with medical doctors on outcomes of caesarean section in the developing world: meta-analysis of controlled studies.,"Cesarean Section/*standards
+Clinical Competence/*standards
+Controlled Clinical Trials as Topic
+*Developing Countries
+Female
+Humans
+Maternal Mortality
+Obstetrics/*standards
+Perinatal Mortality
+Physician Assistants/education/*standards
+Pregnancy
+Surgical Wound Infection",Wilson A and Lissauer D and Thangaratinam S and Khan KS and MacArthur C and Coomarasamy A,"OBJECTIVE: To review the effectiveness and safety of clinical officers (healthcare providers trained to perform tasks usually undertaken by doctors) carrying out caesarean section in developing countries compared with doctors. DESIGN: Systematic review with meta-analysis. DATA SOURCES: Medline, Embase, Cochrane Central Register of Controlled Trials, CINAHL, BioMed Central, the Reproductive Health Library, and the Science Citation Index (inception-2010) without language restriction. STUDY SELECTION: Controlled studies. DATA EXTRACTION: Information was extracted from each selected article on study characteristics, quality, and outcome data. Two independent reviewers extracted data. RESULTS: Six non-randomised controlled studies (16,018 women) evaluated the effectiveness of clinical officers carrying out caesarean section. Meta-analysis found no significant differences between the clinical officers and doctors for maternal death (odds ratio 1.46, 95% confidence interval 0.78 to 2.75; P=0.24) or for perinatal death (1.31, 0.87 to 1.95; P=0.19). The results were heterogeneous, with some studies reporting a higher incidence of both outcomes with clinical officers. Clinical officers were associated with a higher incidence of wound infection (1.58, 1.01 to 2.47; P=0.05) and wound dehiscence (1.89, 1.21 to 2.95; P=0.005). Two studies accounted for confounding factors. CONCLUSION: Clinical officers and doctors did not differ significantly in key outcomes for caesarean section, but the conclusions are tentative owing to the non-randomised nature of the studies. The increase in wound infection and dehiscence may highlight a particular training need for clinical officers.",Missing,BMJ (Clinical research ed.),342

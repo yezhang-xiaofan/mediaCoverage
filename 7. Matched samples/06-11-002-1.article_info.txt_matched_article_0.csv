@@ -1,0 +1,9 @@
+21295482,Control of local Rho GTPase crosstalk by Abr.,Current biology : CB,Vaughan EM and Miller AL and Yu HY and Bement WM,wisc,"BACKGROUND: The Rho GTPases-Rho, Rac, and Cdc42-regulate the dynamics of F-actin (filamentous actin) and myosin-2 with considerable subcellular precision. Consistent with this ability, active Rho and Cdc42 occupy mutually exclusive zones during single-cell wound repair and asymmetric cytokinesis, suggesting the existence of mechanisms for local crosstalk, but how local Rho GTPase crosstalk is controlled is unknown. RESULTS: Using a candidate screen approach for Rho GTPase activators (guanine nucleotide exchange factors; GEFs) and Rho GTPase inactivators (GTPase-activating proteins; GAPs), we find that Abr, a protein with both GEF and GAP activity, regulates Rho and Cdc42 during single-cell wound repair. Abr is targeted to the Rho activity zone via active Rho. Within the Rho zone, Abr promotes local Rho activation via its GEF domain and controls local crosstalk via its GAP domain, which limits Cdc42 activity within the Rho zone. Depletion of Abr attenuates Rho activity and wound repair. CONCLUSIONS: Abr is the first identified Rho GTPase regulator of single-cell wound healing. Its novel mode of targeting by interaction with active Rho allows Abr to rapidly amplify local increases in Rho activity using its GEF domain while its ability to inactivate Cdc42 using its GAP domain results in sharp segregation of the Rho and Cdc42 zones. Similar mechanisms of local Rho GTPase activation and segregation enforcement may be employed in other processes that exhibit local Rho GTPase crosstalk.","Animals
+Cell Membrane
+GTPase-Activating Proteins/*metabolism
+Gene Expression Regulation/*physiology
+Oocytes
+RNA, Messenger/genetics/metabolism
+Xenopus laevis
+cdc42 GTP-Binding Protein/genetics/metabolism
+rho GTP-Binding Proteins/*metabolism"

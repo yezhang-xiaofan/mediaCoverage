@@ -1,0 +1,15 @@
+21266354,Spatial regulation of RhoA activity during pancreatic cancer cell invasion driven by mutant p53.,Cancer research,Timpson P and McGhee EJ and Morton JP and von Kriegsheim A and Schwarz JP and Karim SA and Doyle B and Quinn JA and Carragher NO and Edward M and Olson MF and Frame MC and Brunton VG and Sansom OJ and Anderson KI,Missing,"The ability to observe changes in molecular behavior during cancer cell invasion in vivo remains a major challenge to our understanding of the metastatic process. Here, we demonstrate for the first time, an analysis of RhoA activity at a subcellular level using FLIM-FRET (fluorescence lifetime imaging microscopy-fluorescence resonance energy transfer) imaging in a live animal model of pancreatic cancer. In invasive mouse pancreatic ductal adenocarcinoma (PDAC) cells driven by mutant p53 (p53(R172H)), we observed a discrete fraction of high RhoA activity at both the leading edge and rear of cells in vivo which was absent in two-dimensional in vitro cultures. Notably, this pool of active RhoA was absent in noninvasive p53(fl) knockout PDAC cells, correlating with their poor invasive potential in vivo. We used dasatanib, a clinically approved anti-invasive agent that is active in this model, to illustrate the functional importance of spatially regulated RhoA. Dasatanib inhibited the activity of RhoA at the poles of p53(R172H) cells in vivo and this effect was independent of basal RhoA activity within the cell body. Taken together, quantitative in vivo fluorescence lifetime imaging illustrated that RhoA is not only necessary for invasion, but also that subcellular spatial regulation of RhoA activity, as opposed to its global activity, is likely to govern invasion efficiency in vivo. Our findings reveal the utility of FLIM-FRET in analyzing dynamic biomarkers during drug treatment in living animals, and they also show how discrete intracellular molecular pools might be differentially manipulated by future anti-invasive therapies.","Animals
+Carcinoma, Pancreatic Ductal/*enzymology/*genetics/pathology
+Fluorescence Resonance Energy Transfer
+*Genes, p53
+Mice
+Mice, Knockout
+Microscopy, Fluorescence
+Models, Genetic
+*Mutation
+Neoplasm Invasiveness
+Pancreatic Neoplasms/*enzymology/*genetics/pathology
+Protein Kinase Inhibitors/pharmacology
+Pyrimidines/pharmacology
+Thiazoles/pharmacology
+rho GTP-Binding Proteins/*metabolism"

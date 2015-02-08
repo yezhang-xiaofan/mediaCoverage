@@ -1,0 +1,14 @@
+21876142,Correlation of in situ mechanosensitive responses of the Moraxella catarrhalis adhesin UspA1 with fibronectin and receptor CEACAM1 binding.,"Adhesins, Bacterial/*metabolism/ultrastructure
+Antigens, CD/*metabolism
+Bacterial Outer Membrane Proteins/chemistry/*metabolism/ultrastructure
+Cell Adhesion Molecules/*metabolism
+Cell Membrane/metabolism
+Fibronectins/*metabolism
+Humans
+*Mechanotransduction, Cellular
+Microscopy, Atomic Force
+Models, Molecular
+Moraxella (Branhamella) catarrhalis/*metabolism/ultrastructure
+Protein Binding
+Scattering, Small Angle
+X-Ray Diffraction",Agnew C and Borodina E and Zaccai NR and Conners R and Burton NM and Vicary JA and Cole DK and Antognozzi M and Virji M and Brady RL,"Bacterial cell surfaces are commonly decorated with a layer formed from multiple copies of adhesin proteins whose binding interactions initiate colonization and infection processes. In this study, we investigate the physical deformability of the UspA1 adhesin protein from Moraxella catarrhalis, a causative agent of middle-ear infections in humans. UspA1 binds a range of extracellular proteins including fibronectin, and the epithelial cellular receptor carcinoembryonic antigen-related cell adhesion molecule 1 (CEACAM1). Electron microscopy indicates that unliganded UspA1 is densely packed at, and extends about 800 A from, the Moraxella surface. Using a modified atomic force microscope, we show that the adhesive properties and thickness of the UspA1 layer at the cell surface varies on addition of either fibronectin or CEACAM1. This in situ analysis is then correlated with the molecular structure of UspA1. To provide an overall model for UspA1, we have determined crystal structures for two N-terminal fragments which are then combined with a previous structure of the CEACAM1-binding site. We show that the UspA1-fibronectin complex is formed between UspA1 head region and the 13th type-III domain of fibronectin and, using X-ray scattering, that the complex involves an angular association between these two proteins. In combination with a previous study, which showed that the CEACAM1-UspA1 complex is distinctively bent in solution, we correlate these observations on isolated fragments of UspA1 with its in situ response on the cell surface. This study therefore provides a rare direct demonstration of protein conformational change at the cell surface.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

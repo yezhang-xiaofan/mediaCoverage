@@ -1,0 +1,10 @@
+21573153,"Daily treatment with SMTC1100, a novel small molecule utrophin upregulator, dramatically reduces the dystrophic symptoms in the mdx mouse.","Animals
+Cells, Cultured
+Electrophysiology
+Humans
+Male
+Mice
+Mice, Inbred mdx
+Muscular Dystrophy, Animal/*drug therapy/genetics/*metabolism
+Reverse Transcriptase Polymerase Chain Reaction
+Utrophin/genetics/*metabolism",Tinsley JM and Fairclough RJ and Storer R and Wilkes FJ and Potter AC and Squire SE and Powell DS and Cozzoli A and Capogrosso RF and Lambert A and Wilson FX and Wren SP and De Luca A and Davies KE,"BACKGROUND: Duchenne muscular dystrophy (DMD) is a lethal, progressive muscle wasting disease caused by a loss of sarcolemmal bound dystrophin, which results in the death of the muscle fibers leading to the gradual depletion of skeletal muscle. There is significant evidence demonstrating that increasing levels of the dystrophin-related protein, utrophin, in mouse models results in sarcolemmal bound utrophin and prevents the muscular dystrophy pathology. The aim of this work was to develop a small molecule which increases the levels of utrophin in muscle and thus has therapeutic potential. METHODOLOGY AND PRINCIPAL FINDINGS: We describe the in vivo activity of SMT C1100; the first orally bioavailable small molecule utrophin upregulator. Once-a-day daily-dosing with SMT C1100 reduces a number of the pathological effects of dystrophin deficiency. Treatment results in reduced pathology, better muscle physiology leading to an increase in overall strength, and an ability to resist fatigue after forced exercise; a surrogate for the six minute walk test currently recommended as the pivotal outcome measure in human trials for DMD. CONCLUSIONS AND SIGNIFICANCE: This study demonstrates proof-of-principle for the use of in vitro screening methods in allowing identification of pharmacological agents for utrophin transcriptional upregulation. The best compound identified, SMT C1100, demonstrated significant disease modifying effects in DMD models. Our data warrant the full evaluation of this compound in clinical trials in DMD patients.",Missing,PloS one,6

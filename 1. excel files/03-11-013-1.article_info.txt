@@ -1,0 +1,14 @@
+21385945,Maternal diet and aging alter the epigenetic control of a promoter-enhancer interaction at the Hnf4a gene in rat pancreatic islets.,"Aging/*physiology
+Animals
+Cell Line
+DNA Methylation
+*Diet
+*Enhancer Elements, Genetic
+*Epigenesis, Genetic
+Female
+Hepatocyte Nuclear Factor 4/*genetics
+Islets of Langerhans/cytology/*physiology
+*Maternal Exposure
+*Promoter Regions, Genetic
+Rats
+Transcriptional Activation",Sandovici I and Smith NH and Nitert MD and Ackers-Johnson M and Uribe-Lewis S and Ito Y and Jones RH and Marquez VE and Cairns W and Tadayyon M and O'Neill LP and Murrell A and Ling C and Constancia M and Ozanne SE,"Environmental factors interact with the genome throughout life to determine gene expression and, consequently, tissue function and disease risk. One such factor that is known to play an important role in determining long-term metabolic health is diet during critical periods of development. Epigenetic regulation of gene expression has been implicated in mediating these programming effects of early diet. The precise epigenetic mechanisms that underlie these effects remain largely unknown. Here, we show that the transcription factor Hnf4a, which has been implicated in the etiology of type 2 diabetes (T2D), is epigenetically regulated by maternal diet and aging in rat islets. Transcriptional activity of Hnf4a in islets is restricted to the distal P2 promoter through its open chromatin configuration and an islet-specific interaction between the P2 promoter and a downstream enhancer. Exposure to suboptimal nutrition during early development leads to epigenetic silencing at the enhancer region, which weakens the P2 promoter-enhancer interaction and results in a permanent reduction in Hnf4a expression. Aging leads to progressive epigenetic silencing of the entire Hnf4a locus in islets, an effect that is more pronounced in rats exposed to a poor maternal diet. Our findings provide evidence for environmentally induced epigenetic changes at the Hnf4a enhancer that alter its interaction with the P2 promoter, and consequently determine T2D risk. We therefore propose that environmentally induced changes in promoter-enhancer interactions represent a fundamental epigenetic mechanism by which nutrition and aging can influence long-term health.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

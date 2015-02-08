@@ -1,0 +1,19 @@
+21220732,Deregulation of microRNA-503 contributes to diabetes mellitus-induced impairment of endothelial function and reparative angiogenesis after limb ischemia.,"Animals
+Biopsy
+Cells, Cultured
+*Diabetes Mellitus, Experimental/genetics/pathology/physiopathology
+Endothelial Cells/cytology/physiology
+Extremities/blood supply
+Gene Expression/physiology
+Glucose/pharmacology
+Humans
+Intercellular Signaling Peptides and Proteins/pharmacology
+*Ischemia/genetics/pathology/physiopathology
+Male
+Mice
+Mice, Inbred Strains
+MicroRNAs/*physiology
+Muscle, Skeletal/pathology/physiology
+Neovascularization, Physiologic/*physiology
+Umbilical Veins/cytology
+cdc25 Phosphatases/genetics",Caporali A and Meloni M and Vollenkle C and Bonci D and Sala-Newby GB and Addis R and Spinetti G and Losa S and Masson R and Baker AH and Agami R and le Sage C and Condorelli G and Madeddu P and Martelli F and Emanueli C,"BACKGROUND: Diabetes mellitus impairs endothelial cell (EC) function and postischemic reparative neovascularization by molecular mechanisms that are not fully understood. microRNAs negatively regulate the expression of target genes mainly by interaction in their 3' untranslated region. METHODS AND RESULTS: We found that microRNA-503 (miR-503) expression in ECs is upregulated in culture conditions mimicking diabetes mellitus (high D-glucose) and ischemia-associated starvation (low growth factors). Under normal culture conditions, lentivirus-mediated miR-503-forced expression inhibited EC proliferation, migration, and network formation on Matrigel (comparisons versus lentivirus.GFP control). Conversely, blocking miR-503 activity by either adenovirus-mediated transfer of a miR-503 decoy (Ad.decoymiR-503) or by antimiR-503 (antisense oligonucleotide) improved the functional capacities of ECs cultured under high D-glucose/low growth factors. We identified CCNE1 and cdc25A as direct miR-503 targets which are downregulated by high glucose/low growth factors in ECs. Next, we obtained evidence that miR-503 expression is increased in ischemic limb muscles of streptozotocin-diabetic mice and in ECs enriched from these muscles. Moreover, Ad.decoymiR-503 delivery to the ischemic adductor of diabetic mice corrected diabetes mellitus-induced impairment of postischemic angiogenesis and blood flow recovery. We finally investigated miR-503 and target gene expression in muscular specimens from the amputated ischemic legs of diabetic patients. As controls, calf biopsies of nondiabetic and nonischemic patients undergoing saphenous vein stripping were used. In diabetic muscles, miR-503 expression was remarkably higher, and it inversely correlated with cdc25 protein expression. Plasma miR-503 levels were also elevated in the diabetic individuals. CONCLUSIONS: Our data suggest miR-503 as a possible therapeutic target in diabetic patients with critical limb ischemia.",Missing,Circulation,123

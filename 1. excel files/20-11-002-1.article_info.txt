@@ -1,0 +1,22 @@
+21190977,Metformin treatment exerts antiinvasive and antimetastatic effects in human endometrial carcinoma cells.,"Adult
+*Antineoplastic Agents
+Blotting, Western
+Cell Line, Tumor
+Cell Movement/physiology
+Cyclic AMP/physiology
+Cyclic AMP-Dependent Protein Kinases/physiology
+Endometrial Neoplasms/*pathology
+Extracellular Signal-Regulated MAP Kinases/physiology
+Female
+Humans
+Hypoglycemic Agents/*pharmacology
+Matrix Metalloproteinases/physiology
+Metformin/*pharmacology
+NF-kappa B/physiology
+Neoplasm Invasiveness/pathology
+Neoplasm Metastasis/*prevention & control
+Oncogene Protein v-akt/physiology
+Polycystic Ovary Syndrome/blood/drug therapy
+Signal Transduction/drug effects
+Wound Healing/physiology
+Young Adult",Tan BK and Adya R and Chen J and Lehnert H and Sant Cassia LJ and Randeva HS,"CONTEXT: Polycystic ovary syndrome (PCOS) is the most common endocrinopathy in women associated with an increased risk of endometrial hyperplasia. We sought to study the effects of metformin treatment (widely used in the management of PCOS women) on human endometrial adenocarcinoma cells. OBJECTIVES: To study the effects of metformin treatment on in vitro invasion and metastasis in human endometrial adenocarcinoma cells. Also, given the link between inflammation with endometrial cancer invasion and metastasis, we explored the roles of nuclear factor-kappaB (NF-kappaB), matrix metalloproteinases (MMPs) as well as v-akt murine thymoma viral oncogene homolog 1 (Akt) and extracellular signal-regulated kinases (Erk(1/2)) signaling pathways. DESIGN: Sera were obtained from PCOS and control subjects. In vitro invasion were assessed in human endometrial cells (ECC-1 cells) by wound-healing motility and migration assays. NF-kappaB was studied by stably transfecting ECC-1 cells with a cis-reporter plasmid containing luciferase reporter gene linked to five repeats of NF-kappaB binding sites. The gelatinolytic activities of secreted MMP-2/9 in conditioned media were measured by gelatin zymography. Akt and Erk(1/2) phosphorylation were assessed by Western blotting. RESULTS: In vitro invasion in ECC-1 cells was significantly attenuated by sera from PCOS women after 6 months of metformin treatment (850 mg twice daily) compared to matched controls (P < 0.01). These effects appear to be associated with NF-kappaB, MMP-2/9, as well as Akt and Erk(1/2) pathways that are known to be important regulators of inflammation, tumor invasion and metastasis. CONCLUSIONS: Metformin, potentially, may serve as adjuvant treatment in the management of patients with endometrial cancer.",Missing,The Journal of clinical endocrinology and metabolism,96

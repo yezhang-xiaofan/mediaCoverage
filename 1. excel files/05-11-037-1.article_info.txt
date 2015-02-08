@@ -1,0 +1,15 @@
+22090163,Assessment of valvular calcification and inflammation by positron emission tomography in patients with aortic stenosis.,"Aged
+Aged, 80 and over
+Aortic Valve/pathology/*radionuclide imaging
+Aortic Valve Stenosis/*epidemiology/pathology/*radionuclide imaging
+Calcinosis/epidemiology/pathology/*radionuclide imaging
+Cardiomyopathies/epidemiology/pathology/*radionuclide imaging
+Cohort Studies
+Female
+Fluorodeoxyglucose F18/diagnostic use
+Humans
+Inflammation/diagnosis/epidemiology/radionuclide imaging
+Male
+Positron-Emission Tomography/*methods
+Prospective Studies
+Tomography, X-Ray Computed/methods",Dweck MR and Jones C and Joshi NV and Fletcher AM and Richardson H and White A and Marsden M and Pessotto R and Clark JC and Wallace WA and Salter DM and McKillop G and van Beek EJ and Boon NA and Rudd JH and Newby DE,"BACKGROUND: The pathophysiology of aortic stenosis is incompletely understood, and the relative contributions of valvular calcification and inflammation to disease progression are unknown. METHODS AND RESULTS: Patients with aortic sclerosis and mild, moderate, and severe stenosis were compared prospectively with age- and sex-matched control subjects. Aortic valve severity was determined by echocardiography. Calcification and inflammation in the aortic valve were assessed by 18F-sodium fluoride (18F-NaF) and 18F-fluorodeoxyglucose (18F-FDG) uptake with the use of positron emission tomography. One hundred twenty-one subjects (20 controls; 20 aortic sclerosis; 25 mild, 33 moderate, and 23 severe aortic stenosis) were administered both 18F-NaF and 18F-FDG. Quantification of tracer uptake within the valve demonstrated excellent interobserver repeatability with no fixed or proportional biases and limits of agreement of +/-0.21 (18F-NaF) and +/-0.13 (18F-FDG) for maximum tissue-to-background ratios. Activity of both tracers was higher in patients with aortic stenosis than in control subjects (18F-NaF: 2.87+/-0.82 versus 1.55+/-0.17; 18F-FDG: 1.58+/-0.21 versus 1.30+/-0.13; both P<0.001). 18F-NaF uptake displayed a progressive rise with valve severity (r(2)=0.540, P<0.001), with a more modest increase observed for 18F-FDG (r(2)=0.218, P<0.001). Among patients with aortic stenosis, 91% had increased 18F-NaF uptake (>1.97), and 35% had increased 18F-FDG uptake (>1.63). A weak correlation between the activities of these tracers was observed (r(2)=0.174, P<0.001). CONCLUSIONS: Positron emission tomography is a novel, feasible, and repeatable approach to the evaluation of valvular calcification and inflammation in patients with aortic stenosis. The frequency and magnitude of increased tracer activity correlate with disease severity and are strongest for 18F-NaF. CLINICAL TRIAL REGISTRATION: http://www.clinicaltrials.gov. Unique identifier: NCT01358513.",Missing,Circulation,125

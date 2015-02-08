@@ -1,0 +1,10 @@
+22231485,Tissue-specific analysis of chromatin state identifies temporal signatures of enhancer activity during embryonic development.,Nature genetics,Bonn S and Zinzen RP and Girardot C and Gustafson EH and Perez-Gonzalez A and Delhomme N and Ghavi-Helm Y and Wilczynski B and Riddell A and Furlong EE,Missing,"Chromatin modifications are associated with many aspects of gene expression, yet their role in cellular transitions during development remains elusive. Here, we use a new approach to obtain cell type-specific information on chromatin state and RNA polymerase II (Pol II) occupancy within the multicellular Drosophila melanogaster embryo. We directly assessed the relationship between chromatin modifications and the spatio-temporal activity of enhancers. Rather than having a unique chromatin state, active developmental enhancers show heterogeneous histone modifications and Pol II occupancy. Despite this complexity, combined chromatin signatures and Pol II presence are sufficient to predict enhancer activity de novo. Pol II recruitment is highly predictive of the timing of enhancer activity and seems dependent on the timing and location of transcription factor binding. Chromatin modifications typically demarcate large regulatory regions encompassing multiple enhancers, whereas local changes in nucleosome positioning and Pol II occupancy delineate single active enhancers. This cell type-specific view identifies dynamic enhancer usage, an essential step in deciphering developmental networks.","Animals
+Chromatin/metabolism
+Chromatin Immunoprecipitation
+Drosophila melanogaster/*embryology/genetics/metabolism
+Embryonic Development/genetics
+*Enhancer Elements, Genetic
+Gene Expression Regulation, Developmental
+Histones/metabolism
+RNA Polymerase II/metabolism
+Transcription Factors/metabolism"

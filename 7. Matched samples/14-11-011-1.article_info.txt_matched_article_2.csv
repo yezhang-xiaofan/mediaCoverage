@@ -1,0 +1,20 @@
+21317289,Dual Phosphorylation of suppressor of fused (Sufu) by PKA and GSK3beta regulates its stability and localization in the primary cilium.,The Journal of biological chemistry,Chen Y and Yue S and Xie L and Pu XH and Jin T and Cheng SY,Missing,"Suppressor of fused (Sufu) is an essential negative regulator of the sonic hedgehog (Shh) pathway, but little is known about how Sufu itself is normally regulated. Here, we report that Sufu is phosphorylated at Ser-342 and Ser-346 by GSK3beta and cAMP-dependent protein kinase A (PKA), respectively, and phosphorylation at this dual site stabilizes Sufu against Shh signaling-induced degradation. We further show that localization of Sufu in the primary cilium is induced by Shh signaling and is required for the turnover of both phosphorylated and total Sufu. Perturbing Sufu phosphorylation with PKA inhibitors or replacing Ser-346 with alanine reduced the stay and replacing Ser-342 and Ser-346 with aspartic acid prolonged the stay of Sufu in the cilia. Finally, ciliary localization of Gli2/3 also required Smo and was similarly influenced by perturbations of PKA activity or mutations at the dual Sufu phosphorylation site. Thus, Shh likely induced trafficking of phospho-Sufu into the primary cilium in a complex with Gli2/3, and dephosphorylation triggered a retrograde export, allowing Sufu to be degraded by the ubiquitin-proteasome system.","Amino Acid Substitution
+Animals
+Cilia/genetics/metabolism
+Cyclic AMP-Dependent Protein Kinases/genetics/*metabolism
+Glycogen Synthase Kinase 3/genetics/*metabolism
+HEK293 Cells
+Hedgehog Proteins/genetics/metabolism
+Humans
+Kruppel-Like Transcription Factors/genetics/metabolism
+Mice
+Mutation, Missense
+NIH 3T3 Cells
+Nerve Tissue Proteins/genetics/metabolism
+Nuclear Proteins/genetics/metabolism
+Phosphorylation/physiology
+Proteasome Endopeptidase Complex/genetics/metabolism
+Protein Stability
+Protein Transport/physiology
+Repressor Proteins/genetics/*metabolism
+Ubiquitin/genetics/metabolism"

@@ -1,0 +1,16 @@
+21454630,Glutaric aciduria type 1 metabolites impair the succinate transport from astrocytic to neuronal cells.,The Journal of biological chemistry,Lamp J and Keyser B and Koeller DM and Ullrich K and Braulke T and Muhlhausen C,Missing,"The inherited neurodegenerative disorder glutaric aciduria type 1 (GA1) results from mutations in the gene for the mitochondrial matrix enzyme glutaryl-CoA dehydrogenase (GCDH), which leads to elevations of the dicarboxylates glutaric acid (GA) and 3-hydroxyglutaric acid (3OHGA) in brain and blood. The characteristic clinical presentation of GA1 is a sudden onset of dystonia during catabolic situations, resulting from acute striatal injury. The underlying mechanisms are poorly understood, but the high levels of GA and 3OHGA that accumulate during catabolic illnesses are believed to play a primary role. Both GA and 3OHGA are known to be substrates for Na(+)-coupled dicarboxylate transporters, which are required for the anaplerotic transfer of the tricarboxylic acid cycle (TCA) intermediate succinate between astrocytes and neurons. We hypothesized that GA and 3OHGA inhibit the transfer of succinate from astrocytes to neurons, leading to reduced TCA cycle activity and cellular injury. Here, we show that both GA and 3OHGA inhibit the uptake of [(14)C]succinate by Na(+)-coupled dicarboxylate transporters in cultured astrocytic and neuronal cells of wild-type and Gcdh(-/-) mice. In addition, we demonstrate that the efflux of [(14)C]succinate from Gcdh(-/-) astrocytic cells mediated by a not yet identified transporter is strongly reduced. This is the first experimental evidence that GA and 3OHGA interfere with two essential anaplerotic transport processes: astrocytic efflux and neuronal uptake of TCA cycle intermediates, which occur between neurons and astrocytes. These results suggest that elevated levels of GA and 3OHGA may lead to neuronal injury and cell death via disruption of TCA cycle activity.","Amino Acid Metabolism, Inborn Errors/genetics/metabolism
+Animals
+Astrocytes/*metabolism
+Biological Transport/genetics
+Brain/metabolism
+Brain Diseases, Metabolic/genetics/metabolism
+Cell Death/genetics
+Cell Line, Transformed
+Citric Acid Cycle/genetics
+Glutarates/*metabolism
+Glutaryl-CoA Dehydrogenase/deficiency/genetics/metabolism
+Mice
+Mice, Knockout
+Neurons/*metabolism
+Organic Anion Transporters/genetics/metabolism
+Succinic Acid/*metabolism"

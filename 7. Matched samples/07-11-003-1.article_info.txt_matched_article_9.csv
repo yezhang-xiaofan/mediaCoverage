@@ -1,0 +1,16 @@
+21245099,Hippo/Mst1 stimulates transcription of the proapoptotic mediator NOXA in a FoxO1-dependent manner.,Cancer research,Valis K and Prochazka L and Boura E and Chladova J and Obsil T and Rohlena J and Truksa J and Dong LF and Ralph SJ and Neuzil J,Missing,"The proapoptotic protein Noxa, a member of the BH3-only Bcl-2 protein family, can effectively induce apoptosis in cancer cells, although the relevant regulatory pathways have been obscure. Previous studies of the cytotoxic effects of alpha-tocopheryl succinate (alpha-TOS) on cancer cells identified a mechanism whereby alpha-TOS caused apoptosis requiring the Noxa-Bak axis. In the present study, ab initio analysis revealed a conserved FoxO-binding site (DBE; DAF-16 binding element) in the NOXA promoter, and specific affinity of FoxO proteins to this DBE was confirmed by fluorescence anisotropy. FoxO1 and FoxO3a proteins accumulated in the nucleus of alpha-TOS-treated cells, and the drug-induced specific FoxO1 association with the NOXA promoter and its activation were validated by chromatin immunoprecipitation. Using siRNA knockdown, a specific role for the FoxO1 protein in activating NOXA transcription in cancer cells was identified. Furthermore, the proapoptotic kinase Hippo/Mst1 was found to be strongly activated by alpha-TOS, and inhibiting Hippo/Mst1 by specific siRNA prevented phosphorylation of FoxO1 and its nuclear translocation, thereby reducing levels of NOXA transcription and apoptosis in cancer cells exposed to alpha-TOS. Thus, we have demonstrated that anticancer drugs, exemplified by alpha-TOS, induce apoptosis by a mechanism involving the Hippo/Mst1-FoxO1-Noxa pathway. We propose that activation of this pathway provides a new paradigm for developing targeted cancer treatments.","Apoptosis/physiology
+Carcinoma, Non-Small-Cell Lung/genetics/metabolism/pathology/therapy
+Cell Line, Tumor
+Forkhead Transcription Factors/genetics/*metabolism
+Humans
+Jurkat Cells
+Lung Neoplasms/genetics/metabolism/pathology/therapy
+Lymphoma, T-Cell/genetics/metabolism/pathology/therapy
+Promoter Regions, Genetic
+Protein-Serine-Threonine Kinases/antagonists & inhibitors/genetics/*metabolism
+Proto-Oncogene Proteins c-bcl-2/*biosynthesis/genetics/metabolism
+RNA, Small Interfering/administration & dosage/genetics
+Reverse Transcriptase Polymerase Chain Reaction
+Signal Transduction
+Transcription, Genetic
+alpha-Tocopherol/*pharmacology"

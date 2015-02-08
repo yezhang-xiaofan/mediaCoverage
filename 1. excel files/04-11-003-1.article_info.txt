@@ -1,0 +1,13 @@
+21436055,Calmodulin protects against alcohol-induced pancreatic trypsinogen activation elicited via Ca2+ release through IP3 receptors.,"Alcoholism/*metabolism
+Animals
+Calcium/*metabolism
+Calcium Channels/*metabolism
+Calmodulin/*metabolism/pharmacology
+Cells, Cultured
+Enzyme Activation/drug effects/*physiology
+Gene Knockout Techniques
+Inositol 1,4,5-Trisphosphate Receptors/genetics/*metabolism
+Mice
+Mice, Transgenic
+Pancreas/cytology/*enzymology
+Trypsinogen/*metabolism",Gerasimenko JV and Lur G and Ferdek P and Sherwood MW and Ebisui E and Tepikin AV and Mikoshiba K and Petersen OH and Gerasimenko OV,"Alcohol abuse is a major global health problem, but there is still much uncertainty about the mechanisms of action. So far, the effects of ethanol on ion channels in the plasma membrane have received the most attention. We have now investigated actions on intracellular calcium channels in pancreatic acinar cells. Our aim was to discover the mechanism by which alcohol influences calcium homeostasis and thereby understand how alcohol can trigger premature intracellular trypsinogen activation, which is the initiating step for alcohol-induced pancreatitis. We used intact or two-photon permeabilized acinar cells isolated from wild-type mice or mice in which inositol trisphosphate receptors of type 2 or types 2 and 3 were knocked out. In permeabilized pancreatic acinar cells even a relatively low ethanol concentration elicited calcium release from intracellular stores and intracellular trypsinogen activation. The calcium sensor calmodulin (at a normal intracellular concentration) markedly reduced ethanol-induced calcium release and trypsinogen activation in permeabilized cells, effects prevented by the calmodulin inhibitor peptide. A calmodulin activator virtually abolished the modest ethanol effects in intact cells. Both ethanol-elicited calcium liberation and trypsinogen activation were significantly reduced in cells from type 2 inositol trisphosphate receptor knockout mice. More profound reductions were seen in cells from double inositol trisphosphate receptor (types 2 and 3) knockout mice. The inositol trisphosphate receptors, required for normal pancreatic stimulus-secretion coupling, are also responsible for the toxic ethanol action. Calmodulin protects by reducing calcium release sensitivity.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

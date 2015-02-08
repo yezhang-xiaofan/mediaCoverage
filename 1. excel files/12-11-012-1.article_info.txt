@@ -1,0 +1,13 @@
+21685539,Lopinavir up-regulates expression of the antiviral protein ribonuclease L in human papillomavirus-positive cervical carcinoma cells.,"Antiviral Agents/*pharmacology
+Carcinoma, Squamous Cell/drug therapy/metabolism/*virology
+Cell Line, Tumor/drug effects
+Endoribonucleases/*drug effects/genetics/metabolism
+Female
+HIV Protease Inhibitors/pharmacology
+Human papillomavirus 16/metabolism
+Humans
+Lopinavir
+Papillomavirus Infections/*drug therapy/metabolism/virology
+Pyrimidinones/*pharmacology
+Up-Regulation/*drug effects
+Uterine Cervical Neoplasms/drug therapy/metabolism/virology",Batman G and Oliver AW and Zehbe I and Richard C and Hampson L and Hampson IN,"BACKGROUND: We have previously shown that the HIV protease inhibitor lopinavir has selective toxicity against human papillomavirus (HPV)-positive cervical carcinoma cells via an unknown mechanism. METHODS: SiHa cervical carcinoma cells were stably transfected with the proteasome sensor vector pZsProSensor-1 to confirm lopinavir inhibits the proteasome in these cells. The Panorama Xpress profiler 725 antibody array was then used to analyse specific changes in protein expression in lopinavir-treated versus control untreated SiHa cells followed by PCR and western blotting. Colorimetric growth assays of lopinavir-treated E6/E7 immortalised versus control human keratinocytes were performed. Targeted small interfering RNA gene silencing followed by growth assay comparison of lopinavir-treated/untreated SiHa cells was also used. RESULTS: Lopinavir induced an increase in the fluorescence of pZsProSensor-1 transfected SiHa cells, indicative of proteasomal inhibition. Ribonuclease L (RNASEL) protein was shown to be up-regulated in lopinavir-treated SiHa cells, which was confirmed by PCR and western blot. Targeted silencing of RNASEL reduced the sensitivity of SiHa cells to lopinavir. Selective toxicity against E6/E7 immortalised keratinocytes versus control cells was also seen with lopinavir and was associated with up-regulated RNASEL expression. CONCLUSIONS: These data are consistent with the toxicity of lopinavir against HPV-positive cervical carcinoma cells being related to its ability to block viral proteasome activation and induce an up-regulation of the antiviral protein RNASEL. This is supported by the drug's selective toxicity and up-regulation of RNASEL in E6/E7 immortalised keratinocytes combined with the increased resistance to lopinavir observed in SiHa cells following silencing of RNASEL gene expression.",Missing,Antiviral therapy,16

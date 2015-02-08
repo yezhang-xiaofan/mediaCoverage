@@ -1,0 +1,14 @@
+21900315,Father absence predicts age at sexual maturity and reproductive timing in British men.,"Adolescent
+Adult
+Age Factors
+Child
+*Father-Child Relations
+Great Britain
+Humans
+Longitudinal Studies
+Male
+*Marriage
+*Puberty
+*Reproduction
+Single-Parent Family
+Young Adult",Sheppard P and Sear R,"Despite the widespread assumption that paternal investment is substantial in our species, previous studies have shown mixed results in relation to the impact of fathers on both offspring survival and reproductive outcomes. Using data from a large representative sample of British men, we tested whether father absence is associated with the timing of reproduction-related events among boys, while controlling for various cues denoting early childhood adversity. We further tested whether the loss of the father at different childhood stages matters, so as to assess whether early life is the most important period or if effects can be seen during later childhood. The results show that father absence before age seven is associated with early reproduction, while father absence between ages 11 and 16 only is associated with delayed voice-breaking (a proxy for puberty), even after adjusting for other factors denoting childhood adversity. We conclude that fathers do exert an influence on male reproductive outcomes, independently of other childhood adversities and that these effects are sensitive to the timing of father absence.",Missing,Biology letters,8

@@ -1,0 +1,21 @@
+22019781,"Evidence for compensatory upregulation of expressed X-linked genes in mammals, Caenorhabditis elegans and Drosophila melanogaster.",Nature genetics,Deng X and Hiatt JB and Nguyen DK and Ercan S and Sturgill D and Hillier LW and Schlesinger F and Davis CA and Reinke VJ and Gingeras TR and Shendure J and Waterston RH and Oliver B and Lieb JD and Disteche CM,Missing,"Many animal species use a chromosome-based mechanism of sex determination, which has led to the coordinate evolution of dosage-compensation systems. Dosage compensation not only corrects the imbalance in the number of X chromosomes between the sexes but also is hypothesized to correct dosage imbalance within cells that is due to monoallelic X-linked expression and biallelic autosomal expression, by upregulating X-linked genes twofold (termed 'Ohno's hypothesis'). Although this hypothesis is well supported by expression analyses of individual X-linked genes and by microarray-based transcriptome analyses, it was challenged by a recent study using RNA sequencing and proteomics. We obtained new, independent RNA-seq data, measured RNA polymerase distribution and reanalyzed published expression data in mammals, C. elegans and Drosophila. Our analyses, which take into account the skewed gene content of the X chromosome, support the hypothesis of upregulation of expressed X-linked genes to balance expression of the genome.","Animals
+Caenorhabditis elegans/*genetics
+Cell Line
+Dosage Compensation, Genetic
+Drosophila Proteins/genetics/metabolism
+Drosophila melanogaster/*genetics
+Female
+Gene Expression Profiling
+*Gene Expression Regulation
+*Genes, X-Linked
+Humans
+Male
+Mice
+Oligonucleotide Array Sequence Analysis
+Organ Specificity
+Ovary/metabolism
+RNA Polymerase II/metabolism
+Testis/metabolism
+Transcription, Genetic
+Up-Regulation
+X Chromosome/genetics"

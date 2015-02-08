@@ -1,0 +1,20 @@
+22072682,Real-time functional magnetic resonance imaging neurofeedback for treatment of Parkinson's disease.,"Activities of Daily Living
+Adult
+Aged
+Brain/*blood supply
+Brain Mapping
+Electromyography
+Female
+Humans
+Image Processing, Computer-Assisted/methods
+*Magnetic Resonance Imaging
+Male
+Middle Aged
+Movement
+Neurofeedback/*methods
+Oxygen/blood
+Parkinson Disease/*pathology/psychology/*rehabilitation
+Photic Stimulation
+Psychomotor Performance/physiology
+Severity of Illness Index
+Statistics, Nonparametric",Subramanian L and Hindle JV and Johnston S and Roberts MV and Husain M and Goebel R and Linden D,"Self-regulation of brain activity in humans based on real-time feedback of functional magnetic resonance imaging (fMRI) signal is emerging as a potentially powerful, new technique. Here, we assessed whether patients with Parkinson's disease (PD) are able to alter local brain activity to improve motor function. Five patients learned to increase activity in the supplementary motor complex over two fMRI sessions using motor imagery. They attained as much activation in this target brain region as during a localizer procedure with overt movements. Concomitantly, they showed an improvement in motor speed (finger tapping) and clinical ratings of motor symptoms (37% improvement of the motor scale of the Unified Parkinson's Disease Rating Scale). Activation during neurofeedback was also observed in other cortical motor areas and the basal ganglia, including the subthalamic nucleus and globus pallidus, which are connected to the supplementary motor area (SMA) and crucial nodes in the pathophysiology of PD. A PD control group of five patients, matched for clinical severity and medication, underwent the same procedure but did not receive feedback about their SMA activity. This group attained no control of SMA activation and showed no motor improvement. These findings demonstrate that self-modulation of cortico-subcortical motor circuits can be achieved by PD patients through neurofeedback and may result in clinical benefits that are not attainable by motor imagery alone.",Missing,The Journal of neuroscience : the official journal of the Society for Neuroscience,31

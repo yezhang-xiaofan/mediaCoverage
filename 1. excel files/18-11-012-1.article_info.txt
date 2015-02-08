@@ -1,0 +1,15 @@
+22147909,Association between bisphosphonate use and implant survival after primary total arthroplasty of the knee or hip: population based retrospective cohort study.,"Adult
+*Arthroplasty, Replacement, Hip
+*Arthroplasty, Replacement, Knee
+Confounding Factors (Epidemiology)
+Diphosphonates/*therapeutic use
+Female
+Hip Prosthesis
+Humans
+Knee Prosthesis
+Male
+Osteoarthritis, Hip/surgery
+Osteoarthritis, Knee/surgery
+Propensity Score
+Reoperation/statistics & numerical data
+Treatment Outcome",Prieto-Alhambra D and Javaid MK and Judge A and Murray D and Carr A and Cooper C and Arden NK,"OBJECTIVES: To test whether bisphosphonate use is related to improved implant survival after total arthroplasty of the knee or hip. DESIGN: Population based retrospective cohort study. SETTING: Primary care data from the United Kingdom. PARTICIPANTS: All patients undergoing primary total arthroplasty of the knee (n = 18,726) or hip (n = 23,269) in 1986-2006 within the United Kingdom's General Practice Research Database. We excluded patients with a history of hip fracture before surgery or rheumatoid arthritis, and individuals younger than 40 years at surgery. INTERVENTION: Bisphosphonate users were classified as patients with at least six prescriptions of bisphosphonates or at least six months of prescribed bisphosphonate treatment with more than 80% adherence before revision surgery. OUTCOME MEASURES: Revision arthroplasties occurring after surgery, identified by READ and OXMIS codes. Parametric survival models were used to determine effects on implant survival with propensity score adjustment to account for confounding by indication. Results Of 41 995 patients undergoing primary hip or knee arthroplasty, we identified 1912 bisphosphonate users, who had a lower rate of revision at five years than non-users (0.93% (95% confidence interval 0.52% to 1.68%) v 1.96% (1.80% to 2.14%)). Implant survival was significantly longer in bisphosphonate users than in non-users in propensity adjusted models (hazard ratio 0.54 (0.29 to 0.99); P = 0.047) and had an almost twofold increase in time to revision after hip or knee arthroplasty (time ratio 1.96 (1.01 to 3.82)). Assuming 2% failure over five years, we estimated that the number to treat to avoid one revision was 107 for oral bisphosphonates. Conclusions In patients undergoing lower limb arthroplasty, bisphosphonate use was associated with an almost twofold increase in implant survival time. These findings require replication and testing in experimental studies for confirmation.",Missing,BMJ (Clinical research ed.),343

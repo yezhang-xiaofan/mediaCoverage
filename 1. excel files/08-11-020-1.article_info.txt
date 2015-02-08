@@ -1,0 +1,16 @@
+21611123,Life expectancy at birth for people with serious mental illness and other major disorders from a secondary mental health care case register in London.,"Adolescent
+Adult
+Age Distribution
+Aged
+Demography
+Female
+Humans
+*Life Expectancy
+London/epidemiology
+Male
+Mental Disorders/diagnosis/*epidemiology/mortality
+Mental Health/*statistics & numerical data
+Middle Aged
+*Registries
+Wales/epidemiology
+Young Adult",Chang CK and Hayes RD and Perera G and Broadbent MT and Fernandes AC and Lee WE and Hotopf M and Stewart R,"OBJECTIVE: Despite improving healthcare, the gap in mortality between people with serious mental illness (SMI) and general population persists, especially for younger age groups. The electronic database from a large and comprehensive secondary mental healthcare provider in London was utilized to assess the impact of SMI diagnoses on life expectancy at birth. METHOD: People who were diagnosed with SMI (schizophrenia, schizoaffective disorder, bipolar disorder), substance use disorder, and depressive episode/disorder before the end of 2009 and under active review by the South London and Maudsley NHS Foundation Trust (SLAM) in southeast London during 2007-09 comprised the sample, retrieved by the SLAM Case Register Interactive Search (CRIS) system. We estimated life expectancy at birth for people with SMI and each diagnosis, from national mortality returns between 2007-09, using a life table method. RESULTS: A total of 31,719 eligible people, aged 15 years or older, with SMI were analyzed. Among them, 1,370 died during 2007-09. Compared to national figures, all disorders were associated with substantially lower life expectancy: 8.0 to 14.6 life years lost for men and 9.8 to 17.5 life years lost for women. Highest reductions were found for men with schizophrenia (14.6 years lost) and women with schizoaffective disorders (17.5 years lost). CONCLUSION: The impact of serious mental illness on life expectancy is marked and generally higher than similarly calculated impacts of well-recognised adverse exposures such as smoking, diabetes and obesity. Strategies to identify and prevent causes of premature death are urgently required.",Missing,PloS one,6

@@ -1,0 +1,11 @@
+21382554,A critical role for Neurofascin in regulating action potential initiation through maintenance of the axon initial segment.,"Action Potentials/*physiology
+Animals
+Axons/*physiology
+Cell Adhesion Molecules/genetics/*metabolism
+Electrophysiology
+Mice
+Mice, Transgenic
+Nerve Growth Factors/genetics/*metabolism
+Neurons/*physiology
+Ranvier's Nodes/*physiology
+Sodium Channels/physiology",Zonta B and Desmazieres A and Rinaldi A and Tait S and Sherman DL and Nolan MF and Brophy PJ,"The axon initial segment (AIS) is critical for the initiation and propagation of action potentials. Assembly of the AIS requires interactions between scaffolding molecules and voltage-gated sodium channels, but the molecular mechanisms that stabilize the AIS are poorly understood. The neuronal isoform of Neurofascin, Nfasc186, clusters voltage-gated sodium channels at nodes of Ranvier in myelinated nerves: here, we investigate its role in AIS assembly and stabilization. Inactivation of the Nfasc gene in cerebellar Purkinje cells of adult mice causes rapid loss of Nfasc186 from the AIS but not from nodes of Ranvier. This causes AIS disintegration, impairment of motor learning and the abolition of the spontaneous tonic discharge typical of Purkinje cells. Nevertheless, action potentials with a modified waveform can still be evoked and basic motor abilities remain intact. We propose that Nfasc186 optimizes communication between mature neurons by anchoring the key elements of the adult AIS complex.",Missing,Neuron,69

@@ -1,0 +1,24 @@
+22101682,"Mutations in MEGF10, a regulator of satellite cell myogenesis, cause early onset myopathy, areflexia, respiratory distress and dysphagia (EMARDD).","Abnormalities, Multiple/*genetics
+Adolescent
+Child
+Child, Preschool
+Consanguinity
+Deglutition Disorders/*genetics
+Deltoid Muscle/pathology
+Female
+Frameshift Mutation
+Genetic Association Studies
+Heredity
+Humans
+INDEL Mutation
+Infant
+Infant, Newborn
+Male
+Membrane Proteins/*genetics
+Muscle Development/genetics
+Muscular Diseases/*genetics
+Mutation, Missense
+Pedigree
+Respiratory Distress Syndrome, Newborn/*genetics
+Satellite Cells, Skeletal Muscle/*metabolism
+Sequence Analysis, DNA",Logan CV and Lucke B and Pottinger C and Abdelhamed ZA and Parry DA and Szymanska K and Diggle CP and van Riesen A and Morgan JE and Markham G and Ellis I and Manzur AY and Markham AF and Shires M and Helliwell T and Scoto M and Hubner C and Bonthron DT and Taylor GR and Sheridan E and Muntoni F and Carr IM and Schuelke M and Johnson CA,"Infantile myopathies with diaphragmatic paralysis are genetically heterogeneous, and clinical symptoms do not assist in differentiating between them. We used phased haplotype analysis with subsequent targeted exome sequencing to identify MEGF10 mutations in a previously unidentified type of infantile myopathy with diaphragmatic weakness, areflexia, respiratory distress and dysphagia. MEGF10 is highly expressed in activated satellite cells and regulates their proliferation as well as their differentiation and fusion into multinucleated myofibers, which are greatly reduced in muscle from individuals with early onset myopathy, areflexia, respiratory distress and dysphagia.",Missing,Nature genetics,43

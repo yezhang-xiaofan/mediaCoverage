@@ -1,0 +1,23 @@
+21920502,Effects of acute tryptophan depletion on prefrontal-amygdala connectivity while viewing facial signals of aggression.,"Adult
+Amino Acids, Neutral/blood
+Amygdala/blood supply/*metabolism
+Analysis of Variance
+Anger/*physiology
+Brain Mapping
+Double-Blind Method
+*Facial Expression
+Female
+Humans
+Image Processing, Computer-Assisted
+Linear Models
+Magnetic Resonance Imaging
+Male
+Oxygen/blood
+Photic Stimulation
+Prefrontal Cortex/blood supply/*metabolism
+Psychiatric Status Rating Scales
+Questionnaires
+Serotonin/metabolism
+Time Factors
+Tryptophan/blood/*deficiency
+Young Adult",Passamonti L and Crockett MJ and Apergis-Schoute AM and Clark L and Rowe JB and Calder AJ and Robbins TW,"BACKGROUND: Reduced levels of serotonin (5-HT) within prefrontal cortex (PFC)-amygdala circuits have long been implicated in impulsive aggression. However, whether lowering 5-HT alters the dynamic interplay between the PFC and the amygdala has not been directly tested in humans. It is known that manipulating 5-HT via acute tryptophan depletion (ATD) causes variable effects on brain responses to a variety of emotional stimuli, but it remains unclear whether ATD affects functional connectivity in neural networks involved in processing social signals of aggression (e.g., angry faces). METHODS: Thirty healthy individuals were enrolled in a randomized, double-blind, placebo-controlled ATD study. On each treatment, brain responses to angry, sad, and neutral faces were measured with functional magnetic resonance imaging. Two methods (psycho-physiological-interaction in a general linear model and dynamic causal modeling) were used to assess the impact of ATD on the functional connectivity between PFC and amygdala. RESULTS: Data from 19 subjects were available for the final analyses. A whole-brain psycho-physiological-interaction in a general linear model showed that ATD significantly modulated the connectivity between the amygdala and two PFC regions (ventral anterior cingulate cortex and ventrolateral PFC) when processing angry vs. neutral and angry vs. sad but not sad vs. neutral faces. Dynamic causal modeling corroborated and extended these findings by showing that 5-HT depletion reduced the influence of processing angry vs. neutral faces on circuits within PFC and on PFC-amygdala pathways. CONCLUSIONS: We provide strong support for neurobiological accounts positing that 5-HT significantly influences PFC-amygdala circuits implicated in aggression and other affective behaviors.",Missing,Biological psychiatry,71

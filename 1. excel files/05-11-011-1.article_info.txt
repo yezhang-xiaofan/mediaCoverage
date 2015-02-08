@@ -1,0 +1,18 @@
+21411659,11beta-hydroxysteroid dehydrogenase type 1 deficiency prevents memory deficits with aging by switching from glucocorticoid receptor to mineralocorticoid receptor-mediated cognitive control.,"11-beta-Hydroxysteroid Dehydrogenase Type 1/*genetics/metabolism
+Aging/*physiology
+Analysis of Variance
+Animals
+Cognition/drug effects/physiology
+Corticosterone/blood
+Hippocampus/drug effects/*metabolism
+Infusions, Intraventricular
+Male
+Maze Learning/drug effects/physiology
+Memory/drug effects/*physiology
+Mice
+Mice, Knockout
+Mineralocorticoid Receptor Antagonists/pharmacology
+Radioimmunoassay
+Receptors, Glucocorticoid/genetics/*metabolism
+Receptors, Mineralocorticoid/genetics/*metabolism
+Spironolactone/pharmacology",Yau JL and Noble J and Seckl JR,"Local brain amplification of glucocorticoids (GCs) by 11beta-hydroxysteroid dehydrogenase type 1 (11beta-HSD1) plays a pivotal role in age-related memory deficits. 11beta-HSD1 deficient mice are protected from spatial memory impairments with aging, but the underlying mechanisms are unknown. To determine which brain receptors [high-affinity mineralocorticoid receptors (MRs) or low-affinity glucocorticoid receptors (GRs)] are involved, spatial memory was measured in aged 11beta-HSD1(-/-) mice before and during intracerebroventricular infusion (10 d) of spironolactone (MR antagonist) or RU486 (GR antagonist). Aged C57BL/6J control mice showed impaired spatial memory in the Y-maze; this improved with GR blockade, while MR blockade had no effect. In contrast, aged 11beta-HSD1(-/-) mice showed intact spatial memory that became impaired with MR blockade, but not GR blockade. Hippocampal MR and GR mRNA expression and plasma corticosterone levels were not significantly altered with spironolactone or RU486 in either genotype. These data support the notion that 11beta-HSD1 deficiency in aging mice leads to lower intracellular GC concentrations in brain, particularly in the hippocampus, which activate predominantly MRs to enhance memory, while in aging C57BL/6J controls, the increased intracellular GCs saturate MRs and activate predominantly GRs, thus impairing memory, an effect reversed by GR blockade.",Missing,The Journal of neuroscience : the official journal of the Society for Neuroscience,31

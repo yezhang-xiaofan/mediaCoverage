@@ -1,0 +1,9 @@
+22017994,Closed-loop deep brain stimulation is superior in ameliorating parkinsonism.,Neuron,Rosin B and Slovik M and Mitelman R and Rivlin-Etzion M and Haber SN and Israel Z and Vaadia E and Bergman H,Missing,"Continuous high-frequency deep brain stimulation (DBS) is a widely used therapy for advanced Parkinson's disease (PD) management. However, the mechanisms underlying DBS effects remain enigmatic and are the subject of an ongoing debate. Here, we present and test a closed-loop stimulation strategy for PD in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) primate model of PD. Application of pallidal closed-loop stimulation leads to dissociation between changes in basal ganglia (BG) discharge rates and patterns, providing insights into PD pathophysiology. Furthermore, cortico-pallidal closed-loop stimulation has a significantly greater effect on akinesia and on cortical and pallidal discharge patterns than standard open-loop DBS and matched control stimulation paradigms. Thus, closed-loop DBS paradigms, by modulating pathological oscillatory activity rather than the discharge rate of the BG-cortical networks, may afford more effective management of advanced PD. Such strategies have the potential to be effective in additional brain disorders in which a pathological neuronal discharge pattern can be recognized.","Animals
+Basal Ganglia/*physiopathology
+Cercopithecus aethiops
+Deep Brain Stimulation/*methods
+Globus Pallidus/*physiopathology
+MPTP Poisoning/chemically induced/physiopathology/therapy
+Neurons/physiology
+Parkinson Disease, Secondary/chemically induced/physiopathology/*therapy
+Treatment Outcome"

@@ -1,0 +1,8 @@
+22411960,Thrombolysis outcomes in acute ischemic stroke patients with prior stroke and diabetes mellitus.,"Brain Ischemia/*complications
+Diabetes Complications/*physiopathology
+Female
+Humans
+Male
+*Stroke
+Thrombolytic Therapy/*methods
+Tissue Plasminogen Activator/*therapeutic use",Santulli G,Missing,Missing,Neurology,78

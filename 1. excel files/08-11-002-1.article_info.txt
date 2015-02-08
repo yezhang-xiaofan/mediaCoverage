@@ -1,0 +1,20 @@
+21262822,"A gradient of childhood self-control predicts health, wealth, and public safety.","*Achievement
+Adolescent
+Adult
+Behavior/*physiology
+Child
+Child, Preschool
+Cohort Studies
+Female
+Forecasting
+Humans
+Internal-External Control
+Longitudinal Studies
+Male
+New Zealand
+Personality/*physiology
+Psychology, Child
+Public Policy
+Sex Factors
+*Social Control, Informal
+Socioeconomic Factors",Moffitt TE and Arseneault L and Belsky D and Dickson N and Hancox RJ and Harrington H and Houts R and Poulton R and Roberts BW and Ross S and Sears MR and Thomson WM and Caspi A,"Policy-makers are considering large-scale programs aimed at self-control to improve citizens' health and wealth and reduce crime. Experimental and economic studies suggest such programs could reap benefits. Yet, is self-control important for the health, wealth, and public safety of the population? Following a cohort of 1,000 children from birth to the age of 32 y, we show that childhood self-control predicts physical health, substance dependence, personal finances, and criminal offending outcomes, following a gradient of self-control. Effects of children's self-control could be disentangled from their intelligence and social class as well as from mistakes they made as adolescents. In another cohort of 500 sibling-pairs, the sibling with lower self-control had poorer outcomes, despite shared family background. Interventions addressing self-control might reduce a panoply of societal costs, save taxpayers money, and promote prosperity.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

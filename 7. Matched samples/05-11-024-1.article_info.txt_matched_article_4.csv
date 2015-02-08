@@ -1,0 +1,15 @@
+21899450,Genetic basis for in vivo daptomycin resistance in enterococci.,The New England journal of medicine,Arias CA and Panesso D and McGrath DM and Qin X and Mojica MF and Miller C and Diaz L and Tran TT and Rincon S and Barbu EM and Reyes J and Roh JH and Lobos E and Sodergren E and Pasqualini R and Arap W and Quinn JP and Shamoo Y and Murray BE and Weinstock GM,tmc,"BACKGROUND: Daptomycin is a lipopeptide with bactericidal activity that acts on the cell membrane of enterococci and is often used off-label to treat patients infected with vancomycin-resistant enterococci. However, the emergence of resistance to daptomycin during therapy threatens its usefulness. METHODS: We performed whole-genome sequencing and characterization of the cell envelope of a clinical pair of vancomycin-resistant Enterococcus faecalis isolates from the blood of a patient with fatal bacteremia; one isolate (S613) was from blood drawn before treatment and the other isolate (R712) was from blood drawn after treatment with daptomycin. The minimal inhibitory concentrations (MICs) of these two isolates were 1 and 12 mug per milliliter, respectively. Gene replacements were made to exchange the alleles found in isolate S613 with those in isolate R712. RESULTS: Isolate R712 had in-frame deletions in three genes. Two genes encoded putative enzymes involved in phospholipid metabolism, GdpD (which denotes glycerophosphoryl diester phosphodiesterase) and Cls (which denotes cardiolipin synthetase), and one gene encoded a putative membrane protein, LiaF (which denotes lipid II cycle-interfering antibiotics protein but whose exact function is not known). LiaF is predicted to be a member of a three-component regulatory system (LiaFSR) involved in the stress-sensing response of the cell envelope to antibiotics. Replacement of the liaF allele of isolate S613 with the liaF allele from isolate R712 quadrupled the MIC of daptomycin, whereas replacement of the gdpD allele had no effect on MIC. Replacement of both the liaF and gdpD alleles of isolate S613 with the liaF and gdpD alleles of isolate R712 raised the daptomycin MIC for isolate S613 to 12 mug per milliliter. As compared with isolate S613, isolate R712--the daptomycin-resistant isolate--had changes in the structure of the cell envelope and alterations in membrane permeability and membrane potential. CONCLUSIONS: Mutations in genes encoding LiaF and a GdpD-family protein were necessary and sufficient for the development of resistance to daptomycin during the treatment of vancomycin-resistant enterococci. (Funded by the National Institute of Allergy and Infectious Diseases and the National Institutes of Health.).","Anti-Bacterial Agents/pharmacology/*therapeutic use
+Bacteremia/drug therapy/microbiology
+Daptomycin/pharmacology/*therapeutic use
+Drug Resistance, Bacterial/*genetics
+Enterococcus faecalis/drug effects/*genetics/isolation &
+purification/ultrastructure
+*Genes, Bacterial/genetics
+Genome, Bacterial
+Gram-Positive Bacterial Infections/*drug therapy
+Humans
+Microbial Sensitivity Tests
+Microscopy, Electron, Transmission
+*Mutation
+Sequence Analysis, DNA
+Vancomycin Resistance"

@@ -1,0 +1,12 @@
+21673805,Visual advantage in deaf adults linked to retinal changes.,"Adult
+Deafness/*pathology/*physiopathology
+Female
+Hearing/physiology
+Humans
+Male
+Nerve Fibers/pathology
+Optic Nerve/physiology/physiopathology
+Retina/*pathology/*physiopathology
+Vision, Ocular/*physiology
+Visual Fields/physiology
+Young Adult",Codina C and Pascalis O and Mody C and Toomey P and Rose J and Gummer L and Buckley D,"The altered sensory experience of profound early onset deafness provokes sometimes large scale neural reorganisations. In particular, auditory-visual cross-modal plasticity occurs, wherein redundant auditory cortex becomes recruited to vision. However, the effect of human deafness on neural structures involved in visual processing prior to the visual cortex has never been investigated, either in humans or animals. We investigated neural changes at the retina and optic nerve head in profoundly deaf (N = 14) and hearing (N = 15) adults using Optical Coherence Tomography (OCT), an in-vivo light interference method of quantifying retinal micro-structure. We compared retinal changes with behavioural results from the same deaf and hearing adults, measuring sensitivity in the peripheral visual field using Goldmann perimetry. Deaf adults had significantly larger neural rim areas, within the optic nerve head in comparison to hearing controls suggesting greater retinal ganglion cell number. Deaf adults also demonstrated significantly larger visual field areas (indicating greater peripheral sensitivity) than controls. Furthermore, neural rim area was significantly correlated with visual field area in both deaf and hearing adults. Deaf adults also showed a significantly different pattern of retinal nerve fibre layer (RNFL) distribution compared to controls. Significant correlations between the depth of the RNFL at the inferior-nasal peripapillary retina and the corresponding far temporal and superior temporal visual field areas (sensitivity) were found. Our results show that cross-modal plasticity after early onset deafness may not be limited to the sensory cortices, noting specific retinal adaptations in early onset deaf adults which are significantly correlated with peripheral vision sensitivity.",Missing,PloS one,6

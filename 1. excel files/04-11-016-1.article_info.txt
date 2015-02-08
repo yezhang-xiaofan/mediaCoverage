@@ -1,0 +1,18 @@
+21452338,"Impact of offending trajectories on health: disability, hospitalisation and death in middle-aged men in the Cambridge Study in Delinquent Development.","Adolescent
+Adult
+Antisocial Personality Disorder/epidemiology/*psychology
+Disabled Persons/statistics & numerical data
+*Health Status
+Hospitalization/statistics & numerical data
+Humans
+Interviews as Topic
+Juvenile Delinquency/psychology/statistics & numerical data
+Logistic Models
+London/epidemiology
+Longitudinal Studies
+Male
+Middle Aged
+Mortality
+Prisoners/*psychology/*statistics & numerical data
+Questionnaires
+Risk Factors",Piquero AR and Shepherd I and Shepherd JP and Farrington DP,"BACKGROUND: An anti-social lifestyle has been found to be associated with a higher likelihood of injury but a lower likelihood of organic illness up to the age of 32 years. It is not known if these associations persist into the fifth decade nor whether adverse health conditions are differently distributed across distinct offending trajectories. HYPOTHESES: Hypotheses were that adverse health outcomes by the age of 48 years would vary across distinct trajectories and specifically that poor health would be most pronounced amongst the highest-rate chronic offenders, even after controlling for childhood individual and environmental risk factors. METHODS: Injury and illness data were collected prospectively from boys of age 8 years in the course of the longitudinal Cambridge Study in Delinquent Development. RESULTS: By the age of 48 years, offending trajectories differed significantly from one another on two specific health outcomes: being registered disabled and hospitalisation. High-rate chronic offenders had the highest risk for both of these outcomes. Logistic regression modelling ruled out individual or environmental childhood risk factors for offending as a likely common cause of the health problems. CONCLUSIONS: The findings suggest that high-rate chronic offending may in itself create the substrate for hospitalisation and registered disability. We express some caution about the limitations imposed on the research by the small size of this specific group of interest, but suggest that the findings may indicate a case for the various agencies likely to be involved with such men - health, social services and the criminal justice system - working together in a public health model to focus on improving the chances of limiting offending to adolescence within the sub-group of persons at high risk for life-course persistent offending.",fsu,Criminal behaviour and mental health : CBMH,21

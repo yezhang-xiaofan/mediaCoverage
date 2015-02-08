@@ -1,0 +1,14 @@
+21454619,The E3 ligase Smurf1 regulates Wolfram syndrome protein stability at the endoplasmic reticulum.,The Journal of biological chemistry,Guo X and Shen S and Song S and He S and Cui Y and Xing G and Wang J and Yin Y and Fan L and He F and Zhang L,Missing,"The HECT-type ubiquitin ligase (E3) Smad ubiquitination regulatory factor 1 (Smurf1) targets various substrates, including Smad1/5, RhoA, Prickle 1, MEKK2, and JunB for degradation and thereby regulates adult bone formation and embryonic development. Here, we identify the endoplasmic reticulum (ER)-localized Wolfram syndrome protein (WFS1) as a specific degradation substrate of Smurf1. Mutations in the WFS1 gene cause Wolfram syndrome, an autosomal recessive disorder characterized by diabetes mellitus and optic atrophy. WFS1 negatively regulates the ER stress response, and WFS1 deficiency in mice increases ER stress and triggers apoptosis. We show that Smurf1 interacts with WFS1 at the ER and promotes the ubiquitination and proteasomal degradation of WFS1. A C-terminal luminal region in WFS1, including residues 667-700, is involved in this degradation. Wild-type WFS1 as well as a subset of WFS1 mutants that include this degron region are susceptible to Smurf1-mediated degradation. By contrast, pathophysiological deletion mutants of WFS1 lacking the degron, such as W648X, Y660X, and Q667X, are resistant to degradation by Smurf1. Depletion of Smurf1 by RNA interference results in increased WFS1 and decreased ATF6alpha levels. Furthermore, we show that ER stress induces Smurf1 degradation and WFS1 up-regulation. These findings reveal for the first time that Smurf1 targets an ER-localized protein for degradation and that Smurf1 is regulated by ER stress.","Activating Transcription Factor 6/genetics/metabolism
+Amino Acid Substitution
+Animals
+Cell Line, Tumor
+Endoplasmic Reticulum/genetics/*metabolism
+HEK293 Cells
+Humans
+Membrane Proteins/genetics/*metabolism
+Mice
+Mutation, Missense
+Protein Structure, Tertiary
+Ubiquitin-Protein Ligases/genetics/*metabolism
+Unfolded Protein Response/*physiology
+Up-Regulation/physiology"

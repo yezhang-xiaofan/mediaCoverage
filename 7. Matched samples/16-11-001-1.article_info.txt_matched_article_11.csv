@@ -1,0 +1,17 @@
+21045145,Inhibition of glutaminase preferentially slows growth of glioma cells with mutant IDH1.,Cancer research,Seltzer MJ and Bennett BD and Joshi AD and Gao P and Thomas AG and Ferraris DV and Tsukamoto T and Rojas CJ and Slusher BS and Rabinowitz JD and Dang CV and Riggins GJ,Missing,"Mutation at the R132 residue of isocitrate dehydrogenase 1 (IDH1), frequently found in gliomas and acute myelogenous leukemia, creates a neoenzyme that produces 2-hydroxyglutarate (2-HG) from alpha-ketoglutarate (alpha-KG). We sought to therapeutically exploit this neoreaction in mutant IDH1 cells that require alpha-KG derived from glutamine. Glutamine is converted to glutamate by glutaminase and further metabolized to alpha-KG. Therefore, we inhibited glutaminase with siRNA or the small molecule inhibitor bis-2-(5-phenylacetamido-1,2,4-thiadiazol-2-yl)ethyl sulfide (BPTES) and found slowed growth of glioblastoma cells expressing mutant IDH1 compared with those expressing wild-type IDH1. Growth suppression of mutant IDH1 cells by BPTES was rescued by adding exogenous alpha-KG. BPTES inhibited glutaminase activity, lowered glutamate and alpha-KG levels, and increased glycolytic intermediates while leaving total 2-HG levels unaffected. The ability to selectively slow growth in cells with IDH1 mutations by inhibiting glutaminase suggests a unique reprogramming of intermediary metabolism and a potential therapeutic strategy.","Blotting, Western
+Cell Line, Transformed
+Cell Line, Tumor
+Cell Proliferation/drug effects
+Dose-Response Relationship, Drug
+Glioma/genetics/metabolism/pathology
+Glutamic Acid/metabolism
+Glutaminase/antagonists & inhibitors/genetics/*metabolism
+Glutarates/metabolism
+Humans
+Isocitrate Dehydrogenase/genetics/*metabolism
+Ketoglutaric Acids/metabolism/pharmacology
+*Mutation
+RNA Interference
+Sulfides/pharmacology
+Thiadiazoles/pharmacology
+Time Factors"

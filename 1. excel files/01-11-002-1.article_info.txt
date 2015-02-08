@@ -1,0 +1,20 @@
+21420485,Neutrophil function and cortisol:DHEAS ratio in bereaved older adults.,"Aged
+Aging/*immunology
+Anxiety/etiology/immunology/physiopathology
+*Bereavement
+Case-Control Studies
+Dehydroepiandrosterone Sulfate/*blood
+Depression/etiology/immunology/physiopathology
+Escherichia coli
+Female
+Humans
+Hydrocortisone/*blood
+Male
+Neutrophils/drug effects/*physiology
+Phagocytosis/drug effects
+Questionnaires
+Respiratory Burst
+Severity of Illness Index
+Stress, Psychological/*etiology/immunology/physiopathology/psychology
+Superoxides/metabolism
+Tetradecanoylphorbol Acetate/pharmacology",Khanfer R and Lord JM and Phillips AC,"Bereavement is a common life event for older adults and is associated with increased risk of morbidity and mortality, though the underlying reasons for this link are poorly understood. Although physical and emotional stressors and ageing are known to suppress immunity, few studies have explored the impact of bereavement upon immunity in the older population. We therefore hypothesised that the emotional stress of bereavement would suppress immune function, specifically neutrophil bactericidal activity, in older adults. A between-subjects design was used to examine the effect of recent bereavement (<2 months) on neutrophil function in elders. Participants were 24 bereaved and 24 age- and sex-matched non-bereaved controls all aged 65+ years. Neutrophil phagocytosis of Escherichia coli (E. coli) and stimulated superoxide production were assessed. Cortisol and dehydroepiandrosterone-sulphate (DHEAS) levels were determined in serum to assess potential mechanisms. Depressive and anxiety symptoms were measured by questionnaire. Neutrophil superoxide production was significantly reduced among the bereaved when challenged with E. coli (p=0.05), or phorbol 12-myristate 13-acetate (p=0.009). Further, the bereaved group had a significantly higher cortisol:DHEAS ratio compared to controls (p=0.03). There was no difference in neutrophil phagocytosis between the two groups. The psychological questionnaire results showed that the bereaved had significantly greater depressive and anxiety symptoms than the non-bereaved. The emotional stress of bereavement is associated with suppressed neutrophil superoxide production and with a raised cortisol:DHEAS ratio. The stress of bereavement exaggerates the age-related decline in HPA axis and combines with immune ageing to further suppress immune function, which may help to the explain increased risk of infection in bereaved older adults.",Missing,"Brain, behavior, and immunity",25

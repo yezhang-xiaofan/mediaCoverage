@@ -1,0 +1,20 @@
+21926974,Genome-wide association study identifies five new schizophrenia loci.,"Alleles
+Bipolar Disorder
+Case-Control Studies
+European Continental Ancestry Group
+Female
+Gene Dosage
+Gene Expression Regulation
+Genetic Loci
+Genetic Predisposition to Disease
+Genome, Human
+*Genome-Wide Association Study
+Haplotypes
+Humans
+Linkage Disequilibrium
+Logistic Models
+Male
+MicroRNAs/genetics/metabolism
+Mutation
+*Polymorphism, Single Nucleotide
+Schizophrenia/*genetics",Missing,"We examined the role of common genetic variation in schizophrenia in a genome-wide association study of substantial size: a stage 1 discovery sample of 21,856 individuals of European ancestry and a stage 2 replication sample of 29,839 independent subjects. The combined stage 1 and 2 analysis yielded genome-wide significant associations with schizophrenia for seven loci, five of which are new (1p21.3, 2q32.3, 8p23.2, 8q21.3 and 10q24.32-q24.33) and two of which have been previously implicated (6p21.32-p22.1 and 18q21.2). The strongest new finding (P = 1.6 x 10(-11)) was with rs1625579 within an intron of a putative primary transcript for MIR137 (microRNA 137), a known regulator of neuronal development. Four other schizophrenia loci achieving genome-wide significance contain predicted targets of MIR137, suggesting MIR137-mediated dysregulation as a previously unknown etiologic mechanism in schizophrenia. In a joint analysis with a bipolar disorder sample (16,374 affected individuals and 14,044 controls), three loci reached genome-wide significance: CACNA1C (rs4765905, P = 7.0 x 10(-9)), ANK3 (rs10994359, P = 2.5 x 10(-8)) and the ITIH3-ITIH4 region (rs2239547, P = 7.8 x 10(-9)).",Missing,Nature genetics,43

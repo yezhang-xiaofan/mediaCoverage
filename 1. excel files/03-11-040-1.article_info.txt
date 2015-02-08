@@ -1,0 +1,14 @@
+22099463,Activation of central orexin/hypocretin neurons by dietary amino acids.,"Amino Acid Transport Systems/metabolism/pharmacology
+Amino Acids/metabolism/physiology
+Animals
+Dietary Proteins/metabolism/*pharmacology
+Hypothalamus/drug effects/*metabolism
+Intracellular Signaling Peptides and Proteins
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Motor Activity/drug effects/physiology
+Neurons/drug effects/*metabolism
+Neuropeptides/*biosynthesis
+Patch-Clamp Techniques",Karnani MM and Apergis-Schoute J and Adamantidis A and Jensen LT and de Lecea L and Fugger L and Burdakov D,"Hypothalamic orexin/hypocretin (orx/hcrt) neurons regulate energy balance, wakefulness, and reward; their loss produces narcolepsy and weight gain. Glucose can lower the activity of orx/hcrt cells, but whether other dietary macronutrients have similar effects is unclear. We show that orx/hcrt cells are stimulated by nutritionally relevant mixtures of amino acids (AAs), both in brain slice patch-clamp experiments, and in c-Fos expression assays following central or peripheral administration of AAs to mice in vivo. Physiological mixtures of AAs electrically excited orx/hcrt cells through a dual mechanism involving inhibition of K(ATP) channels and activation of system-A amino acid transporters. Nonessential AAs were more potent in activating orx/hcrt cells than essential AAs. Moreover, the presence of physiological concentrations of AAs suppressed the glucose responses of orx/hcrt cells. These results suggest a new mechanism of hypothalamic integration of macronutrient signals and imply that orx/hcrt cells sense macronutrient balance, rather than net energy value, in extracellular fluid.",Missing,Neuron,72

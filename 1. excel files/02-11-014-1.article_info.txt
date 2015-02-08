@@ -1,0 +1,16 @@
+21323541,Risk HLA-DQA1 and PLA(2)R1 alleles in idiopathic membranous nephropathy.,"Alleles
+Chromosomes, Human, Pair 2
+Chromosomes, Human, Pair 6
+Europe
+European Continental Ancestry Group/genetics
+Female
+*Genome-Wide Association Study
+Genotype
+Glomerulonephritis, Membranous/*genetics
+HLA-DQ Antigens/*genetics
+HLA-DQ alpha-Chains
+Humans
+Male
+Odds Ratio
+*Polymorphism, Single Nucleotide
+Receptors, Phospholipase A2/*genetics",Stanescu HC and Arcos-Burgos M and Medlar A and Bockenhauer D and Kottgen A and Dragomirescu L and Voinescu C and Patel N and Pearce K and Hubank M and Stephens HA and Laundy V and Padmanabhan S and Zawadzka A and Hofstra JM and Coenen MJ and den Heijer M and Kiemeney LA and Bacq-Daian D and Stengel B and Powis SH and Brenchley P and Feehally J and Rees AJ and Debiec H and Wetzels JF and Ronco P and Mathieson PW and Kleta R,"BACKGROUND: Idiopathic membranous nephropathy is a major cause of the nephrotic syndrome in adults, but its etiologic basis is not fully understood. We investigated the genetic basis of biopsy-proven cases of idiopathic membranous nephropathy in a white population. METHODS: We performed independent genomewide association studies of single-nucleotide polymorphisms (SNPs) in patients with idiopathic membranous nephropathy from three populations of white ancestry (75 French, 146 Dutch, and 335 British patients). The patients were compared with racially matched control subjects; population stratification and quality controls were carried out according to standard criteria. Associations were calculated by means of a chi-square basic allele test; the threshold for significance was adjusted for multiple comparisons (with the Bonferroni method). RESULTS: In a joint analysis of data from the 556 patients studied (398 men), we identified significant alleles at two genomic loci associated with idiopathic membranous nephropathy. Chromosome 2q24 contains the gene encoding M-type phospholipase A(2) receptor (PLA(2)R1) (SNP rs4664308, P=8.6x10(-29)), previously shown to be the target of an autoimmune response. Chromosome 6p21 contains the gene encoding HLA complex class II HLA-DQ alpha chain 1 (HLA-DQA1) (SNP rs2187668, P=8.0x10(-93)). The association with HLA-DQA1 was significant in all three populations (P=1.8x10(-9), P=5.6x10(-27), and P=5.2x10(-36) in the French, Dutch, and British groups, respectively). The odds ratio for idiopathic membranous nephropathy with homozygosity for both risk alleles was 78.5 (95% confidence interval, 34.6 to 178.2). CONCLUSIONS: An HLA-DQA1 allele on chromosome 6p21 is most closely associated with idiopathic membranous nephropathy in persons of white ancestry. This allele may facilitate an autoimmune response against targets such as variants of PLA2R1. Our findings suggest a basis for understanding this disease and illuminate how adaptive immunity is regulated by HLA.",Missing,The New England journal of medicine,364

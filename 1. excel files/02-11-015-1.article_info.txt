@@ -1,0 +1,17 @@
+21193738,Wnt4/beta-catenin signaling induces VSMC proliferation and is associated with intimal thickening.,"Animals
+*Cell Proliferation
+Cyclin D1/physiology
+Frizzled Receptors/physiology
+Mice
+Mice, Mutant Strains
+Mice, Transgenic
+Models, Animal
+Muscle, Smooth, Vascular/*cytology/physiology
+Myocytes, Smooth Muscle/*cytology/physiology
+Signal Transduction/*physiology
+Tunica Intima/*cytology/physiology
+Up-Regulation/physiology
+Wnt Proteins/genetics/*physiology
+Wnt2 Protein/genetics/physiology
+Wnt4 Protein
+beta Catenin/genetics/*physiology",Tsaousi A and Williams H and Lyon CA and Taylor V and Swain A and Johnson JL and George SJ,"RATIONALE: Vascular smooth muscle cell (VSMC) proliferation causes intimal thickening in atherosclerosis and restenosis. Previously, we demonstrated that Wnt/beta-catenin signaling upregulates VSMC proliferation in vitro. OBJECTIVE: We examined this pathway in vivo and investigated the involvement of specific Wnt proteins in VSMC proliferation. METHODS AND RESULTS: Left carotid arteries of TOPgal (beta-catenin signaling reporter) transgenic mice were ligated to induce intimal thickening. beta-Catenin signaling was induced in the media and intima at 3 and 28 days after ligation, respectively, and was associated with VSMC proliferation and cyclin D1 expression. In vitro, a Wnt agonist promoted mouse VSMC proliferation, whereas Wnt inhibitory factor (WIF)-1 retarded platelet-derived growth factor-BB (PDGF-BB)-induced VSMC proliferation. Microarray analysis and quantitative PCR detected a significant induction of Wnt2 and Wnt4 mRNA in PDGF-BB-treated (proliferating) VSMCs compared to quiescent VSMCs. Western blotting revealed this increase was only translated into protein for Wnt4. Specific silencing RNA knockdown of Wnt4, but not Wnt2, significantly reduced VSMC proliferation. Recombinant Wnt4, but not Wnt2, significantly increased VSMC proliferation by approximately 2-fold and silencing RNA knockdown revealed this is via Frizzled 1. Immunohistochemistry showed that increased Wnt4 protein correlated with VSMC proliferation and cyclin D1 expression (P<0.05 and P<0.001, respectively) during intimal thickening after rat carotid artery injury. Importantly, we also showed that intimal thickening and VSMC proliferation after carotid artery ligation was significantly retarded in Wnt4(+/-) compared to Wnt4(+/+) mice. CONCLUSIONS: This study demonstrates that Wnt/beta-catenin signaling occurs in proliferating VSMCs during intimal thickening and indicates that this is a result of Wnt4 upregulation.",Missing,Circulation research,108

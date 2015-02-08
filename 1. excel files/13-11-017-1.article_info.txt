@@ -1,0 +1,19 @@
+21874280,Highly efficient zinc-finger nuclease-mediated disruption of an eGFP transgene in keratinocyte stem cells without impairment of stem cell properties.,"Animals
+Base Sequence
+Biological Assay
+Cell Aggregation
+Cell Count
+Cell Death
+Cell Differentiation
+Endonucleases/*metabolism
+Epidermis/cytology
+Flow Cytometry
+Fluorescent Antibody Technique
+Genotype
+Green Fluorescent Proteins/*genetics
+Keratinocytes/*metabolism
+Mice
+Molecular Sequence Data
+Stem Cells/*metabolism
+Transgenes/*genetics
+*Zinc Fingers",Hoher T and Wallace L and Khan K and Cathomen T and Reichelt J,"Zinc-finger nucleases (ZFNs) are sequence-specific genome engineering tools with great potential for the development of gene therapies. The achievement of permanent cures through gene therapy requires targeting of stem cells but the effects and/or side effects of ZFN treatment on adult stem cell potency are largely unknown. Keratinocyte stem cells (KSCs) are attractive candidates for the development of gene therapies as their isolation, culture and grafting are well established. We derived KSCs from eGFP-transgenic mice and knocked out eGFP expression by disrupting the open reading frame with specific ZFNs in cell culture. EGFP-negative KSCs were then used as a model system to study the impact of ZFN treatment on stem cell potential. We achieved high gene disruption efficiencies with up to 18% eGFP-negative KSCs. As expected, ZFN cytotoxicity increased with rising ZFN concentrations. However, the ratio of correctly targeted KSCs among total treated cells was similar at different ZFN doses. Most importantly, our in vitro assays showed that ZFN-treated KSCs maintained their stem cell potential. They retained the capacity to both self-renew and form fully differentiated epidermal equivalents in culture. Moreover, they were able to form spherical aggregates in suspension culture, a characteristic hallmark shared with other stem cell types, and they expressed the in vivo KSC markers K15, NFATc1 and Sox9. Our data suggest that the stem cell potential of KSCs is not impaired by highly efficient ZFN treatment.",Missing,Stem cell reviews,8

@@ -1,0 +1,20 @@
+21737703,Schema-dependent gene activation and memory encoding in neocortex.,"6-Cyano-7-nitroquinoxaline-2,3-dione/pharmacology
+Animals
+Cues
+Cytoskeletal Proteins/genetics
+Early Growth Response Protein 1/genetics
+*Genes, Immediate-Early
+Hippocampus/*physiology
+Learning
+Male
+*Memory
+*Mental Recall
+Neocortex/*physiology
+Nerve Tissue Proteins/genetics
+Prefrontal Cortex/*physiology
+Rats
+Receptors, AMPA/antagonists & inhibitors
+Receptors, N-Methyl-D-Aspartate/antagonists & inhibitors
+Synaptic Transmission/drug effects
+*Transcriptional Activation
+Up-Regulation",Tse D and Takeuchi T and Kakeyama M and Kajii Y and Okuno H and Tohyama C and Bito H and Morris RG,"When new learning occurs against the background of established prior knowledge, relevant new information can be assimilated into a schema and thereby expand the knowledge base. An animal model of this important component of memory consolidation reveals that systems memory consolidation can be very fast. In experiments with rats, we found that the hippocampal-dependent learning of new paired associates is associated with a striking up-regulation of immediate early genes in the prelimbic region of the medial prefrontal cortex, and that pharmacological interventions targeted at that area can prevent both new learning and the recall of remotely and even recently consolidated information. These findings challenge the concept of distinct fast (hippocampal) and slow (cortical) learning systems, and shed new light on the neural mechanisms of memory assimilation into schemas.",Missing,"Science (New York, N.Y.)",333

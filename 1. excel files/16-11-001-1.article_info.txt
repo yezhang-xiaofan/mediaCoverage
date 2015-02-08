@@ -1,0 +1,26 @@
+20884632,Nox2 NADPH oxidase promotes pathologic cardiac remodeling associated with Doxorubicin chemotherapy.,"Animals
+Anti-Arrhythmia Agents/pharmacology
+Antibiotics, Antineoplastic/pharmacology
+Apoptosis/drug effects
+Cells, Cultured
+Doxorubicin/*pharmacology
+Echocardiography
+GATA4 Transcription Factor/genetics
+Gene Expression/drug effects
+HeLa Cells
+Heart/drug effects/physiopathology
+Humans
+In Situ Nick-End Labeling
+Losartan/pharmacology
+Male
+Matrix Metalloproteinase 9/genetics
+Membrane Glycoproteins/genetics/*metabolism
+Mice
+Mice, Inbred C57BL
+Mice, Knockout
+Myocardial Contraction/drug effects
+Myocardium/*metabolism/pathology
+Myocytes, Cardiac/drug effects/metabolism/pathology
+NADPH Oxidase/genetics/*metabolism
+Reverse Transcriptase Polymerase Chain Reaction
+Ventricular Remodeling/drug effects",Zhao Y and McLaughlin D and Robinson E and Harvey AP and Hookham MB and Shah AM and McDermott BJ and Grieve DJ,"Doxorubicin is a highly effective cancer treatment whose use is severely limited by dose-dependent cardiotoxicity. It is well established that doxorubicin increases reactive oxygen species (ROS) production. In this study, we investigated contributions to doxorubicin cardiotoxicity from Nox2 NADPH oxidase, an important ROS source in cardiac cells, which is known to modulate several key processes underlying the myocardial response to injury. Nox2-deficient mice (Nox2-/-) and wild-type (WT) controls were injected with doxorubicin (12 mg/kg) or vehicle and studied 8 weeks later. Echocardiography indicated that doxorubicin-induced contractile dysfunction was attenuated in Nox2-/- versus WT mice (fractional shortening: 29.5+/-1.4 versus 25.7+/-1.0%; P<0.05). Similarly, in vivo pressure-volume analysis revealed that systolic and diastolic function was preserved in doxorubicin-treated Nox2-/- versus WT mice (ejection fraction: 52.6+/-2.5 versus 28.5+/-2.3%, LVdP/dtmin: -8,379+/-416 versus -5,198+/-527 mmHg s(-1); end-diastolic pressure-volume relation: 0.051+/-0.009 versus 0.114+/-0.012; P<0.001). Furthermore, in response to doxorubicin, Nox2-/- mice exhibited less myocardial atrophy, cardiomyocyte apoptosis, and interstitial fibrosis, together with reduced increases in profibrotic gene expression (procollagen IIIalphaI, transforming growth factor-beta3, and connective tissue growth factor) and matrix metalloproteinase-9 activity, versus WT controls. These alterations were associated with beneficial changes in NADPH oxidase activity, oxidative/nitrosative stress, and inflammatory cell infiltration. We found that adverse effects of doxorubicin were attenuated by acute or chronic treatment with the AT1 receptor antagonist losartan, which is commonly used to reduce blood pressure. Our findings suggest that ROS specifically derived from Nox2 NADPH oxidase make a substantial contribution to several key processes underlying development of cardiac contractile dysfunction and remodeling associated with doxorubicin chemotherapy.",Missing,Cancer research,70

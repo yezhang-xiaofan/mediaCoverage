@@ -1,0 +1,17 @@
+21641383,Length-dependent retention of carbon nanotubes in the pleural space of mice initiates sustained inflammation and progressive fibrosis on the parietal pleura.,"Animals
+Cell Proliferation
+*Disease Progression
+Epithelium/pathology
+Fibrosis
+Inflammation/*complications/*pathology
+Lymph Nodes/pathology
+Mediastinum/pathology
+Mice
+Nanotubes, Carbon/*chemistry/ultrastructure
+Nanowires/ultrastructure
+Particle Size
+Pleura/*pathology/ultrastructure
+Pleural Cavity/*pathology/ultrastructure
+Time Factors
+Tomography, Emission-Computed, Single-Photon
+Tomography, X-Ray Computed",Murphy FA and Poland CA and Duffin R and Al-Jamal KT and Ali-Boucetta H and Nunes A and Byrne F and Prina-Mello A and Volkov Y and Li S and Mather SJ and Bianco A and Prato M and Macnee W and Wallace WA and Kostarelos K and Donaldson K,"The fibrous shape of carbon nanotubes (CNTs) raises concern that they may pose an asbestos-like inhalation hazard, leading to the development of diseases, especially mesothelioma. Direct instillation of long and short CNTs into the pleural cavity, the site of mesothelioma development, produced asbestos-like length-dependent responses. The response to long CNTs and long asbestos was characterized by acute inflammation, leading to progressive fibrosis on the parietal pleura, where stomata of strictly defined size limit the egress of long, but not short, fibers. This was confirmed by demonstrating clearance of short, but not long, CNT and nickel nanowires and by visualizing the migration of short CNTs from the pleural space by single-photon emission computed tomographic imaging. Our data confirm the hypothesis that, although a proportion of all deposited particles passes through the pleura, the pathogenicity of long CNTs and other fibers arises as a result of length-dependent retention at the stomata on the parietal pleura.",Missing,The American journal of pathology,178

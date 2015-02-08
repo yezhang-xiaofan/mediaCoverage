@@ -1,0 +1,18 @@
+21438874,Children's perceptions of parental emotional neglect and control and psychopathology.,"Adolescent
+Child
+Child Abuse/*psychology
+Child Behavior/*psychology
+Diagnostic and Statistical Manual of Mental Disorders
+Emotions/physiology
+Female
+Health Surveys
+Humans
+Longitudinal Studies
+Male
+*Parent-Child Relations
+Parenting/*psychology
+Parents/*psychology
+Psychological Tests
+Psychopathology
+Scotland
+*Social Perception",Young R and Lennie S and Minnis H,"BACKGROUND: Parental emotional neglect is linked to psychiatric disorder. This study explores the associations between children's perceptions of parental emotional neglect and future psychopathology. METHODS: In a school-based longitudinal study of nearly 1,700 children aged 11-15 we explored children's perceptions of parenting, as measured by the Parental Bonding Instrument (PBI) at age 11, and their associations with later psychiatric diagnosis at age 15, as measured by computerised psychiatric interview. Rather than using the traditional four-category approach to the PBI, we identified groups of children, classified according to their perceptions of parenting, using latent class analysis. RESULTS: A small group of children (3%) perceived their parents as almost always emotionally neglectful and controlling. This group had an increased odds of psychiatric disorder (OR 2.14; 95% CI 1.29-4.50), increased overall (standardised) psychiatric symptom scores (B=.46; 95% CI .16-.75) and increased scores in all psychiatric subscales except substance-use at age 15, despite no increase in psychiatric referral at age 11. Analyses controlled for key potential confounders (e.g., socioeconomic status). CONCLUSIONS: Although our findings are limited by having no objective evidence that children's perceptions of emotional neglect are directly associated with actual neglect, children's perceptions of neglect and control are associated with over twice the odds of psychiatric disorder at age 15. Children's perceptions that parents are emotionally neglectful and controlling are independently associated with later psychiatric disorder and should be taken seriously as a risk factor for future psychopathology.",Missing,"Journal of child psychology and psychiatry, and allied disciplines",52

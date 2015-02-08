@@ -1,0 +1,16 @@
+21311598,Added value measures in education show genetic as well as environmental influence.,"Achievement
+Adolescent
+Child
+Cognition/physiology
+Education
+*Educational Status
+Faculty
+Female
+Humans
+Intelligence/*genetics
+Male
+Reference Values
+Research Design/standards
+*Social Environment
+Twins/genetics/physiology/psychology
+Weights and Measures",Haworth CM and Asbury K and Dale PS and Plomin R,"Does achievement independent of ability or previous attainment provide a purer measure of the added value of school? In a study of 4000 pairs of 12-year-old twins in the UK, we measured achievement with year-long teacher assessments as well as tests. Raw achievement shows moderate heritability (about 50%) and modest shared environmental influences (25%). Unexpectedly, we show that for indices of the added value of school, genetic influences remain moderate (around 50%), and the shared (school) environment is less important (about 12%). The pervasiveness of genetic influence in how and how much children learn is compatible with an active view of learning in which children create their own educational experiences in part on the basis of their genetic propensities.",Missing,PloS one,6

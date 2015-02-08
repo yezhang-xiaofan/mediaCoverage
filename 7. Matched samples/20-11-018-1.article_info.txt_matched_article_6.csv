@@ -1,0 +1,15 @@
+21998322,Transthiocarbamoylation of proteins by thiolated isothiocyanates.,The Journal of biological chemistry,Shibata T and Kimura Y and Mukai A and Mori H and Ito S and Asaka Y and Oe S and Tanaka H and Takahashi T and Uchida K,Missing,"Isothiocyanates, membrane-permeable electrophiles that form adducts with thiols, have been suggested to have important medical benefits. Here we shed light on isothiocyanate-thiol conjugates and studied their electrophilic potential transferring an isothiocyanate moiety to cellular proteins. When we examined the effect of sulfhydryl molecules on cellular response induced by 6-methylsulfinylhexyl isothiocyanate (6-HITC), an analog of sulforaphane isolated from broccoli, we observed significant induction of heme oxygenase-1 by 6-HITC even in the presence of N-acetyl-L-cysteine or glutathione (GSH). In addition, the authentic 6-HITC-beta-mercaptoethanol (6-HITC-ME) conjugate markedly up-regulated the enzyme expression, suggesting the electrophilic potential of thiolated isothiocyanates. To gain a chemical insight into the cellular response induced by thiolated isothiocyanates, we studied the occurrence of transthiocarbamoylation of sulfhydryl molecules by 6-HITC-ME and observed that, upon incubation of 6-HITC-ME with GSH, a single product corresponding to the GSH conjugate of 6-HITC was generated. To test the functional ability of thiolated isothiocyanates to thiocarbamoylate proteins in living cells, we designed a novel probe, combining an isothiocyanate-reactive group and an alkyne functionality, and revealed that the transthiocarbamoylation of proteins occurred in the cells upon exposure to 6-HITC-ME. The target of thiocarbamoylation included heat shock protein 90 beta (Hsp90beta), a chaperone ATPase of the Hsp90 family implicated in protein maturation and targeting. To identify the sites of the Hsp90beta modification, we utilized nano-LC/MALDI-TOF MS/MS and suggested that a thiol group on the peptide containing Cys-521 reacted with 6-HITC, resulting in a covalent adduct in a 6-HITC-treated recombinant Hsp90beta in vitro. The site-selective binding to Cys-521 was supported by in silico modeling. Further study on the thiocarbamoylation of Hsp90beta suggested that the formation of 6-HITC-Hsp90beta conjugate might cause activation of heat shock factor-1, rapidly signaling a potential heat shock response. These data suggest that thiolated isothiocyanates are an active metabolite that could contribute to cellular responses through transthiocarbamoylation of cellular proteins.","Animals
+Caco-2 Cells
+Escherichia coli/metabolism
+HSP90 Heat-Shock Proteins/*chemistry
+Humans
+Image Processing, Computer-Assisted
+Immunohistochemistry/methods
+Immunoprecipitation/methods
+Isothiocyanates/*chemistry
+Protein Processing, Post-Translational
+Proteins/*chemistry
+RNA, Small Interfering/metabolism
+Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization/methods
+Sulfhydryl Compounds/chemistry
+Wolves"

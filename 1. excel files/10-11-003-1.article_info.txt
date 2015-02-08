@@ -1,0 +1,10 @@
+21708808,"Food commercials increase preference for energy-dense foods, particularly in children who watch more television.","Adolescent
+Advertising as Topic/*statistics & numerical data
+Child
+*Energy Intake
+Female
+*Food
+*Food Preferences
+Humans
+Male
+Television/*statistics & numerical data",Boyland EJ and Harrold JA and Kirkham TC and Corker C and Cuddy J and Evans D and Dovey TM and Lawton CL and Blundell JE and Halford JC,"OBJECTIVE: Our aim was to determine if levels of television viewing (a proxy measure for habitual commercial exposure) affect children's food preference responses to television food commercials. METHODS: A total of 281 children aged 6 to 13 years from northwest England viewed toy or food television commercials followed by a cartoon on 2 separate occasions; they then completed 3 food preference measures, a commercial recognition task, and a television viewing questionnaire. RESULTS: After viewing the food commercials, all children selected more branded and nonbranded fat-rich and carbohydrate-rich items from food preference checklists compared with after viewing the toy commercials. The food preferences of children with higher habitual levels of television viewing were more affected by food commercial exposure than those of low television viewers. After viewing food commercials, high television viewing children selected a greater number of branded food items compared with after the toy commercials as well as compared with the low television viewers. Children correctly recognized more food commercials than toy commercials. CONCLUSIONS: Exposure to television food commercials enhanced high television viewers' preferences for branded foods and increased reported preferences for all food items (branded and nonbranded) relative to the low television viewers. This is the first study to demonstrate that children with greater previous exposure to commercials (high television viewers) seemed to be more responsive to food promotion messages than children with lower previous advertising exposure.",Missing,Pediatrics,128

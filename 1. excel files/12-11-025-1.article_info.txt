@@ -1,0 +1,12 @@
+22020553,Efficient discovery of anti-inflammatory small-molecule combinations using evolutionary computing.,"*Algorithms
+Anti-Inflammatory Agents, Non-Steroidal/chemistry/*pharmacology
+Cell Death/drug effects
+Computational Biology/methods
+*Computer Simulation
+Dose-Response Relationship, Drug
+Drug Discovery/*methods
+Humans
+Interleukin-1beta/antagonists & inhibitors/biosynthesis
+Macrophages/cytology/drug effects/metabolism
+Small Molecule Libraries/chemistry/pharmacology
+Structure-Activity Relationship",Small BG and McColl BW and Allmendinger R and Pahle J and Lopez-Castejon G and Rothwell NJ and Knowles J and Mendes P and Brough D and Kell DB,"The control of biochemical fluxes is distributed, and to perturb complex intracellular networks effectively it is often necessary to modulate several steps simultaneously. However, the number of possible permutations leads to a combinatorial explosion in the number of experiments that would have to be performed in a complete analysis. We used a multiobjective evolutionary algorithm to optimize reagent combinations from a dynamic chemical library of 33 compounds with established or predicted targets in the regulatory network controlling IL-1beta expression. The evolutionary algorithm converged on excellent solutions within 11 generations, during which we studied just 550 combinations out of the potential search space of ~9 billion. The top five reagents with the greatest contribution to combinatorial effects throughout the evolutionary algorithm were then optimized pairwise. A p38 MAPK inhibitor together with either an inhibitor of IkappaB kinase or a chelator of poorly liganded iron yielded synergistic inhibition of macrophage IL-1beta expression. Evolutionary searches provide a powerful and general approach to the discovery of new combinations of pharmacological agents with therapeutic indices potentially greater than those of single drugs.",Missing,Nature chemical biology,7

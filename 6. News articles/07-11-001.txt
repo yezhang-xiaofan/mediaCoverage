@@ -1,0 +1,31 @@
+REUTERS
+Scientists find inflammation immune cell switch
+* Study identifies protein called IRF5 as "master switch"
+* Findings could lead to new drugs for rheumatoid arthritis 
+
+By Kate Kelland 
+LONDON, Jan 16 (Reuters) - Scientists have found a protein that acts as a "master switch" to determine whether certain white blood cells will boost or dampen inflammation, a finding that may help the search for new drugs for rheumatoid arthritis.
+Many patients with rheumatoid arthritis are treated with a class of drugs known as tumour necrosis factor (TNF) inhibitors made by various drug firms including Abbott Laboratories (ABT.N), Merck & Co (MRK.N), Pfizer (PFE.N) and Amgen (AMGN.O)
+But around 30 percent of patients don't respond to anti-TNF drugs, so experts say there is an urgent need to develop more widely effective treatment options.
+In this study, scientists from Imperial College in London found that a protein called IRF5 acts as a molecular switch that controls whether certain white blood cells, known as macrophages, will promote or inhibit inflammation.
+In a report of their findings in the journal Nature Immunology on Sunday, they said the results suggest that blocking the production of IRF5 in macrophages might be an effective way of treating a wide range of autoimmune diseases, such as rheumatoid arthritis, inflammatory bowel disease, lupus and multiple sclerosis. 
+They also suggest that boosting IRF5 levels might help treat people whose immune systems are weak, compromised or damaged.
+"Our results show that IRF5 is the master switch in a key set of immune cells, which determines the profile of genes that get turned on in those cells," Irina Udalova, senior researcher on the study, said in a statement.
+"This is really exciting because it means that if we can design molecules that interfere with IRF5 function, it could give us new anti-inflammatory treatments for a wide variety of conditions."
+The researchers said IRF5 seems to work by switching on genes that stimulate inflammatory responses and dampening genes that inhibit them. 
+It can do this either by interacting with DNA directly, or by interacting with other proteins that themselves control which genes are switched on, they explained in their study.
+Udalova's team is now studying how IRF5 works at a molecular level and which other proteins it interacts with so that they can design ways to block its effects.
+Rheumatoid arthritis is a chronic inflammatory disease affecting around 1 percent of the world's population and arises when the immune system mistakenly attacks joints all over the body. As well as joints, it may also affect the skin, heart, lungs, kidneys and blood vessels. Many sufferers get deformed hands and feet, which hamper movement and ability to function. (Editing by David Holmes) 
+
+The Express
+ January 17, 2011 Monday  Edition 1;  National Edition
+ Arthritis 'trigger' found  SECTION: NEWS; Pg. 30  LENGTH: 136 words
+A NEW treatment for rheumatoid arthritis is a step closer following the discovery of a "master switch" which triggers the condition.
+Rheumatoid arthritis, which affects 350,000 in Britain, is an incurable immune system disease where joints are swollen by inflammation.
+The body uses inflammation as a defence against infection and tissue damage, but too much is harmful.
+Scientists at Imperial College London have found a protein called IRF5 that acts as a switch, telling immune system cells, called macrophages, to promote or stop inflammation.
+Blocking the production of IRF5 could help in a range of diseases including RA, lupus and even MS.
+A treatment called anti-TNF drugs developed at the college previously is ineffective in 30 per cent of cases.
+Senior researcher Dr Irina Udalova said: "This is really exciting."
+
+

@@ -1,0 +1,14 @@
+21852571,Chemical genetic strategy for targeting protein kinases based on covalent complementarity.,Proceedings of the National Academy of Sciences of the United States of America,Garske AL and Peters U and Cortesi AT and Perez JL and Shokat KM,Missing,"The conserved nature of the ATP-binding site of the > 500 human kinases renders the development of specific inhibitors a challenging task. A widely used chemical genetic strategy to overcome the specificity challenge exploits a large-to-small mutation of the gatekeeper residue (a conserved hydrophobic amino acid) and the use of a bulky inhibitor to achieve specificity via shape complementarity. However, in a number of cases, introduction of a glycine or alanine gatekeeper results in diminished kinase activity and ATP affinity. A new chemical genetic approach based on covalent complementarity between an engineered gatekeeper cysteine and an electrophilic inhibitor was developed to address these challenges. This strategy was evaluated with Src, a proto-oncogenic tyrosine kinase known to lose some enzymatic activity using the shape complementarity chemical genetic strategy. We found that Src with a cysteine gatekeeper recapitulates wild type activity and can be irreversibly inhibited both in vitro and in cells. A cocrystal structure of T338C c-Src with a vinylsulfonamide-derivatized pyrazolopyrimidine inhibitor was solved to elucidate the inhibitor binding mode. A panel of electrophilic inhibitors was analyzed against 307 kinases and MOK (MAPK/MAK/MRK overlapping kinase), one of only two human kinases known to have an endogenous cysteine gatekeeper. This analysis revealed remarkably few off-targets, making these compounds the most selective chemical genetic inhibitors reported to date. Protein engineering studies demonstrated that it is possible to increase inhibitor potency through secondary-site mutations. These results suggest that chemical genetic strategies based on covalent complementarity should be widely applicable to the study of protein kinases.","Animals
+Crystallography, X-Ray
+Cysteine/metabolism
+*Genetic Techniques
+Humans
+Inhibitory Concentration 50
+Kinetics
+Mice
+Models, Molecular
+Mutation/genetics
+NIH 3T3 Cells
+Protein Kinase Inhibitors/chemistry/pharmacology
+Protein Kinases/*metabolism
+src-Family Kinases/antagonists & inhibitors/metabolism"

@@ -1,0 +1,19 @@
+22197932,Meta-analysis of genome-wide association studies identifies three new risk loci for atopic dermatitis.,"Cell Differentiation/genetics
+Chromosomes, Human, Pair 11/genetics
+Chromosomes, Human, Pair 20/genetics
+Chromosomes, Human, Pair 5
+Cytokines/genetics
+DNA-Binding Proteins/genetics
+Dermatitis, Atopic/*genetics/immunology
+Epidermis/immunology
+Female
+*Genetic Loci
+Genetic Predisposition to Disease
+*Genome-Wide Association Study
+Humans
+Intermediate Filament Proteins/genetics
+Kinesin/genetics
+Male
+Polymorphism, Single Nucleotide
+Risk
+Transcription Factors/genetics",Paternoster L and Standl M and Chen CM and Ramasamy A and Bonnelykke K and Duijts L and Ferreira MA and Alves AC and Thyssen JP and Albrecht E and Baurecht H and Feenstra B and Sleiman PM and Hysi P and Warrington NM and Curjuric I and Myhre R and Curtin JA and Groen-Blokhuis MM and Kerkhof M and Saaf A and Franke A and Ellinghaus D and Folster-Holst R and Dermitzakis E and Montgomery SB and Prokisch H and Heim K and Hartikainen AL and Pouta A and Pekkanen J and Blakemore AI and Buxton JL and Kaakinen M and Duffy DL and Madden PA and Heath AC and Montgomery GW and Thompson PJ and Matheson MC and Le Souef P and St Pourcain B and Smith GD and Henderson J and Kemp JP and Timpson NJ and Deloukas P and Ring SM and Wichmann HE and Muller-Nurasyid M and Novak N and Klopp N and Rodriguez E and McArdle W and Linneberg A and Menne T and Nohr EA and Hofman A and Uitterlinden AG and van Duijn CM and Rivadeneira F and de Jongste JC and van der Valk RJ and Wjst M and Jogi R and Geller F and Boyd HA and Murray JC and Kim C and Mentch F and March M and Mangino M and Spector TD and Bataille V and Pennell CE and Holt PG and Sly P and Tiesler CM and Thiering E and Illig T and Imboden M and Nystad W and Simpson A and Hottenga JJ and Postma D and Koppelman GH and Smit HA and Soderhall C and Chawes B and Kreiner-Moller E and Bisgaard H and Melen E and Boomsma DI and Custovic A and Jacobsson B and Probst-Hensch NM and Palmer LJ and Glass D and Hakonarson H and Melbye M and Jarvis DL and Jaddoe VW and Gieger C and Strachan DP and Martin NG and Jarvelin MR and Heinrich J and Evans DM and Weidinger S,"Atopic dermatitis (AD) is a commonly occurring chronic skin disease with high heritability. Apart from filaggrin (FLG), the genes influencing atopic dermatitis are largely unknown. We conducted a genome-wide association meta-analysis of 5,606 affected individuals and 20,565 controls from 16 population-based cohorts and then examined the ten most strongly associated new susceptibility loci in an additional 5,419 affected individuals and 19,833 controls from 14 studies. Three SNPs reached genome-wide significance in the discovery and replication cohorts combined, including rs479844 upstream of OVOL1 (odds ratio (OR) = 0.88, P = 1.1 x 10(-13)) and rs2164983 near ACTL9 (OR = 1.16, P = 7.1 x 10(-9)), both of which are near genes that have been implicated in epidermal proliferation and differentiation, as well as rs2897442 in KIF3A within the cytokine cluster at 5q31.1 (OR = 1.11, P = 3.8 x 10(-8)). We also replicated association with the FLG locus and with two recently identified association signals at 11q13.5 (rs7927894; P = 0.008) and 20q13.33 (rs6010620; P = 0.002). Our results underline the importance of both epidermal barrier function and immune dysregulation in atopic dermatitis pathogenesis.",Missing,Nature genetics,44

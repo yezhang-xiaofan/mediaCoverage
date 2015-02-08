@@ -1,0 +1,14 @@
+21865478,Sex differences in the use of anticipatory brain activity to encode emotional events.,"Anticipation, Psychological/*physiology
+Anxiety/physiopathology
+Electroencephalography/methods
+Emotions/*physiology
+Evoked Potentials, Visual/physiology
+Female
+Humans
+Judgment/physiology
+Male
+Memory, Long-Term/physiology
+Personality Inventory
+Photic Stimulation/methods
+*Sex Characteristics
+Young Adult",Galli G and Wolpe N and Otten LJ,"Women and men differ in the way they experience emotional events. Previous work has indicated that the impact of an emotional event depends on how it is anticipated. Separately, it has been shown that anticipation affects memory formation. Here, we assessed whether anticipatory brain activity influences the encoding of emotional events into long-term memory and, in addition, how biological sex affects the use of such activity. Electrical brain activity was recorded from the scalps of healthy men and women while they performed an incidental encoding task (indoor/outdoor judgments) on pleasant, unpleasant, and neutral pictures. Pictures were preceded by a cue that indicated the valence of the upcoming item. Memory was tested after a 20 min delay with a recognition task incorporating the remember/know procedure. Brain activity before picture onset predicted later memory of an event. Crucially, the role of anticipatory activity depended entirely on the valence of a picture and the sex of an individual. Right-lateralized anticipatory activity selectively influenced the encoding of unpleasant pictures in women, but not in men. These findings indicate that anticipatory processes influence the way in which women encode negative events into memory. The selective use of such activity may indicate that anticipatory activity is one mechanism by which individuals regulate their emotions.",Missing,The Journal of neuroscience : the official journal of the Society for Neuroscience,31

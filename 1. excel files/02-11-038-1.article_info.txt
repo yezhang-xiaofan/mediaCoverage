@@ -1,0 +1,18 @@
+21982645,A syndecan-4 hair trigger initiates wound healing through caveolin- and RhoG-regulated integrin endocytosis.,"Animals
+Caveolin 1/*physiology
+Cell Adhesion
+*Cell Movement
+Cells, Cultured
+Endocytosis
+Extracellular Matrix
+Fibroblasts/cytology/metabolism
+Fibronectins/metabolism
+GTP Phosphohydrolases/*physiology
+Integrin alpha5beta1/metabolism
+Keratinocytes/cytology/metabolism
+Mice
+Microscopy, Atomic Force
+Protein Kinase C-alpha/metabolism
+Signal Transduction
+Syndecan-4/*physiology
+*Wound Healing",Bass MD and Williamson RC and Nunan RD and Humphries JD and Byron A and Morgan MR and Martin P and Humphries MJ,"Cell migration during wound healing requires adhesion receptor turnover to enable the formation and disassembly of cell-extracellular matrix contacts. Although recent advances have improved our understanding of integrin trafficking pathways, it is not known how extracellular ligand engagement controls receptor dynamics. Using atomic force microscopy, we have measured cell avidity for fibronectin and defined a mechanism for the outside-in regulation of alpha(5)beta(1)-integrin. Surprisingly, adhesive strength was attenuated by the syndecan-4-binding domain of fibronectin due to a rapid triggering of alpha(5)beta(1)-integrin endocytosis. Association of syndecan-4 with PKCalpha was found to trigger RhoG activation and subsequent dynamin- and caveolin-dependent integrin uptake. Like disruption of syndecan-4 or caveolin, gene disruption of RhoG in mice was found to retard closure of dermal wounds due to a migration defect of the fibroblasts and keratinocytes of RhoG null mice. Thus, this syndecan-4-regulated integrin endocytic pathway appears to play a key role in tissue repair.",Missing,Developmental cell,21

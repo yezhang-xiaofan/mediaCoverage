@@ -1,0 +1,12 @@
+21240265,IRF5 promotes inflammatory macrophage polarization and TH1-TH17 responses.,"Animals
+Cells, Cultured
+Flow Cytometry
+Humans
+Immunoblotting
+Interferon Regulatory Factors/genetics/*immunology
+Macrophages/*immunology
+Mice
+Mice, Knockout
+Microarray Analysis
+Th1 Cells/*immunology
+Th17 Cells/*immunology",Krausgruber T and Blazek K and Smallie T and Alzabin S and Lockstone H and Sahgal N and Hussell T and Feldmann M and Udalova IA,"Polymorphisms in the gene encoding the transcription factor IRF5 that lead to higher mRNA expression are associated with many autoimmune diseases. Here we show that IRF5 expression in macrophages was reversibly induced by inflammatory stimuli and contributed to the plasticity of macrophage polarization. High expression of IRF5 was characteristic of M1 macrophages, in which it directly activated transcription of the genes encoding interleukin 12 subunit p40 (IL-12p40), IL-12p35 and IL-23p19 and repressed the gene encoding IL-10. Consequently, those macrophages set up the environment for a potent T helper type 1 (T(H)1)-T(H)17 response. Global gene expression analysis demonstrated that exogenous IRF5 upregulated or downregulated expression of established phenotypic markers of M1 or M2 macrophages, respectively. Our data suggest a critical role for IRF5 in M1 macrophage polarization and define a previously unknown function for IRF5 as a transcriptional repressor.",Missing,Nature immunology,12

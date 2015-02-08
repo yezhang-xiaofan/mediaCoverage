@@ -1,0 +1,20 @@
+21909447,Melarsoprol cyclodextrin inclusion complexes as promising oral candidates for the treatment of human African trypanosomiasis.,"Administration, Oral
+Africa South of the Sahara
+Animals
+Antiprotozoal Agents/*administration & dosage/chemistry/pharmacology
+Blood-Brain Barrier/physiology
+Brain/parasitology/pathology/radiography
+Cyclodextrins/*administration & dosage/chemistry/pharmacology
+Disease Models, Animal
+Humans
+Magnetic Resonance Imaging
+Male
+Melarsoprol/*administration & dosage/chemistry/pharmacology
+Mice
+Models, Molecular
+Molecular Structure
+Parasite Load
+Parasitic Sensitivity Tests
+Treatment Outcome
+Trypanosoma brucei brucei/*drug effects
+Trypanosomiasis, African/*drug therapy",Rodgers J and Jones A and Gibaud S and Bradley B and McCabe C and Barrett MP and Gettinby G and Kennedy PG,"Human African trypanosomiasis (HAT), or sleeping sickness, results from infection with the protozoan parasites Trypanosoma brucei (T. b.) gambiense or T. b. rhodesiense and is invariably fatal if untreated. There are 60 million people at risk from the disease throughout sub-Saharan Africa. The infection progresses from the haemolymphatic stage where parasites invade the blood, lymphatics and peripheral organs, to the late encephalitic stage where they enter the central nervous system (CNS) to cause serious neurological disease. The trivalent arsenical drug melarsoprol (Arsobal) is the only currently available treatment for CNS-stage T. b. rhodesiense infection. However, it must be administered intravenously due to the presence of propylene glycol solvent and is associated with numerous adverse reactions. A severe post-treatment reactive encephalopathy occurs in about 10% of treated patients, half of whom die. Thus melarsoprol kills 5% of all patients receiving it. Cyclodextrins have been used to improve the solubility and reduce the toxicity of a wide variety of drugs. We therefore investigated two melarsoprol cyclodextrin inclusion complexes; melarsoprol hydroxypropyl-beta-cyclodextrin and melarsoprol randomly-methylated-beta-cyclodextrin. We found that these compounds retain trypanocidal properties in vitro and cure CNS-stage murine infections when delivered orally, once per day for 7-days, at a dosage of 0.05 mmol/kg. No overt signs of toxicity were detected. Parasite load within the brain was rapidly reduced following treatment onset and magnetic resonance imaging showed restoration of normal blood-brain barrier integrity on completion of chemotherapy. These findings strongly suggest that complexed melarsoprol could be employed as an oral treatment for CNS-stage HAT, delivering considerable improvements over current parenteral chemotherapy.",Missing,PLoS neglected tropical diseases,5

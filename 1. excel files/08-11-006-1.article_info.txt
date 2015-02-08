@@ -1,0 +1,17 @@
+21257971,A novel human IgA monoclonal antibody protects against tuberculosis.,"Animals
+Antibodies, Monoclonal/administration & dosage/metabolism/*therapeutic use
+Antigens, CD/genetics/metabolism/therapeutic use
+Binding Sites, Antibody/immunology
+CHO Cells
+Cricetinae
+Cricetulus
+Humans
+Immunization, Passive/methods
+Immunoglobulin A/administration & dosage/metabolism/*therapeutic use
+Mice
+Mice, Transgenic
+Mycobacterium bovis/immunology
+Mycobacterium tuberculosis/*immunology
+Receptors, Fc/genetics/metabolism/therapeutic use
+Tuberculosis, Pulmonary/*immunology/*therapy
+alpha-Crystallins/immunology",Balu S and Reljic R and Lewis MJ and Pleass RJ and McIntosh R and van Kooten C and van Egmond M and Challacombe S and Woof JM and Ivanyi J,"Abs have been shown to be protective in passive immunotherapy of tuberculous infection using mouse experimental models. In this study, we report on the properties of a novel human IgA1, constructed using a single-chain variable fragment clone (2E9), selected from an Ab phage library. The purified Ab monomer revealed high binding affinities for the mycobacterial alpha-crystallin Ag and for the human FcalphaRI (CD89) IgA receptor. Intranasal inoculations with 2E9IgA1 and recombinant mouse IFN-gamma significantly inhibited pulmonary H37Rv infection in mice transgenic for human CD89 but not in CD89-negative littermate controls, suggesting that binding to CD89 was necessary for the IgA-imparted passive protection. 2E9IgA1 added to human whole-blood or monocyte cultures inhibited luciferase-tagged H37Rv infection although not for all tested blood donors. Inhibition by 2E9IgA1 was synergistic with human rIFN-gamma in cultures of purified human monocytes but not in whole-blood cultures. The demonstration of the mandatory role of FcalphaRI (CD89) for human IgA-mediated protection is important for understanding of the mechanisms involved and also for translation of this approach toward development of passive immunotherapy of tuberculosis.",Missing,"Journal of immunology (Baltimore, Md. : 1950)",186

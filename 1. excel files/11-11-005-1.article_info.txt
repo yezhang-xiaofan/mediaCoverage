@@ -1,0 +1,11 @@
+21855154,"""It's driving her mad"": Gender differences in the effects of commuting on psychological health.","Employment/statistics & numerical data
+Female
+Gender Identity
+Great Britain
+Humans
+Male
+*Sex Factors
+*Stress, Psychological
+Time Factors
+*Transportation
+Women, Working/*psychology",Roberts J and Hodgson R and Dolan P,"Commuting is an important component of time use for most working people. We explore the effects of commuting time on the psychological health of men and women. We use data from the British Household Panel Survey in a fixed effects framework that includes variables known to determine psychological health, as well as factors which may provide compensation for commuting such as income, job satisfaction and housing quality. Our results show that, even after these variables are considered, commuting has an important detrimental effect on the psychological health of women, but not men, and this result is robust to numerous different specifications. We explore explanations for this gender difference and can find no evidence that it is due to women's shorter working hours or weaker occupational position. Rather women's greater sensitivity to commuting time seems to be a result of their larger responsibility for day-to-day household tasks, including childcare and housework.",Missing,Journal of health economics,30

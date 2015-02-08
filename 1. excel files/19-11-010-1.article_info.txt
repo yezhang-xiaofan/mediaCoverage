@@ -1,0 +1,13 @@
+21906948,A shift in sensory processing that enables the developing human brain to discriminate touch from pain.,"Age Factors
+Brain/*growth & development
+Brain Mapping
+*Discrimination (Psychology)
+Electroencephalography
+Evoked Potentials, Somatosensory
+Gestational Age
+Humans
+Infant, Newborn
+Infant, Premature/growth & development/*physiology
+Nociception/physiology
+*Pain Perception
+*Touch Perception",Fabrizi L and Slater R and Worley A and Meek J and Boyd S and Olhede S and Fitzgerald M,"When and how infants begin to discriminate noxious from innocuous stimuli is a fundamental question in neuroscience [1]. However, little is known about the development of the necessary cortical somatosensory functional prerequisites in the intact human brain. Recent studies of developing brain networks have emphasized the importance of transient spontaneous and evoked neuronal bursting activity in the formation of functional circuits [2, 3]. These neuronal bursts are present during development and precede the onset of sensory functions [4, 5]. Their disappearance and the emergence of more adult-like activity are therefore thought to signal the maturation of functional brain circuitry [2, 4]. Here we show the changing patterns of neuronal activity that underlie the onset of nociception and touch discrimination in the preterm infant. We have conducted noninvasive electroencephalogram (EEG) recording of the brain neuronal activity in response to time-locked touches and clinically essential noxious lances of the heel in infants aged 28-45 weeks gestation. We show a transition in brain response following tactile and noxious stimulation from nonspecific, evenly dispersed neuronal bursts to modality-specific, localized, evoked potentials. The results suggest that specific neural circuits necessary for discrimination between touch and nociception emerge from 35-37 weeks gestation in the human brain.",Missing,Current biology : CB,21

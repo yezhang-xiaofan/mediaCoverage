@@ -1,0 +1,19 @@
+(Reporting by Kate Kelland, editing by Paul Casciato)
+REUTERS
+Serotonin levels affect brain's response to anger: study
+(Reuters) - Fluctuating levels of the brain chemical serotonin, often brought on when someone hasn't eaten or is stressed, affect brain regions that enable people to regulate anger, scientists said Thursday.
+In a study using healthy volunteers, researchers from Britain's Cambridge University found that when serotonin levels are low, it may be more difficult for the brain to control emotional responses to anger.
+Although reduced serotonin levels have previously been linked to aggression, this is the first study to show how this chemical helps regulate behavior in the brain as well as why some individuals may be more prone to aggression.
+The researchers behind the work, which was published in the journal Biological Psychiatry, hope their findings could help in the search for new treatments for psychiatric disorders where violence and aggression are common symptoms.
+For the study, healthy volunteers' serotonin levels were altered by manipulating their diet.
+On the serotonin depletion day, they were given a mixture of amino acids that lacked tryptophan, the building block for serotonin. 
+On the placebo day, they were given the same mixture but with a normal amount of tryptophan.
+The researchers then scanned the volunteers' brains using functional magnetic resonance imaging (fMRI) as they viewed faces with angry, sad, and neutral expressions. 
+They were able to measure how different brain regions reacted and communicated with one another when the volunteers saw angry faces, as opposed to sad or neutral faces.
+The results showed that low brain serotonin made communications between specific brain regions of the emotional limbic system of the brain -- a structure called the amygdala -- and the frontal lobes weaker compared to when serotonin levels are normal.
+Using a personality questionnaire, the researchers also analysed which of the volunteers had a natural tendency to behave aggressively. 
+In these people, the communications between the amygdala and the prefrontal cortex was even weaker following serotonin depletion.
+"Although these results came from healthy volunteers, they are also relevant for a broad range of psychiatric disorders," said Luca Passamonti, who worked on the research with colleagues at the Cognition and Brain Sciences Unit of the Medical Research Council in Cambridge.
+For example, Passamonti said, patients with an condition known as intermittent explosive disorder (IED) typically can have intense, uncontrollable outbursts of violence which may be triggered by cues such as a facial expression of anger.
+"We are hopeful that our research will lead to improved diagnostics as well as better treatments for this and other conditions."
+

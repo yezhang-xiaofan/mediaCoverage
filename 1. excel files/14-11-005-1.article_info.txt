@@ -1,0 +1,16 @@
+21266440,Effect of pay for performance on the management and outcomes of hypertension in the United Kingdom: interrupted time series study.,"Adult
+Aged
+Antihypertensive Agents/economics/*therapeutic use
+Blood Pressure
+Blood Pressure Determination
+Delivery of Health Care/economics/standards
+Female
+Great Britain
+Humans
+Hypertension/*drug therapy/economics/physiopathology
+Male
+Middle Aged
+Outcome Assessment (Health Care)/economics
+Quality Indicators, Health Care/economics
+Quality of Health Care
+*Reimbursement, Incentive",Serumaga B and Ross-Degnan D and Avery AJ and Elliott RA and Majumdar SR and Zhang F and Soumerai SB,"OBJECTIVE: To assess the impact of a pay for performance incentive on quality of care and outcomes among UK patients with hypertension in primary care. DESIGN: Interrupted time series. SETTING: The Health Improvement Network (THIN) database, United Kingdom. PARTICIPANTS: 470 725 patients with hypertension diagnosed between January 2000 and August 2007. INTERVENTION: The UK pay for performance incentive (the Quality and Outcomes Framework), which was implemented in April 2004 and included specific targets for general practitioners to show high quality care for patients with hypertension (and other diseases). MAIN OUTCOME MEASURES: Centiles of systolic and diastolic blood pressures over time, rates of blood pressure monitoring, blood pressure control, and treatment intensity at monthly intervals for baseline (48 months) and 36 months after the implementation of pay for performance. Cumulative incidence of major hypertension related outcomes and all cause mortality for subgroups of newly treated (treatment started six months before pay for performance) and treatment experienced (started treatment in year before January 2001) patients to examine different stages of illness. RESULTS: After accounting for secular trends, no changes in blood pressure monitoring (level change 0.85, 95% confidence interval -3.04 to 4.74, P=0.669 and trend change -0.01, -0.24 to 0.21, P=0.615), control (-1.19, -2.06 to 1.09, P=0.109 and -0.01, -0.06 to 0.03, P=0.569), or treatment intensity (0.67, -1.27 to 2.81, P=0.412 and 0.02, -0.23 to 0.19, P=0.706) were attributable to pay for performance. Pay for performance had no effect on the cumulative incidence of stroke, myocardial infarction, renal failure, heart failure, or all cause mortality in both treatment experienced and newly treated subgroups. CONCLUSIONS: Good quality of care for hypertension was stable or improving before pay for performance was introduced. Pay for performance had no discernible effects on processes of care or on hypertension related clinical outcomes. Generous financial incentives, as designed in the UK pay for performance policy, may not be sufficient to improve quality of care and outcomes for hypertension and other common chronic conditions.",harvard,BMJ (Clinical research ed.),342

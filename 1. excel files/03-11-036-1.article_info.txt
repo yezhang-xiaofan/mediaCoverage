@@ -1,0 +1,6 @@
+21988763,Health effects of financial crisis: omens of a Greek tragedy.,"Health Policy/*trends
+*Health Status
+Humans
+Mortality/*trends
+Public Health/*trends
+Unemployment/*trends",Kentikelenis A and Karanikolos M and Papanicolas I and Basu S and McKee M and Stuckler D,Missing,Missing,Lancet,378

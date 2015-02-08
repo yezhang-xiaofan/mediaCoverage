@@ -1,0 +1,13 @@
+21396628,Serotonergic activity influences the cognitive appraisal of close intimate relationships in healthy adults.,"Administration, Oral
+Adult
+Analysis of Variance
+*Cognition
+Double-Blind Method
+Female
+Humans
+*Interpersonal Relations
+Male
+Psychometrics
+Serotonin/*metabolism
+*Social Perception
+Tryptophan/administration & dosage/*metabolism",Bilderbeck AC and McCabe C and Wakeley J and McGlone F and Harris T and Cowen PJ and Rogers RD,"BACKGROUND: Close supportive relationships protect against psychological disorders and also facilitate recovery. However, little is known about the neurochemical mechanisms that mediate these effects. Variation in serotonin function influences affiliative behavior in humans and nonhuman primates. Here, we used tryptophan depletion in healthy adults to investigate the role of serotonin in the cognitive appraisal of close personal relationships. METHODS: Twenty-two healthy adults drank an amino acid drink without tryptophan, and 19 healthy adults drank an amino acid drink containing tryptophan. Participants were presented with color photographs of heterosexual ""couples"" standing apart or making affiliative touch gestures and rated the couples for descriptors that capture qualities of close personal relationships. Trait attachment style and state affect of participants were also measured. RESULTS: Tryptophan depletion reduced the judged intimacy and romance of photographed couples. Tryptophan-depleted women rated men as more dominant in relationships and touching couples as more able to resolve their conflicts, when compared with nondepleted women. These effects were not due to changes in mood and remained statistically reliable when the marked impact of attachment style upon relationship judgments was statistically controlled. CONCLUSIONS: Our results suggest that central serotonin activity influences the appraisal of close intimate partnerships, raising the possibility that serotonergic dysfunction contributes to altered cognitions about relationships in psychiatric illnesses.",Missing,Biological psychiatry,69

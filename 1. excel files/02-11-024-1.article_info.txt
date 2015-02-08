@@ -1,0 +1,14 @@
+21705068,Diet or diet plus physical activity versus usual care in patients with newly diagnosed type 2 diabetes: the Early ACTID randomised controlled trial.,"Adult
+Aged
+Aged, 80 and over
+Combined Modality Therapy
+Diabetes Mellitus, Type 2/diet therapy/*therapy
+Exercise Therapy
+Female
+Health Behavior
+Humans
+Intention to Treat Analysis
+Life Style
+Male
+Middle Aged
+Weight Loss",Andrews RC and Cooper AR and Montgomery AA and Norcross AJ and Peters TJ and Sharp DJ and Jackson N and Fitzsimons K and Bright J and Coulman K and England CY and Gorton J and McLenaghan A and Paxton E and Polet A and Thompson C and Dayan CM,"BACKGROUND: Lifestyle changes soon after diagnosis might improve outcomes in patients with type 2 diabetes mellitus, but no large trials have compared interventions. We investigated the effects of diet and physical activity on blood pressure and glucose concentrations. METHODS: We did a randomised, controlled trial in southwest England in adults aged 30-80 years in whom type 2 diabetes had been diagnosed 5-8 months previously. Participants were assigned usual care (initial dietary consultation and follow-up every 6 months; control group), an intensive diet intervention (dietary consultation every 3 months with monthly nurse support), or the latter plus a pedometer-based activity programme, in a 2:5:5 ratio. The primary endpoint was improvement in glycated haemoglobin A(1c)(HbA(1c)) concentration and blood pressure at 6 months. Analysis was done by intention to treat. This study is registered, number ISRCTN92162869. FINDINGS: Of 593 eligible individuals, 99 were assigned usual care, 248 the diet regimen, and 246 diet plus activity. Outcome data were available for 587 (99%) and 579 (98%) participants at 6 and 12 months, respectively. At 6 months, glycaemic control had worsened in the control group (mean baseline HbA(1c) percentage 6.72, SD 1.02, and at 6 months 6.86, 1.02) but improved in the diet group (baseline-adjusted difference in percentage of HbA(1c) -0.28%, 95% CI -0.46 to -0.10; p=0.005) and diet plus activity group (-0.33%, -0.51 to -0.14; p<0.001). These differences persisted to 12 months, despite less use of diabetes drugs. Improvements were also seen in bodyweight and insulin resistance between the intervention and control groups. Blood pressure was similar in all groups. INTERPRETATION: An intensive diet intervention soon after diagnosis can improve glycaemic control. The addition of an activity intervention conferred no additional benefit. FUNDING: Diabetes UK and the UK Department of Health.",Missing,Lancet,378

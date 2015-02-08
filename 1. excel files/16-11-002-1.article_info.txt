@@ -1,0 +1,8 @@
+21444808,"Maternal investment, life histories, and the costs of brain growth in mammals.","Animals
+Body Weight
+Brain/*growth & development
+Female
+Humans
+*Lactation
+Organ Size
+*Pregnancy",Barton RA and Capellini I,"Brain size variation in mammals correlates with life histories: larger-brained species have longer gestations, mature later, and have increased lifespans. These patterns have been explained in terms of developmental costs (larger brains take longer to grow) and cognitive benefits (large brains enhance survival and increase lifespan). In support of the developmental cost hypothesis, we show that evolutionary changes in pre- and postnatal brain growth correlate specifically with duration of the relevant phases of maternal investment (gestation and lactation, respectively). We also find support for the hypothesis that the rate of fetal brain growth is related to the energy turnover of the mother. In contrast, we find no support for hypotheses proposing that costs are accommodated through direct tradeoffs between brain and body growth, or between brain growth and litter size. When the duration of maternal investment is taken into account, adult brain size is uncorrelated with other life history traits such as lifespan. Hence, the general pattern of slower life histories in large-brained species appears to be a direct consequence of developmental costs.",Missing,Proceedings of the National Academy of Sciences of the United States of America,108

@@ -1,0 +1,23 @@
+21709683,Transcriptional regulation of neurodevelopmental and metabolic pathways by NPAS3.,Molecular psychiatry,Sha L and MacIntyre L and Machell JA and Kelly MP and Porteous DJ and Brandon NJ and Muir WJ and Blackwood DH and Watson DG and Clapcote SJ and Pickard BS,Missing,"The basic helix-loop-helix PAS (Per, Arnt, Sim) domain transcription factor gene NPAS3 is a replicated genetic risk factor for psychiatric disorders. A knockout (KO) mouse model exhibits behavioral and adult neurogenesis deficits consistent with human illness. To define the location and mechanism of NPAS3 etiopathology, we combined immunofluorescent, transcriptomic and metabonomic approaches. Intense Npas3 immunoreactivity was observed in the hippocampal subgranular zone-the site of adult neurogenesis--but was restricted to maturing, rather than proliferating, neuronal precursor cells. Microarray analysis of a HEK293 cell line over-expressing NPAS3 showed that transcriptional targets varied according to circadian rhythm context and C-terminal deletion. The most highly up-regulated NPAS3 target gene, VGF, encodes secretory peptides with established roles in neurogenesis, depression and schizophrenia. VGF was just one of many NPAS3 target genes also regulated by the SOX family of transcription factors, suggesting an overlap in neurodevelopmental function. The parallel repression of multiple glycolysis genes by NPAS3 reveals a second role in the regulation of glucose metabolism. Comparison of wild-type and Npas3 KO metabolite composition using high-resolution mass spectrometry confirmed these transcriptional findings. KO brain tissue contained significantly altered levels of NAD(+), glycolysis metabolites (such as dihydroxyacetone phosphate and fructose-1,6-bisphosphate), pentose phosphate pathway components and Kreb's cycle intermediates (succinate and alpha-ketoglutarate). The dual neurodevelopmental and metabolic aspects of NPAS3 activity described here increase our understanding of mental illness etiology, and may provide a mechanism for innate and medication-induced susceptibility to diabetes commonly reported in psychiatric patients.","Animals
+Basic Helix-Loop-Helix Transcription
+Factors/biosynthesis/deficiency/genetics/*physiology
+Brain Chemistry
+Circadian Rhythm
+Dentate Gyrus/metabolism
+Energy Metabolism/genetics
+Glycolysis/genetics
+HEK293 Cells/metabolism
+Humans
+Metabolomics
+Mice
+Mice, Inbred C57BL
+Mice, Knockout
+Nerve Tissue Proteins/biosynthesis/genetics/*physiology
+Neurogenesis/*genetics
+Neurons/metabolism
+Oligonucleotide Array Sequence Analysis
+Recombinant Fusion Proteins/physiology
+SOX Transcription Factors/physiology
+Transcription Factors/genetics/*physiology
+*Transcription, Genetic
+Transcriptome"

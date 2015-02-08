@@ -1,0 +1,13 @@
+21685898,Broad antigenic coverage induced by vaccination with virus-based cDNA libraries cures established tumors.,"Animals
+Antigens, Neoplasm/*genetics
+Cancer Vaccines/*genetics/immunology
+DNA, Complementary/genetics
+*Gene Library
+Genetic Vectors/genetics
+Male
+Mice
+Mice, Inbred C57BL
+Neoplasms/genetics/immunology/*therapy
+Polymerase Chain Reaction
+Prostatic Neoplasms/therapy
+Vesiculovirus/genetics",Kottke T and Errington F and Pulido J and Galivo F and Thompson J and Wongthida P and Diaz RM and Chong H and Ilett E and Chester J and Pandha H and Harrington K and Selby P and Melcher A and Vile R,"Effective cancer immunotherapy requires the release of a broad spectrum of tumor antigens in the context of potent immune activation. We show here that a cDNA library of normal tissue, expressed from a highly immunogenic viral platform, cures established tumors of the same histological type from which the cDNA library was derived. Immune escape occurred with suboptimal vaccination, but tumor cells that escaped the immune pressure were readily treated by second-line virus-based immunotherapy. This approach has several major advantages. Use of the cDNA library leads to presentation of a broad repertoire of (undefined) tumor-associated antigens, which reduces emergence of treatment-resistant variants and also permits rational, combined-modality approaches in the clinic. Finally, the viral vectors can be delivered systemically, without the need for tumor targeting, and are amenable to clinical-grade production. Therefore, virus-expressed cDNA libraries represent a novel paradigm for cancer treatment addressing many of the key issues that have undermined the efficacy of immuno- and virotherapy to date.",Missing,Nature medicine,17

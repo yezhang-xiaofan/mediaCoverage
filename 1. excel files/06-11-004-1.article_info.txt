@@ -1,0 +1,7 @@
+21041652,Nonstimulated early visual areas carry information about surrounding context.,"Algorithms
+Brain Mapping
+Discriminant Analysis
+Humans
+Pattern Recognition, Visual/*physiology
+*Photic Stimulation
+Visual Cortex/*physiology",Smith FW and Muckli L,"Even within the early sensory areas, the majority of the input to any given cortical neuron comes from other cortical neurons. To extend our knowledge of the contextual information that is transmitted by such lateral and feedback connections, we investigated how visually nonstimulated regions in primary visual cortex (V1) and visual area V2 are influenced by the surrounding context. We used functional magnetic resonance imaging (fMRI) and pattern-classification methods to show that the cortical representation of a nonstimulated quarter-field carries information that can discriminate the surrounding visual context. We show further that the activity patterns in these regions are significantly related to those observed with feed-forward stimulation and that these effects are driven primarily by V1. These results thus demonstrate that visual context strongly influences early visual areas even in the absence of differential feed-forward thalamic stimulation.",Missing,Proceedings of the National Academy of Sciences of the United States of America,107

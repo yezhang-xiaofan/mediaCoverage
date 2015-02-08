@@ -1,0 +1,13 @@
+21959958,Do men develop type 2 diabetes at lower body mass indices than women?,"Adult
+Age of Onset
+Aged
+*Body Mass Index
+Diabetes Mellitus, Type 2/diagnosis/*etiology
+Female
+Hemoglobin A, Glycosylated/analysis
+Humans
+Male
+Middle Aged
+Risk
+Scotland/epidemiology
+Sex Factors",Logue J and Walker JJ and Colhoun HM and Leese GP and Lindsay RS and McKnight JA and Morris AD and Pearson DW and Petrie JR and Philip S and Wild SH and Sattar N,"AIMS/HYPOTHESIS: To describe the associations between age, sex and BMI at diagnosis of type 2 diabetes, and test the hypothesis that men are diagnosed with diabetes at lower average BMI than women of similar age. METHODS: Linear regression was used to estimate and compare the relationship between age and BMI at diagnosis among 51,920 men and 43,137 women included in a population-based diabetes register in Scotland for whom an index BMI measurement was taken within 1 year of diabetes diagnosis. We also examined HbA(1c) values by sex within the same timescale. RESULTS: Mean BMI closest to date of diagnosis of type 2 diabetes mellitus was 31.83 kg/m(2) (SD 5.13) in men and 33.69 kg/m(2) (SD 6.43) in women. The inverse relationship between age and BMI at diagnosis of type 2 diabetes mellitus was significantly steeper in women than in men (slope estimate in men -0.12 kg/m(2) per year [95% CI -0.13, -0.12] women -0.18 kg/m(2) per year [95% CI -0.18, -0.17], p < 0.0001 for formal test of interaction). Mean BMI difference was most marked at younger ages and narrowed with advancing age. However, HbA(1c) levels within 1 year of diagnoses were broadly similar in men and women. CONCLUSIONS/INTERPRETATION: Men are diagnosed with type 2 diabetes at lower BMI than women across the age range. This observation may help explain why type 2 diabetes is more common among middle-aged men in populations of European extraction. Whether the same pattern is also observed in other ethnic groups requires confirmation.",Missing,Diabetologia,54

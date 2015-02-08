@@ -1,0 +1,13 @@
+21821867,Delays in assessment of patients with rheumatoid arthritis: variations across Europe.,"Adult
+Aged
+Arthritis, Rheumatoid/*diagnosis
+Delayed Diagnosis/*statistics & numerical data
+Europe
+Female
+Humans
+Male
+Middle Aged
+Patient Acceptance of Health Care/statistics & numerical data
+Primary Health Care/standards/statistics & numerical data
+Referral and Consultation/standards/statistics & numerical data
+Time Factors",Raza K and Stack R and Kumar K and Filer A and Detert J and Bastian H and Burmester GR and Sidiropoulos P and Kteniadaki E and Repa A and Saxne T and Turesson C and Mann H and Vencovsky J and Catrina A and Chatzidionysiou A and Hensvold A and Rantapaa-Dahlqvist S and Binder A and Machold K and Kwiakowska B and Ciurea A and Tamborrini G and Kyburz D and Buckley CD,"OBJECTIVE: The first 3 months after symptom onset represent an important therapeutic window for rheumatoid arthritis (RA). This study investigates the extent and causes of delay in assessment of patients with RA in eight European countries. METHOD: Data on the following levels of delay were collected from 10 centres (Berlin, Birmingham, Heraklion, Lund, Prague, Stockholm, Umea, Vienna, Warsaw and Zurich): (1) from onset of RA symptoms to request to see healthcare professional (HCP); (2) from request to see HCP to assessment by that HCP; (3) from initial assessment by HCP to referral to rheumatologist; and (4) from referral to rheumatologist to assessment by that rheumatologist. RESULTS: Data were collected from 482 patients with RA. The median delay across the 10 centres from symptom onset to assessment by the rheumatologist was 24 weeks, with the percentage of patients seen within 12 weeks of symptom onset ranging from 8% to 42%. There were important differences in the levels underlying the total delays at individual centres. CONCLUSIONS: This research highlights the contribution of patients, professionals and health systems to treatment delay for patients with RA in Europe. Although some centres have strengths in minimising certain types of delay, interventions are required in all centres to ensure timely treatment for patients.",Missing,Annals of the rheumatic diseases,70

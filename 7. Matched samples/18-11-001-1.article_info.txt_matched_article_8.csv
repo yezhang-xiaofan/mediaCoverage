@@ -1,0 +1,20 @@
+21090815,Characterization of an NADH-dependent persulfide reductase from Shewanella loihica PV-4: implications for the mechanism of sulfur respiration via FAD-dependent enzymes.,Biochemistry,Warner MD and Lukose V and Lee KH and Lopez K and H Sazinsky M and Crane EJ 3rd,Missing,"The NADH-dependent persulfide reductase (Npsr), a recently discovered member of the PNDOR family of flavoproteins that contains both the canonical flavoprotein reductase domain and a rhodanese domain, is proposed to be involved in the dissimilatory reduction of S(0) for Shewanella loihica PV-4. We have previously shown that polysulfide is a substrate for this enzyme, and a recently determined structure of a closely related enzyme (CoADR-Rhod from Bacillus anthracis) suggested the importance of a bound coenzyme A in the mechanism. The work described here shows that the in vivo oxidizing substrates of Npsr are the persulfides of small thiols such as CoA and glutathione. C43S, C531S, and C43,531S mutants were created to determine the role of the flavoprotein domain cysteine (C43) and the rhodanese domain cysteine (C531) in the mechanism. The absolute requirement for C43 in persulfide or DTNB reductase activity shows that this residue is involved in S-S bond breakage. C531 contributes to, but is not required for, catalysis of DTNB reduction, while it is absolutely required for reduction of any persulfide substrates. Titrations of the enzyme with NADH, dithionite, titanium(III), or TCEP demonstrate the presence of a mixed-disulfide between C43 and a tightly bound CoA, and structures of the C43 and C43,531S mutants confirm that this coenzyme A remains tightly bound to the enzyme in the absence of a C43-CoA S-S bond. The structure of Npsr suggests a likely site for binding and reaction with the persulfide substrate on the rhodanese domain. On the basis of kinetic, titration, and structural data, a mechanism for the reduction of persulfides by Npsr is proposed.","Amino Acid Sequence
+Catalytic Domain
+Cloning, Molecular
+Crystallography, X-Ray
+Dithionite/metabolism
+Flavin-Adenine Dinucleotide/metabolism
+Models, Molecular
+Molecular Sequence Data
+Mutation
+NAD/*metabolism
+NADP/metabolism
+Oxidoreductases/chemistry/genetics/*metabolism
+Protein Structure, Tertiary
+Sequence Alignment
+Shewanella/chemistry/*enzymology/genetics
+Substrate Specificity
+Sulfides/*metabolism
+Sulfur/*metabolism
+Thiosulfate Sulfurtransferase/chemistry
+Titanium/metabolism"

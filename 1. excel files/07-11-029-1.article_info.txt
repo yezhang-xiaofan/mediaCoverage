@@ -1,0 +1,18 @@
+21873710,The Anglo-Scandinavian Cardiac Outcomes Trial: 11-year mortality follow-up of the lipid-lowering arm in the U.K.,"Adult
+Aged
+Cause of Death
+Coronary Disease/mortality/prevention & control
+Double-Blind Method
+Early Termination of Clinical Trials
+Female
+Follow-Up Studies
+Heptanoic Acids/*therapeutic use
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/*therapeutic use
+Hypercholesterolemia/mortality/prevention & control
+Hypertension/*drug therapy/mortality
+Male
+Middle Aged
+Prospective Studies
+Pyrroles/*therapeutic use
+Treatment Outcome",Sever PS and Chang CL and Gupta AK and Whitehouse A and Poulter NR,"AIMS: The aim of this study was to determine the outcome benefits in those originally assigned atorvastatin in the Anglo-Scandinavian Cardiac Outcomes Trial-8 years after closure of the lipid-lowering arm (LLA) of the trial (ASCOT-LLA) among the U.K. population. METHODS AND RESULTS: ASCOT-LLA was a factorially designed double-blind placebo-controlled trial of atorvastatin in 10 305 hypertensive patients enrolled into the ASCOT-Blood Pressure Lowering Arm (BPLA) of the trial and with total cholesterol concentrations, at baseline, of <6.5 mmol/L. ASCOT-LLA was stopped prematurely after a median 3.3-year follow-up because of a 36% relative risk reduction (RRR) in non-fatal myocardial infarction and fatal coronary heart disease (CHD) (the primary outcome) in favour of atorvastatin and a non-significant reduction in CV deaths (16%) and all-cause mortality (13%). After a further 2.2 years at the end of ASCOT-BPLA, despite extensive crossovers from and to statin usage, the RRR in all endpoints remained essentially unchanged. A median 11 years after initial randomization and approximately 8 years after closure of LLA, all-cause mortality (n=520 and 460 in placebo and atorvastatin, respectively) remained significantly lower in those originally assigned atorvastatin (HR 0.86, CI 0.76-0.98, P=0.02). CV deaths were fewer, but not significant (HR 0.89, CI 0.72-1.11, P=0.32) and non-CV deaths were significantly lower (HR 0.85, CI 0.73-0.99, P=0.03) in those formerly assigned atorvastatin attributed to a reduction in deaths due to infection and respiratory illness. CONCLUSION: Legacy effects of those originally assigned atorvastatin may contribute to long-term benefits on all-cause mortality. An explanation for long-term benefits on non-CV deaths has not been established.",Missing,European heart journal,32

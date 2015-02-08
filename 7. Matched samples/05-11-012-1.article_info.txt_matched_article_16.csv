@@ -1,0 +1,17 @@
+21470975,Mimicking a SURF1 allele reveals uncoupling of cytochrome c oxidase assembly from translational regulation in yeast.,Human molecular genetics,Reinhold R and Bareth B and Balleininger M and Wissel M and Rehling P and Mick DU,Missing,"Defects in mitochondrial energy metabolism lead to severe human disorders, mainly affecting tissues especially dependent on oxidative phosphorylation, such as muscle and brain. Leigh Syndrome describes a severe encephalomyopathy in infancy, frequently caused by mutations in SURF1. SURF1, termed Shy1 in Saccharomyces cerevisiae, is a conserved assembly factor for the terminal enzyme of the respiratory chain, cytochrome c oxidase. Although the molecular function of SURF1/Shy1 is still enigmatic, loss of function leads to cytochrome c oxidase deficiency and reduced expression of the central subunit Cox1 in yeast. Here, we provide insights into the molecular mechanisms leading to disease through missense mutations in codons of the most conserved amino acids in SURF1. Mutations affecting G(124) do not compromise import of the SURF1 precursor protein but lead to fast turnover of the mature protein within the mitochondria. Interestingly, an Y(274)D exchange neither affects stability nor localization of the protein. Instead, SURF1(Y274D) accumulates in a 200 kDa cytochrome c oxidase assembly intermediate. Using yeast as a model, we demonstrate that the corresponding Shy1(Y344D) is able to overcome the stage where cytochrome c oxidase assembly links to the feedback regulation of mitochondrial Cox1 expression. However, Shy1(Y344D) impairs the assembly at later steps, most apparent at low temperature and exhibits a dominant-negative phenotype upon overexpression. Thus, exchanging the conserved tyrosine (Y(344)) with aspartate in yeast uncouples translational regulation of Cox1 from cytochrome c oxidase assembly and provides evidence for the dual functionality of Shy1.","Amino Acid Substitution/genetics
+Blotting, Western
+Cell Line
+Cloning, Molecular
+Electron Transport Complex IV/*genetics/metabolism
+Electrophoresis, Polyacrylamide Gel
+Energy Metabolism/*genetics
+Gene Expression Regulation, Fungal/genetics/*physiology
+Humans
+Immunoprecipitation
+Membrane Proteins/*genetics
+Mitochondrial Proteins/*genetics
+Mutation, Missense/genetics
+Plasmids/genetics
+Saccharomyces cerevisiae/genetics/*physiology
+Saccharomyces cerevisiae Proteins/*genetics/metabolism
+Sequence Analysis, DNA"

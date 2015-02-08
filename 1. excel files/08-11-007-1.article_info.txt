@@ -1,0 +1,14 @@
+21378985,"Mutations in NOTCH2 cause Hajdu-Cheney syndrome, a disorder of severe and progressive bone loss.","Alleles
+Base Sequence
+DNA Mutational Analysis
+DNA, Complementary/genetics
+Exons
+Female
+Hajdu-Cheney Syndrome/*genetics/metabolism/pathology
+Humans
+Male
+Mutant Proteins/genetics/metabolism
+*Mutation
+Pedigree
+Protein Sorting Signals/genetics
+Receptor, Notch2/*genetics/metabolism",Simpson MA and Irving MD and Asilmaz E and Gray MJ and Dafou D and Elmslie FV and Mansour S and Holder SE and Brain CE and Burton BK and Kim KH and Pauli RM and Aftimos S and Stewart H and Kim CA and Holder-Espinasse M and Robertson SP and Drake WM and Trembath RC,"We used an exome-sequencing strategy and identified an allelic series of NOTCH2 mutations in Hajdu-Cheney syndrome, an autosomal dominant multisystem disorder characterized by severe and progressive bone loss. The Hajdu-Cheney syndrome mutations are predicted to lead to the premature truncation of NOTCH2 with either disruption or loss of the C-terminal proline-glutamate-serine-threonine-rich proteolytic recognition sequence, the absence of which has previously been shown to increase Notch signaling.",Missing,Nature genetics,43

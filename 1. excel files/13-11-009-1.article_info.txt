@@ -1,0 +1,17 @@
+21467206,Maternal body mass index and the risk of fetal and infant death: a cohort study from the North of England.,"Birth Weight
+*Body Mass Index
+Cohort Studies
+England/epidemiology
+Female
+Fetal Death/epidemiology/*etiology
+Humans
+Infant
+*Infant Mortality
+Infant, Newborn
+Obesity/*complications
+Odds Ratio
+Pregnancy
+*Pregnancy Complications
+Pregnancy Outcome
+Risk
+Stillbirth/epidemiology",Tennant PW and Rankin J and Bell R,"BACKGROUND: Early pregnancy obesity (body mass index, BMI, >/= 30 kg/m(2)) carries significant health implications. This cohort study investigates the association between early pregnancy BMI and the risk of fetal and infant death in pregnancies not affected by congenital anomalies or pre-gestational diabetes. METHODS: Data on singleton pregnancies delivered during 2003-2005 at five hospitals were linked with data from three regional registers: the Northern Perinatal Mortality Survey, the Northern Diabetes in Pregnancy Survey and the Northern Congenital Abnormality Survey. Logistic regression models were used to determine the crude and adjusted odds ratios (aOR) of a spontaneous fetal death (>/= 20 weeks gestation) and infant death (aged up to 1 year), among underweight (BMI <18.5 kg/m(2)), overweight (BMI 25-29.9 kg/m(2)) and obese women compared with women of recommended BMI (18.5-24.9 kg/m(2)). RESULTS: Obese women were at significantly increased risks of both fetal death [aOR = 2.32 (95% confidence interval: 1.64-3.28), P< 0.001] and infant death [aOR = 1.97 (1.13-3.45), P= 0.02]. Continuous analyses revealed a V-shaped relationship between BMI and the risk of fetal and infant death, with a minimum risk at 23 kg/m(2), and significantly increased risk thereafter for both fetal death [aOR, per unit = 1.07 (1.05-1.10), P< 0.001] and infant death [aOR, per unit = 1.06 (1.02-1.10), P= 0.007]. No significant excess risks, however, were identified for either maternal underweight [fetal death: aOR = 0.98 (0.42-2.25), P= 0.96; infant death: aOR = 1.89 (0.73-4.88), P= 0.19] or maternal overweight [fetal death: aOR = 1.34 (0.94-1.89), P= 0.10; infant death: aOR = 1.35 (0.79-2.32), P= 0.27] as categories. Except for higher rates of pre-eclampsia among stillbirths, no specific cause of death could explain the increased odds of fetal and infant death among the obese. CONCLUSIONS: Early pregnancy obesity is significantly associated with fetal and infant death, independent of the known relationships with congenital anomalies and maternal pre-gestational diabetes.",Missing,"Human reproduction (Oxford, England)",26

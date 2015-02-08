@@ -1,0 +1,11 @@
+22099467,Functional network organization of the human brain.,Neuron,Power JD and Cohen AL and Nelson SM and Wig GS and Barnes KA and Church JA and Vogel AC and Laumann TO and Miezin FM and Schlaggar BL and Petersen SE,wustl,"Real-world complex systems may be mathematically modeled as graphs, revealing properties of the system. Here we study graphs of functional brain organization in healthy adults using resting state functional connectivity MRI. We propose two novel brain-wide graphs, one of 264 putative functional areas, the other a modification of voxelwise networks that eliminates potentially artificial short-distance relationships. These graphs contain many subgraphs in good agreement with known functional brain systems. Other subgraphs lack established functional identities; we suggest possible functional characteristics for these subgraphs. Further, graph measures of the areal network indicate that the default mode subgraph shares network properties with sensory and motor subgraphs: it is internally integrated but isolated from other subgraphs, much like a ""processing"" system. The modified voxelwise graph also reveals spatial motifs in the patterning of systems across the cortex.","Adult
+Brain/*cytology/*physiology
+Brain Mapping/methods
+Cohort Studies
+Female
+Humans
+Magnetic Resonance Imaging/*methods
+Male
+Nerve Net/*cytology/*physiology
+Psychomotor Performance/*physiology
+Young Adult"

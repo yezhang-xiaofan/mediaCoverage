@@ -1,0 +1,17 @@
+21382555,"Requirement for Plk2 in orchestrated ras and rap signaling, homeostatic structural plasticity, and memory.",Neuron,Lee KJ and Lee Y and Rozeboom A and Lee JY and Udagawa N and Hoe HS and Pak DT,Missing,"Ras and Rap small GTPases are important for synaptic plasticity and memory. However, their roles in homeostatic plasticity are unknown. Here, we report that polo-like kinase 2 (Plk2), a homeostatic suppressor of overexcitation, governs the activity of Ras and Rap via coordination of their regulatory proteins. Plk2 directs elimination of Ras activator RasGRF1 and Rap inhibitor SPAR via phosphorylation-dependent ubiquitin-proteasome degradation. Conversely, Plk2 phosphorylation stimulates Ras inhibitor SynGAP and Rap activator PDZGEF1. These Ras/Rap regulators perform complementary functions to downregulate dendritic spines and AMPA receptors following elevated activity, and their collective regulation by Plk2 profoundly stimulates Rap and suppresses Ras. Furthermore, perturbation of Plk2 disrupts Ras and Rap signaling, prevents homeostatic shrinkage and loss of dendritic spines, and impairs proper memory formation. Our study demonstrates a critical role of Plk2 in the synchronized tuning of Ras and Rap and underscores the functional importance of this regulation in homeostatic synaptic plasticity.","Animals
+Blotting, Western
+Dendritic Spines/metabolism
+Electrophoretic Mobility Shift Assay
+Hippocampus/metabolism
+Memory/*physiology
+Mice
+Neuronal Plasticity/*physiology
+Neurons/*metabolism
+Phosphorylation/physiology
+Proteasome Endopeptidase Complex/metabolism
+Protein Kinases/*metabolism
+Protein-Serine-Threonine Kinases
+Receptors, AMPA/metabolism
+Signal Transduction/physiology
+rap GTP-Binding Proteins/*metabolism
+ras Proteins/*metabolism"

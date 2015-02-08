@@ -1,0 +1,15 @@
+21266351,hPuf-A/KIAA0020 modulates PARP-1 cleavage upon genotoxic stress.,Cancer research,Chang HY and Fan CC and Chu PC and Hong BE and Lee HJ and Chang MS,Missing,"Human hPuf-A/KIAA0020 was first identified as a new minor histocompatibility antigen in 2001. Its zebrafish orthologue contains six Pumilio-homology RNA-binding domains and has been shown to participate in the development of eyes and primordial germ cells, but the cellular function of hPuf-A remains unclear. In this report, we showed that hPuf-A predominantly localized in the nucleoli with minor punctate signals in the nucleoplasm. The nucleolar localization of hPuf-A would redistribute to the nucleoplasm after the treatment of RNA polymerase inhibitors (actinomycin D and 5,6-dichlorobenzimidazole riboside) and topoisomerase inhibitors [camptothecin (CPT) and etoposide]. Interestingly, knockdown of hPuf-A sensitized cells to CPT and UV treatment and cells constitutively overexpressing hPuf-A became more resistant to genotoxic exposure. Affinity gel pull-down coupled with mass spectrometric analysis identified PARP-1 as one of the hPuf-A interacting proteins. hPuf-A specifically interacts with the catalytic domain of PARP-1 and inhibits poly(ADP-ribosyl)ation of PARP-1 in vitro. Depletion of hPuf-A increased the cleaved PARP-1 and overexpression of hPuf-A lessened PARP-1 cleavage when cells were exposed to CPT and UV light. Collectively, hPuf-A may regulate cellular response to genotoxic stress by inhibiting PARP-1 activity and thus preventing PARP-1 degradation by caspase-3.","Amino Acid Sequence
+Caspase 3/metabolism
+Cell Line, Tumor
+Cell Nucleolus/metabolism
+*DNA Damage
+Gene Knockdown Techniques
+HEK293 Cells
+HeLa Cells
+Humans
+Molecular Sequence Data
+Poly(ADP-ribose) Polymerases/genetics/*metabolism
+RNA, Small Interfering/administration & dosage/genetics
+RNA-Binding Proteins/genetics/*metabolism
+Sequence Alignment
+Transfection"

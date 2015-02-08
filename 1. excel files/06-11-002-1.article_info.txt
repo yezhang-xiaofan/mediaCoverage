@@ -1,0 +1,9 @@
+21315592,Rhythmic TMS over parietal cortex links distinct brain frequencies to global versus local visual processing.,"Adult
+Female
+Humans
+Male
+Nerve Net/physiology
+Parietal Lobe/*physiology
+Transcranial Magnetic Stimulation/*methods
+Visual Pathways/*physiology
+Young Adult",Romei V and Driver J and Schyns PG and Thut G,"Neural networks underlying visual perception exhibit oscillations at different frequencies (e.g.,). But how these map onto distinct aspects of visual perception remains elusive. Recent electroencephalography data indicate that theta or beta frequencies at parietal sensors increase in amplitude when conscious perception is dominated by global or local features, respectively, of a reversible visual stimulus. But this provides only correlative, noninterventional evidence. Here we show via transcranial magnetic stimulation (TMS) interventions that short rhythmic bursts of right-parietal TMS at theta or beta frequency can causally benefit processing of global or local levels, respectively, for hierarchical visual stimuli, especially in the context of salient incongruent distractors. This double dissociation between theta and beta TMS reveals distinct causal roles for particular frequencies in processing global versus local visual features.",Missing,Current biology : CB,21

@@ -1,0 +1,14 @@
+21336310,p53 regulates biosynthesis through direct inactivation of glucose-6-phosphate dehydrogenase.,Nature cell biology,Jiang P and Du W and Wang X and Mancuso A and Gao X and Wu M and Yang X,Missing,"Cancer cells consume large quantities of glucose and primarily use glycolysis for ATP production, even in the presence of adequate oxygen. This metabolic signature (aerobic glycolysis or the Warburg effect) enables cancer cells to direct glucose to biosynthesis, supporting their rapid growth and proliferation. However, both causes of the Warburg effect and its connection to biosynthesis are not well understood. Here we show that the tumour suppressor p53, the most frequently mutated gene in human tumours, inhibits the pentose phosphate pathway (PPP). Through the PPP, p53 suppresses glucose consumption, NADPH production and biosynthesis. The p53 protein binds to glucose-6-phosphate dehydrogenase (G6PD), the first and rate-limiting enzyme of the PPP, and prevents the formation of the active dimer. Tumour-associated p53 mutants lack the G6PD-inhibitory activity. Therefore, enhanced PPP glucose flux due to p53 inactivation may increase glucose consumption and direct glucose towards biosynthesis in tumour cells.","Cell Line, Tumor
+Cell Proliferation
+Dimerization
+*Gene Expression Regulation, Enzymologic
+*Gene Expression Regulation, Neoplastic
+*Genes, p53
+Glucose/metabolism
+Glucosephosphate Dehydrogenase/*metabolism
+Humans
+Lipids/chemistry
+Neoplasms/metabolism
+Oxidative Stress
+Pentose Phosphate Pathway
+Tumor Suppressor Protein p53/*metabolism"

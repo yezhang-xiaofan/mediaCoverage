@@ -1,0 +1,15 @@
+21733207,Impulsivity and cognitive distortions in pathological gamblers attending the UK National Problem Gambling Clinic: a preliminary report.,"Adult
+Case-Control Studies
+Cognition Disorders/*psychology
+Female
+Gambling/*psychology/therapy
+Great Britain
+Humans
+Impulsive Behavior/*psychology
+Male
+Middle Aged
+Psychiatric Status Rating Scales
+Psychological Tests
+Psychotherapy
+Reward
+Young Adult",Michalczuk R and Bowden-Jones H and Verdejo-Garcia A and Clark L,"BACKGROUND: Pathological gambling (PG) is a form of behavioural addiction that has been associated with elevated impulsivity and also cognitive distortions in the processing of chance, probability and skill. We sought to assess the relationship between the level of cognitive distortions and state and trait measures of impulsivity in treatment-seeking pathological gamblers. METHOD: Thirty pathological gamblers attending the National Problem Gambling Clinic, the first National Health Service clinic for gambling problems in the UK, were compared with 30 healthy controls in a case-control design. Cognitive distortions were assessed using the Gambling-Related Cognitions Scale (GRCS). Trait impulsivity was assessed using the UPPS-P, which includes scales of urgency, the tendency to be impulsive in positive or negative mood states. Delay discounting rates were taken as a state measure of impulsive choice. RESULTS: Pathological gamblers had elevated impulsivity on several UPPS-P subscales but effect sizes were largest (Cohen's d>1.4) for positive and negative urgency. The pathological gamblers also displayed higher levels of gambling distortions, and elevated preference for immediate rewards, compared to controls. Within the pathological gamblers, there was a strong relationship between the preference for immediate rewards and the level of cognitive distortions (R2=0.41). CONCLUSIONS: Impulsive choice in the gamblers was correlated with the level of gambling distortions, and we hypothesize that an impulsive decision-making style may increase the acceptance of erroneous beliefs during gambling play.",Missing,Psychological medicine,41

@@ -1,0 +1,14 @@
+21976516,A specific brain structural basis for individual differences in reality monitoring.,"Adolescent
+Adult
+Brain/*anatomy & histology/*physiology
+Brain Mapping/*methods
+Female
+Gyrus Cinguli/anatomy & histology/physiology
+Humans
+*Individuality
+Male
+Memory/physiology
+Photic Stimulation/methods
+Psychomotor Performance/*physiology
+*Reality Testing
+Young Adult",Buda M and Fornito A and Bergstrom ZM and Simons JS,"Much recent interest has centered on understanding the relationship between brain structure variability and individual differences in cognition, but there has been little progress in identifying specific neuroanatomical bases of such individual differences. One cognitive ability that exhibits considerable variability in the healthy population is reality monitoring; the cognitive processes used to introspectively judge whether a memory came from an internal or external source (e.g., whether an event was imagined or actually occurred). Neuroimaging research has implicated the medial anterior prefrontal cortex (PFC) in reality monitoring, and here we sought to determine whether morphological variability in a specific anteromedial PFC brain structure, the paracingulate sulcus (PCS), might underlie performance. Fifty-three healthy volunteers were selected on the basis of MRI scans and classified into four groups according to presence or absence of the PCS in their left or right hemisphere. The group with absence of the PCS in both hemispheres showed significantly reduced reality monitoring performance and ability to introspect metacognitively about their performance when compared with other participants. Consistent with the prediction that sulcal absence might mean greater volume in the surrounding frontal gyri, voxel-based morphometry revealed a significant negative correlation between anterior PFC gray matter and reality monitoring performance. The findings provide evidence that individual differences in introspective abilities like reality monitoring may be associated with specific structural variability in the PFC.",Missing,The Journal of neuroscience : the official journal of the Society for Neuroscience,31

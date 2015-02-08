@@ -1,0 +1,62 @@
+ Independent.co.uk
+ August 22, 2011 Monday 12:00 AM GMT 
+ Breakthrough offers hope in breast cancer fight  BYLINE: By Jeremy Laurance, Health Editor  SECTION: SCIENCE  LENGTH: 342 words
+A naturally occurring molecule in bacteria can block the development of breast cancer, scientists have discovered, paving the way for the design of more potent and selective drugs. 
+The molecule, thiostrepton, clamps FOXM1, a cancer-causing protein present in greater amounts in breast cancer cells.
+It switches on genes regulating the growth and division of cells, causes tumours to spread and triggers the growth of blood vessels. 
+Blocking this protein may prevent the development of cancer at an early stage as well as blocking its growth and spread according to the study published in Nature Chemistry. 
+Its lead author, Professor Shankar Balasubramanian, based at Cancer Research UK in Cambridge, said: "Before this research we weren't aware of any natural product which could directly target a protein that controls gene activity.
+Yet intriguingly a molecule in bacteria - which also has strong antibiotic effects - does this very well, switching off cancer-causing genes in breast cancer cells." 
+Dr Lesley Walker, the organisation's director of cancer information, said: "It's fascinating to discover how a simple bacteria could hold the key to powerful new approaches to treat breast cancer developing and spreading."
+Meanwhile a cancer drug which extends the lives of melanoma sufferers but costs £72,000 for one course of treatment for each patient, goes on the market today in the UK. 
+Ipilimumab (brand name Yervoy) is the first new treatment for advanced melanoma, the most deadly form of skin cancer, since the 1970s.
+There are more than 10,000 cases of melanoma a year and 2,000 deaths. 
+Ipilimumab boosts the immune system and has been shown in trials to extend the lives of patients with metastatic melanoma (which has spread to other organs) by about ten months.
+In a trial, 46 per cent of patients were still alive at one year compared with 25 per cent prescribed a different treatment. 
+The National Institute for Clinical Excellence is considering whether to recommend the drug, made by Bristol Myers Squibb, for use by the NHS. 
+
+The Express
+ August 22, 2011 Monday  Edition 1;  National Edition
+ Breast tumours can be 'blocked'  BYLINE: Jo Willey  SECTION: NEWS; Pg. 2  LENGTH: 336 words
+A MOLECULE which blocks the development and spread of breast cancer has been discovered by scientists.
+The naturally-occurring molecule "clamps" on to a cancer-causing protein, preventing it from working.
+It is now hoped a drug could be developed to mimic the molecule, which was first discovered in bacteria.
+Around 48,000 women are diagnosed every year with breast cancer in Britain and 12,100 die of the disease.
+One of the main challenges is to stop the cancer before it spreads to other parts of the body, making it far harder to treat.
+The research was published in the journal Nature Chemistry and carried out at Cancer Research UK's Cambridge Research Institute.
+Scientists identified a molecule known as thiostrepton, which stops a protein called FOXM1 from working.
+Breast cancer cells show increased levels of FOXM1.
+It attaches to certain areas of DNA and turns on genes which regulate the growth and division of cells, producing tumours.
+It then causes those tumours to spread, even triggering the growth of blood vessels to supply them with nutrients.
+Although designing drugs is a huge challenge, the discovery will allow researchers to create molecules which mimic thiostrepton but are even more effective at blocking the effects of FOXM1.
+The lead author of the research, Professor Shankar Balasubramanian, said: "This naturally-occurring molecule doesn't have all the right properties to be used as a treatment itself.
+"But this exciting discovery paves the way for the design of more potent and selective drugs based on the structure of thiostrepton."
+Dr Lesley Walker, of Cancer Research UK, said: "Survival rates for breast cancer have been improving for 30 years thanks to more targeted treatments.
+"It's fascinating to discover how a simple bacteria could hold the key to powerful new approaches to stop breast cancer spreading."
+Dr Rachel Greig, of Breakthrough Breast Cancer, said: "This work may also open the door for other molecules to be investigated which could also have cancer blocking potential."
+
+The Times (London)
+ August 22, 2011 Monday  Edition 1;  Scotland
+ Molecule found in bacteria could help treat breast cancer  BYLINE: Chris Smyth  SECTION: NEWS; Pg. 17  LENGTH: 523 words
+Breast cancer patients could one day be treated with the help of a molecule discovered in bacteria, research suggests.
+Thiostrepton, which occurs naturally, blocks a key protein that causes the disease to spread, raising the prospect of drugs that could stop tumours in their tracks.
+The researchers, from the University of Cambridge, believe that the molecule could help to tackle the "notoriously difficult" task of designing molecules to block proteins involved in the growth of cancers.
+If further trials are successful, it could ultimately lead to a new generation of drugs for the 48,000 women in the UK who have breast cancer diagnosed each year.
+The researchers looked at how thiostrepton, a molecule largely known for its antibiotic properties, interacted with FOXM1, a cancer-causing protein.
+FOXM1 is present in large quantities in breast cancer cells, where it activates genes that control the growth and division of cells, so helping the tumour to spread.
+In laboratory models using human breast cancer cells, the researchers found that thiostrepton was able to block FOXM1, making the key genes significantly less active.
+The results offer doctors a new avenue that could allow them to halt the development of cancer at an early stage, as well as stopping it spreading.
+While thiostrepton is unlikely to be suitable as a treatment itself, scientists now hope to be able to build molecules that mimic its effect, so creating effective targeted drugs.
+Professor Shankar Balasubramanian, lead author of the study, published in Nature Chemistry, said: "Before this research we weren't aware of any natural product which could directly target a protein that controls gene activity.
+"Yet intriguingly a molecule in bacteria - which also has strong antibiotic effects - does this very well, switching off cancer-causing genes in breast cancer cells.
+"This naturally occurring molecule doesn't have all the right properties to be used as a breast cancer treatment itself.
+But this exciting discovery paves the way for the design of more potent and selective drugs based on the structure of thiostrepton to block the FOXM1 protein."
+Lesley Walker, from Cancer Research UK, which helped to fund the study, said: "Survival rates for breast cancer have been improving for 30 years thanks to the development of more targeted treatments.
+But there is more to be done.
+One huge challenge is how to prevent breast cancer from spreading to other parts of the body.
+Once a cancer has spread it becomes more difficult to treat successfully.
+It's fascinating to discover how a simple bacteria could hold the key to powerful new approaches to treat breast cancer developing and spreading."
+Rachel Greig, from Breakthrough Breast Cancer, said: "This clever piece of work shows how laboratory research can throw up totally new ideas about how to treat cancer.
+"The next step is for scientists to design a treatment that mimics the action of thiostrepton and blocks cancer cells, which could then be useful to stop the spread of breast cancer.
+This work may also open the door for other molecules to be investigated that could also have cancer-blocking potential."
+

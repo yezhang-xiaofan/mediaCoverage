@@ -1,0 +1,7 @@
+21920973,Social laughter is correlated with an elevated pain threshold.,"Endorphins/*metabolism
+Female
+Humans
+*Laughter
+Male
+Pain Threshold/*psychology
+*Social Behavior",Dunbar RI and Baron R and Frangou A and Pearce E and van Leeuwen EJ and Stow J and Partridge G and MacDonald I and Barra V and van Vugt M,"Although laughter forms an important part of human non-verbal communication, it has received rather less attention than it deserves in both the experimental and the observational literatures. Relaxed social (Duchenne) laughter is associated with feelings of wellbeing and heightened affect, a proximate explanation for which might be the release of endorphins. We tested this hypothesis in a series of six experimental studies in both the laboratory (watching videos) and naturalistic contexts (watching stage performances), using change in pain threshold as an assay for endorphin release. The results show that pain thresholds are significantly higher after laughter than in the control condition. This pain-tolerance effect is due to laughter itself and not simply due to a change in positive affect. We suggest that laughter, through an endorphin-mediated opiate effect, may play a crucial role in social bonding.",Missing,Proceedings. Biological sciences / The Royal Society,279

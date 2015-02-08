@@ -1,0 +1,14 @@
+21768119,Substrate-mediated fidelity mechanism ensures accurate decoding of proline codons.,The Journal of biological chemistry,So BR and An S and Kumar S and Das M and Turner DA and Hadad CM and Musier-Forsyth K,Missing,"Aminoacyl-tRNA synthetases attach specific amino acids to cognate tRNAs. Prolyl-tRNA synthetases are known to mischarge tRNA(Pro) with the smaller amino acid alanine and with cysteine, which is the same size as proline. Quality control in proline codon translation is partly ensured by an editing domain (INS) present in most bacterial prolyl-tRNA synthetases that hydrolyzes smaller Ala-tRNA(Pro) and excludes Pro-tRNA(Pro). In contrast, Cys-tRNA(Pro) is cleared by a freestanding INS domain homolog, YbaK. Here, we have investigated the molecular mechanism of catalysis and substrate recognition by Hemophilus influenzae YbaK using site-directed mutagenesis, enzymatic assays of isosteric substrates and functional group analogs, and computational modeling. These studies together with mass spectrometric characterization of the YbaK-catalyzed reaction products support a novel substrate-assisted mechanism of Cys-tRNA(Pro) deacylation that prevents nonspecific Pro-tRNA(Pro) hydrolysis. Collectively, we propose that the INS and YbaK domains co-evolved distinct mechanisms involving steric exclusion and thiol-specific chemistry, respectively, to ensure accurate decoding of proline codons.","Acylation
+Amino Acyl-tRNA Synthetases/*genetics
+Bacterial Proteins/*genetics
+Biocatalysis
+Catalysis
+*Codon
+Haemophilus influenzae/*genetics
+Hydrolysis
+Mutagenesis, Site-Directed
+Proline/*genetics
+*Protein Biosynthesis
+Protein Structure, Tertiary
+RNA, Transfer, Amino Acyl
+Substrate Specificity"

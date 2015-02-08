@@ -1,0 +1,14 @@
+21300802,Mechanistic and structural insights into the regioselectivity of an acyl-CoA fatty acid desaturase via directed molecular evolution.,The Journal of biological chemistry,Vanhercke T and Shrestha P and Green AG and Singh SP,Missing,"Membrane-bound fatty acid desaturases and related enzymes play a pivotal role in the biosynthesis of unsaturated and various unusual fatty acids. Structural insights into the remarkable catalytic diversity and wide range of substrate specificities of this class of enzymes remain limited due to the lack of a crystal structure. To investigate the structural basis of the double bond positioning (regioselectivity) of the desaturation reaction in more detail, we relied on a combination of directed evolution in vitro and a powerful yeast complementation assay to screen for Deltax regioselectivity. After two selection rounds, variants of the bifunctional Delta12/Delta9-desaturase from the house cricket (Acheta domesticus) exhibited increased Delta9-desaturation activity on shorter chain fatty acids. This change in specificity was the result of as few as three mutations, some of them near the putative active site. Subsequent analysis of individual substitutions revealed an important role of residue Phe-52 in facilitating Delta9-desaturation of shorter chain acyl substrates and allowed for the redesign of the cricket Delta12/Delta9-desaturase into a 16:0-specific Delta9-desaturase. Our results demonstrate that a minimal number of mutations can have a profound impact on the regioselectivity of acyl-CoA fatty acid desaturases and include the first biochemical data supporting the acyl-CoA acyl carrier specificity of a desaturase able to carry out Delta12-desaturation.","Amino Acid Sequence
+Amino Acid Substitution
+Animals
+Catalytic Domain
+*Directed Molecular Evolution
+Fatty Acid Desaturases/*chemistry/genetics/metabolism
+Fatty Acids/chemistry/genetics/metabolism
+Gryllidae/*enzymology/genetics
+Insect Proteins/*chemistry/genetics/metabolism
+Molecular Sequence Data
+Mutation, Missense
+Saccharomyces cerevisiae
+Structure-Activity Relationship
+Substrate Specificity/physiology"

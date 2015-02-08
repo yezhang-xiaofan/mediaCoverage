@@ -1,0 +1,11 @@
+21681590,Are autism spectrum conditions more prevalent in an information-technology region? A school-based study of three regions in the Netherlands.,"Adolescent
+Child
+Child Development Disorders, Pervasive/diagnosis/*epidemiology
+Female
+Humans
+Male
+Netherlands/epidemiology
+Prevalence
+Questionnaires
+Schools
+Sex Factors",Roelfsema MT and Hoekstra RA and Allison C and Wheelwright S and Brayne C and Matthews FE and Baron-Cohen S,"We tested for differences in the prevalence of autism spectrum conditions (ASC) in school-aged children in three geographical regions in the Netherlands. Schools were asked to provide the number of children enrolled, the number having a clinical diagnosis of ASC and/or two control neurodevelopmental conditions. Prevalence was evaluated by negative binomial regression and adjustments were made for non-response and size of the schools. The prevalence estimates of ASC in Eindhoven was 229 per 10,000, significantly higher than in Haarlem (84 per 10,000) and Utrecht (57 per 10,000), whilst the prevalence for the control conditions were similar in all regions. Phase two is planned to validate school-reported cases using standardized diagnostic methods and to explore the possible causes for these differences.",Missing,Journal of autism and developmental disorders,42

@@ -1,0 +1,11 @@
+21382549,Synaptic integration gradients in single cortical pyramidal cell dendrites.,Neuron,Branco T and Hausser M,Missing,"Cortical pyramidal neurons receive thousands of synaptic inputs arriving at different dendritic locations with varying degrees of temporal synchrony. It is not known if different locations along single cortical dendrites integrate excitatory inputs in different ways. Here we have used two-photon glutamate uncaging and compartmental modeling to reveal a gradient of nonlinear synaptic integration in basal and apical oblique dendrites of cortical pyramidal neurons. Excitatory inputs to the proximal dendrite sum linearly and require precise temporal coincidence for effective summation, whereas distal inputs are amplified with high gain and integrated over broader time windows. This allows distal inputs to overcome their electrotonic disadvantage, and become surprisingly more effective than proximal inputs at influencing action potential output. Thus, single dendritic branches can already exhibit nonuniform synaptic integration, with the computational strategy shifting from temporal coding to rate coding along the dendrite.","Action Potentials/physiology
+Animals
+Cerebral Cortex/cytology/*physiology
+Computer Simulation
+Dendrites/*physiology
+Electrophysiology
+Excitatory Postsynaptic Potentials/physiology
+Models, Neurological
+Pyramidal Cells/cytology/*physiology
+Rats
+Synapses/*physiology"

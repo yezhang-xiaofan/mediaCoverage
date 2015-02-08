@@ -1,0 +1,26 @@
+21045143,Telomerase-dependent oncolytic adenovirus sensitizes human cancer cells to ionizing radiation via inhibition of DNA repair machinery.,Cancer research,Kuroda S and Fujiwara T and Shirakawa Y and Yamasaki Y and Yano S and Uno F and Tazawa H and Hashimoto Y and Watanabe Y and Noma K and Urata Y and Kagawa S and Fujiwara T,Missing,"The inability to repair DNA double-strand breaks (DSB) leads to radiosensitization, such that ionizing radiation combined with molecular inhibition of cellular DSB processing may greatly affect treatment of human cancer. As a variety of viral products interact with the DNA repair machinery, oncolytic virotherapy may improve the therapeutic window of conventional radiotherapy. Here, we describe the mechanistic basis for synergy of irradiation and OBP-301 (Telomelysin), an attenuated type-5 adenovirus with oncolytic potency that contains the human telomerase reverse transcriptase promoter to regulate viral replication. OBP-301 infection led to E1B55kDa viral protein expression that degraded the complex formed by Mre11, Rad50, and NBS1, which senses DSBs. Subsequently, the phosphorylation of cellular ataxia-telangiectasia mutated protein was inhibited, disrupting the signaling pathway controlling DNA repair. Thus, tumor cells infected with OBP-301 could be rendered sensitive to ionizing radiation. Moreover, by using noninvasive whole-body imaging, we showed that intratumoral injection of OBP-301 followed by regional irradiation induces a substantial antitumor effect, resulting from tumor cell-specific radiosensitization, in an orthotopic human esophageal cancer xenograft model. These results illustrate the potential of combining oncolytic virotherapy and ionizing radiation as a promising strategy in the management of human cancer.","Adenoviridae/*genetics/metabolism
+Adenovirus E1B Proteins/metabolism
+Animals
+Apoptosis/genetics/radiation effects
+Blotting, Western
+Cell Cycle Proteins/metabolism
+Cell Line, Tumor
+Cell Survival/genetics/radiation effects
+Combined Modality Therapy
+DNA Breaks, Double-Stranded/radiation effects
+DNA Repair/*radiation effects
+DNA Repair Enzymes/metabolism
+DNA-Binding Proteins/metabolism
+Esophageal Neoplasms/genetics/therapy
+Female
+Flow Cytometry
+Humans
+Mice
+Mice, Inbred BALB C
+Mice, Nude
+Neoplasms/genetics/*therapy
+Nuclear Proteins/metabolism
+Oncolytic Virotherapy/*methods
+Radiation, Ionizing
+Telomerase/genetics/*metabolism
+Xenograft Model Antitumor Assays"

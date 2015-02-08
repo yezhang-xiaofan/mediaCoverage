@@ -1,0 +1,11 @@
+21325331,Learning to count begins in infancy: evidence from 18 month olds' visual preferences.,"Asian Continental Ancestry Group
+Attention
+Australia
+Culture
+Humans
+Infant
+*Language
+Learning/*physiology
+Male
+*Pattern Recognition, Visual
+Perception",Slaughter V and Itakura S and Kutsuki A and Siegal M,"We used a preferential looking paradigm to evaluate infants' preferences for correct versus incorrect counting. Infants viewed a video depicting six fish. In the correct counting sequence, a hand pointed to each fish in turn, accompanied by verbal counting up to six. In the incorrect counting sequence, the hand moved between two of the six fish while there was still verbal counting to six, thereby violating the one-to-one correspondence principle of correct counting. Experiment 1 showed that Australian 18 month olds, but not 15 month olds, significantly preferred to watch the correct counting sequence. In experiment 2, Australian infants' preference for correct counting disappeared when the count words were replaced by beeps or by Japanese count words. In experiment 3, Japanese 18 month olds significantly preferred the correct counting video only when counting was in Japanese. These results show that infants start to acquire the abstract principles governing correct counting prior to producing any counting behaviour.",uq,Proceedings. Biological sciences / The Royal Society,278

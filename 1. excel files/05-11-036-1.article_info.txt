@@ -1,0 +1,31 @@
+22105623,A K(ATP) channel gene effect on sleep duration: from genome-wide association studies to function in Drosophila.,"ATP-Binding Cassette Transporters/genetics
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Animals
+Animals, Genetically Modified
+Cohort Studies
+Drosophila/genetics/physiology
+Drosophila Proteins/genetics
+European Continental Ancestry Group
+Female
+Genetic Predisposition to Disease/*genetics
+*Genome-Wide Association Study
+Genotype
+Humans
+Kv1.3 Potassium Channel/*genetics
+Male
+Middle Aged
+Myocardium/metabolism/pathology
+Phenotype
+Photoperiod
+Plakophilins/genetics
+Polymorphism, Single Nucleotide/*genetics
+Potassium Channels, Inwardly Rectifying/genetics
+RNA Interference/physiology
+Receptors, Drug/genetics
+Repressor Proteins/genetics
+Sleep Disorders/*genetics
+Sulfonylurea Receptors
+Young Adult",Allebrandt KV and Amin N and Muller-Myhsok B and Esko T and Teder-Laving M and Azevedo RV and Hayward C and van Mill J and Vogelzangs N and Green EW and Melville SA and Lichtner P and Wichmann HE and Oostra BA and Janssens AC and Campbell H and Wilson JF and Hicks AA and Pramstaller PP and Dogas Z and Rudan I and Merrow M and Penninx B and Kyriacou CP and Metspalu A and van Duijn CM and Meitinger T and Roenneberg T,"Humans sleep approximately a third of their lifetime. The observation that individuals with either long or short sleep duration show associations with metabolic syndrome and psychiatric disorders suggests that the length of sleep is adaptive. Although sleep duration can be influenced by photoperiod (season) and phase of entrainment (chronotype), human familial sleep disorders indicate that there is a strong genetic modulation of sleep. Therefore, we conducted high-density genome-wide association studies for sleep duration in seven European populations (N=4251). We identified an intronic variant (rs11046205; P=3.99 x 10(-8)) in the ABCC9 gene that explains approximately 5% of the variation in sleep duration. An influence of season and chronotype on sleep duration was solely observed in the replication sample (N=5949). Meta-analysis of the associations found in a subgroup of the replication sample, chosen for season of entry and chronotype, together with the discovery results showed genome-wide significance. RNA interference knockdown experiments of the conserved ABCC9 homologue in Drosophila neurons renders flies sleepless during the first 3 h of the night. ABCC9 encodes an ATP-sensitive potassium channel subunit (SUR2), serving as a sensor of intracellular energy metabolism.",Missing,Molecular psychiatry,18

@@ -1,0 +1,14 @@
+21278455,Alcohol industry and non-alcohol industry sponsorship of sportspeople and drinking.,"Adult
+Advertising as Topic
+Alcohol Drinking/*economics
+Alcoholic Beverages/*economics
+Alcoholic Intoxication/economics/psychology
+Female
+Financial Support
+Humans
+Industry/*economics
+Male
+Questionnaires
+Sports/*economics
+Universities
+Young Adult",O'Brien KS and Miller PG and Kolt GS and Martens MP and Webber A,"AIMS: To examine the relationship between direct alcohol and non-alcohol sponsorship and drinking in Australian sportspeople. METHODS: Australian sportspeople (N = 652; 51% female) completed questionnaires on alcohol and non-alcohol industry sponsorship (from bars, cafes etc.), drinking behaviour (Alcohol Use Disorders Identification Test (AUDIT)) and known confounders. RESULTS: 31% reported sponsorship (29.8% alcohol industry; 3.7% both alcohol and non-alcohol industry and 1.5% non-alcohol industry only) Multivariate regression showed that receipt of alcohol industry sponsorship was predictive of higher AUDIT scores (beta(adj) = 1.67, 95% confidence interval (CI): 0.56-2.78), but non-alcohol industry sponsorship and combinations of both were not (beta(adj) = 0.18, 95% CI: -2.61 to 2.68; and beta(adj) = 2.58, 95% CI: -0.60 to 5.76, respectively). CONCLUSION: Governments should consider alternatives to alcohol industry sponsorship of sport. Hypothecated taxes on tobacco have been used successfully for replacing tobacco sponsorship of sport in some countries, and may show equal utility for the alcohol industry's funding of sport.",Missing,"Alcohol and alcoholism (Oxford, Oxfordshire)",46

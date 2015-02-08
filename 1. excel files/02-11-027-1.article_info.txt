@@ -1,0 +1,20 @@
+21743469,Interaction between ERAP1 and HLA-B27 in ankylosing spondylitis implicates peptide handling in the mechanism for HLA-B27 in disease susceptibility.,"Aminopeptidases/*genetics/*metabolism
+CARD Signaling Adaptor Proteins/genetics
+CD8-Positive T-Lymphocytes/metabolism
+Case-Control Studies
+Core Binding Factor Alpha 3 Subunit/genetics
+Disease Susceptibility
+European Continental Ancestry Group
+Genome-Wide Association Study
+HLA-B27 Antigen/*genetics
+Humans
+Interleukin-12 Subunit p40/genetics
+Latent TGF-beta Binding Proteins/genetics
+Membrane Proteins/genetics
+Meta-Analysis as Topic
+Peptide Fragments/*metabolism
+Polymorphism, Genetic/*genetics
+Receptors, Peptide
+Receptors, Prostaglandin E, EP4 Subtype/genetics
+Receptors, Tumor Necrosis Factor, Type I/genetics
+Spondylitis, Ankylosing/*genetics/metabolism",Evans DM and Spencer CC and Pointon JJ and Su Z and Harvey D and Kochan G and Oppermann U and Dilthey A and Pirinen M and Stone MA and Appleton L and Moutsianas L and Leslie S and Wordsworth T and Kenna TJ and Karaderi T and Thomas GP and Ward MM and Weisman MH and Farrar C and Bradbury LA and Danoy P and Inman RD and Maksymowych W and Gladman D and Rahman P and Morgan A and Marzo-Ortega H and Bowness P and Gaffney K and Gaston JS and Smith M and Bruges-Armas J and Couto AR and Sorrentino R and Paladini F and Ferreira MA and Xu H and Liu Y and Jiang L and Lopez-Larrea C and Diaz-Pena R and Lopez-Vazquez A and Zayats T and Band G and Bellenguez C and Blackburn H and Blackwell JM and Bramon E and Bumpstead SJ and Casas JP and Corvin A and Craddock N and Deloukas P and Dronov S and Duncanson A and Edkins S and Freeman C and Gillman M and Gray E and Gwilliam R and Hammond N and Hunt SE and Jankowski J and Jayakumar A and Langford C and Liddle J and Markus HS and Mathew CG and McCann OT and McCarthy MI and Palmer CN and Peltonen L and Plomin R and Potter SC and Rautanen A and Ravindrarajah R and Ricketts M and Samani N and Sawcer SJ and Strange A and Trembath RC and Viswanathan AC and Waller M and Weston P and Whittaker P and Widaa S and Wood NW and McVean G and Reveille JD and Wordsworth BP and Brown MA and Donnelly P,"Ankylosing spondylitis is a common form of inflammatory arthritis predominantly affecting the spine and pelvis that occurs in approximately 5 out of 1,000 adults of European descent. Here we report the identification of three variants in the RUNX3, LTBR-TNFRSF1A and IL12B regions convincingly associated with ankylosing spondylitis (P < 5 x 10(-8) in the combined discovery and replication datasets) and a further four loci at PTGER4, TBKBP1, ANTXR2 and CARD9 that show strong association across all our datasets (P < 5 x 10(-6) overall, with support in each of the three datasets studied). We also show that polymorphisms of ERAP1, which encodes an endoplasmic reticulum aminopeptidase involved in peptide trimming before HLA class I presentation, only affect ankylosing spondylitis risk in HLA-B27-positive individuals. These findings provide strong evidence that HLA-B27 operates in ankylosing spondylitis through a mechanism involving aberrant processing of antigenic peptides.",Missing,Nature genetics,43

@@ -1,0 +1,19 @@
+22119525,SIN-inhibitory phosphatase complex promotes Cdc11p dephosphorylation and propagates SIN asymmetry in fission yeast.,Current biology : CB,Singh NS and Shao N and McLean JR and Sevugan M and Ren L and Chew TG and Bimbo A and Sharma R and Tang X and Gould KL and Balasubramanian MK,Missing,"BACKGROUND: Cytokinesis in many eukaryotes involves the function of an actomyosin-based contractile ring. In fission yeast, actomyosin ring maturation and stability require a conserved signaling pathway termed the SIN (septation initiation network). The SIN consists of a GTPase (Spg1p) and three protein kinases, all of which localize to the mitotic spindle pole bodies (SPBs). Two of the SIN kinases, Cdc7p and Sid1p, localize asymmetrically to the newly duplicated SPB in late anaphase. How this asymmetry is achieved is not understood, although it is known that their symmetric localization impairs cytokinesis. RESULTS: Here we characterize a new Forkhead-domain-associated protein, Csc1p, and identify SIN-inhibitory PP2A complex (SIP), which is crucial for the establishment of SIN asymmetry. Csc1p localizes to both SPBs early in mitosis, is lost from the SPB that accumulates Cdc7p, and instead accumulates at the SPB lacking Cdc7p. Csc1p is required for the dephosphorylation of the SIN scaffolding protein Cdc11p and is thereby required for the recruitment of Byr4p, a component of the GTPase-activating subunit for Spg1p, to the SPB. CONCLUSIONS: Because Cdc7p does not bind to GDP-Spg1p, we propose that the SIP-mediated Cdc11p dephosphorylation and the resulting recruitment of Byr4p are among the earliest steps in the establishment of SIN asymmetry.","Actomyosin/*metabolism
+Cell Cycle Proteins/*metabolism
+Cytokinesis/*physiology
+GTP Phosphohydrolases/metabolism
+Immunoblotting
+Immunoprecipitation
+Mass Spectrometry
+Microscopy, Fluorescence
+Models, Biological
+Multiprotein Complexes/*metabolism
+Phosphorylation
+Polymerase Chain Reaction
+Protein Kinases/metabolism
+Protein-Serine-Threonine Kinases/metabolism
+Repressor Proteins/*metabolism
+Schizosaccharomyces/metabolism/*physiology
+Schizosaccharomyces pombe Proteins/*metabolism
+Signal Transduction/*physiology
+Spindle Apparatus/*metabolism"

@@ -1,0 +1,20 @@
+21288945,Modelling the impact of local reactive school closures on critical care provision during an influenza pandemic.,"Adolescent
+Adult
+Aged
+Basic Reproduction Number
+Child
+Child, Preschool
+*Critical Care
+Disease Transmission, Infectious/prevention & control
+Great Britain/epidemiology
+Health Services Needs and Demand
+Hospitalization/statistics & numerical data
+Humans
+*Influenza A Virus, H1N1 Subtype
+Influenza, Human/*epidemiology/prevention & control/therapy
+Intensive Care Units/statistics & numerical data
+Middle Aged
+*Models, Biological
+*Pandemics
+*Schools
+Young Adult",House T and Baguelin M and Van Hoek AJ and White PJ and Sadique Z and Eames K and Read JM and Hens N and Melegaro A and Edmunds WJ and Keeling MJ,"Despite the fact that the 2009 H1N1 pandemic influenza strain was less severe than had been feared, both seasonal epidemics of influenza-like-illness and future influenza pandemics have the potential to place a serious burden on health services. The closure of schools has been postulated as a means of reducing transmission between children and hence reducing the number of cases at the peak of an epidemic; this is supported by the marked reduction in cases during school holidays observed across the world during the 2009 pandemic. However, a national policy of long-duration school closures could have severe economic costs. Reactive short-duration closure of schools in regions where health services are close to capacity offers a potential compromise, but it is unclear over what spatial scale and time frame closures would need to be made to be effective. Here, using detailed geographical information for England, we assess how localized school closures could alleviate the burden on hospital intensive care units (ICUs) that are reaching capacity. We show that, for a range of epidemiologically plausible assumptions, considerable local coordination of school closures is needed to achieve a substantial reduction in the number of hospitals where capacity is exceeded at the peak of the epidemic. The heterogeneity in demand per hospital ICU bed means that even widespread school closures are unlikely to have an impact on whether demand will exceed capacity for many hospitals. These results support the UK decision not to use localized school closures as a control mechanism, but have far wider international public-health implications. The spatial heterogeneities in both population density and hospital capacity that give rise to our results exist in many developed countries, while our model assumptions are sufficiently general to cover a wide range of pathogens. This leads us to believe that when a pandemic has severe implications for ICU capacity, only widespread school closures (with their associated costs and organizational challenges) are sufficient to mitigate the burden on the worst-affected hospitals.",Missing,Proceedings. Biological sciences / The Royal Society,278

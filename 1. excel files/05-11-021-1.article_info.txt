@@ -1,0 +1,22 @@
+21753226,Combustion-derived nanoparticulate induces the adverse vascular effects of diesel exhaust inhalation.,"Adolescent
+Adult
+Air Pollutants/toxicity
+Animals
+Aorta/drug effects
+Blood Pressure/*drug effects
+Carbon/*toxicity
+Cross-Over Studies
+Double-Blind Method
+Forearm/blood supply
+Humans
+Inhalation Exposure/*adverse effects
+Male
+Muscle Contraction/drug effects
+Muscle, Smooth, Vascular/drug effects
+Nanoparticles/*toxicity
+Rats
+Vasoconstrictor Agents/pharmacology
+Vasodilation/*drug effects
+Vasodilator Agents/pharmacology
+Vehicle Emissions/*toxicity
+Young Adult",Mills NL and Miller MR and Lucking AJ and Beveridge J and Flint L and Boere AJ and Fokkens PH and Boon NA and Sandstrom T and Blomberg A and Duffin R and Donaldson K and Hadoke PW and Cassee FR and Newby DE,"AIM: Exposure to road traffic and air pollution may be a trigger of acute myocardial infarction, but the individual pollutants responsible for this effect have not been established. We assess the role of combustion-derived-nanoparticles in mediating the adverse cardiovascular effects of air pollution. METHODS AND RESULTS: To determine the in vivo effects of inhalation of diesel exhaust components, 16 healthy volunteers were exposed to (i) dilute diesel exhaust, (ii) pure carbon nanoparticulate, (iii) filtered diesel exhaust, or (iv) filtered air, in a randomized double blind cross-over study. Following each exposure, forearm blood flow was measured during intra-brachial bradykinin, acetylcholine, sodium nitroprusside, and verapamil infusions. Compared with filtered air, inhalation of diesel exhaust increased systolic blood pressure (145 +/- 4 vs. 133 +/- 3 mmHg, P< 0.05) and attenuated vasodilatation to bradykinin (P= 0.005), acetylcholine (P= 0.008), and sodium nitroprusside (P< 0.001). Exposure to pure carbon nanoparticulate or filtered exhaust had no effect on endothelium-dependent or -independent vasodilatation. To determine the direct vascular effects of nanoparticulate, isolated rat aortic rings (n= 6-9 per group) were assessed in vitro by wire myography and exposed to diesel exhaust particulate, pure carbon nanoparticulate and vehicle. Compared with vehicle, diesel exhaust particulate (but not pure carbon nanoparticulate) attenuated both acetylcholine (P< 0.001) and sodium-nitroprusside (P= 0.019)-induced vasorelaxation. These effects were partially attributable to both soluble and insoluble components of the particulate. CONCLUSION: Combustion-derived nanoparticulate appears to predominately mediate the adverse vascular effects of diesel exhaust inhalation. This provides a rationale for testing environmental health interventions targeted at reducing traffic-derived particulate emissions.",Missing,European heart journal,32

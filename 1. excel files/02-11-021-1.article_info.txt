@@ -1,0 +1,17 @@
+21543601,Study of novel selective mGlu2 agonist in the temporo-ammonic input to CA1 neurons reveals reduced mGlu2 receptor expression in a Wistar substrain with an anxiety-like phenotype.,"Animals
+Anxiety/genetics/*metabolism
+Behavior, Animal/drug effects/physiology
+Blotting, Western
+CA1 Region, Hippocampal/drug effects/*metabolism
+Cyclopropanes/pharmacology
+Electrophysiology
+Excitatory Postsynaptic Potentials/drug effects/physiology
+Glycine/analogs & derivatives/pharmacology
+Male
+Mice
+Mice, Knockout
+Neurons/drug effects/*metabolism
+Rats
+Rats, Wistar
+Receptors, Metabotropic Glutamate/genetics/*metabolism
+Synaptic Transmission/drug effects/physiology",Ceolin L and Kantamneni S and Barker GR and Hanna L and Murray L and Warburton EC and Robinson ES and Monn JA and Fitzjohn SM and Collingridge GL and Bortolotto ZA and Lodge D,"Group II metabotropic receptors (mGluRs) regulate central synaptic transmission by modulating neurotransmitter release. However, the lack of pharmacological tools differentiating between mGlu2 and mGlu3 receptors has hampered identification of the roles of these two receptor subtypes. We have used LY395756 [(1SR,2SR,4RS,5RS,6SR)-2-amino-4-methylbicyclo[3.1.0]-hexane2,6-dicarboxylic], an agonist at mGlu2 receptors and an antagonist at mGlu3 receptors in cell lines, to investigate the roles of these receptors in the temporo-ammonic path from entorhinal cortex to CA1-stratum lacunosum moleculare in rat hippocampal slices. Surprisingly, the degree of inhibition of the field EPSP induced by LY395756 fell into two distinct groups, with EC(50) values of <1 mum and >100 mum. In ""sensitive"" slices, LY395756 had additive actions with a mixed mGlu2/mGlu3 agonist, DCG-IV [(2S,2'R,3'R)-2-(2',3'-dicarboxycyclopropyl)glycine], whereas in ""insensitive"" slices, LY395756 reduced the effect of DCG-IV, with an IC(50) of approximately 1 mum. This separation into sensitive and insensitive slices could be explained by LY395756 acting as an mGlu2 agonist and mGlu3 antagonist, respectively, a finding supported by data from mice lacking these receptors. The heterogeneity was correlated with differences in expression levels of mGlu2 receptors within our Wistar colony and other Wistar substrains. The initial search for a behavioral correlate indicated that rats lacking mGlu2 receptors showed anxiety-like behavior in open-field and elevated plus maze assays. These findings have implications for rat models of psychiatric disease and are especially pertinent given that mGlu2 receptors are targets for compounds under development for anxiety.",Missing,The Journal of neuroscience : the official journal of the Society for Neuroscience,31

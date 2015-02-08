@@ -1,0 +1,14 @@
+21706004,Mitochondrial aging is accelerated by anti-retroviral therapy through the clonal expansion of mtDNA mutations.,"Adult
+Aging/*genetics
+Anti-Retroviral Agents/*adverse effects
+Clone Cells
+DNA, Mitochondrial
+Female
+HIV/genetics
+HIV Infections/complications/*drug therapy/genetics
+Humans
+Male
+Middle Aged
+Mitochondria/*genetics
+Mitochondrial Diseases/*etiology
+Mutation/*genetics",Payne BA and Wilson IJ and Hateley CA and Horvath R and Santibanez-Koref M and Samuels DC and Price DA and Chinnery PF,"There is emerging evidence that people with successfully treated HIV infection age prematurely, leading to progressive multi-organ disease, but the reasons for this are not known. Here we show that patients treated with commonly used nucleoside analog anti-retroviral drugs progressively accumulate somatic mitochondrial DNA (mtDNA) mutations, mirroring those seen much later in life caused by normal aging. Ultra-deep re-sequencing by synthesis, combined with single-cell analyses, suggests that the increase in somatic mutation is not caused by increased mutagenesis but might instead be caused by accelerated mtDNA turnover. This leads to the clonal expansion of preexisting age-related somatic mtDNA mutations and a biochemical defect that can affect up to 10% of cells. These observations add weight to the role of somatic mtDNA mutations in the aging process and raise the specter of progressive iatrogenic mitochondrial genetic disease emerging over the next decade.",Missing,Nature genetics,43

@@ -1,0 +1,19 @@
+21964340,Inhibition of BET recruitment to chromatin as an effective treatment for MLL-fusion leukaemia.,"Animals
+Cell Line, Tumor
+Chromatin/genetics/*metabolism
+Chromatin Immunoprecipitation
+Disease Models, Animal
+Gene Expression Profiling
+Gene Expression Regulation, Neoplastic/drug effects
+Heterocyclic Compounds with 4 or More Rings/pharmacology/therapeutic use
+Humans
+Leukemia, Myeloid, Acute/*drug therapy/genetics/*metabolism/pathology
+Mice
+Models, Molecular
+Multiprotein Complexes/chemistry/metabolism
+Myeloid-Lymphoid Leukemia Protein/*metabolism
+Oncogene Proteins, Fusion/*metabolism
+Protein Binding/drug effects
+Proteomics
+Transcription Factors/*antagonists & inhibitors/*metabolism
+Transcription, Genetic/drug effects",Dawson MA and Prinjha RK and Dittmann A and Giotopoulos G and Bantscheff M and Chan WI and Robson SC and Chung CW and Hopf C and Savitski MM and Huthmacher C and Gudgin E and Lugo D and Beinke S and Chapman TD and Roberts EJ and Soden PE and Auger KR and Mirguet O and Doehner K and Delwel R and Burnett AK and Jeffrey P and Drewes G and Lee K and Huntly BJ and Kouzarides T,"Recurrent chromosomal translocations involving the mixed lineage leukaemia (MLL) gene initiate aggressive forms of leukaemia, which are often refractory to conventional therapies. Many MLL-fusion partners are members of the super elongation complex (SEC), a critical regulator of transcriptional elongation, suggesting that aberrant control of this process has an important role in leukaemia induction. Here we use a global proteomic strategy to demonstrate that MLL fusions, as part of SEC and the polymerase-associated factor complex (PAFc), are associated with the BET family of acetyl-lysine recognizing, chromatin 'adaptor' proteins. These data provided the basis for therapeutic intervention in MLL-fusion leukaemia, via the displacement of the BET family of proteins from chromatin. We show that a novel small molecule inhibitor of the BET family, GSK1210151A (I-BET151), has profound efficacy against human and murine MLL-fusion leukaemic cell lines, through the induction of early cell cycle arrest and apoptosis. I-BET151 treatment in two human leukaemia cell lines with different MLL fusions alters the expression of a common set of genes whose function may account for these phenotypic changes. The mode of action of I-BET151 is, at least in part, due to the inhibition of transcription at key genes (BCL2, C-MYC and CDK6) through the displacement of BRD3/4, PAFc and SEC components from chromatin. In vivo studies indicate that I-BET151 has significant therapeutic value, providing survival benefit in two distinct mouse models of murine MLL-AF9 and human MLL-AF4 leukaemia. Finally, the efficacy of I-BET151 against human leukaemia stem cells is demonstrated, providing further evidence of its potent therapeutic potential. These findings establish the displacement of BET proteins from chromatin as a promising epigenetic therapy for these aggressive leukaemias.",Missing,Nature,478

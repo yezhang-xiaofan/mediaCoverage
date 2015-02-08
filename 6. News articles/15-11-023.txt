@@ -1,0 +1,44 @@
+8 December 2011 Last updated at 13:15 
+BBC
+Rare gene links vitamin D and multiple sclerosis
+A rare genetic variant which causes reduced levels of vitamin D appears to be directly linked to multiple sclerosis, says an Oxford University study.
+UK and Canadian scientists identified the mutated gene in 35 parents of a child with MS and, in each case, the child inherited it.
+Researchers say this adds weight to suggestions of a link between vitamin D deficiency and MS.
+The study is in Annals of Neurology.
+Multiple sclerosis is an inflammatory disease of the central nervous system (the brain and spinal cord).
+Although the cause of MS is not yet conclusively known, both genetic and environmental factors and their interactions are known to be important.
+Oxford University researchers, along with Canadian colleagues at the University of Ottawa, University of British Columbia and McGill University, set out to look for rare genetic changes that could explain strong clustering of MS cases in some families in an existing Canadian study.
+They sequenced all the gene-coding regions in the genomes of 43 individuals selected from families with four or more members with MS. 
+The team compared the DNA changes they found against existing databases, and identified a change in the gene CYP27B1 as being important.
+When people inherit two copies of this gene they develop a genetic form of rickets - a disease caused by vitamin D deficiency.
+Just one copy of the mutated CYP27B1 gene affects a key enzyme which leads people with it to have lower levels of vitamin D.
+Overwhelming odds 
+The researchers then looked for the rare gene variant in over 3,000 families of unaffected parents with a child with MS. 
+They found 35 parents who carried one copy of this variant along with one normal copy. 
+In every one of these 35 cases, the child with MS had inherited the mutated version of the gene.
+The likelihood of this gene's transmission being unconnected to the MS is billions to one against, say the researchers.
+Prof George Ebers, lead study author at Oxford University, says the odds are overwhelming.
+"All 35 children inheriting the variant is like flipping a coin 35 times and getting 35 heads, entailing odds of 32 billion to one against."
+He added: "This type of finding has not been seen in any complex disease.
+The uniform transmission of a variant to offspring with MS is without precedent but there will have been interaction with other factors."
+Prof Ebers believes that this new evidence adds to previous observational studies which have suggested that sunshine levels around the globe - the body needs sunshine to generate vitamin D - are linked to MS.
+He maintained that there was now enough evidence to carry out large-scale studies of vitamin D supplements for preventing multiple sclerosis.
+"It would be important particularly in countries like Scotland and the rest of the UK where sunshine levels are low for large parts of the year.
+Scotland has the greatest incidence of multiple sclerosis of any country in the world."
+Dr Doug Brown, head of biomedical research at the MS Society, called it an important development.
+"This shines more light on the potential role of vitamin D deficiency on increasing the risk of developing MS. 
+"This research is gathering momentum and will be the subject of discussion at an international expert meeting in the USA this month, the outcomes of which will shape future research that will give us the answers we so desperately need about the potential risks and benefit of vitamin D supplementation."
+Paul Comer, from the charity MS Trust, said the research strengthened the case for vitamin D being one potential contributory cause of MS.
+"Current opinion suggests that a combination of genetic predisposition, environmental factors such as exposure to sunlight and possibly some sort of trigger, such as a viral infection, interact in some way to start the development of MS.
+"We welcome any research that clarifies the interplay between these factors.
+This is another step towards finding ways to reduce the risk of developing MS, but it is likely to be some years yet before we can gauge the significance of vitamin D deficiency to MS."
+
+ The Scotsman
+ December 9, 2011, Friday  1 Edition
+ Vitamin D link to MS grows  SECTION: Pg. 25  LENGTH: 130 words
+A RARE variable gene which causes reduced levels of vitamin D appears to be directly linked to multiple sclerosis, according an Oxford University study.
+UK and Canadian scientists identified the mutated gene in 35 parents of a child with MS and, in each case, the child inherited it.
+The mutated gene affects a key enzyme which leads people with the variant to have lower levels of vitamin D, adding weight to the suggested link between vitamin D and MS.
+The likelihood of this gene's transmission being unconnected to the MS is billions to one against, the researchers say.
+Dr Doug Brown, head of biomedical research at the MS Society, said: "This is an important development and shines more light on the potential role of vitamin D deficiency on increasing the risk of developing MS."
+

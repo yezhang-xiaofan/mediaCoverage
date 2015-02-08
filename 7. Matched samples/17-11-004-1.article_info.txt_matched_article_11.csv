@@ -1,0 +1,17 @@
+21239473,The HIF-1-inducible lysyl oxidase activates HIF-1 via the Akt pathway in a positive regulation loop and synergizes with HIF-1 in promoting tumor cell growth.,Cancer research,Pez F and Dayan F and Durivault J and Kaniewski B and Aimond G and Le Provost GS and Deux B and Clezardin P and Sommer P and Pouyssegur J and Reynaud C,Missing,"Adaptation to hypoxia is a driving force for tumor progression that leads to therapy resistance and poor clinical outcome. Hypoxic responses are mainly mediated by hypoxia-inducible transcription factor-1 (HIF-1). One critical HIF-1 target mediating tumor progression is lysyl oxidase (LOX), which catalyzes cross-linking of collagens and elastin in the extracellular matrix, thereby regulating tissue tensile strength. Paradoxically, LOX has been reported to be both upregulated and downregulated in cancer cells, especially in colorectal cancer. Thus, we hypothesized that LOX might regulate expression of HIF-1 to create a self-timing regulatory circuit. Using human colorectal carcinoma cell lines in which HIF-1 and LOX expression could be modulated, we showed that LOX induction enhanced HIF-1 expression, whereas LOX silencing reduced it. Mechanistic investigations revealed that LOX activated the PI3K (phosphoinositide 3-kinase)-Akt signaling pathway, thereby upregulating HIF-1alpha protein synthesis in a manner requiring LOX-mediated hydrogen peroxide production. Consistent with these results, cancer cell proliferation was stimulated by secreted and active LOX in an HIF-1alpha-dependent fashion. Furthermore, nude mice xenograft assays established that HIF-1 potentiated LOX action on tumor growth in vivo. Taken together, these findings provide compelling evidence that LOX and HIF-1 act in synergy to foster tumor formation, and they suggest that HIF-1/LOX mutual regulation is a pivotal mechanism in the adaptation of tumor cells to hypoxia.","Animals
+Cell Hypoxia/physiology
+Cell Line, Tumor
+Cell Proliferation
+Colorectal Neoplasms/*metabolism
+Feedback, Physiological/physiology
+Gene Expression Profiling
+Gene Expression Regulation, Neoplastic/physiology
+Humans
+Hypoxia-Inducible Factor 1, alpha Subunit/*metabolism
+Immunohistochemistry
+Mice
+Mice, Nude
+Protein-Lysine 6-Oxidase/*metabolism
+Proto-Oncogene Proteins c-akt/*metabolism
+Reverse Transcriptase Polymerase Chain Reaction
+Signal Transduction/*physiology"

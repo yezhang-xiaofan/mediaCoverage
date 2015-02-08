@@ -1,0 +1,14 @@
+21685536,Interpretation of genotypic HIV-1 resistance to darunavir and virological response: validation of available systems and of a new score.,Antiviral therapy,De Luca A and Di Giambenedetto S and Maserati R and Gianotti N and Narciso P and Antinori A and Di Perri G and Prosperi MC and Baldanti F and Micheli V and Zazzi M and Perno CF and Santoro MM,Missing,"BACKGROUND: There is not yet consensus on interpretation of genotypic HIV-1 resistance to darunavir (DRV). We validated existing rules and a newly derived score. METHODS: Protease inhibitor (PI)-failing patients starting a DRV/ritonavir-based regimen, with available baseline resistance genotypes, were extracted from three Italian databases. Virological response (VR) was analysed between 4 and 32 follow-up weeks, defined as a drop from baseline HIV RNA of >/=2 log(10) or a value <50 copies/ml if the last measurement had been obtained at </=12 weeks and as HIV RNA<50 copies/ml if it had been obtained at >12 weeks of follow-up. DRV/ritonavir resistance was interpreted by seven algorithms. A new weighted score (DRV-2009) was derived and validated, analysing associations of protease mutations with VR. RESULTS: A total of 217 patients were analysed, with a mean (+/-sd) follow-up time of 17 (+/-9) weeks. At baseline, median HIV RNA was 4.26 log(10) copies/ml (IQR 3.11-5.03); VR was achieved in 135/217 (62%) patients. Adjusting for use of a new drug class, number of previous PIs experienced, CD4(+) T-cell count and HIV RNA, only the Rega DRV/ritonavir interpretation was significantly associated with VR (per increase in susceptibility category, OR 1.94, 95% CI 1.32-2.86; P<0.001). The DRV-2009 score V11I+L33F+R41K+I47V+2*I50V+2*I54M+K55R+D60E+L74P+L76V+N88D+2*L89V-L10I/V-I13V-G16 E-G48V-F53I/L-I62V-I66F-V77I (<0 indicating susceptibility, 0-1 intermediate resistance and >/=2 resistance) correlated with VR in the derivation set (n=132, R=0.395; P<0.001). In the validation set (n=85), after adjusting for mutual interpretation and new use of enfuvirtide, DRV-2009 (P=0.017) and Rega (P=0.013) were both independently associated with VR. CONCLUSIONS: In contrast to the other algorithms, both the DRV-2009 score and Rega interpretation showed a robust predictive capacity of VR to DRV/ritonavir-containing regimens.","Algorithms
+Anti-HIV Agents/*pharmacology/therapeutic use
+Drug Resistance, Viral/*genetics
+Drug Therapy, Combination
+Genotype
+HIV Infections/drug therapy/virology
+HIV Protease Inhibitors/*pharmacology/therapeutic use
+HIV-1/*drug effects/genetics
+Humans
+Microbial Sensitivity Tests/methods
+Predictive Value of Tests
+Ritonavir/pharmacology/therapeutic use
+Sulfonamides/*pharmacology/therapeutic use
+Treatment Outcome"

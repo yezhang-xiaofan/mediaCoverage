@@ -1,0 +1,15 @@
+21216859,Closed-loop insulin delivery during pregnancy complicated by type 1 diabetes.,"Adult
+Algorithms
+Biosensing Techniques/methods/statistics & numerical data
+Blood Glucose/drug effects/metabolism
+Circadian Rhythm
+Diabetes Mellitus, Type 1/diagnosis/*drug therapy
+Female
+Humans
+Hyperglycemia/drug therapy
+Hypoglycemic Agents/*administration & dosage
+Insulin/*administration & dosage
+*Insulin Infusion Systems/standards
+Pregnancy
+Pregnancy in Diabetics/diagnosis/*drug therapy
+Reproducibility of Results",Murphy HR and Elleri D and Allen JM and Harris J and Simmons D and Rayman G and Temple R and Dunger DB and Haidar A and Nodale M and Wilinska ME and Hovorka R,"OBJECTIVE: This study evaluated closed-loop insulin delivery with a model predictive control (MPC) algorithm during early (12-16 weeks) and late gestation (28-32 weeks) in pregnant women with type 1 diabetes. RESEARCH DESIGN AND METHODS: Ten women with type 1 diabetes (age 31 years, diabetes duration 19 years, BMI 24.1 kg/m(2), booking A1C 6.9%) were studied over 24 h during early (14.8 weeks) and late pregnancy (28.0 weeks). A nurse adjusted the basal insulin infusion rate from continuous glucose measurements (CGM), fed into the MPC algorithm every 15 min. Mean glucose and time spent in target (63-140 mg/dL), hyperglycemic (>140 to >/= 180 mg/dL), and hypoglycemic (<63 to </= 50 mg/dL) were calculated using plasma and sensor glucose measurements. Linear mixed-effects models were used to compare glucose control during early and late gestation. RESULTS: During closed-loop insulin delivery, median (interquartile range) plasma glucose levels were 117 (100.8-154.8) mg/dL in early and 126 (109.8-140.4) mg/dL in late gestation (P = 0.72). The overnight mean (interquartile range) plasma glucose time in target was 84% (50-100%) in early and 100% (94-100%) in late pregnancy (P = 0.09). Overnight mean (interquartile range) time spent hyperglycemic (>140 mg/dL) was 7% (0-40%) in early and 0% (0-6%) in late pregnancy (P = 0.25) and hypoglycemic (<63 mg/dL) was 0% (0-3%) and 0% (0-0%), respectively (P = 0.18). Postprandial glucose control, glucose variability, insulin infusion rates, and CGM sensor accuracy were no different in early or late pregnancy. CONCLUSIONS: MPC algorithm performance was maintained throughout pregnancy, suggesting that overnight closed-loop insulin delivery could be used safely during pregnancy. More work is needed to achieve optimal postprandial glucose control.",Missing,Diabetes care,34

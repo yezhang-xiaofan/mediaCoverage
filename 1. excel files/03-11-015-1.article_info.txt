@@ -1,0 +1,19 @@
+21477602,Hippocampal dysfunction in patients with mild cognitive impairment: a functional neuroimaging study of a visuospatial paired associates learning task.,"Aged
+Association Learning/*physiology
+Brain/pathology
+Cognition Disorders/*pathology/*psychology
+Data Interpretation, Statistical
+Female
+Hippocampus/*pathology
+Humans
+Image Processing, Computer-Assisted
+Magnetic Resonance Imaging
+Male
+Memory/physiology
+Middle Aged
+Neuropsychological Tests
+Parahippocampal Gyrus/pathology
+Photic Stimulation
+Space Perception/*physiology
+Verbal Behavior/physiology
+Visual Perception/*physiology",de Rover M and Pironti VA and McCabe JA and Acosta-Cabronero J and Arana FS and Morein-Zamir S and Hodges JR and Robbins TW and Fletcher PC and Nestor PJ and Sahakian BJ,"Mild cognitive impairment (MCI) patients report memory problems greater than those normally expected with ageing, but do not fulfil criteria for clinically probable Alzheimer's disease. Accumulating evidence demonstrates that impaired performance on the Paired Associates Learning (PAL) test from the Cambridge Neuropsychological Test Automated Battery (CANTAB) may be sensitive and specific for early and differential diagnosis of Alzheimer's disease. We adapted the basic CANTAB PAL task for functional magnetic resonance imaging (fMRI) in order to examine the functional brain deficits, at encoding and retrieval separately, in patients with MCI compared to healthy matched volunteers. As well as investigating the main effects of encoding and retrieval, we characterized neural responses in the two groups to increasing memory load. We focused on changes in BOLD response in the hippocampus and related structures, as an a priori region of interest based on what is known about the neuropathology of the early stages of Alzheimer's disease and previous information on the neural substrates of the PAL task. We also used structural MRI in the same patients to assess accompanying structural brain abnormalities associated with MCI. In terms of the BOLD response, the bilateral hippocampal activation in the MCI and control groups depended upon load, the MCI patients activating significantly more than controls at low loads and significantly less at higher loads. There were no other differences between MCI patients and controls in terms of the neural networks activated during either encoding or retrieval of the PAL task, including the prefrontal, cingulate and temporal cortex. The functional deficit in hippocampal activation in the MCI patients was accompanied by structural differences in the same location, suggesting that the decrease in hippocampal activation may be caused by a decrease in the amount of grey matter. This is one of the first studies to have used both encoding and retrieval phases of a memory paradigm for fMRI in MCI patients, and to have shown that the BOLD response in MCI patients can show both hyperactivation and hypoactivation in the same individuals as a function of memory load and encoding/retrieval. The findings suggest that performance on PAL might be a useful cognitive biomarker for early detection of Alzheimer's disease, especially when used in conjunction with neuroimaging.",Missing,Neuropsychologia,49

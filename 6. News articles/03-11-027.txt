@@ -1,0 +1,145 @@
+10 August 2011 Last updated at 18:15 
+BBC
+Genetic clues to what triggers MS
+By Helen Briggs Health editor, BBC News website 
+ 
+Around 30 genetic risk factors for developing multiple sclerosis have been discovered by a UK-led team.
+It brings to more than 50 the total number of genetic clues to the disease.
+The research, published in Nature, will help identify risk factors and perhaps future treatments or even a cure, said the MS Society.
+Most of the genes are linked to immunity, backing the idea that the disease is triggered when the immune system turns against itself.
+Genes are only part of the story, however, with other factors, such as vitamin D deficiency or a viral infection, thought to play an important role.
+The study, carried out by a consortium of international researchers, led by the universities of Oxford and Cambridge, is the largest yet into genes and MS.
+It looked at DNA from almost 10,000 MS patients, and more than 15,000 healthy controls.
+Twenty three known genetic variations, common in the general population, that give a tiny increase in the risk of getting MS were confirmed, and 29 new ones identified.
+Another five are strongly suspected as being involved, bringing the total number of genetic variations associated with MS to 57.
+Professor Alistair Compston of the University of Cambridge told the BBC: "This is suddenly a big new number of genes to try to understand. 
+"80% of the genes that are implicated by the 57 'hits' are immunological.
+This shouts out that this is an immunological disease at the beginning.
+This is a very important confirmation."
+Around 2.5 million people around the world have MS, 100,000 of them in the UK.
+MS is not directly inherited and there is no single gene that causes it.
+However, research suggests a combination of genes common in the general population make some people more susceptible to developing the neurological disorder.
+Other factors are involved, possibly something in the environment, such as an infection or bacteria, or lack of Vitamin D. 
+Simon Gillespie, Chief Executive of the MS Society said: "By identifying which genes may trigger the development of MS, we can identify potential 'risk factors' and look at new ways of treating, or even preventing, the condition in the future." 
+Some of the genes found to be important in MS are also implicated in other autoimmune disorders, such as Crohn's disease and Type 1 diabetes, a separate research paper, published in PLoS Genetics, has reported.
+
+Independent.co.uk
+ August 11, 2011 Thursday 12:00 AM GMT 
+ Multiple sclerosis study identifies genetic causes;  MS is one of the most common neurological conditions in young adults but there is a debate about how it is triggered  BYLINE: By Steve Connor, Science Editor  SECTION: HEALTH NEWS  LENGTH: 382 words
+One of the biggest studies ever undertaken into multiple sclerosis has identified 29 new genetic factors that are implicated in the development of the disease.
+The nature of the genes that have been linked with MS has demonstrated with a high degree of certainty that the root causes of the illness can be traced to the faulty functioning of the body's immune system, scientists said.
+Nearly 10,000 individuals with multiple sclerosis took part in the study and their genomes were scanned to find the genetic differences with the DNA of over 17,000 healthy people.
+The total number of genetic faults linked with the disease now amounts to 57.
+Alastair Compston, of the University of Cambridge, one of the lead authors of the study published in Nature, said there have been rival theories about what are the important factors implicated in triggering the disease, one of the most common neurological conditions affecting young adults.
+"Our research settles a long-standing debate on what happens first in the complex sequences of events that leads to disability in multiple sclerosis," he said.
+"This has important implications for future treatment strategies.
+It puts immunology right at the front end of the disease, absolutely."
+The study involved a relatively new technique called genome-wide scanning, which involves analysing the entire length of a patient's DNA for anomalies that appear not to exist in healthy people and could therefore be linked with the disease.
+Previous research had established that multiple sclerosis has a strong genetic component.
+Some of the newly identified genes are known to be involved in the immune system and some have also been linked with other auto-immune diseases, where the immune defences start to attack the body's own cells and tissues, said Professor Peter Donnelly of Oxford University, who was involved in the research.
+In a parallel study, American scientists have identified a similar array of genes involved in multiple sclerosis, which the researchers said could open the way to new drugs and treatments.
+"We have known for some time that many devastating diseases of the immune system must have common genetic causes.
+Now we have an outline of a map that tells us where we can look for common treatments," said Chris Cotsapas of Yale University.
+
+REUTERS
+Scientists unravel genetic clues to multiple sclerosis
+
+By Kate Kelland
+LONDON | Wed Aug 10, 2011 8:55pm BST 
+Scientists have found 29 new genetic variants linked to multiple sclerosis (MS) and say the findings should help drugmakers focus treatment research on precise areas of the immune system.
+In a study published in the journal Nature on Wednesday, researchers said the newly-found links point to the idea that T-cells -- a type of white blood cell responsible for mounting an immune response -- and chemicals called interleukins play a key role in the development of the debilitating disease.
+Drugs in development that target the immune system include rituximab, sold under the brand name Rituxan by Roche and Biogen to fight leukemia, Tysabri from Biogen and Elan, Lemtrada, sold as Campath by Sanofi's unit Genzyme for cancer, and Abbott and Biogen's Zenapax or daclizumab.
+"We have implicated genes that are highly relevant to the actions of those drugs," said Alastair Compston of Cambridge University, who co-led the study.
+"It is now clear that multiple sclerosis is primarily an immunological disease.
+This is the way to nail this disease and get on top of it."
+Mid-stage trial data for daclizumab released on Tuesday showed the drug on a par with other new medicines for MS, but some of he side-effects were worrisome.
+Multiple sclerosis is one of the most common neurological conditions among young adults, affecting around 2.5 million people worldwide.
+It occurs when the protective coating, known as the myelin sheath, around nerve fibres in the brain and spinal cord begins to break down, slowing the brain's communication with the rest of the body.
+The affected pathways -- responsible for everyday activities such as seeing, walking, feeling, thinking and controlling the bowel and bladder -- lose the ability to function properly and are eventually destroyed.
+In a second study in the Public Library of Science journal PLoS Genetics on Wednesday, researchers found that many of the genes linked to MS are also linked to other autoimmune diseases such as Crohn's disease and Type 1 diabetes.
+This also points to potential new uses for existing drugs in development, they said.
+"We have known for some time that many devastating diseases of the immune system must have common genetic causes," said Chris Cotsapas of Yale University in the United States, who led the PLoS study.
+"Now we have the outline of a map that tells us where we can look for common treatments."
+Most people who develop MS experience their first symptoms in their 20s and 30s, but Compston and colleagues told a briefing in London the trigger for the disease could happen in early childhood when genetic risk factors coincide with some as yet unknown environmental factor.
+For their study, Compston and Peter Donnelly of Oxford University worked with some 250 other researchers and studied the DNA from 9,772 people with multiple sclerosis and compared it with a control group of more than 17,300 healthy people.
+Their analysis confirmed 23 previously known genetic links and identified another 29 new genetic variants.
+Experts think both genetic and environmental factors are equally important in determining who is likely to develop MS, and taken together, the known genetic variants probably explain about 20 percent of the genetic links, they said.
+Previous research has suggested a link between Vitamin D deficiency and an increased risk of MS. Compston's team said that along with the many genes which play a role in the immune system, they had also found two involved in the metabolism of Vitamin D -- which mostly comes from sunlight -- lending weight to a possible link between genes and the environment.
+
+ telegraph.co.uk
+ August 15, 2011 Monday 4:39 PM GMT 
+ Genetic 'map' may hold key to cures for range of diseases  LENGTH: 296 words
+SCIENTISTS have found a genetic "map" that may lead to a range of treatments for multiple sclerosis and other auto-immune diseases.
+They hope the findings will provide a pathway to effective therapies for a wide range of conditions, such as Crohn's disease, rheumatoid arthritis, psoriasis and insulin-dependent diabetes.
+All are diseases in which cells are attacked by the body's own immune system.
+In the case of MS, the fatty myelin sheath that protects and insulates nerve fibres is eroded.
+As a result nerve messages become disrupted, leading to symptoms ranging from tingling to paralysis.
+An international team of scientists, including British researchers, identified 29 new genetic variants linked to MS, almost doubling the number previously known.
+Many of the suspect genes play pivotal roles in the workings of the immune system, in particular the functions of T-cells, the white blood cells that attack foreign invaders or marshal other elements of the body's defences.
+The findings were published last week in the journal Nature.
+A second study in the online journal Public Library of Science Genetics pointed to common genetic links between auto-immune diseases.
+Dr Chris Cotsapas, one of the lead authors from the Yale School of Medicine in the US, said: "We have known for some time that many devastating diseases of the immune system must have common genetic causes.
+"Now we have the outline of a map that tells us where we can look for common treatments."
+MS affects about 100,000 people in Britain.
+The study published in Nature compared DNA from 9,772 MS patients with cells from 17,376 unrelated healthy individuals.
+Researchers found a third of the MS genes identified had previously been implicated in other auto-immune diseases including Crohn's and Type 1 diabetes. 
+
+he Guardian (London) - Final Edition
+ August 11, 2011 Thursday
+ Multiple sclerosis genes identified in biggest ever study: List of variants linked to MS is doubled by research Majority of cells involved are within immune system  BYLINE: Alok Jha Science correspondent  SECTION: GUARDIAN HOME PAGES; Pg. 17  LENGTH: 556 words
+Scientists have discovered 29 new gene variants that are implicated in multiple sclerosis, following the largest ever study of the genetics of the disease.
+The genes are involved in controlling parts of the body's immune system, confirming research strategies and pointing to possible treatments for people who develop MS.
+The discoveries more than double the list of parts of the human genome that researchers believe contribute to the disease.
+MS is one of the most common diseases of the nervous system, affecting more than 2.5 million people around the world.
+It is caused by damage to the protective insulation around nerve fibres, called the myelin sheath, preventing the nerves from working properly.
+This can affect everyday activities including sight, walking, thinking and control of organs.
+In the latest study, led by Alastair Compston from the University of Cambridge, scientists looked at 600,000 locations in the DNA from 9,772 people with MS and compared it with those of 17,376 unrelated healthy people.
+It is the largest-ever study into the disease, involving 250 researchers in the International Multiple Sclerosis Genetics Consortium and the Wellcome Trust Case Control Consortium. The results were published yesterday in Nature.
+The first gene to be linked to MS, called HLA, was found in the early 1970s.
+Since then, several more genes have been implicated.
+In the Nature paper, researchers confirmed the involvement of 23 previously suspected gene variants and found 29 new variants.
+A further five variants were identified as strong candidates for future studies of the disease.
+"The genes implicated by these 57 regions tell a very coherent story," said Compston. "There is a narrative that goes across these which is extremely informative - the story is immunological - 80% of the genes within the regions implicated are intimately involved in the workings of the immune response.
+This puts immunology right at the front end of the disease, unambiguously."
+Many of the genes identified by Compston's team are involved in the function of T-cells, a type of immune cell that is responsible for destroying foreign invaders.
+Of the new gene variants found for MS, around a third have already been linked to a range of autoimmune conditions, where the T-cells malfunction and start attacking the body's own cells, such as Crohn's disease and Type 1 diabetes.
+The findings also confirm research scientists had already been pursuing.
+Four of the gene variants for MS are directly associated with drugs that are either already licensed or in clinical trials.
+Peter Donnelly, a co-author of the research and head of the Wellcome Trust Centre for Human Genetics at Oxford University, said the study still did not reveal the complete picture.
+"Our best guess at this is that, collectively, now the variants explain about 20% of the heritability," he said.
+"The rest will be down to a multitude of as-yet-undiscovered gene variants, each adding a tiny percentage to the overall risk of developing the disease."
+Simon Gillespie, chief executive of the MS Society said: "By identifying which genes may trigger the development of MS, we can identify potential 'risk factors' and look at new ways of treating, or even preventing, the condition in the future.
+The MS Society is delighted to have helped fund this groundbreaking research."
+
+The Scotsman
+ August 11, 2011, Thursday  1 Edition
+ Scientists hope map of MS genes can pave way to cures for other diseases  BYLINE: LYNDSAY BUCKLAND HEALTH CORRESPONDENT  SECTION: Pg. 8  LENGTH: 463 words
+A GENETIC "map" setting out all the genes involved in multiple sclerosis could help scientists create treatments for the debilitating disease.
+A team of international researchers has identified 29 genetic variations linked to MS - doubling the number known about.
+As well as creating new targets for MS treatments, experts hope the findings could lead to ways of tackling related conditions such as rheumatoid arthritis, Crohn's disease and Type 1 diabetes.
+These "autoimmune disorders" are caused when cells are attacked by the body's immune system.
+The research was welcomed by campaigners in Scotland, where 10,500 people have been diagnosed with MS - believed to be the highest rate per population in the world.
+MS affects around 100,000 people in the UK and 2.5 million worldwide, making it one of the most common neurological conditions among young adults.
+In patients with MS, nerve fibres are damaged, disrupting the messages they send to the brain and causing symptoms ranging from tingling and numbness to paralysis.
+For the latest study, published in the journal Nature, researchers compared DNA from 9,772 MS patients with that from 17,376 unrelated healthy individuals.
+A third of the MS genes they identified had been implicated in other autoimmune diseases, including Crohn's and diabetes.
+Dr Chris Cotsapas, one of the lead authors from the Yale School of Medicine in the US, said: "We have known for some time that many devastating diseases of the immune system must have common genetic causes.
+Now we have the outline of a map that tells us where we can look for common treatments."
+Previous research has also suggested a link between low vitamin D - produced by the body when exposed to sunlight - and an increased of MS.
+Some have said that this could explain why Scotland, with few daylight hours in winter, may have more MS cases.
+The new study identified two MS genes linked to the way the body handles vitamin D, adding increased evidence of a possible link between genetic and environmental risk factors for MS.
+Leading British author Professor Alastair Compston, from Cambridge University, co-founder of the International Multiple Sclerosis Genetics Consortium, said: "Identifying the basis for genetic susceptibility to any medical condition provides reliable insights into the disease mechanisms.
+"Our research settles a long-standing debate on what happens first in the complex sequence of events that leads to disability in multiple sclerosis."
+David McNiven, director of MS Society Scotland, said: "By identifying which genes may trigger the development of MS, we can identify potential 'risk factors' and look at new ways of treating, or even preventing, the condition in the future.
+"The MS Society is delighted to have helped fund this groundbreaking research".
+
+ The Times (London)
+ August 11, 2011 Thursday  Edition 1;  National Edition
+ Genetic insight to origins of MS  BYLINE: Mark Henderson  SECTION: NEWS; Pg. 15  LENGTH: 210 words
+A clutch of 29 genetic variants that raise a person's risk of multiple sclerosis (MS) has been found by scientists, more than doubling the number linked to the disease and providing insights that could lead to new treatments.
+The genetic study could resolve a longstanding debate about the origins of the degenerative neurological condition, providing strong new evidence that it begins with inflammation that triggers damage to nerve cells.
+This discovery suggests that drugs designed to damp down the immune system and limit inflammation are likely to be the most effective method of controlling MS and preventing further degeneration of the nervous system.
+"This study says that this is the right approach, that this is the way to nail this disease," said Professor Alastair Compston, of the University of Cambridge, who led the international study with Professor Peter Donnelly, director of the Wellcome Trust Centre for Human Genetics at the University of Oxford.
+The findings, published in the journal Nature, could also have implications for understanding and treating other auto-immune and inflammatory conditions, including Crohn's disease, coeliac disease and rheumatoid arthritis.
+A third of the genes identified have already been linked to such disorders.
+

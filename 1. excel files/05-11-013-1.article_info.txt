@@ -1,0 +1,18 @@
+21482966,Particle traps prevent adverse vascular and prothrombotic effects of diesel engine exhaust inhalation in men.,"Acetylcholine/administration & dosage/diagnostic use
+Adult
+Air Pollutants/*toxicity
+Automobiles
+Bradykinin/administration & dosage/diagnostic use
+Cross-Over Studies
+Endothelium, Vascular/drug effects/physiology
+Humans
+Male
+Nitroprusside/administration & dosage/diagnostic use
+Plethysmography
+Regional Blood Flow/drug effects/physiology
+Thrombosis/*etiology/*prevention & control
+Vasodilation/drug effects/physiology
+Vasodilator Agents/administration & dosage/diagnostic use
+Vehicle Emissions/*prevention & control/*toxicity
+Verapamil/administration & dosage/diagnostic use
+Young Adult",Lucking AJ and Lundback M and Barath SL and Mills NL and Sidhu MK and Langrish JP and Boon NA and Pourazar J and Badimon JJ and Gerlofs-Nijland ME and Cassee FR and Boman C and Donaldson K and Sandstrom T and Newby DE and Blomberg A,"BACKGROUND: In controlled human exposure studies, diesel engine exhaust inhalation impairs vascular function and enhances thrombus formation. The aim of the present study was to establish whether an exhaust particle trap could prevent these adverse cardiovascular effects in men. METHODS AND RESULTS: Nineteen healthy volunteers (mean age, 25+/-3 years) were exposed to filtered air and diesel exhaust in the presence or absence of a particle trap for 1 hour in a randomized, double-blind, 3-way crossover trial. Bilateral forearm blood flow and plasma fibrinolytic factors were assessed with venous occlusion plethysmography and blood sampling during intra-arterial infusion of acetylcholine, bradykinin, sodium nitroprusside, and verapamil. Ex vivo thrombus formation was determined with the use of the Badimon chamber. Compared with filtered air, diesel exhaust inhalation was associated with reduced vasodilatation and increased ex vivo thrombus formation under both low- and high-shear conditions. The particle trap markedly reduced diesel exhaust particulate number (from 150 000 to 300 000/cm(3) to 30 to 300/cm(3); P<0.001) and mass (320+/-10 to 7.2+/-2.0 mug/m(3); P<0.001), and was associated with increased vasodilatation, reduced thrombus formation, and an increase in tissue-type plasminogen activator release. CONCLUSIONS: Exhaust particle traps are a highly efficient method of reducing particle emissions from diesel engines. With a range of surrogate measures, the use of a particle trap prevents several adverse cardiovascular effects of exhaust inhalation in men. Given these beneficial effects on biomarkers of cardiovascular health, the widespread use of particle traps on diesel-powered vehicles may have substantial public health benefits and reduce the burden of cardiovascular disease.",Missing,Circulation,123

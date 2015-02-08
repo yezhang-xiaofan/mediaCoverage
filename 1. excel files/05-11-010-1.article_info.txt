@@ -1,0 +1,16 @@
+21427373,Implementation of a sensitive troponin I assay and risk of recurrent myocardial infarction and death in patients with suspected acute coronary syndrome.,"Acute Coronary Syndrome/complications/*diagnosis
+Aged
+Aged, 80 and over
+Female
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Myocardial Infarction/blood/*diagnosis/etiology/*mortality
+Outcome Assessment (Health Care)
+Prognosis
+Prospective Studies
+Reference Values
+Risk Assessment
+Sensitivity and Specificity
+Troponin I/*blood",Mills NL and Churchhouse AM and Lee KK and Anand A and Gamble D and Shah AS and Paterson E and MacLeod M and Graham C and Walker S and Denvir MA and Fox KA and Newby DE,"CONTEXT: Although troponin assays have become increasingly more sensitive, it is unclear whether further reductions in the threshold of detection for plasma troponin concentrations will improve clinical outcomes in patients with suspected acute coronary syndrome (ACS). OBJECTIVE: To determine whether lowering the diagnostic threshold for myocardial infarction (MI) with a sensitive troponin assay could improve clinical outcomes. DESIGN, SETTING, AND PATIENTS: All consecutive patients admitted with suspected ACS to the Royal Infirmary of Edinburgh, Edinburgh, Scotland, before (n = 1038; February 1-July 31, 2008, during the validation phase) and after (n = 1054; February 1-July 31, 2009, during the implementation phase) lowering the threshold of detection for myocardial necrosis from 0.20 to 0.05 ng/mL with a sensitive troponin I assay were stratified into 3 groups (<0.05 ng/mL, 0.05-0.19 ng/mL, and >/=0.20 ng/mL). During the validation phase, only concentrations above the original diagnostic threshold of 0.20 ng/mL were reported to clinicians. MAIN OUTCOME MEASURE: Event-free survival (recurrent MI and death) at 1 year in patients grouped by plasma troponin concentrations. RESULTS: Plasma troponin concentrations were less than 0.05 ng/mL in 1340 patients (64%), 0.05 to 0.19 ng/mL in 170 patients (8%), and 0.20 ng/mL or more in 582 patients (28%). During the validation phase, 39% of patients with plasma troponin concentrations of 0.05 to 0.19 ng/mL were dead or had recurrent MI at 1 year compared with 7% and 24% of those patients with troponin concentrations of less than 0.05 ng/mL (P < .001) or 0.20 ng/mL or more (P = .007), respectively. During the implementation phase, lowering the diagnostic threshold to 0.05 ng/mL was associated with a lower risk of death and recurrent MI (from 39% to 21%) in patients with troponin concentrations of 0.05 to 0.19 ng/mL (odds ratio, 0.42; 95% confidence interval, 0.24-0.84; P = .01). CONCLUSIONS: In patients with suspected ACS, implementation of a sensitive troponin assay increased the diagnosis of MI and identified patients at high risk of recurrent MI and death. Lowering the diagnostic threshold of plasma troponin was associated with major reductions in morbidity and mortality.",Missing,JAMA,305

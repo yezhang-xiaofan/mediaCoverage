@@ -1,0 +1,14 @@
+22071768,Stepwise evolution of stable sociality in primates.,"Animals
+Bayes Theorem
+*Biological Evolution
+Female
+Group Processes
+Male
+Markov Chains
+Models, Biological
+Monte Carlo Method
+Phylogeny
+Predatory Behavior
+Primates/anatomy & histology/*physiology
+Sex Factors
+*Social Behavior",Shultz S and Opie C and Atkinson QD,"Although much attention has been focused on explaining and describing the diversity of social grouping patterns among primates, less effort has been devoted to understanding the evolutionary history of social living. This is partly because social behaviours do not fossilize, making it difficult to infer changes over evolutionary time. However, primate social behaviour shows strong evidence for phylogenetic inertia, permitting the use of Bayesian comparative methods to infer changes in social behaviour through time, thereby allowing us to evaluate alternative models of social evolution. Here we present a model of primate social evolution, whereby sociality progresses from solitary foraging individuals directly to large multi-male/multi-female aggregations (approximately 52 million years (Myr) ago), with pair-living (approximately 16 Myr ago) or single-male harem systems (approximately 16 Myr ago) derivative from this second stage. This model fits the data significantly better than the two widely accepted alternatives (an unstructured model implied by the socioecological hypothesis or a model that allows linear stepwise changes in social complexity through time). We also find strong support for the co-evolution of social living with a change from nocturnal to diurnal activity patterns, but not with sex-biased dispersal. This supports suggestions that social living may arise because of increased predation risk associated with diurnal activity. Sociality based on loose aggregation is followed by a second shift to stable or bonded groups. This structuring facilitates the evolution of cooperative behaviours and may provide the scaffold for other distinctive anthropoid traits including coalition formation, cooperative resource defence and large brains.",Missing,Nature,479

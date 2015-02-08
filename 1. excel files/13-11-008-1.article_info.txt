@@ -1,0 +1,24 @@
+21399635,Genome-wide association study identifies 12 new susceptibility loci for primary biliary cirrhosis.,"Adaptive Immunity/genetics
+Antigens, CD80/genetics
+Case-Control Studies
+Cohort Studies
+Databases, Genetic
+Death Domain Receptor Signaling Adaptor Proteins/genetics
+Female
+Genetic Predisposition to Disease
+Genome-Wide Association Study
+Guanine Nucleotide Exchange Factors/genetics
+Humans
+Immunity, Innate/genetics
+Lectins, C-Type/genetics
+Linkage Disequilibrium
+Liver Cirrhosis, Biliary/*genetics/immunology
+Male
+Monosaccharide Transport Proteins/genetics
+NF-kappa B p50 Subunit/genetics
+Polymorphism, Single Nucleotide
+Receptors, CXCR5/genetics
+Receptors, Interleukin-7/genetics
+Receptors, Tumor Necrosis Factor, Type I/genetics
+Risk Factors
+STAT4 Transcription Factor/genetics",Mells GF and Floyd JA and Morley KI and Cordell HJ and Franklin CS and Shin SY and Heneghan MA and Neuberger JM and Donaldson PT and Day DB and Ducker SJ and Muriithi AW and Wheater EF and Hammond CJ and Dawwas MF and Jones DE and Peltonen L and Alexander GJ and Sandford RN and Anderson CA,"In addition to the HLA locus, six genetic risk factors for primary biliary cirrhosis (PBC) have been identified in recent genome-wide association studies (GWAS). To identify additional loci, we carried out a GWAS using 1,840 cases from the UK PBC Consortium and 5,163 UK population controls as part of the Wellcome Trust Case Control Consortium 3 (WTCCC3). We followed up 28 loci in an additional UK cohort of 620 PBC cases and 2,514 population controls. We identified 12 new susceptibility loci (at a genome-wide significance level of P < 5 x 10(-)(8)) and replicated all previously associated loci. We identified three further new loci in a meta-analysis of data from our study and previously published GWAS results. New candidate genes include STAT4, DENND1B, CD80, IL7R, CXCR5, TNFRSF1A, CLEC16A and NFKB1. This study has considerably expanded our knowledge of the genetic architecture of PBC.",Missing,Nature genetics,43

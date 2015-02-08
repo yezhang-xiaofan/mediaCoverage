@@ -1,0 +1,18 @@
+21487037,Ror1 is a pseudokinase that is crucial for Met-driven tumorigenesis.,Cancer research,Gentile A and Lazzari L and Benvenuti S and Trusolino L and Comoglio PM,Missing,"The human kinome includes Ror1, a poorly characterized orphan receptor. Here we report the findings of an investigation of Ror1 contributions to cancer, undertaken through an integrated screening of 43 cancer cell lines where we measured protein expression, tyrosine phosphorylation, and growth response following RNAi-mediated Ror1 suppression. Ror1 was expressed in approximately 75% of the cancer cell lines without apparent histotype distribution. Gastric carcinoma cells (HS746T) and non-small cell lung carcinoma cells (NCI-H1993) exhibited high levels of Ror1 tyrosine phosphorylation, and Ror1 suppression caused growth inhibition. Biochemical assays revealed unexpectedly that Ror1 is a pseudokinase that is devoid of catalytic activity. Intriguingly, the two cell lines featuring tyrosine-phosphorylated Ror1 both exhibited amplification and activation of the Met oncogene. Ror1 phosphorylation was abrogated by Met inhibition, indicating Met-dependent transphosphorylation of Ror1. Conversely, Ror1 was not transphosphorylated by other constitutively active tyrosine kinases, including EGFR and ErbB2. Constitutive silencing of Ror1 in HS746T and NCI-H1993 carcinoma cells impaired proliferation in vitro and induced a dramatic inhibition of tumorigenesis in vivo. Together, our findings suggest a critical role for Ror1 in malignant phenotypes sustained by the Met oncogene.","Animals
+COS Cells
+Carcinoma, Non-Small-Cell Lung/genetics/metabolism/pathology
+Cell Growth Processes/physiology
+Cell Line, Tumor
+Cell Transformation, Neoplastic/genetics/*metabolism
+Cercopithecus aethiops
+Female
+Gene Knockdown Techniques
+Humans
+Lung Neoplasms/genetics/metabolism/pathology
+Mice
+Mice, Nude
+Phosphorylation
+Proto-Oncogene Proteins c-met/genetics/*metabolism
+Receptor Tyrosine Kinase-like Orphan Receptors/biosynthesis/*metabolism
+Receptors, Growth Factor/genetics/*metabolism
+Stomach Neoplasms/genetics/metabolism/pathology"

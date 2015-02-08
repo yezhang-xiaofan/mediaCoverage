@@ -1,0 +1,15 @@
+21471513,Epigenetic gene promoter methylation at birth is associated with child's later adiposity.,"Adiposity/*genetics
+Adult
+Child
+DNA Methylation/*genetics
+Epigenesis, Genetic/*genetics
+Female
+Genetic Predisposition to Disease/genetics
+Humans
+Infant, Newborn
+Male
+Nitric Oxide Synthase Type III/genetics
+Pregnancy
+Promoter Regions, Genetic/*genetics
+Regression Analysis
+Retinoid X Receptor alpha/genetics",Godfrey KM and Sheppard A and Gluckman PD and Lillycrop KA and Burdge GC and McLean C and Rodford J and Slater-Jefferies JL and Garratt E and Crozier SR and Emerald BS and Gale CR and Inskip HM and Cooper C and Hanson MA,"OBJECTIVE: Fixed genomic variation explains only a small proportion of the risk of adiposity. In animal models, maternal diet alters offspring body composition, accompanied by epigenetic changes in metabolic control genes. Little is known about whether such processes operate in humans. RESEARCH DESIGN AND METHODS: Using Sequenom MassARRAY we measured the methylation status of 68 CpGs 5' from five candidate genes in umbilical cord tissue DNA from healthy neonates. Methylation varied greatly at particular CpGs: for 31 CpGs with median methylation >/=5% and a 5-95% range >/=10%, we related methylation status to maternal pregnancy diet and to child's adiposity at age 9 years. Replication was sought in a second independent cohort. RESULTS: In cohort 1, retinoid X receptor-alpha (RXRA) chr9:136355885+ and endothelial nitric oxide synthase (eNOS) chr7:150315553+ methylation had independent associations with sex-adjusted childhood fat mass (exponentiated regression coefficient [beta] 17% per SD change in methylation [95% CI 4-31], P = 0.009, n = 64, and beta = 20% [9-32], P < 0.001, n = 66, respectively) and %fat mass (beta = 10% [1-19], P = 0.023, n = 64 and beta =12% [4-20], P = 0.002, n = 66, respectively). Regression analyses including sex and neonatal epigenetic marks explained >25% of the variance in childhood adiposity. Higher methylation of RXRA chr9:136355885+, but not of eNOS chr7:150315553+, was associated with lower maternal carbohydrate intake in early pregnancy, previously linked with higher neonatal adiposity in this population. In cohort 2, cord eNOS chr7:150315553+ methylation showed no association with adiposity, but RXRA chr9:136355885+ methylation showed similar associations with fat mass and %fat mass (beta = 6% [2-10] and beta = 4% [1-7], respectively, both P = 0.002, n = 239). CONCLUSIONS: Our findings suggest a substantial component of metabolic disease risk has a prenatal developmental basis. Perinatal epigenetic analysis may have utility in identifying individual vulnerability to later obesity and metabolic disease.",Missing,Diabetes,60

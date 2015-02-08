@@ -1,0 +1,11 @@
+22096203,"Rational choice, context dependence, and the value of information in European starlings (Sturnus vulgaris).","Animals
+Appetitive Behavior
+*Behavior, Animal
+*Choice Behavior
+Cues
+Decision Making
+Feeding Behavior
+Food
+Memory
+Models, Biological
+Starlings/*physiology",Freidin E and Kacelnik A,"Both human and nonhuman decision-makers can deviate from optimal choice by making context-dependent choices. Because ignoring context information can be beneficial, this is called a ""less-is-more effect."" The fact that organisms are so sensitive to the context is thus paradoxical and calls for the inclusion of an ecological perspective. In an experiment with starlings, adding cues that identified the context impaired performance in simultaneous prey choices but improved it in sequential prey encounters, in which subjects could reject opportunities in order to search instead in the background. Because sequential prey encounters are likely to be more frequent in nature, storing and using contextual information appears to be ecologically rational on balance by conditioning acceptance of each opportunity to the relative richness of the background, even if this causes context-dependent suboptimal preferences in (less-frequent) simultaneous choices. In ecologically relevant scenarios, more information seems to be more.",Missing,"Science (New York, N.Y.)",334

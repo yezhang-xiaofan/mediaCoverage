@@ -1,0 +1,7 @@
+21765399,Nanoscale surfaces for the long-term maintenance of mesenchymal stem cell phenotype and multipotency.,"*Cell Differentiation
+Cell Lineage
+Cell Proliferation
+Mesenchymal Stromal Cells/*cytology/metabolism
+Multipotent Stem Cells/*cytology/metabolism
+*Phenotype
+Surface Properties",McMurray RJ and Gadegaard N and Tsimbouri PM and Burgess KV and McNamara LE and Tare R and Murawski K and Kingham E and Oreffo RO and Dalby MJ,"There is currently an unmet need for the supply of autologous, patient-specific stem cells for regenerative therapies in the clinic. Mesenchymal stem cell differentiation can be driven by the material/cell interface suggesting a unique strategy to manipulate stem cells in the absence of complex soluble chemistries or cellular reprogramming. However, so far the derivation and identification of surfaces that allow retention of multipotency of this key regenerative cell type have remained elusive. Adult stem cells spontaneously differentiate in culture, resulting in a rapid diminution of the multipotent cell population and their regenerative capacity. Here we identify a nanostructured surface that retains stem-cell phenotype and maintains stem-cell growth over eight weeks. Furthermore, the study implicates a role for small RNAs in repressing key cell signalling and metabolomic pathways, demonstrating the potential of surfaces as non-invasive tools with which to address the stem cell niche.",Missing,Nature materials,10

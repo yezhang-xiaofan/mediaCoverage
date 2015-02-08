@@ -1,0 +1,20 @@
+21411514,In vitro recovery of ATP-sensitive potassium channels in beta-cells from patients with congenital hyperinsulinism of infancy.,"ATP-Binding Cassette Transporters/genetics/metabolism
+Benzothiadiazines/pharmacology
+Cells, Cultured
+Child, Preschool
+Congenital Hyperinsulinism/*metabolism
+Cyclic S-Oxides/pharmacology
+Humans
+Infant
+Infant, Newborn
+Insulin-Secreting Cells/drug effects/*metabolism
+KATP Channels/genetics/*metabolism
+Models, Biological
+Mutation
+Pancreatectomy
+Patch-Clamp Techniques
+Phenylbutyrates/pharmacology
+Phorbol Esters/pharmacology
+Potassium Channels, Inwardly Rectifying/genetics/metabolism
+Receptors, Drug/genetics/metabolism
+Sulfonylurea Receptors",Powell PD and Bellanne-Chantelot C and Flanagan SE and Ellard S and Rooman R and Hussain K and Skae M and Clayton P and de Lonlay P and Dunne MJ and Cosgrove KE,"OBJECTIVE: Congenital hyperinsulinism in infancy (CHI) is characterized by unregulated insulin secretion from pancreatic beta-cells; severe forms are associated with defects in ABCC8 and KCNJ11 genes encoding sulfonylurea receptor 1 (SUR1) and Kir6.2 subunits, which form ATP-sensitive K(+) (K(ATP)) channels in beta-cells. Diazoxide therapy often fails in the treatment of CHI and may be a result of reduced cell surface expression of K(ATP) channels. We hypothesized that conditions known to facilitate trafficking of cystic fibrosis transmembrane regulator (CFTR) and other proteins in recombinant expression systems might increase surface expression of K(ATP) channels in native CHI beta-cells. RESEARCH DESIGN AND METHODS: Tissue was isolated during pancreatectomy from eight patients with CHI and from adult cadaver organ donors. Patients were screened for mutations in ABCC8 and KCNJ11. Isolated beta-cells were maintained at 37 degrees C or 25 degrees C and in the presence of 1) phorbol myristic acid, forskolin and 3-isobutyl-1-methylxanthine, 2) BPDZ 154, or 3) 4-phenylbutyrate. Surface expression of functional channels was assessed by patch-clamp electrophysiology. RESULTS: Mutations in ABCC8 were detected for all patients tested (n = 7/8) and included three novel mutations. In five of eight patients, no changes in K(ATP) channel activity were observed under different cell culture conditions. However, in three patients, in vitro recovery of functional K(ATP) channels occurred. Here, we report the first cases of recovery of defective K(ATP) channels in human beta-cells using modified cell culture conditions. CONCLUSIONS: Our study establishes the principle that chemical modification of K(ATP) channel subunit trafficking could be of benefit for the future treatment of CHI.",Missing,Diabetes,60

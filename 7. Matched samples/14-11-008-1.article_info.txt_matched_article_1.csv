@@ -1,0 +1,16 @@
+21458263,Quantitative variation in autocrine signaling and pathway crosstalk in the Caenorhabditis vulval network.,Current biology : CB,Hoyos E and Kim K and Milloz J and Barkoulas M and Penigault JB and Munro E and Felix MA,Missing,"BACKGROUND: Biological networks experience quantitative change in response to environmental and evolutionary variation. Computational modeling allows exploration of network parameter space corresponding to such variations. The intercellular signaling network underlying Caenorhabditis vulval development specifies three fates in a row of six precursor cells, yielding a quasi-invariant 3 degrees 3 degrees 2 degrees 1 degrees 2 degrees 3 degrees cell fate pattern. Two seemingly conflicting verbal models of vulval precursor cell fate specification have been proposed: sequential induction by the EGF-MAP kinase and Notch pathways, or morphogen-based induction by the former. RESULTS: To study the mechanistic and evolutionary system properties of this network, we combine experimental studies with computational modeling, using a model that keeps the network architecture constant but varies parameters. We first show that the Delta autocrine loop can play an essential role in 2 degrees fate specification. With this autocrine loop, the same network topology can be quantitatively tuned to use in the six-cell-row morphogen-based or sequential patterning mechanisms, which may act singly, cooperatively, or redundantly. Moreover, different quantitative tunings of this same network can explain vulval patterning observed experimentally in C. elegans, C. briggsae, C. remanei, and C. brenneri. We experimentally validate model predictions, such as interspecific differences in isolated vulval precursor cell behavior and in spatial regulation of Notch activity. CONCLUSIONS: Our study illustrates how quantitative variation in the same network comprises developmental patterning modes that were previously considered qualitatively distinct and also accounts for evolution among closely related species.","Animals
+*Autocrine Communication
+Biological Evolution
+*Body Patterning
+Caenorhabditis/*embryology/genetics/*metabolism
+Caenorhabditis elegans/metabolism
+Computer Simulation
+Embryonic Induction
+Epidermal Growth Factor/metabolism
+Female
+Intercellular Signaling Peptides and Proteins/metabolism
+Mitogen-Activated Protein Kinases/metabolism
+Models, Biological
+Receptor, Notch1/metabolism
+*Signal Transduction
+Vulva/cytology/embryology"

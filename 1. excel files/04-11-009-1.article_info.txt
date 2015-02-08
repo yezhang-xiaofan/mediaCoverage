@@ -1,0 +1,17 @@
+21914219,"Suppression of apoptosis inhibitor c-FLIP selectively eliminates breast cancer stem cell activity in response to the anti-cancer agent, TRAIL.","Animals
+Apoptosis/*drug effects
+Breast Neoplasms/drug therapy/genetics/*pathology
+CASP8 and FADD-Like Apoptosis Regulating Protein/genetics/*metabolism
+Cell Line, Tumor
+Drug Screening Assays, Antitumor
+Epithelium/metabolism/pathology
+Estrogen Receptor alpha/metabolism
+Female
+Humans
+Mammary Glands, Animal/drug effects/metabolism
+Mice
+Mice, Mutant Strains
+Neoplastic Stem Cells/*drug effects/*metabolism
+RNA, Small Interfering
+Receptor, ErbB-2/metabolism
+TNF-Related Apoptosis-Inducing Ligand/*pharmacology",Piggott L and Omidvar N and Marti Perez S and Eberl M and Clarkson RW,"INTRODUCTION: It is postulated that breast cancer stem cells (bCSCs) mediate disease recurrence and drive formation of distant metastases - the principal cause of mortality in breast cancer patients. Therapeutic targeting of bCSCs, however, is hampered by their heterogeneity and resistance to existing therapeutics. In order to identify strategies to selectively remove bCSCs from breast cancers, irrespective of their clinical subtype, we sought an apoptosis mechanism that would target bCSCs yet would not kill normal cells. Suppression of the apoptosis inhibitor cellular FLICE-Like Inhibitory Protein (c-FLIP) partially sensitizes breast cancer cells to the anti-cancer agent Tumour Necrosis Factor-Related Apoptosis Inducing Ligand (TRAIL). Here we demonstrate in breast cancer cell lines that bCSCs are exquisitely sensitive to the de-repression of this pro-apoptotic pathway, resulting in a dramatic reduction in experimental metastases and the loss of bCSC self-renewal. METHODS: Suppression c-FLIP was performed by siRNA (FLIPi) in four breast cancer cell lines and by conditional gene-knockout in murine mammary glands. Sensitivity of these cells to TRAIL was determined by complementary cell apoptosis assays, including a novel heterotypic cell assay, while tumour-initiating potential of cancer stem cell subpopulations was determined by mammosphere cultures, aldefluor assay and in vivo transplantation. RESULTS: Genetic suppression of c-FLIP resulted in the partial sensitization of TRAIL-resistant cancer lines to the pro-apoptotic effects of TRAIL, irrespective of their cellular phenotype, yet normal mammary epithelial cells remained refractory to killing. While 10% to 30% of the cancer cell populations remained viable after TRAIL/FLIPi treatment, subsequent mammosphere and aldefluor assays demonstrated that this pro-apoptotic stimulus selectively targeted the functional bCSC pool, eliminating stem cell renewal. This culminated in an 80% reduction in primary tumours and a 98% reduction in metastases following transplantation. The recurrence of residual tumour initiating capacity was consistent with the observation that post-treated adherent cultures re-acquired bCSC-like properties in vitro. Importantly however this recurrent bCSC activity was attenuated following repeated TRAIL/FLIPi treatment. CONCLUSIONS: We describe an apoptotic mechanism that selectively and repeatedly removes bCSC activity from breast cancer cell lines and suggest that a combined TRAIL/FLIPi therapy could prevent metastatic disease progression in a broad range of breast cancer subtypes.",Missing,Breast cancer research : BCR,13

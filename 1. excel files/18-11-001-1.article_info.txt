@@ -1,0 +1,16 @@
+21128685,A structural study of norovirus 3C protease specificity: binding of a designed active site-directed peptide inhibitor.,"Amino Acid Sequence
+Antiviral Agents/chemistry/*pharmacology
+Caliciviridae Infections/drug therapy/enzymology
+Catalytic Domain/drug effects
+Crystallography, X-Ray
+Cysteine Endopeptidases/*chemistry/metabolism
+Humans
+Models, Molecular
+Molecular Sequence Data
+Norovirus/chemistry/drug effects/*enzymology
+Peptides/chemistry/*pharmacology
+Protease Inhibitors/chemistry/*pharmacology
+Protein Structure, Tertiary
+Sequence Alignment
+Substrate Specificity
+Viral Proteins/*antagonists & inhibitors/*chemistry/metabolism",Hussey RJ and Coates L and Gill RS and Erskine PT and Coker SF and Mitchell E and Cooper JB and Wood S and Broadbridge R and Clarke IN and Lambden PR and Shoolingin-Jordan PM,"Noroviruses are the major cause of human epidemic nonbacterial gastroenteritis. Viral replication requires a 3C cysteine protease that cleaves a 200 kDa viral polyprotein into its constituent functional proteins. Here we describe the X-ray structure of the Southampton norovirus 3C protease (SV3CP) bound to an active site-directed peptide inhibitor (MAPI) which has been refined at 1.7 A resolution. The inhibitor, acetyl-Glu-Phe-Gln-Leu-Gln-X, which is based on the most rapidly cleaved recognition sequence in the 200 kDa polyprotein substrate, reacts covalently through its propenyl ethyl ester group (X) with the active site nucleophile, Cys 139. The structure permits, for the first time, the identification of substrate recognition and binding groups in a noroviral 3C protease and thus provides important new information for the development of antiviral prophylactics.",Missing,Biochemistry,50

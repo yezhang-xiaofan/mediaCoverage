@@ -1,0 +1,10 @@
+21358807,A randomised controlled trial of ion-exchange water softeners for the treatment of eczema in children.,"Adolescent
+Baths
+Child
+Child, Preschool
+Eczema/*therapy
+Female
+Humans
+Infant
+Male
+*Water Softening",Thomas KS and Dean T and O'Leary C and Sach TH and Koller K and Frost A and Williams HC,"BACKGROUND: Epidemiological studies and anecdotal reports suggest a possible link between household use of hard water and atopic eczema. We sought to test whether installation of an ion-exchange water softener in the home can improve eczema in children. METHODS AND FINDINGS: This was an observer-blind randomised trial involving 336 children (aged 6 months to 16 years) with moderate/severe atopic eczema. All lived in hard water areas (>/=200 mg/l calcium carbonate). Participants were randomised to either installation of an ion-exchange water softener plus usual eczema care, or usual eczema care alone. The primary outcome was change in eczema severity (Six Area Six Sign Atopic Dermatitis Score, SASSAD) at 12 weeks, measured by research nurses who were blinded to treatment allocation. Analysis was based on the intent-to-treat population. Eczema severity improved for both groups during the trial. The mean change in SASSAD at 12 weeks was -5.0 (20% improvement) for the water softener group and -5.7 (22% improvement) for the usual care group (mean difference 0.66, 95% confidence interval -1.37 to 2.69, p = 0.53). No between-group differences were noted in the use of topical corticosteroids or calcineurin inhibitors. CONCLUSIONS: Water softeners provided no additional benefit to usual care in this study population. Small but statistically significant differences were found in some secondary outcomes as reported by parents, but it is likely that such improvements were the result of response bias, since participants were aware of their treatment allocation. A detailed report for this trial is also available at http://www.hta.ac.uk. TRIAL REGISTRATION: Current Controlled Trials ISRCTN71423189 Please see later in the article for the Editors' Summary.",Missing,PLoS medicine,8

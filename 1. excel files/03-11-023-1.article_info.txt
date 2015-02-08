@@ -1,0 +1,9 @@
+21784250,Autophagosome precursor maturation requires homotypic fusion.,"*Autophagy
+Carrier Proteins/metabolism
+Cytoplasmic Vesicles/metabolism
+HeLa Cells
+Humans
+Intracellular Membranes/metabolism
+Phagosomes/*metabolism
+R-SNARE Proteins/metabolism
+SNARE Proteins/metabolism",Moreau K and Ravikumar B and Renna M and Puri C and Rubinsztein DC,"Autophagy is a catabolic process in which lysosomes degrade intracytoplasmic contents transported in double-membraned autophagosomes. Autophagosomes are formed by the elongation and fusion of phagophores, which can be derived from preautophagosomal structures coming from the plasma membrane and other sites like the endoplasmic reticulum and mitochondria. The mechanisms by which preautophagosomal structures elongate their membranes and mature toward fully formed autophagosomes still remain unknown. Here, we show that the maturation of the early Atg16L1 precursors requires homotypic fusion, which is essential for subsequent autophagosome formation. Atg16L1 precursor homotypic fusion depends on the SNARE protein VAMP7 together with partner SNAREs. Atg16L1 precursor homotypic fusion is a critical event in the early phases of autophagy that couples membrane acquisition and autophagosome biogenesis, as this step regulates the size of the vesicles, which in turn appears to influence their subsequent maturation into LC3-positive autophagosomes.",Missing,Cell,146

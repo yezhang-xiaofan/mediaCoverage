@@ -1,0 +1,19 @@
+21903816,HCN2 ion channels play a central role in inflammatory and neuropathic pain.,"Action Potentials
+Animals
+Cold Temperature
+Cyclic AMP/metabolism
+Ganglia, Spinal/cytology/physiology
+Hot Temperature
+Hyperalgesia/physiopathology
+Hyperpolarization-Activated Cyclic Nucleotide-Gated Channels
+Inflammation/*physiopathology
+Ion Channels/antagonists & inhibitors/genetics/*metabolism
+Mice
+NAV1.8 Voltage-Gated Sodium Channel
+Neuralgia/*physiopathology
+Nociceptors/*physiology
+Pain/*physiopathology
+Pain Threshold
+Patch-Clamp Techniques
+Potassium Channels
+Sodium Channels/metabolism",Emery EC and Young GT and Berrocoso EM and Chen L and McNaughton PA,"The rate of action potential firing in nociceptors is a major determinant of the intensity of pain. Possible modulators of action potential firing include the HCN ion channels, which generate an inward current, I(h), after hyperpolarization of the membrane. We found that genetic deletion of HCN2 removed the cyclic adenosine monophosphate (cAMP)-sensitive component of I(h) and abolished action potential firing caused by an elevation of cAMP in nociceptors. Mice in which HCN2 was specifically deleted in nociceptors expressing Na(V)1.8 had normal pain thresholds, but inflammation did not cause hyperalgesia to heat stimuli. After a nerve lesion, these mice showed no neuropathic pain in response to thermal or mechanical stimuli. Neuropathic pain is therefore initiated by HCN2-driven action potential firing in Na(V)1.8-expressing nociceptors.",Missing,"Science (New York, N.Y.)",333

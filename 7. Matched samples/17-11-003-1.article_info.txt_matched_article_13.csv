@@ -1,0 +1,8 @@
+21345866,"Emergence, spread, persistence and fade-out of sylvatic plague in Kazakhstan.",Proceedings. Biological sciences / The Royal Society,Heier L and Storvik GO and Davis SA and Viljugrein H and Ageyev VS and Klassovskaya E and Stenseth NC,Missing,"Predicting the dynamics of zoonoses in wildlife is important not only for prevention of transmission to humans, but also for improving the general understanding of epidemiological processes. A large dataset on sylvatic plague in the Pre-Balkhash area of Kazakhstan (collected for surveillance purposes) provides a rare opportunity for detailed statistical modelling of an infectious disease. Previous work using these data has revealed a host abundance threshold for epizootics, and climatic influences on plague prevalence. Here, we present a model describing the local space-time dynamics of the disease at a spatial scale of 20 x 20 km(2) and a biannual temporal scale, distinguishing between invasion and persistence events. We used a Bayesian imputation method to account for uncertainties resulting from poor data in explanatory variables and response variables. Spatial autocorrelation in the data was accounted for in imputations and analyses through random effects. The results show (i) a clear effect of spatial transmission, (ii) a high probability of persistence compared with invasion, and (iii) a stronger influence of rodent abundance on invasion than on persistence. In particular, there was a substantial probability of persistence also at low host abundance.","Animals
+Bayes Theorem
+*Ecosystem
+*Gerbillinae
+Kazakhstan/epidemiology
+*Models, Biological
+Plague/epidemiology/*veterinary
+Time Factors"

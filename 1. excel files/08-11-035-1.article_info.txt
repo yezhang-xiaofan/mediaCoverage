@@ -1,0 +1,14 @@
+22144628,The intraepithelial T cell response to NKG2D-ligands links lymphoid stress surveillance to atopy.,"Animals
+Epidermis/*immunology
+Hypersensitivity, Immediate/*immunology
+Ligands
+Lymphoid Tissue/*immunology
+Membrane Proteins/immunology/metabolism
+Mice
+Mice, Transgenic
+NK Cell Lectin-Like Receptor Subfamily K/immunology/*metabolism
+Receptors, Antigen, T-Cell, gamma-delta/immunology
+Stress, Physiological
+T-Lymphocyte Subsets/*immunology
+Th2 Cells/*immunology
+Up-Regulation",Strid J and Sobolev O and Zafirova B and Polic B and Hayday A,"Epithelial cells respond to physicochemical damage with up-regulation of major histocompatibility complex-like ligands that can activate the cytolytic potential of neighboring intraepithelial T cells by binding the activating receptor, NKG2D. The systemic implications of this lymphoid stress-surveillance response, however, are unknown. We found that antigens encountered at the same time as cutaneous epithelial stress induced strong primary and secondary systemic, T helper 2 (T(H)2)-associated atopic responses in mice. These responses required NKG2D-dependent communication between dysregulated epithelial cells and tissue-associated lymphoid cells. These data are germane to uncertainty over the afferent induction of T(H)2 responses and provide a molecular framework for considering atopy as an important component of the response to tissue damage and carcinogenesis.",Missing,"Science (New York, N.Y.)",334

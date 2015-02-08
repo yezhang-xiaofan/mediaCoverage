@@ -1,0 +1,23 @@
+21423189,Delivery of siRNA to the mouse brain by systemic injection of targeted exosomes.,"Alzheimer Disease/therapy
+Amyloid Precursor Protein Secretases/genetics
+Animals
+Aspartic Acid Endopeptidases/genetics
+Brain/*metabolism
+Cell Line
+Dendritic Cells/metabolism
+Exosomes/*metabolism
+Gene Knockdown Techniques
+*Gene Transfer Techniques
+Genetic Vectors
+Lysosomal-Associated Membrane Protein 2/genetics
+Male
+Membrane Proteins/metabolism
+Mice
+Mice, Inbred C57BL
+Microglia/metabolism
+Neurons/metabolism
+Peptides/metabolism
+Proteins/metabolism
+RNA, Messenger/metabolism
+RNA, Small Interfering/*administration & dosage
+Rabies virus/metabolism",Alvarez-Erviti L and Seow Y and Yin H and Betts C and Lakhal S and Wood MJ,"To realize the therapeutic potential of RNA drugs, efficient, tissue-specific and nonimmunogenic delivery technologies must be developed. Here we show that exosomes-endogenous nano-vesicles that transport RNAs and proteins-can deliver short interfering (si)RNA to the brain in mice. To reduce immunogenicity, we used self-derived dendritic cells for exosome production. Targeting was achieved by engineering the dendritic cells to express Lamp2b, an exosomal membrane protein, fused to the neuron-specific RVG peptide. Purified exosomes were loaded with exogenous siRNA by electroporation. Intravenously injected RVG-targeted exosomes delivered GAPDH siRNA specifically to neurons, microglia, oligodendrocytes in the brain, resulting in a specific gene knockdown. Pre-exposure to RVG exosomes did not attenuate knockdown, and non-specific uptake in other tissues was not observed. The therapeutic potential of exosome-mediated siRNA delivery was demonstrated by the strong mRNA (60%) and protein (62%) knockdown of BACE1, a therapeutic target in Alzheimer's disease, in wild-type mice.",Missing,Nature biotechnology,29

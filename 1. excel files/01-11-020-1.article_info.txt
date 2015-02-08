@@ -1,0 +1,18 @@
+22093005,"Adjunctive daily supplementation with encapsulated fruit, vegetable and berry juice powder concentrates and clinical periodontal outcomes: a double-blind RCT.","Adult
+Aged
+Antioxidants/*administration & dosage
+*Dental Prophylaxis
+*Dietary Supplements
+Double-Blind Method
+Female
+Fruit
+Humans
+Male
+Micronutrients/*administration & dosage
+Middle Aged
+Periodontitis/*therapy
+Phytotherapy/methods
+Plant Preparations/*administration & dosage
+Plants, Edible
+Treatment Outcome
+Vegetables",Chapple IL and Milward MR and Ling-Mountford N and Weston P and Carter K and Askey K and Dallal GE and De Spirt S and Sies H and Patel D and Matthews JB,"AIM: A double-blind randomized controlled trial to determine whether dietary supplementation with fruit/vegetable/berry juice powder concentrates, simultaneously with non-surgical periodontal therapy, improved 2-month treatment outcomes. METHODS: Volunteers with chronic periodontitis were randomly assigned to one of three groups: fruit/vegetable (FV), fruit/vegetable/berry (FVB) or placebo. Supplements were taken daily during non-surgical debridement and maintenance and outcomes assessed at 2, 5 and 8 months after completion. Primary outcomes were mean probing pocket depth (PPD), clinical attachment gain, % sites bleeding on probing (% BOP) at 2 months. Adherence and plasma beta-carotene were determined. RESULTS: Sixty-one nutritionally replete (by serum biochemistry) volunteers enrolled and 60 (n = 20 per arm) completed the 2-month review. Clinical outcomes improved in all groups at 2 months, with additional improvement in PPD versus placebo for FV (p < 0.03). Gingival crevicular fluid volumes diminished more in supplement groups than placebo (FVB; p < 0.05) at 2 months, but not at later times. The % BOP (5 months) and cumulative plaque scores (8 months) were lowered more in the FV group (p < 0.05). CONCLUSIONS: Adjunctive juice powder concentrates appear to improve initial pocket depth reductions in nutritionally replete patients, where plasma micronutrient bioavailability is attainable. Definitive multicentre studies in untreated and treated patients are required to ascertain the clinical significance of such changes.",Missing,Journal of clinical periodontology,39

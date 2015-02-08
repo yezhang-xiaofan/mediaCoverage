@@ -1,0 +1,10 @@
+21860463,The transcription factor FOXM1 is a cellular target of the natural product thiostrepton.,"Anti-Bacterial Agents/chemistry/*metabolism/*pharmacology
+Biological Products/chemistry/*metabolism/*pharmacology
+Cell Extracts
+Cell Line, Tumor
+DNA/metabolism
+Drug Design
+Forkhead Transcription Factors/antagonists & inhibitors/*metabolism
+Humans
+Protein Binding
+Thiostrepton/analogs & derivatives/*metabolism/*pharmacology",Hegde NS and Sanders DA and Rodriguez R and Balasubramanian S,"Transcription factors are proteins that bind specifically to defined DNA sequences to promote gene expression. Targeting transcription factors with small molecules to modulate the expression of certain genes has been notoriously difficult to achieve. The natural product thiostrepton is known to reduce the transcriptional activity of FOXM1, a transcription factor involved in tumorigenesis and cancer progression. Herein we demonstrate that thiostrepton interacts directly with FOXM1 protein in the human breast cancer cells MCF-7. Biophysical analyses of the thiostrepton-FOXM1 interaction provide additional insights on the molecular mode of action of thiostrepton. In cellular experiments, we show that thiostrepton can inhibit the binding of FOXM1 to genomic target sites. These findings illustrate the potential druggability of transcription factors and provide a molecular basis for targeting the FOXM1 family with small molecules.",Missing,Nature chemistry,3

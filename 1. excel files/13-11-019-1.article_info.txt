@@ -1,0 +1,19 @@
+22173572,Exploring the factors contributing to sibling correlations in BMI: a study using the Panel Study of Income Dynamics.,"Adolescent
+Adult
+*Body Mass Index
+Child
+Cohort Studies
+Family Characteristics
+Feeding Behavior
+Female
+Food Habits
+Health Behavior
+Humans
+Income/*statistics & numerical data
+Male
+Middle Aged
+Obesity/*epidemiology/prevention & control
+Policy Making
+*Siblings
+Social Support
+Time Factors",Brown HW and Roberts J,"Understanding the mechanisms contributing to correlated BMI outcomes in a social network such as siblings will help policy makers reduce the burden of disease associated with obesity. There are two potential mechanisms explaining correlated BMI outcomes in a biologically related social network: (i) time constant factors such as genetic heritability and habits formed during childhood and (ii) factors that change over time some of which are dependent on the frequency of interactions between the social network, for example, social norms shaped by the social network's shifting attitudes towards weight and behaviors related to weight, or environmental factors like opportunities for exercise. This study aims to distinguish between time constant factors from factors that are likely to change over time to gain a better understanding of the mechanisms explaining the correlation in sibling BMI. We exploit data from the Panel Study of Income Dynamics (PSID) over 1999-2007 estimating the correlation in BMI for adult siblings who currently live in separate households but grew-up in the same household and adolescent siblings currently living in the same household to isolate the influence of factors that change over time. The findings indicate that time constant factors explain some of the overall correlation in sibling BMI for both cohorts of siblings. Factors that change over time only significantly impact on the overall correlation in BMI for adolescent siblings suggesting if there is a social network influence on correlations in BMI this is facilitated by sharing the same household.",Missing,"Obesity (Silver Spring, Md.)",20

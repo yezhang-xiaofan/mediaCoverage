@@ -1,0 +1,23 @@
+21455173,Linear ubiquitination prevents inflammation and regulates immune signalling.,"Animals
+CD40 Ligand/metabolism
+Carrier Proteins/chemistry/metabolism
+Cell Line
+Humans
+I-kappa B Kinase/metabolism
+Immunity/*immunology
+Inflammation/*metabolism/pathology/prevention & control
+Interleukin-1beta/metabolism
+Mice
+Multiprotein Complexes/chemistry/metabolism
+NF-kappa B/metabolism
+Nerve Tissue Proteins/chemistry/genetics/metabolism
+Phenotype
+Receptor-Interacting Protein Serine-Threonine Kinases/metabolism
+Receptors, Tumor Necrosis Factor/deficiency/genetics/metabolism
+*Signal Transduction
+Skin/cytology/immunology/metabolism/pathology
+Tumor Necrosis Factor-alpha/deficiency/genetics
+Ubiquitin/chemistry/metabolism
+Ubiquitin-Protein Ligase Complexes/chemistry/metabolism
+Ubiquitin-Protein Ligases/chemistry/metabolism
+*Ubiquitination",Gerlach B and Cordier SM and Schmukle AC and Emmerich CH and Rieser E and Haas TL and Webb AI and Rickard JA and Anderton H and Wong WW and Nachbur U and Gangoda L and Warnken U and Purcell AW and Silke J and Walczak H,"Members of the tumour necrosis factor (TNF) receptor superfamily have important functions in immunity and inflammation. Recently linear ubiquitin chains assembled by a complex containing HOIL-1 and HOIP (also known as RBCK1 and RNF31, respectively) were implicated in TNF signalling, yet their relevance in vivo remained uncertain. Here we identify SHARPIN as a third component of the linear ubiquitin chain assembly complex, recruited to the CD40 and TNF receptor signalling complexes together with its other constituents, HOIL-1 and HOIP. Mass spectrometry of TNF signalling complexes revealed RIP1 (also known as RIPK1) and NEMO (also known as IKKgamma or IKBKG) to be linearly ubiquitinated. Mutation of the Sharpin gene (Sharpin(cpdm/cpdm)) causes chronic proliferative dermatitis (cpdm) characterized by inflammatory skin lesions and defective lymphoid organogenesis. Gene induction by TNF, CD40 ligand and interleukin-1beta was attenuated in cpdm-derived cells which were rendered sensitive to TNF-induced death. Importantly, Tnf gene deficiency prevented skin lesions in cpdm mice. We conclude that by enabling linear ubiquitination in the TNF receptor signalling complex, SHARPIN interferes with TNF-induced cell death and, thereby, prevents inflammation. Our results provide evidence for the relevance of linear ubiquitination in vivo in preventing inflammation and regulating immune signalling.",Missing,Nature,471

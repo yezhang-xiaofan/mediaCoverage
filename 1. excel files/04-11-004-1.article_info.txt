@@ -1,0 +1,15 @@
+21406512,Antibiotic prescribing for discoloured sputum in acute cough/lower respiratory tract infection.,"Acute Disease
+Adult
+Anti-Bacterial Agents/*therapeutic use
+Cough
+*Drug Resistance, Bacterial
+Female
+Humans
+Male
+Middle Aged
+Physician's Practice Patterns/statistics & numerical data
+Primary Health Care/methods
+Prospective Studies
+Questionnaires
+Respiratory Tract Infections/*drug therapy
+Sputum/*drug effects",Butler CC and Kelly MJ and Hood K and Schaberg T and Melbye H and Serra-Prat M and Blasi F and Little P and Verheij T and Molstad S and Godycki-Cwirko M and Edwards P and Almirall J and Torres A and Rautakorpi UM and Nuttall J and Goossens H and Coenen S,"We investigated whether discoloured sputum and feeling unwell were associated with antibiotic prescription and benefit from antibiotic treatment for acute cough/lower respiratory tract infection (LTRI) in a prospective study of 3,402 adults in 13 countries. A two-level model investigated the association between producing discoloured sputum or feeling generally unwell and an antibiotic prescription. A three-level model investigated the association between an antibiotic prescription and symptom resolution. Patients producing discoloured sputum were prescribed antibiotics more frequently than those not producing sputum (OR 3.2, 95% CI 2.1-5.0), unlike those producing clear/white sputum (OR 0.95, 95% CI 0.61-1.48). Antibiotic prescription was not associated with a greater rate or magnitude of symptom score resolution (as measured by a 13-item questionnaire completed by patients each day) among those who: produced yellow (coefficient 0.00; p = 0.68) or green (coefficient -0.01; p = 0.11) sputum; reported any of three categories of feeling unwell; or produced discoloured sputum and felt generally unwell (coefficient -0.01; p = 0.19). Adults with acute cough/LRTI presenting in primary care settings with discoloured sputum were prescribed antibiotics more often compared to those not producing sputum. Sputum colour, alone or together with feeling generally unwell, was not associated with recovery or benefit from antibiotic treatment.",Missing,The European respiratory journal,38

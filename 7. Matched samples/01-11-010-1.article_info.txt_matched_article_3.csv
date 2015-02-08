@@ -1,0 +1,14 @@
+21642686,Association between time to initiation of adjuvant chemotherapy and survival in colorectal cancer: a systematic review and meta-analysis.,JAMA,Biagi JJ and Raphael MJ and Mackillop WJ and Kong W and King WD and Booth CM,Missing,"CONTEXT: Adjuvant chemotherapy (AC) improves survival among patients with resected colorectal cancer. However, the optimal timing from surgery to initiation of AC is unknown. OBJECTIVE: To determine the relationship between time to AC and survival outcomes via a systematic review and meta-analysis. data sources: MEDLINE (1975 through January 2011), EMBASE, the Cochrane Database of Systematic Reviews, and the Cochrane Central Register of Controlled Trials were searched to identify studies that described the relationship between time to AC and survival. STUDY SELECTION: Studies were only included if the relevant prognostic factors were adequately described and either comparative groups were balanced or results adjusted for these prognostic factors. DATA EXTRACTION: Hazard ratios (HRs) for overall survival and disease-free survival from each study were converted to a regression coefficient (beta) and standard error corresponding to a continuous representation per 4 weeks of time to AC. The adjusted beta from individual studies were combined using a fixed-effects model. Inverse variance (1/SE(2)) was used to weight individual studies. Publication bias was investigated using the trim and fill approach. RESULTS: We identified 10 eligible studies involving 15,410 patients (7 published articles, 3 abstracts). Nine of the studies were cohort or population based and 1 was a secondary analysis from a randomized trial of chemotherapy. Six studies reported time to AC as a binary variable and 4 as 3 or more categories. Meta-analysis demonstrated that a 4-week increase in time to AC was associated with a significant decrease in both overall survival (HR, 1.14; 95% confidence interval [CI], 1.10-1.17) and disease-free survival (HR, 1.14; 95% CI, 1.10-1.18). There was no significant heterogeneity among included studies. Results remained significant after adjustment for potential publication bias and when the analysis was repeated to exclude studies of largest weight. CONCLUSION: In a meta-analysis of the available literature on time to AC, longer time to AC was associated with worse survival among patients with resected colorectal cancer.","Adult
+Aged
+Aged, 80 and over
+*Chemotherapy, Adjuvant
+Colorectal Neoplasms/*drug therapy/surgery
+Disease-Free Survival
+Drug Administration Schedule
+Female
+Humans
+Male
+Middle Aged
+Survival Analysis
+Time Factors
+Treatment Outcome"

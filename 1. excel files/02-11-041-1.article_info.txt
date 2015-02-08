@@ -1,0 +1,17 @@
+21948151,A new methodological sequence to expand and transdifferentiate human umbilical cord blood derived CD133+ cells into a cardiomyocyte-like phenotype.,"Antigens, CD/*metabolism
+Cell Lineage
+Cell Proliferation
+*Cell Transdifferentiation
+Cells, Cultured
+Fetal Blood/*cytology
+Fetal Stem Cells/*metabolism
+Flow Cytometry
+Glycoproteins/*metabolism
+Humans
+Myocytes, Cardiac/*metabolism
+PPAR alpha/metabolism
+PPAR gamma/metabolism
+Peptides/*metabolism
+Retinoid X Receptor alpha/metabolism
+Retinoid X Receptor beta/metabolism
+Thrombopoietin",Cui YX and Kafienah W and Suleiman MS and Ascione R,"Transplantation of antigenic-separated stem cells for human cardiovascular diseases such as myocardial infarction needs to be supported by experimental studies that allow refinement of the procedure. In this study we investigated optimising a protocol for the expansion and subsequent differentiation of human umbilical cord blood (HUCB) derived CD133(+) stem cells into a cardiomyocyte-like lineage. CD133(+) cells from HUCB were selected first by immunomagnetic separation and their purity was confirmed by flow cytometry analysis. For expansion and differentiation we developed a novel culture medium recipe that involves sequential signalling factors. Briefly, CD133(+) cells were expanded for 6 days under optimal serum-free conditions in combination with fibronectin and assessed by microscopy and AlamarBlue proliferation assay. Expanded CD133(+) cells were then plated in a cardiac differentiation promoting medium and cultured up to 4 weeks. With this protocol HUCB-CD133(+) cells can be regularly expanded in serum-free medium to obtain recovery and growth in vitro up to 6 folds. The addition of recombinant human thrombopoietin to the remaining factors of the expanding medium was associated with larger cell expansion. Expanded UCB CD133(+) cells showed a cardiomyocyte-like phenotype following differentiation in vitro through expressing intracellular cardiac specific markers including cardiac-specific alpha-actin, myosin heavy chain and troponin I. This change in phenotype was associated with the expression of cardiac-specific transcription factors Gata-4 and MEF2C. In addition, the change in phenotype was associated with an upregulation of nuclear receptor transcription factors including PPAR alpha, PPARgamma, RXR alpha and RXRbeta. We believe our protocol represents a significant advancement and overcome the technical hurdle of deriving cardiomyogenic-like cells from HUCB CD133(+) stem cells. In addition, it has the required attributes of simplicity and consistency. This will permit more robust manipulation of these cells towards better engraftment and repair in patients with myocardial infarction.",Missing,Stem cell reviews,9

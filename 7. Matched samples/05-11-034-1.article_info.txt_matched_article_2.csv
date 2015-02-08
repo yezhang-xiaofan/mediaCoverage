@@ -1,0 +1,18 @@
+21865381,Improved knockout methodology reveals that frog virus 3 mutants lacking either the 18K immediate-early gene or the truncated vIF-2alpha gene are defective for replication and growth in vivo.,Journal of virology,Chen G and Ward BM and Yu KH and Chinchar VG and Robert J,Missing,"To better assess the roles of frog virus 3 (FV3; genus Ranavirus, family Iridoviridae) genes in virulence and immune evasion, we have developed a reliable and efficient method to systematically knock out (KO) putative virulence genes by site-specific integration into the FV3 genome. Our approach utilizes a dual selection marker consisting of the puromycin resistance gene fused in frame with the enhanced green fluorescent protein (EGFP) reporter (Puro-EGFP cassette) under the control of the FV3 immediate-early (IE) 18K promoter. By successive rounds of selection for puromycin resistance and GFP expression, we have successfully constructed three recombinant viruses. In one, a ""knock-in"" mutant was created by inserting the Puro-EGFP cassette into a noncoding region of the FV3 genome (FV3-Puro/GFP). In the remaining two, KO mutants were constructed by replacement of the truncated viral homolog of eIF-2alpha (FV3-DeltavIF-2alpha) or the 18K IE gene (FV3-Delta18K) with the Puro-EGFP cassette. The specificity of recombination and the clonality of each mutant were confirmed by PCR, sequencing, and immunofluorescence microscopy. Viral replication of each recombinant in cell culture was similar to that of parental FV3; however, infection in Xenopus laevis tadpoles revealed that FV3-DeltavIF-2alpha and FV3-Delta18K replicated less and resulted in lower mortality than did GFP-FV3 and wild-type FV3. Our results suggest that 18K, which is conserved in all ranaviruses, and the truncated vIF-2alpha gene contribute to virulence. In addition, our study describes a powerful methodology that lays the foundation for the discovery of potentially new ranaviral genes involved in virulence and immune escape.","Animals
+Eukaryotic Initiation Factor-2/*genetics
+*Gene Knockout Techniques/methods
+*Genes, Immediate-Early
+Genes, Reporter
+Green Fluorescent Proteins/genetics/metabolism
+Mutagenesis, Insertional
+Protein Synthesis Inhibitors/metabolism
+Puromycin/metabolism
+Ranavirus/*genetics/*growth & development
+Selection, Genetic
+Staining and Labeling
+Survival Analysis
+Viral Proteins/*genetics/metabolism
+Virulence
+Virulence Factors/genetics/metabolism
+*Virus Replication
+Xenopus laevis"

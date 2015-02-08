@@ -1,0 +1,15 @@
+21471282,"Associations of gestational weight gain with maternal body mass index, waist circumference, and blood pressure measured 16 y after pregnancy: the Avon Longitudinal Study of Parents and Children (ALSPAC).","*Blood Pressure
+*Body Mass Index
+Body Weight
+Female
+Humans
+Longitudinal Studies
+*Maternal Welfare
+Multivariate Analysis
+Obesity/*etiology/physiopathology
+Pregnancy
+Pregnancy Complications/*physiopathology
+Prospective Studies
+Risk Factors
+*Waist Circumference
+Weight Gain/*physiology",Fraser A and Tilling K and Macdonald-Wallis C and Hughes R and Sattar N and Nelson SM and Lawlor DA,"BACKGROUND: Little is known about associations of gestational weight gain (GWG) with long-term maternal health. OBJECTIVE: We aimed to examine associations of prepregnancy weight and GWG with maternal body mass index (BMI; in kg/m(2)), waist circumference (WC), systolic blood pressure (SBP), and diastolic blood pressure (DBP) 16 y after pregnancy. DESIGN: This is a prospective study in 2356 mothers from the Avon Longitudinal Study of Parents and Children (ALSPAC)-a population-based pregnancy cohort. RESULTS: Women with low GWG by Institute of Medicine recommendations had a lower mean BMI (-1.56; 95% CI: -2.12, -1.00) and WC (-3.37 cm; -4.91, -1.83 cm) than did women who gained weight as recommended. Women with a high GWG had a greater mean BMI (2.90; 2.27, 3.52), WC (5.84 cm; 4.15, 7.54 cm), SBP (2.87 mm Hg; 1.22, 4.52 mm Hg), and DBP (1.00 mm Hg; -0.02, 2.01 mm Hg). Analyses were adjusted for age, offspring sex, social class, parity, smoking, physical activity and diet in pregnancy, mode of delivery, and breastfeeding. Women with a high GWG had 3-fold increased odds of overweight and central adiposity. On the basis of estimates from random-effects multilevel models, prepregnancy weight was positively associated with all outcomes. GWG in all stages of pregnancy was positively associated with later BMI, WC, increased odds of overweight or obesity, and central adiposity. GWG in midpregnancy (19-28 wk) was associated with later greater SBP, DBP, and central adiposity but only in women with a normal prepregnancy BMI. CONCLUSIONS: Results support initiatives aimed at optimizing prepregnancy weight. Recommendations on optimal GWG need to balance contrasting associations with different outcomes in both mothers and offspring.",Missing,The American journal of clinical nutrition,93

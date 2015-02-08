@@ -1,0 +1,15 @@
+21921915,The evolution of overconfidence.,"Animals
+*Assertiveness
+*Biological Evolution
+Character
+Competitive Behavior
+Conflict (Psychology)
+Decision Making
+Game Theory
+Genetic Fitness
+Humans
+*Illusions
+*Personality
+Risk
+Selection, Genetic
+Self-Assessment",Johnson DD and Fowler JH,"Confidence is an essential ingredient of success in a wide range of domains ranging from job performance and mental health to sports, business and combat. Some authors have suggested that not just confidence but overconfidence--believing you are better than you are in reality--is advantageous because it serves to increase ambition, morale, resolve, persistence or the credibility of bluffing, generating a self-fulfilling prophecy in which exaggerated confidence actually increases the probability of success. However, overconfidence also leads to faulty assessments, unrealistic expectations and hazardous decisions, so it remains a puzzle how such a false belief could evolve or remain stable in a population of competing strategies that include accurate, unbiased beliefs. Here we present an evolutionary model showing that, counterintuitively, overconfidence maximizes individual fitness and populations tend to become overconfident, as long as benefits from contested resources are sufficiently large compared with the cost of competition. In contrast, unbiased strategies are only stable under limited conditions. The fact that overconfident populations are evolutionarily stable in a wide range of environments may help to explain why overconfidence remains prevalent today, even if it contributes to hubris, market bubbles, financial collapses, policy failures, disasters and costly wars.",Missing,Nature,477

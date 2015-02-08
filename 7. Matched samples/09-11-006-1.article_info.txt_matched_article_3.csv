@@ -1,0 +1,18 @@
+21909097,Chemical inhibition of RNA viruses reveals REDD1 as a host defense factor.,Nature chemical biology,Mata MA and Satterly N and Versteeg GA and Frantz D and Wei S and Williams N and Schmolke M and Pena-Llopis S and Brugarolas J and Forst CV and White MA and Garcia-Sastre A and Roth MG and Fontoura BM,Missing,"A chemical genetics approach was taken to identify inhibitors of NS1, a major influenza A virus virulence factor that inhibits host gene expression. A high-throughput screen of 200,000 synthetic compounds identified small molecules that reversed NS1-mediated inhibition of host gene expression. A counterscreen for suppression of influenza virus cytotoxicity identified naphthalimides that inhibited replication of influenza virus and vesicular stomatitis virus (VSV). The mechanism of action occurs through activation of REDD1 expression and concomitant inhibition of mammalian target of rapamycin complex 1 (mTORC1) via TSC1-TSC2 complex. The antiviral activity of naphthalimides was abolished in REDD1(-/-) cells. Inhibition of REDD1 expression by viruses resulted in activation of the mTORC1 pathway. REDD1(-/-) cells prematurely upregulated viral proteins via mTORC1 activation and were permissive to virus replication. In contrast, cells conditionally expressing high concentrations of REDD1 downregulated the amount of viral protein. Thus, REDD1 is a new host defense factor, and chemical activation of REDD1 expression represents a potent antiviral intervention strategy.","Animals
+Antiviral Agents/chemistry/*pharmacology
+Cell Line
+Dogs
+Dose-Response Relationship, Drug
+Gene Expression Regulation/drug effects/genetics
+High-Throughput Screening Assays
+Humans
+Mice
+Microbial Sensitivity Tests
+Molecular Structure
+Naphthalimides/chemistry/*pharmacology
+Orthomyxoviridae/*drug effects/genetics/metabolism
+Structure-Activity Relationship
+Transcription Factors/deficiency/*metabolism
+Vesiculovirus/*drug effects/genetics/metabolism
+Viral Nonstructural Proteins/antagonists & inhibitors/genetics/metabolism
+Virus Replication/drug effects"

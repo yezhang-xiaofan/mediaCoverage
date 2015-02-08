@@ -1,0 +1,12 @@
+21795263,Latitudinal variation in light levels drives human visual system size.,"Body Weights and Measures
+Eye/*anatomy & histology
+*Geography
+Humans
+Linear Models
+Orbit/anatomy & histology
+*Photoperiod
+*Selection, Genetic
+Statistics, Nonparametric
+*Sunlight
+Visual Acuity/physiology
+Visual Cortex/*anatomy & histology",Pearce E and Dunbar R,"Ambient light levels influence visual system size in birds and primates. Here, we argue that the same is true for humans. Light levels, in terms of both the amount of light hitting the Earth's surface and day length, decrease with increasing latitude. We demonstrate a significant positive relationship between absolute latitude and human orbital volume, an index of eyeball size. Owing to tight scaling between visual system components, this will translate into enlarged visual cortices at higher latitudes. We also show that visual acuity measured under full-daylight conditions is constant across latitudes, indicating that selection for larger visual systems has mitigated the effect of reduced ambient light levels. This provides, to our knowledge, the first support that light levels drive intraspecific variation in visual system size in the human population.",Missing,Biology letters,8

@@ -1,0 +1,177 @@
+BBC
+Breakthrough in delivering drugs to the brain
+By James Gallagher Health reporter, BBC News
+
+A new way of delivering drugs to the brain has been developed by scientists at the University of Oxford.
+They used the body's own transporters - exosomes - to deliver drugs in an experiment on mice.
+The authors say the study, in Nature Biotechnology, could be vital for treating diseases such as Alzheimer's, Parkinson's and Muscular Dystrophy.
+The Alzheimer's Society said the study was "exciting" and could lead to more effective treatments.
+Research barrier 
+One of the medical challenges with diseases of the brain is getting any treatment to cross the blood-brain barrier.
+The barrier exists to protect the brain, preventing bacteria from crossing over from the blood, while letting oxygen through.
+However, this has also produced problems for medicine, as drugs can also be blocked. 
+In this study the researchers used exosomes to cross that barrier.
+Exosomes are like the body's own fleet of incredibly small vans, transporting materials between cells.
+The team at Oxford harvested exosomes from mouse dentritic cells, part of the immune system, which naturally produce large numbers of exosomes.
+They then fused the exosomes with targeting proteins from the rabies virus, which binds to acetylcholine receptors in brain cells, so the exosome would target the brain.
+They filled the exosomes with a piece of genetic code, siRNA, and injected them back into the mice.
+The siRNA was delivered to the brain cells and turned off a gene, BACE1, which is involved in Alzheimer's disease.
+The authors reported a 60% reduction in the gene's activity.
+"These are dramatic and exciting results" said the lead researcher Dr Matthew Wood.
+"This is the first time this natural system has been exploited for drug delivery."
+Customised 
+The research group believes that the method could modified to treat other conditions and other parts of the body.
+Dr Wood said: "We are working on sending exosomes to muscle, but you can envisage targeting any tissue.
+"It can also be made specific by changing the drug used."
+The researchers are now going to test the treatment on mice with Alzheimer's disease to see if their condition changes.
+The team expect to begin trials in human patients within five years. 
+Dr Susanne Sorensen, head of research at the Alzheimer's Society, said: "In this exciting study, researchers may have overcome a major barrier to the delivery of potential new drugs for many neurological diseases including Alzheimer's. 
+She said the blood-brain barrier had been an "enormous issue as many potential drugs have not been properly tested because you couldn't get enough of them into the brain."
+She added: "If this delivery method proves safe in humans, then we may see more effective drugs being made available for people with Alzheimer's in the future."
+Dr Simon Ridley, head of research at Alzheimer's Research UK, said: "This is innovative research, but at such an early stage it's still a long way from becoming a treatment for patients. 
+"Designing drugs that cross the blood brain barrier is a key goal of research that holds the promise of improving the effectiveness of Alzheimer's treatments in the future."
+Exosomes may have other medical applications.
+Alexander Seifalian, a professor of nanotechnology and regenerative medicine at University College London, told the BBC: "Experimental evidence indicates that exosomes can prime the immune system to recognize and destroy cancer cells, making them a potential tool as cancer vaccines." 
+He also said exosomes "could well form the cornerstone of nanoscale drug delivery systems of the future."
+He added: "The apparent versatility and established biosafety of exosomes underscores the potential of these biological membrane vesicles to be of tremendous potential in the realm of nanotechnology and regenerative medicine."
+
+
+The Express
+ Date Published: March 21, 2011 Monday
+Word count Title: 7
+Word count Body: 449
+Sentence Count: 25
+ Breakthrough in Britain's fight to beat Alzheimer's  BYLINE: Victoria Fletcher  SECTION: EDITORIAL; Pg. 15  
+SCIENTISTS have overcome a key problem in treating common memory and brain disorders, which could herald a new generation of treatments.
+A "dramatic and exciting" study has revealed a novel way to get medicines into the brain to treat conditions such as Alzheimer's, Parkinson's, motor neurone disease and muscular dystrophy.
+Until now, it has been very difficult to get drugs into the brain because of an efficient filter known as the blood-brain barrier.
+One of the only ways has been to inject medicines directly into the brain.
+Now a team from Oxford University has discovered how to hide medicines from this filter by attaching them to tiny molecules, released by cells, called exosomes.
+Scientists can send drugs into the brain to switch off a gene linked to Alzheimer's disease.
+But they believe it may be a few more years before the technique is safe enough to test on humans.
+Dr Matthew Wood, from the department of physiology, anatomy and genetics, who led the work, said: "These are dramatic and exciting results.
+"It's the first time new biological medicines have been delivered effectively across the blood-brain barrier to the brain."
+Exosomes are small capsules that are produced by most cells in the body.
+ They can break away from the cell and travel around the body, taking genetic material with them. They are thought to help cells to "talk" to each other.
+Dr Wood added: "We've shown that a natural system could be exploited to deliver drugs.
+"We believe we can use this same technology for Alzheimer's, motor neurone disease, Parkinson's and Huntington's.
+ "The next steps are to test the exosomes in a mouse model of Alzheimer's disease to see if it makes a difference to disease progression."
+The trial showed that when the drug was attached to exosomes and injected into the blood system of mice, it crossed the bloodbrain barrier and ended up in the brain. 
+Once there, the type of drug delivered was able to switch off a gene linked to Alzheimer's.
+This led to a 60 per cent drop in the brain of the problem enzyme linked to the gene.
+Last night, a spokesman for the Alzheimer's Society said the discovery was "very exciting".
+He said: "The blood-brain barrier protects the brain from harmful chemicals but also makes it difficult for drugs to reach the target cells. 
+If this delivery method proves safe in humans we may see more effective drugs being made available for people with Alzheimer's in the future.
+"More research is now needed.
+Dementia research is desperately underfunded.
+"To make the breakthroughs we need, we must invest now."
+The Oxford University study, partly funded by the Muscular Dystrophy Campaign, is published in Nature Biotechnology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Mirror
+
+Date Published: March 21, 2011 Monday
+Word count Title: 
+Word count Body: 
+Sentence Count: 
+ 3 Star Edition
+ GENE GENIUS;  HOPE FOR ALZHEIMER'S AND MND AS DRUGS DELIVERED STRAIGHT TO BRAIN  BYLINE: DANNY BUCKLAND  SECTION: NEWS; Pg. 18  LENGTH: 197 words
+SCIENTISTS have successfully switched off a gene thought to cause Alzheimer's by using a new way to deliver drugs directly to the brain.
+A team of University of Oxford researchers exploited tiny particles called exosomes, which are released by cells, to administer drugs into the brains of mice.
+The exosomes are injected into the blood and are able to carry the drugs past the blood-brain barrier.
+ In the past, efforts to treat Alzhe-imer's have been hampered by the difficulty of getting drugs past this barrier to the brain.
+Scientists hope this target mechanism could be used to administer drugs for brain diseases such as Parkinson's, motor neurone disease and muscular dystrophy.
+But they warned it will be some time before they can carry out tests on humans.
+Lead scientist Dr Matthew Wood said: "These are dramatic and exciting results.
+"It's the first time new 'biological' medicines have been delivered effectively across the blood-brain barrier to the brain."
+Dr Susanne Sorensen, of the Alzheimer's Society, welcomed the findings but said more research was needed.
+ She added: "If this is safe, then we may see more effective drugs being made available for people with Alzheimer's.
+
+ The Sun (England)
+
+Date Published: March 21, 2011 Monday
+Word count Title: 4
+Word count Body: 70
+Sentence Count: 4
+ Edition 1;  Scotland
+ Alz drug brain bid  SECTION: NEWS; Pg. 32  LENGTH: 71 words
+SCIENTISTS have found a way to deliver Alzheimer's drugs directly to the brain - boosting hopes of better treatment.
+An Oxford University team switched off a gene implicated in the disease using particles released by cells called exosomes.
+If injected into the blood, exosomes can carry a drug to the brain across the usually impermeable blood-brain barrier.
+The results were "significant" in mice but must still be tested on humans.
+
+
+TELEGRAPH
+Alzheimer's hope after new drug discovery
+Scientists have found a new way to deliver Alzheimer's drugs directly to the brain, sparking hopes that more effective treatment could be made available to sufferers. 
+Efforts to treat the disease have been hampered over the last 50 years by the difficulty of administering drugs to the brain to slow or halt its progression. 
+But a team of University of Oxford researchers has successfully switched off a gene linked to Alzheimer's in the brains of mice by exploiting tiny particles naturally released by cells, called exosomes. 
+The exosomes, injected into the blood, are able to carry a drug across the normally impermeable blood-brain barrier to the brain where it is needed. 
+It is hoped that the method, if successfully tested in humans, could resolve the difficulty in administering potential new drugs for many neurological diseases including Parkinson's, motor neurone disease and muscular dystrophy. 
+But the researchers cautioned that although the results were significant and promising, a number of steps must be taken before this form of drug delivery can be tested in humas. 
+Lead scientist Dr Matthew Wood of Oxford's Department of Physiology, Anatomy and Genetics said: ''These are dramatic and exciting results.
+It's the first time new 'biological' medicines have been delivered effectively across the blood-brain-barrier to the brain. 
+''This is the first time this natural system has been exploited for drug delivery.'' 
+Over the years, many drugs have been developed to target specific parts of the disease pathways. 
+But while these have shown good results in the lab, getting them to the right part of the body to see any effect in humans has often proved problematic. 
+Delivering any such type of therapy to the brain would currently have to involve neurosurgery and nothing administered intravenously would be able to cross from the blood into the brain. 
+
+''The major barrier for these drugs is delivery,'' Dr Wood said. ''This problem becomes even greater when you want to reach the brain.
+The blood-brain barrier - which stops most things in the blood stream from crossing to our brains - is much too great an obstacle. 
+''We've shown that a natural system could be exploited to deliver drugs across the blood-brain barrier.
+We believe we can use this same technology for Alzheimer's, motor neurone disease, Parkinson's and Huntington's.'' 
+But safety tests would be needed before the exosomes could be tested in humans, he said. 
+The Alzheimer's Society welcomed the findings but said more research was needed to see if the method would be effective for Alzheimer's sufferers. 
+Dr Susanne Sorensen, head of research at the charity, said: ''In this exciting study, researchers may have overcome a major barrier to the delivery of potential new drugs for many neurological diseases including Alzheimer's. 
+''The blood-brain barrier protects the brain from harmful chemicals but also makes it difficult for drugs to reach the target cells.
+If this delivery method proves safe in humans, then we may see more effective drugs being made available for people with Alzheimer's in the future.'' 
+:: The study, partly funded by the Muscular Dystrophy Campaign, is published in Nature Biotechnology. 
+
+MAIL ONLINE
+Alzheimer's breakthrough as scientists find out how to deliver drugs directly to the brain
+By David Derbyshire
+ 
+The technique overcomes the blood-brain barrier that protects the brain from harmful chemicals but also stops drugs reaching target cells
+ Scientists have found a new way to deliver drugs directly to the brain, raising hopes of more effective treatments for Alzheimer’s disease sufferers.
+A team from University of Oxford successfully switched off a gene implicated in Alzheimer’s disease in the brains of mice by exploiting tiny particles naturally released by cells, called exosomes.
+ The exosomes, injected into the blood, act as 'drugs vehicles' - crossing the normally impermeable blood-brain barrier to the brain where they are needed.
+This barrier is a natural defence against potentially harmful chemicals floating around the body but has also stopped useful drugs reaching the brain as well.
+The scientists say the research, published in the journal Nature Biotechnology, is still at an early stage - and is many years from being tested in people.
+But it could also make it easier to treat Parkinson’s disease, motor neurone disease and muscular dystrophy.
+Lead scientist Dr Matthew Wood said: 'These are dramatic and exciting results.
+'It’s the first time new ‘biological’ medicines have been delivered effectively across the blood-brain-barrier to the brain.
+'This is the first time this natural system has been exploited for drug delivery.'
+Over the years, many drugs have been developed to target specific parts of the disease pathways.
+But while these have shown good results in the lab, getting them to the right part of the body has often proved problematic.
+ The major barrier for these drugs is delivery,' said Dr Wood said. 
+'This problem becomes even greater when you want to reach the brain.
+The blood-brain barrier - which stops most things in the blood stream from crossing to our brains - is much too great an obstacle.
+'We’ve shown that a natural system could be exploited to deliver drugs across the blood-brain barrier. 
+We believe we can use this same technology for Alzheimer’s, motor neurone disease, Parkinson’s and Huntington’s.'
+ Safety tests would be needed before the technique could be used on people, he added.
+The Alzheimer’s Society welcomed the findings but said more research was needed to see if the method would be effective.
+Dr Susanne Sorensen, head of research at the charity, said: 'In this exciting study, researchers may have overcome a major barrier to the delivery of potential new drugs for many neurological diseases including Alzheimer’s.
+'The blood-brain barrier protects the brain from harmful chemicals but also makes it difficult for drugs to reach the target cells. 
+If this delivery method proves safe in humans, then we may see more effective drugs being made available for people with Alzheimer’s in the future.'
+The study is published in Nature Biotechnology.
+ 
+
+
+
+
+

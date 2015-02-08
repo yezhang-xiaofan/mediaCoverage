@@ -1,0 +1,15 @@
+21656330,Reversal of type 2 diabetes: normalisation of beta cell function in association with decreased pancreas and liver triacylglycerol.,"Adult
+Aged
+Blood Glucose/metabolism
+Body Composition/physiology
+Body Weight/physiology
+Diabetes Mellitus, Type 2/*diet therapy/metabolism/*physiopathology
+Female
+Hemoglobin A, Glycosylated/metabolism
+Humans
+Insulin-Secreting Cells/*physiology
+Liver/*metabolism
+Male
+Middle Aged
+Pancreas/*metabolism
+Triglycerides/*metabolism",Lim EL and Hollingsworth KG and Aribisala BS and Chen MJ and Mathers JC and Taylor R,"AIMS/HYPOTHESIS: Type 2 diabetes is regarded as inevitably progressive, with irreversible beta cell failure. The hypothesis was tested that both beta cell failure and insulin resistance can be reversed by dietary restriction of energy intake. METHODS: Eleven people with type 2 diabetes (49.5 +/- 2.5 years, BMI 33.6 +/- 1.2 kg/m(2), nine male and two female) were studied before and after 1, 4 and 8 weeks of a 2.5 MJ (600 kcal)/day diet. Basal hepatic glucose output, hepatic and peripheral insulin sensitivity and beta cell function were measured. Pancreas and liver triacylglycerol content was measured using three-point Dixon magnetic resonance imaging. An age-, sex- and weight-matched group of eight non-diabetic participants was studied. RESULTS: After 1 week of restricted energy intake, fasting plasma glucose normalised in the diabetic group (from 9.2 +/- 0.4 to 5.9 +/- 0.4 mmol/l; p = 0.003). Insulin suppression of hepatic glucose output improved from 43 +/- 4% to 74 +/- 5% (p = 0.003 vs baseline; controls 68 +/- 5%). Hepatic triacylglycerol content fell from 12.8 +/- 2.4% in the diabetic group to 2.9 +/- 0.2% by week 8 (p = 0.003). The first-phase insulin response increased during the study period (0.19 +/- 0.02 to 0.46 +/- 0.07 nmol min(-1) m(-2); p < 0.001) and approached control values (0.62 +/- 0.15 nmol min(-1) m(-2); p = 0.42). Maximal insulin response became supranormal at 8 weeks (1.37 +/- 0.27 vs controls 1.15 +/- 0.18 nmol min(-1) m(-2)). Pancreatic triacylglycerol decreased from 8.0 +/- 1.6% to 6.2 +/- 1.1% (p = 0.03). CONCLUSIONS/INTERPRETATION: Normalisation of both beta cell function and hepatic insulin sensitivity in type 2 diabetes was achieved by dietary energy restriction alone. This was associated with decreased pancreatic and liver triacylglycerol stores. The abnormalities underlying type 2 diabetes are reversible by reducing dietary energy intake.",Missing,Diabetologia,54

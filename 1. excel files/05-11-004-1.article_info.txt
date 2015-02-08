@@ -1,0 +1,22 @@
+20949370,Genetic variance in a component of the language acquisition device: ROBO1 polymorphisms associated with phonological buffer deficits.,"Adolescent
+Adult
+*Alleles
+Child
+Chromosomes, Human, Pair 3/genetics
+Diseases in Twins/*genetics
+Dyslexia/*genetics
+Female
+Genetic Predisposition to Disease/*genetics
+Genetic Variation/*genetics
+Genotype
+Humans
+Language Development Disorders/*genetics
+Male
+Nerve Tissue Proteins/*genetics
+Phenotype
+*Phonetics
+Polymorphism, Genetic/*genetics
+Polymorphism, Single Nucleotide/genetics
+Queensland
+Receptors, Immunologic/*genetics
+Young Adult",Bates TC and Luciano M and Medland SE and Montgomery GW and Wright MJ and Martin NG,"The region containing ROBO1 (Chromosome 3p12.3) has been implicated as a susceptibility gene for reading disorder and language deficit by translocation and linkage data. No association studies have yet been reported supporting any candidate gene. Here we report the first association of this gene with language deficits, specifically with phonological buffer deficits (a phenotype implicated in language acquisition, Specific Language Impairment and Speech Sound Disorder) and dyslexia (reading and spelling ability traits) in an unselected sample of adolescent twins and their siblings. Family-based analyses were performed on 144 tag SNPs in ROBO1, typed in 538 families with up to five offspring and tested for association with a developmental marker of language impairment (phonological buffer capacity, assessed using non word repetition). A reading and spelling ability measure--based on validated measures of lexical processing (irregular word) and grapheme-phoneme decoding (pseudo word)--and measures of short-term and working memory were also analysed. Significant association for phonological buffer capacity was observed for 21 of 144 SNPs tested, peaking at 8.70 x 10(-05) and 9.30 x 10(-05) for SNPs rs6803202 and rs4535189 respectively for nonword repetition, values that survive correction for multiple testing. Twenty-two SNPs showed significant associations for verbal storage (forward digit span)--a trait linked to phonological span. By contrast, just 5 SNPs reached nominal significance for working-memory, not surviving correction, and, importantly, only one SNP in the 144 tested reached nominal significance (0.04) for association with reading and spelling ability. These results provide strong support for ROBO1 as a gene involved in a core trait underpinning language acquisition, with a specific function in supporting a short-term buffer for arbitrary phonological strings. These effects of ROBO1 appear to be unrelated to brain mechanisms underpinning reading ability, at least by adolescence. While replication will be critical, the present results strongly support ROBO1 as the first gene discovered to be associated with language deficits affecting normal variation in language ability. Its functional role in neuronal migration underlying bilateral symmetry and lateralization of neuronal function further suggests a role in the evolution of human language ability.",Missing,Behavior genetics,41

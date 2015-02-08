@@ -1,0 +1,18 @@
+21612469,Effect of bronchoconstriction on airway remodeling in asthma.,"Adult
+Albuterol/pharmacology
+Animals
+Asthma/pathology/*physiopathology
+Bronchi/pathology/*physiology
+Bronchial Provocation Tests
+Bronchoconstriction/drug effects/*physiology
+Bronchodilator Agents/pharmacology
+Bronchoscopy
+Eosinophils
+Female
+Forced Expiratory Volume/drug effects
+Humans
+Male
+Methacholine Chloride/pharmacology
+Pyroglyphidae/immunology
+Spirometry
+Young Adult",Grainge CL and Lau LC and Ward JA and Dulay V and Lahiff G and Wilson S and Holgate S and Davies DE and Howarth PH,"BACKGROUND: Asthma is characterized pathologically by structural changes in the airway, termed airway remodeling. These changes are associated with worse long-term clinical outcomes and have been attributed to eosinophilic inflammation. In vitro studies indicate, however, that the compressive mechanical forces that arise during bronchoconstriction may induce remodeling independently of inflammation. We evaluated the influence of repeated experimentally induced bronchoconstriction on airway structural changes in patients with asthma. METHODS: We randomly assigned 48 subjects with asthma to one of four inhalation challenge protocols involving a series of three challenges with one type of inhaled agent presented at 48-hour intervals. The two active challenges were with either a dust-mite allergen (which causes bronchoconstriction and eosinophilic inflammation) or methacholine (which causes bronchoconstriction without eosinophilic inflammation); the two control challenges (neither of which causes bronchoconstriction) were either saline alone or albuterol followed by methacholine (to control for nonbronchoconstrictor effects of methacholine). Bronchial-biopsy specimens were obtained before and 4 days after completion of the challenges. RESULTS: Allergen and methacholine immediately induced similar levels of bronchoconstriction. Eosinophilic inflammation of the airways increased only in the allergen group, whereas both the allergen and the methacholine groups had significant airway remodeling not seen in the two control groups. Subepithelial collagen-band thickness increased by a median of 2.17 mum in the allergen group (interquartile range [IQR], 0.70 to 3.67) and 1.94 mum in the methacholine group (IQR, 0.37 to 3.24) (P<0.001 for the comparison of the two challenge groups with the two control groups); periodic acid-Schiff staining of epithelium (mucus glands) also increased, by a median of 2.17 percentage points in the allergen group (IQR, 1.03 to 4.77) and 2.13 percentage points in the methacholine group (IQR, 1.14 to 7.96) (P=0.003 for the comparison with controls). There were no significant differences between the allergen and methacholine groups. CONCLUSIONS: Bronchoconstriction without additional inflammation induces airway remodeling in patients with asthma. These findings have potential implications for management.",Missing,The New England journal of medicine,364

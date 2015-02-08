@@ -1,0 +1,15 @@
+21487042,Inhibition of NEDD8-activating enzyme induces rereplication and apoptosis in human tumor cells consistent with deregulating CDT1 turnover.,Cancer research,Milhollen MA and Narayanan U and Soucy TA and Veiby PO and Smith PG and Amidon B,Missing,"Loss of NEDD8-activating enzyme (NAE) function by siRNA knockdown or inhibition by the small molecule NAE inhibitor MLN4924 leads to increased steady-state levels of direct Cullin-RING ligase (CRL) substrates by preventing their ubiquitination and proteasome-dependent degradation. Many of these CRL substrates are involved in cell cycle progression, including a critical DNA replication licensing factor CDT1. Cell cycle analysis of asynchronous and synchronous cultures after NAE inhibition revealed effects on cell cycle distribution and activation of DNA break repair signaling pathways similar to that reported for CDT1 overexpression. The siRNA knockdown of cullins critical for the turnover of CDT1 recapitulated the aberrant rereplication phenotype while CDT1 knockdown was suppressing. Although NAE inhibition leads to deregulation of many CRL substrates, these data demonstrate that CDT1 accumulation mediates the DNA rereplication phenotype resulting from loss of NAE function. DNA rereplication is an unrecoverable cellular insult and the small molecule inhibitor MLN4924, currently in phase I trials, represents an unprecedented opportunity to explore this mechanism of cytotoxicity for the treatment of cancer.","Apoptosis/*physiology
+Cell Cycle Proteins/*metabolism
+Cell Line, Tumor
+Cullin Proteins/antagonists & inhibitors/genetics/metabolism
+Cyclopentanes/pharmacology
+DNA Damage
+*DNA Replication
+DNA, Neoplasm/biosynthesis
+Gene Knockdown Techniques
+HCT116 Cells
+Humans
+Pyrimidines/pharmacology
+RNA, Small Interfering/administration & dosage/genetics
+S Phase
+Ubiquitins/*antagonists & inhibitors/genetics/metabolism"

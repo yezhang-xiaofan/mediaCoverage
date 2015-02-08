@@ -1,0 +1,24 @@
+20978189,Pesticide use modifies the association between genetic variants on chromosome 8q24 and prostate cancer.,Cancer research,Koutros S and Beane Freeman LE and Berndt SI and Andreotti G and Lubin JH and Sandler DP and Hoppin JA and Yu K and Li Q and Burdette LA and Yuenger J and Yeager M and Alavanja MC,nih,"Genome-wide association studies have identified 8q24 region variants as risk factors for prostate cancer. In the Agricultural Health Study, a prospective study of licensed pesticide applicators, we observed increased prostate cancer risk with specific pesticide use among those with a family history of prostate cancer. Thus, we evaluated the interaction among pesticide use, 8q24 variants, and prostate cancer risk. The authors estimated odds ratios (OR) and 95% confidence intervals (95% CI) for interactions among 211 8q24 variants, 49 pesticides, and prostate cancer risk in 776 cases and 1,444 controls. The ORs for a previously identified variant, rs4242382, and prostate cancer increased significantly (P<0.05) with exposure to the organophosphate insecticide fonofos, after correction for multiple testing, with per allele ORnonexposed of 1.17 (95% CI, 0.93-1.48), per allele OR(low) of 1.30 (95% CI, 0.75-2.27), and per allele ORhigh of 4.46 (95% CI, 2.17-9.17; P-interaction=0.002, adjusted P-interaction=0.02). A similar effect modification was observed for three other organophosphate insecticides (coumaphos, terbufos, and phorate) and one pyrethroid insecticide (permethrin). Among ever users of fonofos, subjects with three or four risk alleles at rs7837328 and rs4242382 had approximately three times the risk of prostate cancer (OR, 3.14; 95% CI, 1.41-7.00) compared with subjects who had zero risk alleles and never used fonofos. We observed a significant interaction among variants on chromosome 8q24, pesticide use, and risk of prostate cancer. Insecticides, particularly organophosphates, were the strongest modifiers of risk, although the biological mechanism is unclear. This is the first report of effect modification between 8q24 and an environmental exposure on prostate cancer risk.","Adult
+Aged
+Chromosomes, Human, Pair 8/*genetics
+Coumaphos/poisoning
+Fonofos/poisoning
+Genome-Wide Association Study
+Humans
+Incidence
+Iowa/epidemiology
+Logistic Models
+Male
+Middle Aged
+North Carolina/epidemiology
+Occupational Diseases/chemically induced/epidemiology/*genetics
+Odds Ratio
+Organothiophosphorus Compounds/poisoning
+Permethrin/poisoning
+Pesticides/*poisoning
+Phorate/poisoning
+*Polymorphism, Single Nucleotide
+Prospective Studies
+Prostatic Neoplasms/chemically induced/epidemiology/*genetics
+Risk Assessment
+Risk Factors"

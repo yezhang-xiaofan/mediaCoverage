@@ -1,0 +1,14 @@
+21297641,Rapid and efficient clathrin-mediated endocytosis revealed in genome-edited mammalian cells.,Nature cell biology,Doyon JB and Zeitler B and Cheng J and Cheng AT and Cherone JM and Santiago Y and Lee AH and Vo TD and Doyon Y and Miller JC and Paschon DE and Zhang L and Rebar EJ and Gregory PD and Urnov FD and Drubin DG,Missing,"Clathrin-mediated endocytosis (CME) is the best-studied pathway by which cells selectively internalize molecules from the plasma membrane and surrounding environment. Previous live-cell imaging studies using ectopically overexpressed fluorescent fusions of endocytic proteins indicated that mammalian CME is a highly dynamic but inefficient and heterogeneous process. In contrast, studies of endocytosis in budding yeast using fluorescent protein fusions expressed at physiological levels from native genomic loci have revealed a process that is very regular and efficient. To analyse endocytic dynamics in mammalian cells in which endogenous protein stoichiometry is preserved, we targeted zinc finger nucleases (ZFNs) to the clathrin light chain A and dynamin-2 genomic loci and generated cell lines expressing fluorescent protein fusions from each locus. The genome-edited cells exhibited enhanced endocytic function, dynamics and efficiency when compared with previously studied cells, indicating that CME is highly sensitive to the levels of its protein components. Our study establishes that ZFN-mediated genome editing is a robust tool for expressing protein fusions at endogenous levels to faithfully report subcellular localization and dynamics.","Animals
+Base Sequence
+Cell Lineage
+Cell Membrane/metabolism
+Clathrin/*metabolism
+Dynamin II/metabolism
+*Endocytosis
+Genome
+Green Fluorescent Proteins/metabolism
+Humans
+Microscopy, Fluorescence/methods
+Models, Genetic
+Molecular Sequence Data
+Polymerase Chain Reaction"

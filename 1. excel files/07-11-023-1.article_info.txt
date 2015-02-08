@@ -1,0 +1,18 @@
+21734019,Gastric bypass reduces fat intake and preference.,"Animals
+Dietary Fats/*metabolism
+Eating/*physiology
+Energy Intake/physiology
+Female
+Food Preferences/*physiology
+*Gastric Bypass
+*Gastroplasty
+Glucagon-Like Peptide 1/metabolism
+Humans
+Male
+Models, Animal
+Obesity/*surgery
+Rats
+Rats, Wistar
+Saccharin/metabolism
+Taste/physiology
+Time Factors",le Roux CW and Bueter M and Theis N and Werling M and Ashrafian H and Lowenstein C and Athanasiou T and Bloom SR and Spector AC and Olbers T and Lutz TA,"Roux-en-Y gastric bypass is the most effective therapy for morbid obesity. This study investigated how gastric bypass affects intake of and preference for high-fat food in an experimental (rat) study and within a trial setting (human). Proportion of dietary fat in gastric bypass patients was significantly lower 6 yr after surgery compared with patients after vertical-banded gastroplasty (P = 0.046). Gastric bypass reduced total fat and caloric intake (P < 0.001) and increased standard low-fat chow consumption compared with sham controls (P < 0.001) in rats. Compared with sham-operated rats, gastric bypass rats displayed much lower preferences for Intralipid concentrations > 0.5% in an ascending concentration series (0.005%, 0.01%, 0.05%, 0.1%, 0.5%, 1%, 5%) of two-bottle preference tests (P = 0.005). This effect was demonstrated 10 and 200 days after surgery. However, there was no difference in appetitive or consummatory behavior in the brief access test between the two groups (P = 0.71) using similar Intralipid concentrations (0.005% through 5%). Levels of glucagon-like peptide-1 (GLP-1) were increased after gastric bypass as expected. An oral gavage of 1 ml corn oil after saccharin ingestion in gastric bypass rats induced a conditioned taste aversion. These findings suggest that changes in fat preference may contribute to long-term maintained weight loss after gastric bypass. Postingestive effects of high-fat nutrients resulting in conditioned taste aversion may partially explain this observation; the role of GLP-1 in mediating postprandial responses after gastric bypass requires further investigation.",Missing,"American journal of physiology. Regulatory, integrative and comparative physiology",301

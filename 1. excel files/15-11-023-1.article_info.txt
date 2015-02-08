@@ -1,0 +1,16 @@
+22190362,Rare variants in the CYP27B1 gene are associated with multiple sclerosis.,"25-Hydroxyvitamin D3 1-alpha-Hydroxylase/*genetics
+Age of Onset
+Cohort Studies
+Exome/genetics
+Family Health
+Female
+Gene Frequency
+Genetic Association Studies
+Genetic Linkage
+*Genetic Predisposition to Disease
+Genotype
+Humans
+Male
+Multiple Sclerosis/complications/*genetics
+Mutation/*genetics
+Vitamin D Deficiency/complications/genetics",Ramagopalan SV and Dyment DA and Cader MZ and Morrison KM and Disanto G and Morahan JM and Berlanga-Taylor AJ and Handel A and De Luca GC and Sadovnick AD and Lepage P and Montpetit A and Ebers GC,"OBJECTIVE: Multiple sclerosis (MS) is a complex neurological disease. Genetic linkage analysis and genotyping of candidate genes in families with 4 or more affected individuals more heavily loaded for susceptibility genes has not fully explained familial disease clustering. METHODS: We performed whole exome sequencing to further understand the heightened prevalence of MS in these families. RESULTS: Forty-three individuals with MS (1 from each family) were sequenced to find rare variants in candidate MS susceptibility genes. On average, >58,000 variants were identified in each individual. A rare variant in the CYP27B1 gene causing complete loss of gene function was identified in 1 individual. Homozygosity for this mutation results in vitamin D-dependent rickets I (VDDR1), whereas heterozygosity results in lower calcitriol levels. This variant showed significant heterozygous association in 3,046 parent-affected child trios (p = 1 x 10(-5)). Further genotyping in >12,500 individuals showed that other rare loss of function CYP27B1 variants also conferred significant risk of MS, Peto odds ratio = 4.7 (95% confidence interval, 2.3-9.4; p = 5 x 10(-7)). Four known VDDR1 mutations were identified, all overtransmitted. Heterozygous parents transmitted these alleles to MS offspring 35 of 35x (p = 3 x 10(-9)). INTERPRETATION: A causative role for CYP27B1 in MS is supported; the mutations identified are known to alter function having been shown in vivo to result in rickets when 2 copies are present. CYP27B1 encodes the vitamin D-activating 1-alpha hydroxylase enzyme, and thus a role for vitamin D in MS pathogenesis is strongly implicated.",Missing,Annals of neurology,70

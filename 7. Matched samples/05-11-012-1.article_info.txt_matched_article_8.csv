@@ -1,0 +1,25 @@
+21493629,Mitogen- and stress-activated protein kinase 1-induced neuroprotection in Huntington's disease: role on chromatin remodeling at the PGC-1-alpha promoter.,Human molecular genetics,Martin E and Betuing S and Pages C and Cambon K and Auregan G and Deglon N and Roze E and Caboche J,Missing,"Huntington's disease (HD) is a neurodegenerative disorder due to abnormal polyglutamine expansion in huntingtin protein (Exp-Htt). This expansion causes protein aggregation, leading to neuronal dysfunction and death. We have previously shown that mitogen- and stress-activated kinase (MSK-1), a nuclear protein kinase involved in chromatin remodeling through histone H3 phosphorylation, is deficient in the striatum of HD patients and model mice. Restoring MSK-1 expression in cultured striatal cells prevented neuronal dysfunction and death induced by Exp-Htt. Here we extend these observations in a rat model of HD based on striatal lentiviral expression of Exp-Htt (LV-Exp-HTT). MSK-1 overexpression attenuated Exp-Htt-induced down-regulation of DARPP-32 expression 4 and 10 weeks after infection and enhanced NeuN staining after 10 weeks. LV-MSK-1 induced constitutive hyperphosphorylation of H3 and cAMP-responsive element binding protein (CREB), indicating that MSK-1 has spontaneous catalytic activity. MSK-1 overexpression also upregulated peroxisome proliferator-activated receptor gamma coactivator alpha (PGC-1alpha), a transcriptional co-activator involved in mitochondrial biogenesis. Chromatin immunoprecipitation indicated that transcriptional regulation of PGC-1alpha is directly linked to increased binding of MSK-1, along with H3 and CREB phosphorylation of the PGC-1alpha promoter. MSK-1 knock-out mice showed spontaneous striatal atrophy as they aged, as well as higher susceptibility to systemic administration of the mitochondrial neurotoxin 3-NP. These results indicate that MSK-1 activation is an important and key event in the signaling cascade that regulates PGC-1alpha expression. Strategies aimed at restoring MSK-1 expression in the striatum might offer a new therapeutic approach to HD.","Analysis of Variance
+Animals
+Chromatin Assembly and Disassembly/*drug effects/physiology
+Chromatin Immunoprecipitation
+Corpus Striatum/*metabolism
+DNA Repeat Expansion/genetics
+Dopamine and cAMP-Regulated Phosphoprotein 32/metabolism
+Gene Expression Regulation/*drug effects/physiology
+Genetic Vectors/genetics
+Huntington Disease/*metabolism
+Immunohistochemistry
+Lentivirus
+Mice
+Mice, Knockout
+Microscopy, Fluorescence
+Nerve Tissue Proteins/genetics/*metabolism
+Neuroprotective Agents/metabolism/*pharmacology
+Nuclear Proteins/genetics/*metabolism
+Phosphorylation
+Promoter Regions, Genetic/genetics
+RNA-Binding Proteins/genetics/metabolism
+Rats
+Rats, Wistar
+Ribosomal Protein S6 Kinases, 90-kDa/metabolism/*pharmacology
+Transcription Factors/genetics/metabolism"

@@ -1,0 +1,15 @@
+21253573,Structural basis for the recognition of cellular mRNA export factor REF by herpes viral proteins HSV-1 ICP27 and HVS ORF57.,"Amino Acid Sequence
+Binding Sites
+DNA-(Apurinic or Apyrimidinic Site) Lyase/chemistry/*metabolism
+Exodeoxyribonucleases/metabolism
+Herpesvirus 1, Human/genetics/*metabolism
+Humans
+Immediate-Early Proteins/chemistry/*metabolism
+Molecular Sequence Data
+Phosphoproteins/metabolism
+Protein Binding
+Protein Interaction Mapping
+RNA, Messenger/*metabolism
+RNA, Viral/chemistry/*metabolism
+Repressor Proteins/chemistry/*metabolism
+Trans-Activators/chemistry/*metabolism",Tunnicliffe RB and Hautbergue GM and Kalra P and Jackson BR and Whitehouse A and Wilson SA and Golovanov AP,"The herpesvirus proteins HSV-1 ICP27 and HVS ORF57 promote viral mRNA export by utilizing the cellular mRNA export machinery. This function is triggered by binding to proteins of the transcription-export (TREX) complex, in particular to REF/Aly which directs viral mRNA to the TAP/NFX1 pathway and, subsequently, to the nuclear pore for export to the cytoplasm. Here we have determined the structure of the REF-ICP27 interaction interface at atomic-resolution and provided a detailed comparison of the binding interfaces between ICP27, ORF57 and REF using solution-state NMR. Despite the absence of any obvious sequence similarity, both viral proteins bind on the same site of the folded RRM domain of REF, via short but specific recognition sites. The regions of ICP27 and ORF57 involved in binding by REF have been mapped as residues 104-112 and 103-120, respectively. We have identified the pattern of residues critical for REF/Aly recognition, common to both ICP27 and ORF57. The importance of the key amino acid residues within these binding sites was confirmed by site-directed mutagenesis. The functional significance of the ORF57-REF/Aly interaction was also probed using an ex vivo cytoplasmic viral mRNA accumulation assay and this revealed that mutants that reduce the protein-protein interaction dramatically decrease the ability of ORF57 to mediate the nuclear export of intronless viral mRNA. Together these data precisely map amino acid residues responsible for the direct interactions between viral adaptors and cellular REF/Aly and provide the first molecular details of how herpes viruses access the cellular mRNA export pathway.",Missing,PLoS pathogens,7

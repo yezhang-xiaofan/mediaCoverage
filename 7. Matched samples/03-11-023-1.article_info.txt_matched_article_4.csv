@@ -1,0 +1,12 @@
+21784247,The inside-out mechanism of Dicers from budding yeasts.,Cell,Weinberg DE and Nakanishi K and Patel DJ and Bartel DP,Missing,"The Dicer ribonuclease III (RNase III) enzymes process long double-stranded RNA (dsRNA) into small interfering RNAs (siRNAs) that direct RNA interference. Here, we describe the structure and activity of a catalytically active fragment of Kluyveromyces polysporus Dcr1, which represents the noncanonical Dicers found in budding yeasts. The crystal structure revealed a homodimer resembling that of bacterial RNase III but extended by a unique N-terminal domain, and it identified additional catalytic residues conserved throughout eukaryotic RNase III enzymes. Biochemical analyses showed that Dcr1 dimers bind cooperatively along the dsRNA substrate such that the distance between consecutive active sites determines the length of the siRNA products. Thus, unlike canonical Dicers, which successively remove siRNA duplexes from the dsRNA termini, budding-yeast Dicers initiate processing in the interior and work outward. The distinct mechanism of budding-yeast Dicers establishes a paradigm for natural molecular rulers and imparts substrate preferences with ramifications for biological function.","Amino Acid Sequence
+Catalytic Domain
+Crystallography, X-Ray
+Kluyveromyces/*enzymology/metabolism
+Magnesium/metabolism
+Models, Molecular
+Molecular Sequence Data
+RNA, Double-Stranded/metabolism
+RNA, Small Interfering/metabolism
+Ribonuclease III/*chemistry/*metabolism
+Saccharomyces/enzymology/metabolism
+Sequence Alignment"

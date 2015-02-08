@@ -1,0 +1,18 @@
+21799247,A disease state fingerprint for evaluation of Alzheimer's disease.,Journal of Alzheimer's disease : JAD,Mattila J and Koikkalainen J and Virkki A and Simonsen A and van Gils M and Waldemar G and Soininen H and Lotjonen J,Missing,"Diagnostic processes of Alzheimer's disease (AD) are evolving. Knowledge about disease-specific biomarkers is constantly increasing and larger volumes of data are being measured from patients. To gain additional benefits from the collected data, a novel statistical modeling and data visualization system is proposed for supporting clinical diagnosis of AD. The proposed system computes an evidence-based estimate of a patient's AD state by comparing his or her heterogeneous neuropsychological, clinical, and biomarker data to previously diagnosed cases. The AD state in this context denotes a patient's degree of similarity to previously diagnosed disease population. A summary of patient data and results of the computation are displayed in a succinct Disease State Fingerprint (DSF) visualization. The visualization clearly discloses how patient data contributes to the AD state, facilitating rapid interpretation of the information. To model the AD state from complex and heterogeneous patient data, a statistical Disease State Index (DSI) method underlying the DSF has been developed. Using baseline data from the Alzheimer's Disease Neuroimaging Initiative (ADNI), the ability of the DSI to model disease progression from elderly healthy controls to AD and its ability to predict conversion from mild cognitive impairment (MCI) to AD were assessed. It was found that the DSI provides well-behaving AD state estimates, corresponding well with the actual diagnoses. For predicting conversion from MCI to AD, the DSI attains performance similar to state-of-the-art reference classifiers. The results suggest that the DSF establishes an effective decision support and data visualization framework for improving AD diagnostics, allowing clinicians to rapidly analyze large quantities of diverse patient data.","Aged
+Aged, 80 and over
+Alzheimer Disease/*complications/*diagnosis
+Biological Markers/*metabolism
+Cognition Disorders/diagnosis/*etiology
+Cohort Studies
+*Dermatoglyphics
+Disease Progression
+Female
+Humans
+Magnetic Resonance Imaging
+Male
+Neuropsychological Tests
+Predictive Value of Tests
+Probability
+Psychiatric Status Rating Scales
+Sensitivity and Specificity
+Statistics as Topic"

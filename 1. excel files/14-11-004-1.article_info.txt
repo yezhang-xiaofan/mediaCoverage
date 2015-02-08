@@ -1,0 +1,25 @@
+21232089,Epigenetic reprogramming of breast cancer cells with oocyte extracts.,"*Ambystoma mexicanum
+Animals
+Breast Neoplasms/*genetics/pathology
+Cell Extracts/*pharmacology
+Cell Membrane Permeability/drug effects
+Cell Survival/drug effects
+Chromatin Assembly and Disassembly
+Digitonin/pharmacology
+Embryonic Stem Cells/chemistry
+Epigenesis, Genetic
+Female
+Gene Expression Profiling
+Genes, Tumor Suppressor
+Histones/metabolism
+Humans
+Methylation
+Mice
+Microfilament Proteins/genetics
+Neoplasm Transplantation
+Oocytes/*chemistry
+Promoter Regions, Genetic
+Transcriptional Activation
+Transplantation, Heterologous
+Tumor Cells, Cultured
+*Xenopus",Allegrucci C and Rushton MD and Dixon JE and Sottile V and Shah M and Kumari R and Watson S and Alberio R and Johnson AD,"BACKGROUND: Breast cancer is a disease characterised by both genetic and epigenetic alterations. Epigenetic silencing of tumour suppressor genes is an early event in breast carcinogenesis and reversion of gene silencing by epigenetic reprogramming can provide clues to the mechanisms responsible for tumour initiation and progression. In this study we apply the reprogramming capacity of oocytes to cancer cells in order to study breast oncogenesis. RESULTS: We show that breast cancer cells can be directly reprogrammed by amphibian oocyte extracts. The reprogramming effect, after six hours of treatment, in the absence of DNA replication, includes DNA demethylation and removal of repressive histone marks at the promoters of tumour suppressor genes; also, expression of the silenced genes is re-activated in response to treatment. This activity is specific to oocytes as it is not elicited by extracts from ovulated eggs, and is present at very limited levels in extracts from mouse embryonic stem cells. Epigenetic reprogramming in oocyte extracts results in reduction of cancer cell growth under anchorage independent conditions and a reduction in tumour growth in mouse xenografts. CONCLUSIONS: This study presents a new method to investigate tumour reversion by epigenetic reprogramming. After testing extracts from different sources, we found that axolotl oocyte extracts possess superior reprogramming ability, which reverses epigenetic silencing of tumour suppressor genes and tumorigenicity of breast cancer cells in a mouse xenograft model. Therefore this system can be extremely valuable for dissecting the mechanisms involved in tumour suppressor gene silencing and identifying molecular activities capable of arresting tumour growth. These applications can ultimately shed light on the contribution of epigenetic alterations in breast cancer and advance the development of epigenetic therapies.",Missing,Molecular cancer,10

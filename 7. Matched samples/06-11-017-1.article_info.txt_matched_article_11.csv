@@ -1,0 +1,16 @@
+21268670,Brain dynamics sustaining rapid rule extraction from speech.,Journal of cognitive neuroscience,de Diego-Balaguer R and Fuentemilla L and Rodriguez-Fornells A,Missing,"Language acquisition is a complex process that requires the synergic involvement of different cognitive functions, which include extracting and storing the words of the language and their embedded rules for progressive acquisition of grammatical information. As has been shown in other fields that study learning processes, synchronization mechanisms between neuronal assemblies might have a key role during language learning. In particular, studying these dynamics may help uncover whether different oscillatory patterns sustain more item-based learning of words and rule-based learning from speech input. Therefore, we tracked the modulation of oscillatory neural activity during the initial exposure to an artificial language, which contained embedded rules. We analyzed both spectral power variations, as a measure of local neuronal ensemble synchronization, as well as phase coherence patterns, as an index of the long-range coordination of these local groups of neurons. Synchronized activity in the gamma band (20-40 Hz), previously reported to be related to the engagement of selective attention, showed a clear dissociation of local power and phase coherence between distant regions. In this frequency range, local synchrony characterized the subjects who were focused on word identification and was accompanied by increased coherence in the theta band (4-8 Hz). Only those subjects who were able to learn the embedded rules showed increased gamma band phase coherence between frontal, temporal, and parietal regions.","Acoustic Stimulation/methods
+Adult
+Analysis of Variance
+Brain/*physiology
+*Brain Mapping
+Electroencephalography
+Evoked Potentials, Auditory/*physiology
+Female
+Humans
+Male
+*Nonlinear Dynamics
+*Semantics
+Speech/*physiology
+Verbal Learning/physiology
+Vocabulary
+Young Adult"

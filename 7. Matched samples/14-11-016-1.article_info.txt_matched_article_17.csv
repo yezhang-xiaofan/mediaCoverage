@@ -1,0 +1,11 @@
+21278249,Polyubiquitin linkage profiles in three models of proteolytic stress suggest the etiology of Alzheimer disease.,The Journal of biological chemistry,Dammer EB and Na CH and Xu P and Seyfried NT and Duong DM and Cheng D and Gearing M and Rees H and Lah JJ and Levey AI and Rush J and Peng J,Missing,"Polyubiquitin chains on substrates are assembled through any of seven lysine residues or the N terminus of ubiquitin (Ub), generating diverse linkages in the chain structure. PolyUb linkages regulate the fate of modified substrates, but their abundance and function in mammalian cells are not well studied. We present a mass spectrometry-based method to measure polyUb linkages directly from total lysate of mammalian cells. In HEK293 cells, the level of polyUb linkages was found to be 52% (Lys(48)), 38% (Lys(63)), 8% (Lys(29)), 2% (Lys(11)), and 0.5% or less for linear, Lys(6), Lys(27), and Lys(33) linkages. Tissue specificity of these linkages was examined in mice fully labeled by heavy stable isotopes (i.e. SILAC mice). Moreover, we profiled the Ub linkages in brain tissues from patients of Alzheimer disease with or without concurrent Lewy body disease as well as three cellular models of proteolytic stress: proteasome deficiency, lysosome deficiency, and heat shock. The data support that polyUb chains linked through Lys(6), Lys(11), Lys(27), Lys(29), and Lys(48) mediate proteasomal degradation, whereas Lys(63) chains are preferentially involved in the lysosomal pathway. Mixed linkages, including Lys(48), may also contribute to lysosomal targeting, as both Lys(63) and Lys(48) linkages are colocalized in LC3-labeled autophagosomes. Interestingly, heat shock treatment augments Lys(11), Lys(48), and Lys(63) but not Lys(29) linkages, and this unique pattern is similar to that in the profiled neurodegenerative cases. We conclude that different polyUb linkages play distinct roles under the three proteolytic stress conditions, and protein folding capacity in the heat shock responsive pathway might be more affected in Alzheimer disease.","Alzheimer Disease/genetics/*metabolism/pathology
+Animals
+Brain/*metabolism/pathology
+*Brain Chemistry
+Disease Models, Animal
+HEK293 Cells
+*Heat-Shock Response
+Humans
+Mice
+Polyubiquitin/genetics/*metabolism
+*Protein Folding"

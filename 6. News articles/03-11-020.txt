@@ -1,0 +1,90 @@
+BBC online
+Q&A: Danger of mixing drugs
+By James Gallagher Health reporter, BBC News 
+There has been a warning about the risk of elderly people taking combinations of very common medications, some of which are available over the counter.
+This has been linked to early death and declining brain function by researchers at the University of East Anglia.
+The drugs are so widely used that around half of people over the age of 65 are thought to be taking them.
+Many readers had questions and we have tried to answer some of them below.
+What drugs are we talking about? 
+These are medicines for a wide range of conditions, a full list is available on the University of East Anglia website.
+They include drugs for allergies such as the antihistamine chlorpheniramine, which is in Piriton.
+Other drugs include the painkiller codeine, some antidepressants and warfarin which is used by patients with heart disease.
+While the conditions they are used to treat vary widely, they all have one common side effect.
+They are "anticholinergic" - which means they affect a key chemical in the brain which helps nerve cells communicate with each other. 
+How many is too many? 
+The study showed that the risk was cumulative - the more anticholinergic drugs a patient was taking, the greater the effect.
+Each drug has an anticholinergic score: one for mild, two for moderate, three for severe. Total scores for a patient are calculated by adding together the scores for each drug they are taking.
+Dr Chris Fox, who led the study, suggested that patients with a total score of four or more were at the greatest risk.
+This could be as few as just two drugs.
+What should patients do? 
+It is worth remembering that drugs are prescribed for a reason.
+Nobody has suggested that patients should stop taking their medication. The consequence, for example, of heart patients who stopped taking the blood thinning drug warfarin would be dire.
+The advice is for people "not to panic" and not to rush to their GP. 
+Researchers and doctors say that if people are concerned about their prescriptions they should discuss what medication they are taking as part of a regular appointment with their doctor.
+How many people are affected? 
+One of the problems with the research is that the data is from 1991 to 1993 and it only looked at patients over 65.
+Medicine has changed since then, including what drugs patients are given. 
+In the study, 48% of patients took at least one of these drugs and 4% were in the highest category (anticholinergic scores of four or more).
+There are 12 million people over 65 in the UK. If the figures are the same now then nearly six million take these drugs, 480,000 are in the highest risk category.
+My grandmother's sharp decline? 
+Richard from Swansea was concerned about his 90-year-old grandmother, asking: "She had a heart attack back in 2006 and was prescribed a myriad of different tablets from that day until now. I noticed a sharp decline in her mental capacity rapidly afterwards but always assumed it was due to her age. I would like to know if an investigation into her medicine could help her."
+This is a question that can really be answered only by your family doctor who can look at what medicines your grandmother is taking. It is something you can ask at her next appointment.
+What about younger people? 
+Andrew from Liverpool was among many people to ask: "What about patients under 65yrs who may be on these drugs long term?"
+This study looked at people aged 65 or over. Other studies looking at younger patients are taking place, but have not reported yet.
+There is one theory that the brain's protective shield - the blood brain barrier - is weaker in elderly patients, making them more susceptible to the effect of these drugs. 
+What safeguards are in place? 
+Doctors know that the more drugs a patient takes, the greater the risk of side effects.
+GPs always balance the risk of prescribing a medicine with the benefits. 
+When a new drug is prescribed, GPs' computers automatically highlight all the side effects and how a new drug interacts with those already prescribed.
+The Royal College of GPs said doctors "were very mindful of this" and that prescriptions were reviewed every 15 months.
+Piriton? 
+The allergy drug is one of the most recognisable in this report. Chris, from Andover, asked why the "full list of drugs in the study and does not list Piriton".
+Drugs often have multiple names such as one linked to their chemical formula and commercial brand names, which you would see on the shelves.
+This list uses the chemical names, so in the case of Piriton that is listed as chlorpheniramine.
+
+
+
+Reuters
+Common drug effect ups elderly death risk: study
+A side effect of many commonly used drugs, including antihistamines and antidepressants, appears to increase the risk of reduced brain function and early death in older people, according to a study published on Friday.
+Scientists from Britain's University of East Anglia who led the work said the findings showed it was vital for doctors to regularly review drugs taken by elderly patients to ensure the cumulative risks of side-effects did not outweigh the benefits.
+"Our results show a potentially serious effect on mortality," Chris Fox, of UEA's Norwich Medical School, told reporters at a briefing in London.
+The study, published in the Journal of the American Geriatrics Society, is the first systematic investigation into the long-term impact of anticholinergic activity -- a known potential side-effect of many prescription and over-the-counter drugs which affects the brain by blocking a key neurotransmitter called acetylcholine.
+Many common medicines -- including the antihistamine Piriton and antidepressants brands Elavil, Tryptizol, Laroxyl and Anafranil -- have some anticholinergic effect and many are frequently taken by older people.
+"One of the issues is that as we age, we tend to be prescribed more medicines which have an anticholinergic effect, increasing the overall burden," said Ian Maidment, a mental health pharmacist in Britain's National Health Service (NHS).
+"MINIMISE HARM"
+The researchers devised a ranking system which they called the AntiCholinergic Burden (ACB) score for the anticholinergic effects of more than 80 common prescription and over-the- counter drugs. They assigned them scores of 0 for no effect, 1 for mild effect, 2 for moderate effect and 3 for severe effect.
+They then used this system to analyze more than 13,000 British men and women aged 65 and over for a two-year period.
+They found that 20 percent of participants taking drugs with a total ACB of four or more had died by the end of the two-year study, compared with only 7 percent of those taking no anticholinergic drugs. For every extra ACB point, the odds of dying increased by 26 percent, they found.
+Those taking drugs with a combined ACB of five or more scored more than 4 percent lower in a cognitive function tests than those taking no anticholinergic drugs -- a finding that confirmed evidence from previous smaller studies of a link between anticholinergics and mental decline.
+And the increased risks from taking anticholinergic drugs were found to be cumulative, based on the number of medicines taken and the strength of each drug's anticholinergic effect.
+"It's important to scrutinize medications given to older people very carefully to try to minimize harm as well as gain the desired benefit," said Carol Brayne of the University of Cambridge, who also worked on the study.
+The researchers said other medications with the ABC impact included tranquilizers such as trifluoperazine, sometimes known by the brand name Stelazine, the heart drug nifedipine which is sold in extended release form by Mylan and Bayer, painkillers such as codeine, the common asthma treatment beclometasone, and the epilepsy drug Carbamazepine, sold as Carbatrol by Shire.
+Fox said that, wherever possible, doctors should "avoid prescribing multiple drugs with anticholinergic effects."
+Susanne Sorensen, head of research at the Alzheimer's Society, who was not involved in the study, said its findings must be taken seriously, particularly since loss of cognitive function can be a precursor to the mind-robbing Alzheimer's disease and other forms of dementia.
+SOURCE: bit.ly/ktyLS3 Journal of the American Geriatrics Society, online June 24, 2011.
+
+
+
+Telegraph
+Drug danger: how worried should patients be?
+Patients should be aware that all medication has side effects and only take medicines that are really required. 
+By Ian Maidment, Senior Pharmacist with research team
+24 Jun 2011
+We examined the medication records of over 13,000 people aged 65, or over, and found that the use of medicines with anticholinergic activity – meaning they blocked a chemical in the nervous system called acetylcholine- was linked with an increased risk of both mental impairment and death. 
+We had four key findings. First, medicines with anticholinergic activity were widely used, with 48 per cent of the population using one or more. 
+Second, the use of anticholinergic medicines was associated with a worsening of brain function. Participants, who had a high level of blockage scored four per cent lower in a standard test for dementia. 
+Third, the use of anticholinergic medicines was associated with an increased death rate; over two years 20 per cent of people with a high level of blockage had died compared with seven per cent who did not use the drugs. 
+Finally, the risk appeared to be cumulative and related to both the number of anticholinergic medicines taken and the strength of each medicine’s anticholinergic effect. 
+What should patients do? 
+There are always risks associated with medication and we believe that the findings from our observational study, which require replication, will help patients to make informed decisions. 
+Patients should be aware that all medication has side effects and only take medicines that are really required; sometimes people take medicines when they don’t really need them, for example, taking hay fever treatments in the middle of freezing cold winters. 
+However, it is vital that anyone, who is concerned, should not panic and continue taking their medicines as usual. If a patient does have any concerns these should be discussed with their doctor, or pharmacist. 
+Many older people have regular medication reviews, and such reviews, could incorporate a review of the overall anticholinergic burden. 
+To help clinicians with any medication review, patients should bring a list of all medication that they are taking including any medicines purchased over-the-counter from a pharmacy or supermarket, which may have anticholinergic activity. 
+People with dementia may be particularly vulnerable because they may not be able to communicate about any side effects, that they may be suffering from, and therefore we believe that such a medication review is particularly important in people with dementia. 
+We would also recommend that older people, on multiple medicines, should always discuss self-medication, with over-the-counter medicines, with a pharmacist. 
+
+
+

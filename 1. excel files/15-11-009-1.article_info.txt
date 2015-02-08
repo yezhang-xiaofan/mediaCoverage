@@ -1,0 +1,13 @@
+21524851,Dysmenorrhoea is associated with central changes in otherwise healthy women.,"Adult
+Brain/*metabolism
+Dysmenorrhea/*blood/*psychology
+Female
+Hormones/blood
+Humans
+Hypothalamo-Hypophyseal System/metabolism
+Menstrual Cycle/blood/psychology
+Pain Measurement/methods
+Pituitary-Adrenal System/metabolism
+Quality of Life/*psychology
+Questionnaires
+Young Adult",Vincent K and Warnaby C and Stagg CJ and Moore J and Kennedy S and Tracey I,"Patients with chronic pain conditions demonstrate altered central processing of experimental noxious stimuli, dysfunction of the hypothalamic-pituitary-adrenal axis, and reduced quality of life. Dysmenorrhoea is not considered a chronic pain condition, but is associated with enhanced behavioural responses to experimental noxious stimuli. We used behavioural measures, functional magnetic resonance imaging, and serum steroid hormone levels to investigate the response to experimental thermal stimuli in otherwise healthy women, with and without dysmenorrhoea. Women with dysmenorrhoea reported increased pain to noxious stimulation of the arm and abdomen throughout the menstrual cycle; no menstrual cycle effect was observed in either group. During menstruation, deactivation of brain regions in response to noxious stimulation was observed in control women but not in women with dysmenorrhoea. Without background pain (ie, in nonmenstrual phases), activity in the entorhinal cortex appeared to mediate the increased responses in women with dysmenorrhoea. Mean cortisol was significantly lower in women with dysmenorrhoea and was negatively correlated with the duration of the symptom. Additionally, women with dysmenorrhoea reported significantly lower physical but not mental quality of life. Thus, many features of chronic pain conditions are also seen in women with dysmenorrhoea: specifically a reduction in quality of life, suppression of the hypothalamic-pituitary-adrenal axis, and alterations in the central processing of experimental noxious stimuli. These alterations persist when there is no background pain and occur in response to stimuli at a site distant from that of the clinical pain. These findings indicate the potential importance of early and adequate treatment of dysmenorrhoea.",doctors,Pain,152

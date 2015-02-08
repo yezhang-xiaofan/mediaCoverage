@@ -1,0 +1,12 @@
+21849560,The control of mimicry by eye contact is mediated by medial prefrontal cortex.,"Adult
+Eye Movements/*physiology
+*Facial Expression
+Female
+Humans
+Imitative Behavior/*physiology
+Male
+Photic Stimulation/*methods
+Prefrontal Cortex/*physiology
+*Social Perception
+Visual Perception/physiology
+Young Adult",Wang Y and Ramsey R and Hamilton AF,"Spontaneous mimicry of other people's actions serves an important social function, enhancing affiliation and social interaction. This mimicry can be subtly modulated by different social contexts. We recently found behavioral evidence that direct eye gaze rapidly and specifically enhances mimicry of intransitive hand movements (Wang et al., 2011). Based on past findings linking medial prefrontal cortex (mPFC) to both eye contact and the control of mimicry, we hypothesized that mPFC might be the neural origin of this behavioral effect. The present study aimed to test this hypothesis. During functional magnetic resonance imaging (fMRI) scanning, 20 human participants performed a simple mimicry or no-mimicry task, as previously described (Wang et al., 2011), with direct gaze present on half of the trials. As predicted, fMRI results showed that performing the task activated mirror systems, while direct gaze and inhibition of the natural tendency to mimic both engaged mPFC. Critically, we found an interaction between mimicry and eye contact in mPFC, superior temporal sulcus (STS) and inferior frontal gyrus. We then used dynamic causal modeling to contrast 12 possible models of information processing in this network. Results supported a model in which eye contact controls mimicry by modulating the connection strength from mPFC to STS. This suggests that mPFC is the originator of the gaze-mimicry interaction and that it modulates sensory input to the mirror system. Thus, our results demonstrate how different components of the social brain work together to on-line control mimicry according to the social context.",Missing,The Journal of neuroscience : the official journal of the Society for Neuroscience,31

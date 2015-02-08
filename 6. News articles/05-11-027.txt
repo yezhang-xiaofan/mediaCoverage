@@ -1,0 +1,13 @@
+BBC
+Edinburgh and Cambridge scientists make virus discovery
+Scientists have gained new knowledge into how viruses such as flu and HIV jump between species.
+The research, by Edinburgh and Cambridge universities, should help predict the appearance of new diseases.
+The scientists wanted to understand how viruses such as bird flu infect distant species like humans.
+They found they were better able to infect species closely related to their typical target species than species that were distantly related.
+However, the research also suggested that when diseases make a big leap they may then spread easily in species closely related to the new victim, regardless of how closely related these are to the original target species.
+Dr Ben Longdon, of Edinburgh University's school of biological sciences, who led the study, said: "Emerging diseases such as Sars, HIV and some types of flu have all got into humans from other species.
+"Understanding how diseases jump between different species is essential if we want to predict the appearance of new diseases in the future."
+By infecting more than 50 species of flies with three different viruses, the researchers showed that species closely related to a virus's usual target species were more susceptible than distantly related flies. 
+They also showed that groups of flies that were closely related were similarly susceptible to the same viruses.
+The study, funded by the Biotechnology and Biological Sciences Research Council, Natural Environment Research Council, the Wellcome Trust and the Royal Society, was published in the journal PLoS Pathogens.
+

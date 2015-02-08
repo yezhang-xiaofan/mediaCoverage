@@ -1,0 +1,15 @@
+22013069,Dynamic modulation of prohormone convertase 2 (PC2)-mediated precursor processing by 7B2 protein: preferential effect on glucagon synthesis.,The Journal of biological chemistry,Helwig M and Lee SN and Hwang JR and Ozawa A and Medrano JF and Lindberg I,Missing,"The small neuroendocrine protein 7B2 is required for the production of active prohormone convertase 2 (PC2), an enzyme involved in the synthesis of peptide hormones, such as glucagon and proopiomelanocortin-derived alpha-melanocyte-stimulating hormone. However, whether 7B2 can dynamically modulate peptide production through regulation of PC2 activity remains unclear. Infection of the pancreatic alpha cell line alpha-TC6 with 7B2-encoding adenovirus efficiently increased production of glucagon, whereas siRNA-mediated knockdown of 7B2 significantly decreased stored glucagon. Furthermore, rescue of 7B2 expression in primary pituitary cultures prepared from 7B2 null mice restored melanocyte-stimulating hormone production, substantiating the role of 7B2 as a regulatory factor in peptide biosynthesis. In anterior pituitary and pancreatic beta cell lines, however, overexpression of 7B2 affected neither production nor secretion of peptides despite increased release of active PC2. In direct contrast, 7B2 overexpression decreased the secretion and increased the activity of PC2 within alpha-TC6 cells; the increased intracellular concentration of active PC2 within these cells may therefore account for the enhanced production of glucagon. In line with these findings, we found elevated circulating glucagon levels in 7B2-overexpressing cast/cast mice in vivo. Surprisingly, when proopiomelanocortin and proglucagon were co-expressed in either pituitary or pancreatic alpha cell lines, proglucagon processing was preferentially decreased when 7B2 was knocked down. Taken together, these results suggest that proglucagon cleavage has a greater dependence on PC2 activity than other precursors and moreover that 7B2-dependent routing of PC2 to secretory granules is cell line-specific. The manipulation of 7B2 could therefore represent an effective way to selectively regulate synthesis of certain PC2-dependent peptides.","Animals
+Cell Line
+Female
+Glucagon/*metabolism
+Islets of Langerhans/metabolism
+Male
+Mice
+Neuroendocrine Secretory Protein 7B2/*metabolism
+Pancreas/metabolism
+Peptides/chemistry
+Pituitary Gland/metabolism
+Pro-Opiomelanocortin/metabolism
+Proprotein Convertase 2/*metabolism
+Protein Processing, Post-Translational
+RNA Interference"

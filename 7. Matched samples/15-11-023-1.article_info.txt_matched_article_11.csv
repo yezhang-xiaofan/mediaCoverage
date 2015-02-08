@@ -1,0 +1,18 @@
+22190363,Genetics of experimental allergic encephalomyelitis supports the role of T helper cells in multiple sclerosis pathogenesis.,Annals of neurology,Blankenhorn EP and Butterfield R and Case LK and Wall EH and del Rio R and Diehl SA and Krementsov DN and Saligrama N and Teuscher C,Missing,"OBJECTIVE: The major histocompatibility complex (MHC) is the primary genetic contributor to multiple sclerosis (MS) and experimental allergic encephalomyelitis (EAE), but multiple additional interacting loci are required for genetic susceptibility. The identity of most of these non-MHC genes is unknown. In this report, we identify genes within evolutionarily conserved genetic pathways leading to MS and EAE. METHODS: To identify non-MHC binary and quantitative trait loci (BTL/QTL) important in the pathogenesis of EAE, we generated phenotype-selected congenic mice using EAE-resistant B10.S and EAE-susceptible SJL mice. We hypothesized that genes linked to EAE BTL/QTL and MS-GWAS can be identified if they belong to common evolutionarily conserved pathways, which can be identified with a bioinformatic approach using Ingenuity software. RESULTS: Many known BTL/QTL were retained and linked to susceptibility during phenotype selection, the most significant being a region on chromosome 17 distal to H2 (Eae5). We show in pathway analysis that T helper (T(H))-cell differentiation genes are critical for both diseases. Bioinformatic analyses predicted that Eae5 is important in CD4 T-effector and/or Foxp3(+) T-regulatory cells (Tregs), and we found that B10.S-Eae5(SJL) congenic mice have significantly greater numbers of lymph node CD4 and Tregs than B10.S mice. INTERPRETATION: These results support the polygenic model of MS/EAE, whereby MHC and multiple minor loci are required for full susceptibility, and confirm a critical genetic dependence on CD4 T(H)-cell differentiation and function in the pathogenesis of both diseases.","Animals
+CD4-Positive T-Lymphocytes/physiology
+Computational Biology
+Disease Models, Animal
+*Disease Susceptibility
+Encephalomyelitis, Autoimmune, Experimental/etiology/*genetics/*pathology
+Flow Cytometry
+Freund's Adjuvant/adverse effects
+Genetic Linkage
+Genome-Wide Association Study
+Major Histocompatibility Complex/*genetics
+Mice
+Mice, Congenic
+Multiple Sclerosis/*genetics
+Phenotype
+Quantitative Trait Loci/genetics
+Statistics, Nonparametric
+T-Lymphocytes, Helper-Inducer/*pathology"

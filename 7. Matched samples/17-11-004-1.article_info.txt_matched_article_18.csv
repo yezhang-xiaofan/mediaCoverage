@@ -1,0 +1,15 @@
+21242281,Parallel high-throughput RNA interference screens identify PINK1 as a potential therapeutic target for the treatment of DNA mismatch repair-deficient cancers.,Cancer research,Martin SA and Hewish M and Sims D and Lord CJ and Ashworth A,Missing,"Synthetic lethal approaches to cancer treatment have the potential to deliver relatively large therapeutic windows and therefore significant patient benefit. To identify potential therapeutic approaches for cancers deficient in DNA mismatch repair (MMR), we have carried out parallel high-throughput RNA interference screens using tumor cell models of MSH2- and MLH1-related MMR deficiency. We show that silencing of the PTEN-induced putative kinase 1 (PINK1), is synthetically lethal with MMR deficiency in cells with MSH2, MLH1, or MSH6 dysfunction. Inhibition of PINK1 in an MMR-deficient background results in an elevation of reactive oxygen species and the accumulation of both nuclear and mitochondrial oxidative DNA lesions, which likely limit cell viability. Therefore, PINK1 represents a potential therapeutic target for the treatment of cancers characterized by MMR deficiency caused by a range of different gene deficiencies.","Adaptor Proteins, Signal Transducing/genetics
+Cell Line, Tumor
+DNA Mismatch Repair/*genetics
+DNA Repair-Deficiency Disorders/genetics
+Guanine/analogs & derivatives/metabolism
+Humans
+Membrane Potential, Mitochondrial/physiology
+MutS Homolog 2 Protein/genetics
+Neoplasms/*genetics/metabolism
+Nuclear Proteins/genetics
+Protein Kinases/*genetics/metabolism
+*RNA Interference
+Reactive Oxygen Species/metabolism
+Reverse Transcriptase Polymerase Chain Reaction
+Transfection"

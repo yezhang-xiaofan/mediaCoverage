@@ -1,0 +1,20 @@
+22041985,Childhood obesity and risk of the adult metabolic syndrome: a systematic review.,"Adolescent
+Adult
+Age of Onset
+Biological Markers/blood
+Body Mass Index
+Child
+Child, Preschool
+Cholesterol, HDL/blood
+Cholesterol, LDL/blood
+Female
+Humans
+Infant
+Infant, Newborn
+Male
+Metabolic Syndrome X/blood/epidemiology/*etiology
+Middle Aged
+Obesity/blood/*complications/epidemiology
+Risk Factors
+Triglycerides/blood
+Young Adult",Lloyd LJ and Langley-Evans SC and McMullen S,"BACKGROUND: While many studies have demonstrated positive associations between childhood obesity and adult metabolic risk, important questions remain as to the nature of the relationship. In particular, it is unclear whether the associations reflect the tracking of body mass index (BMI) from childhood to adulthood or an independent level of risk. This systematic review aimed to investigate the relationship between childhood obesity and a range of metabolic risk factors during adult life. OBJECTIVE: To perform an unbiased systematic review to investigate the association between childhood BMI and risk of developing components of metabolic disease in adulthood, and whether the associations observed are independent of adult BMI. DESIGN: Electronic databases were searched from inception until July 2010 for studies investigating the association between childhood BMI and adult metabolic risk. Two investigators independently reviewed studies for eligibility according to the inclusion/exclusion criteria, extracted the data and assessed study quality using the Newcastle-Ottawa Scale. RESULTS: The search process identified 11 articles that fulfilled the inclusion and exclusion criteria. Although several identified weak positive associations between childhood BMI and adult total cholesterol, low-density lipo protein-cholesterol, triglyceride and insulin concentrations, these associations were ameliorated or inversed when adjusted for adult BMI or body fatness. Of the four papers that considered metabolic syndrome as an end point, none showed evidence of an independent association with childhood obesity. CONCLUSIONS: Little evidence was found to support the view that childhood obesity is an independent risk factor for adult blood lipid status, insulin levels, metabolic syndrome or type 2 diabetes. The majority of studies failed to adjust for adult BMI and therefore the associations observed may reflect the tracking of BMI across the lifespan. Interestingly, where adult BMI was adjusted for, the data showed a weak negative association between childhood BMI and metabolic variables, with those at the lower end of the BMI range in childhood, but obese during adulthood at particular risk.",Missing,International journal of obesity (2005),36

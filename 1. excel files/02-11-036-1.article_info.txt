@@ -1,0 +1,16 @@
+21933947,Cross-sectional association between smoking depictions in films and adolescent tobacco use nested in a British cohort study.,"Adolescent
+*Adolescent Behavior
+Age Factors
+Cross-Sectional Studies
+Female
+Follow-Up Studies
+Great Britain/epidemiology
+Humans
+*Imitative Behavior
+Male
+Motion Pictures as Topic/*statistics & numerical data
+Prevalence
+Questionnaires
+Retrospective Studies
+Risk Factors
+Smoking/*epidemiology/psychology",Waylen AE and Leary SD and Ness AR and Tanski SE and Sargent JD,"OBJECTIVE: To assess associations between exposure to smoking depictions in films and adolescent tobacco use in a British population cohort. METHODS: Data on exposure to smoking in films and smoking behaviour were collected from 5166 15-year-old adolescents in the UK. Main outcome measures were smoking initiation (ever tried a cigarette) and current smoking status. Social, family and behavioural factors were adjusted for, together with alcohol use and peer smoking as potential mediators. Data from all existing cross-sectional studies examining the effects of exposure to smoking in films were summarised in a meta-analysis. RESULTS: Higher exposure to smoking in films was associated with a dose-response increase in the risk of smoking initiation even after adjusting for confounders. Adolescents in the highest exposure quartile were 1.73 (95% CI 1.55 to 1.93) times (RR) more likely to initiate smoking than those in the lowest quartile. They were more likely to report current smoking after adjusting for social and familial factors (RR 1.47 (95% CI 1.07 to 2.02)), but the association attenuated after including behavioural factors (RR 1.34 (95% CI 0.95 to 1.87)). The meta-analysis shows that, after aggregation of all relevant data, viewing smoking in films increases the risk of smoking onset by over 100% (combined RR 2.13 (95% CI 1.76 to 2.57)) and the risk of current or established smoking behaviour by 68% (combined RR 1.68 (95% CI 0.40 to 2.01)). CONCLUSIONS: This study provides evidence that adolescents in the UK and elsewhere who are exposed to smoking depictions in films are more likely to initiate smoking. Given the association between smoking and poor health outcomes, these data justify a review of film ratings.",Missing,Thorax,66

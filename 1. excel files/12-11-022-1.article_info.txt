@@ -1,0 +1,19 @@
+21892188,The structure and catalytic mechanism of a poly(ADP-ribose) glycohydrolase.,"Actinomycetales/*enzymology
+Adenosine Diphosphate/analogs & derivatives/pharmacology
+Adenosine Diphosphate Ribose/chemistry/metabolism
+Amino Acid Sequence
+Biocatalysis
+Catalytic Domain
+Crystallography, X-Ray
+Evolution, Molecular
+Glycoside Hydrolases/antagonists & inhibitors/*chemistry/genetics/*metabolism
+Humans
+Hydrolysis
+Models, Molecular
+Molecular Sequence Data
+Phylogeny
+Poly Adenosine Diphosphate Ribose/chemistry/metabolism
+Poly(ADP-ribose) Polymerases/genetics/metabolism
+Protein Conformation
+Proteins/metabolism
+Pyrrolidines/pharmacology",Slade D and Dunstan MS and Barkauskaite E and Weston R and Lafite P and Dixon N and Ahel M and Leys D and Ahel I,"Post-translational modification of proteins by poly(ADP-ribosyl)ation regulates many cellular pathways that are critical for genome stability, including DNA repair, chromatin structure, mitosis and apoptosis. Poly(ADP-ribose) (PAR) is composed of repeating ADP-ribose units linked via a unique glycosidic ribose-ribose bond, and is synthesized from NAD by PAR polymerases. PAR glycohydrolase (PARG) is the only protein capable of specific hydrolysis of the ribose-ribose bonds present in PAR chains; its deficiency leads to cell death. Here we show that filamentous fungi and a number of bacteria possess a divergent form of PARG that has all the main characteristics of the human PARG enzyme. We present the first PARG crystal structure (derived from the bacterium Thermomonospora curvata), which reveals that the PARG catalytic domain is a distant member of the ubiquitous ADP-ribose-binding macrodomain family. High-resolution structures of T. curvata PARG in complexes with ADP-ribose and the PARG inhibitor ADP-HPD, complemented by biochemical studies, allow us to propose a model for PAR binding and catalysis by PARG. The insights into the PARG structure and catalytic mechanism should greatly improve our understanding of how PARG activity controls reversible protein poly(ADP-ribosyl)ation and potentially of how the defects in this regulation are linked to human disease.",Missing,Nature,477

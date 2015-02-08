@@ -1,0 +1,9 @@
+21500923,Extreme appraisals of internal states and bipolar symptoms: the Hypomanic Attitudes and Positive Predictions Inventory.,"Attitude to Health
+Bipolar Disorder/*psychology
+Cognition
+Female
+Humans
+Male
+Middle Aged
+Psychiatric Status Rating Scales
+*Psychological Tests",Dodd AL and Mansell W and Morrison AP and Tai S,"The Hypomanic Attitudes and Positive Predictions Inventory (HAPPI; W. Mansell, 2006) was developed to assess multiple, extreme, self-relevant appraisals of internal states. The present study aimed to validate the HAPPI in a clinical sample. Participants (N = 50) with a diagnosis of bipolar disorder (confirmed by a structured clinical interview) completed a series of questionnaires pertaining to clinical factors, reward motivation, cognitive style, symptoms, and functioning at baseline, in addition to the HAPPI. Over the following 4 weeks, participants were asked to complete self-report measures of symptoms (activation, perceived conflict, depression, and well-being), as well as work and social functioning, twice weekly. The authors hypothesized that the HAPPI would be associated with prospective bipolar symptoms and functioning, when controlling for baseline symptoms and potentially confounding measures. The HAPPI was positively, independently associated with activation and conflict after 4 weeks. Furthermore, individual HAPPI factors were associated with activation, conflict, and depression. The results provided preliminary support for the predictive validity of the HAPPI in a clinical sample. The HAPPI could be used in the future as a tool in cognitive behavioral therapy for bipolar disorder to identify problematic beliefs and guide formulation.",Missing,Psychological assessment,23

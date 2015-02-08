@@ -1,0 +1,27 @@
+22031901,Dysfunctional prefrontal cortical network activity and interactions following cannabinoid receptor activation.,"Action Potentials/drug effects
+Analysis of Variance
+Animals
+Biological Clocks/drug effects/physiology
+Brain Waves/drug effects/*physiology
+Cannabinoid Receptor Agonists
+Cannabinoid Receptor Antagonists
+Confidence Intervals
+Cyclohexanols/pharmacology
+Dronabinol/pharmacology
+Electric Stimulation/methods
+Evoked Potentials/drug effects
+Hippocampus/drug effects/physiology
+Immunosuppressive Agents/pharmacology
+Male
+Maze Learning/drug effects
+Memory, Short-Term/drug effects
+Mental Disorders/chemically induced/pathology
+Nerve Net/drug effects/*physiology
+Neurons/drug effects/*physiology
+Prefrontal Cortex/cytology/drug effects/*physiology
+Rats
+Rats, Long-Evans
+Reaction Time/drug effects
+Receptors, Cannabinoid/*metabolism
+Statistics, Nonparametric
+Time Factors",Kucewicz MT and Tricklebank MD and Bogacz R and Jones MW,"Coordinated activity spanning anatomically distributed neuronal networks underpins cognition and mediates limbic-cortical interactions during learning, memory, and decision-making. We used CP55940, a potent agonist of brain cannabinoid receptors known to disrupt coordinated activity in hippocampus, to investigate the roles of network oscillations during hippocampal and medial prefrontal cortical (mPFC) interactions in rats. During quiet wakefulness and rest, CP55940 dose-dependently reduced 0.1-30 Hz local field potential power in CA1 of the hippocampus while concurrently decreasing 30-100 Hz power in mPFC; these contrasting population-level effects were paralleled by differential effects on underlying single-unit activity in the two structures. During decision-making phases of a spatial working memory task, CP5540-induced deficits in hippocampal theta and prefrontal gamma oscillations were observed alongside disrupted theta-frequency coherence between the two structures. These changes in coordinated limbic-cortical network activities correlated with (1) reduced accuracy of task performance, (2) impaired phase-locking of prefrontal single-unit spiking to the local gamma and hippocampal theta rhythms, and (3) impaired task-dependent activity in a subset of mPFC units. In addition to highlighting the importance of CA1-mPFC network oscillations for cognition, these results implicate disrupted theta-frequency coordination of CA1-mPFC activity in the cognitive deficits caused by exogenous activation of brain cannabinoid receptors.",Missing,The Journal of neuroscience : the official journal of the Society for Neuroscience,31

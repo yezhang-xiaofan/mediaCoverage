@@ -1,0 +1,17 @@
+22169361,Low serum iron levels are associated with elevated plasma levels of coagulation factor VIII and pulmonary emboli/deep venous thromboses in replicate cohorts of patients with hereditary haemorrhagic telangiectasia.,"Biological Markers/blood
+Cohort Studies
+Diagnostic Imaging
+Factor VIII/*analysis
+Female
+Humans
+Iron/*blood
+Male
+Plasma/chemistry
+Prospective Studies
+Pulmonary Embolism/*blood/diagnosis
+Regression Analysis
+Risk Factors
+Serum/chemistry
+Telangiectasia, Hereditary Hemorrhagic/*blood
+Venous Thrombosis/*blood/diagnosis
+von Willebrand Factor/analysis",Livesey JA and Manning RA and Meek JH and Jackson JE and Kulinskaya E and Laffan MA and Shovlin CL,"BACKGROUND: Elevated plasma levels of coagulation factor VIII are a strong risk factor for pulmonary emboli and deep venous thromboses. OBJECTIVES: To identify reversible biomarkers associated with high factor VIII and assess potential significance in a specific at-risk population. PATIENTS/METHODS: 609 patients with hereditary haemorrhagic telangiectasia were recruited prospectively in two separate series at a single centre. Associations between log-transformed factor VIII measured 6 months from any known thrombosis/illness, and patient-specific variables including markers of inflammation and iron deficiency, were assessed in stepwise multiple regression analyses. Age-specific incidence rates of radiologically proven pulmonary emboli/deep venous thromboses were calculated, and logistic regression analyses performed. RESULTS: In each series, there was an inverse association between factor VIII and serum iron that persisted after adjustment for age, inflammation and/or von Willebrand factor. Iron response elements within untranslated regions of factor VIII transcripts provide potential mechanisms for the association. Low serum iron levels were also associated with venous thromboemboli (VTE): the age-adjusted OR of 0.91 (95% CI 0.86 to 0.97) per 1 mumol/litre increase in serum iron implied a 2.5-fold increase in VTE risk for a serum iron of 6 mumol/litre compared with the mid-normal range (17 mumol/litre). The association appeared to depend on factor VIII, as once adjusted for factor VIII, the association between VTE and iron was no longer evident. CONCLUSIONS: In this population, low serum iron levels attributed to inadequate replacement of haemorrhagic iron losses are associated with elevated plasma levels of coagulation factor VIII and venous thromboembolic risk. Potential implications for other clinical populations are discussed.",Missing,Thorax,67
