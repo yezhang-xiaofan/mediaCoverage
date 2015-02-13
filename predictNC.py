@@ -115,9 +115,7 @@ def load_articles(articles_dir="1. excel files",
     for file_name in os.listdir(articles_dir):
         if file_name.endswith(".article_info.txt"):
             article_files.append(file_name)
-
-
-
+            
     articles = []
     for article_file_name in article_files:
         article = read_in_article(os.path.join(articles_dir, article_file_name))

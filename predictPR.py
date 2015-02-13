@@ -12,6 +12,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.grid_search import GridSearchCV
 from sklearn import cross_validation
+from os.path import basename
 
 import numpy as np
 from numpy.linalg import norm
@@ -128,14 +129,14 @@ def read_in_article(article_path):
         reader = csv.reader(input_file)
         pmid, title, mesh, authors, abstract, affiliation, journal, volume = reader.next()
     return {"pmid":pmid, "title":title, "mesh":mesh, "authors":authors,
-                "abstract":abstract, "affiliation":affiliation}
+                "abstract":abstract, "affiliation":affiliation,"block":basename(input_file.name)[0:9]}
 
 def read_in_matched_samples(article_path):
     with open(article_path, 'rU') as input_file:
         reader = csv.reader(input_file)
         pmid, title, journal,authors, affiliation, abstract,mesh = reader.next()
     return {"pmid":pmid, "title":title, "mesh":mesh, "authors":authors,
-                "abstract":abstract, "affiliation":affiliation}
+                "abstract":abstract, "affiliation":affiliation,"block":basename(input_file.name)[0:9]}
 
 def texify_most_informative_features(vectorizer, clf, caption, n=50):
     ###
