@@ -13,7 +13,14 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.grid_search import GridSearchCV
 from sklearn import cross_validation
 from os.path import basename
-
+from sklearn.cross_validation import  StratifiedKFold
+from sklearn.metrics import average_precision_score
+from sklearn.metrics import precision_recall_curve
+from sklearn.metrics import recall_score
+from sklearn.metrics import auc_score
+from sklearn.metrics import precision_score
+import matplotlib.pyplot as plt
+from sklearn.feature_selection import SelectPercentile, f_classif,SelectKBest
 import numpy as np
 from numpy.linalg import norm
 
@@ -21,30 +28,56 @@ import pylab
 def predict_PR():
 
     X, y, vectorizer = get_X_y()
+    #selector = SelectKBest(f_classif,1000)
+    selector = SelectPercentile(f_classif,percentile=100)
+    selector.fit(X,y)
+    X = selector.transform(X)
+    best_indices = selector.get_support(indices=True)
+    best_features = np.array(vectorizer.get_feature_names())[best_indices]
     lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
-
-    parameters = {"C":[1, .1, .01, .001,.0001]}
-    clf0 = GridSearchCV(lr, parameters,scoring='roc_auc')
+    kf = StratifiedKFold(y,n_folds=5,shuffle=True)
+    parameters = {"C":[1.0,.1, .01, .001,0.0001]}
+    clf0 = GridSearchCV(lr, parameters,scoring='roc_auc',cv=kf)
     print "fitting model..."
     clf0.fit(X,y)
+    print "best auc score is: " ,clf0.best_score_
     print "done."
 
     #print texify_most_informative_features(vectorizer, clf0, "predictive features")
 
-    kf = cross_validation.KFold(X.shape[0], shuffle=True, n_folds=5)
-    fs, aucs = [],[]
+    fs, aucs,prec,rec = [],[],[],[]
     fold = 0
     complete_X = X.tocsr()
-    for train, test in kf:
-        clf = GridSearchCV(lr, parameters,scoring='roc_auc')
-        clf.fit(complete_X[train,:].tocoo(), y[train])
+    clf = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto',C=clf0.best_estimator_.C)
 
-        probs = clf.predict_proba(complete_X[test,:])
+    for train, test in kf:
+        clf.fit(complete_X[train,:].tocoo(), y[train])
+        probs = clf.predict_proba(complete_X[test,:])[:,1]
+        #average_precision_score(y[test],probs)
+        precision,recall,threshold = precision_recall_curve(y[test],probs)
+
+        accuracy = clf.score(complete_X[test,:], y[test])
+
+        predLabel = clf.predict(X[test,:])
+        rec.append(recall_score(y[test],predLabel))
+        prec.append(precision_score(y[test],predLabel))
         #aucs.append(sklearn.metrics.roc_auc_score(y[test], probs))
-        cur_auc = roc_auc_score(y[test], probs[:,1])
+        cur_auc = auc_score(y[test], probs)
         aucs.append(cur_auc)
-        preds = clf.predict(complete_X[test])
-        fs.append(f1_score(y[test], preds))
+        #preds = clf.predict(complete_X[test])
+        #fs.append(f1_score(y[test], preds))
+        if fold == 0:
+            plt.clf()
+            plt.plot(precision,recall)
+            plt.xlabel('Recall')
+            plt.ylabel('Precision')
+            plt.ylim([0.0,1.05])
+            plt.xlim([0.0,1.0])
+            plt.title('Precision-Recall curve for press release prediction with %d vocabulary size' \
+                      %len(best_indices))
+            plt.show()
+        fold += 1
+        '''
         if fold == 0:
             fpr, tpr, thresholds = roc_curve(y[test], probs[:,1])
             pylab.clf()
@@ -59,14 +92,15 @@ def predict_PR():
             pylab.title("ROC curve (area = %0.2f)" % cur_auc)
             pylab.tight_layout()
             pylab.savefig(fout)
-
-
         fold += 1
-
-    print "average auc: %s" % (sum(aucs)/float(len(aucs)))
-    print "average fs: %s" % (sum(fs)/float(len(fs)))
+        '''
+    #print "average auc: %s" % (sum(aucs)/float(len(aucs)))
+    #print "average fs: %s" % (sum(fs)/float(len(fs)))
+    #print "average recall: %s" % (sum(rec)/float(len(rec)))
+    #print "average precision: %s" % (sum(prec)/float(len(prec)))
     #print "ABOUT TO RETURN"
     #pdb.set_trace()
+    texify_most_informative_features(best_features,vectorizer,clf0,caption="",n=50)
     return clf0
 
 
@@ -138,22 +172,22 @@ def read_in_matched_samples(article_path):
     return {"pmid":pmid, "title":title, "mesh":mesh, "authors":authors,
                 "abstract":abstract, "affiliation":affiliation,"block":basename(input_file.name)[0:9]}
 
-def texify_most_informative_features(vectorizer, clf, caption, n=50):
+def texify_most_informative_features(best_features,vectorizer, clf, caption, n=50):
     ###
     # note that in the multi-class case, clf.coef_ will
     # have k weight vectors, which I believe are one per
     # each class (i.e., each is a classifier discriminating
     # one class versus the rest).
     #c_f = sorted(zip(clf.coef_[2], vectorizer.get_feature_names()))
-    c_f = sorted(zip(clf.best_estimator_.raw_coef_[0], vectorizer.get_feature_names()))
+    c_f = sorted(zip(clf.best_estimator_.raw_coef_[0], best_features))
     if n == 0:
         n = len(c_f)/2
 
     top = zip(c_f[:n], c_f[:-(n+1):-1])
-    print
     print "%d most informative features:" % (n, )
     out_str = [
         r'''\begin{table}
+            \caption{top 50 features for press release prediction}
             \begin{tabular}{l c | l c}
 
         '''
@@ -195,9 +229,9 @@ def show_most_informative_features(vectorizer, clf, n=50):
     print feature_str
 
 def main():
-    X, y, vectorizer = get_X_y()
-    clf = predict_PR()
-    texify_most_informative_features(vectorizer, clf, "Top fifty features and associated weights for press release prediction")
+    #X, y, vectorizer = get_X_y()
+    predict_PR()
+    #texify_most_informative_features(vectorizer, clf, "Top fifty features and associated weights for press release prediction")
 
 if __name__ == '__main__':
     main()

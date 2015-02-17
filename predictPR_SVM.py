@@ -1,13 +1,8 @@
 __author__ = 'zhangye'
-import rankSVM
-import csv
-import os
-from os.path import basename
 import predictPR
 import chambers_analysis
 import numpy as np
 from sklearn import cross_validation
-from scipy import stats
 import itertools
 from scipy import vstack
 from sklearn import svm
@@ -69,23 +64,29 @@ def predict():
     print('preprocessing data')
     Xp = csr_matrix(Xp)
     Xp = preprocessing.scale(Xp,with_mean=False)
-    #Xp = Xp.toarray()
+    svmModel = svm.SVC(C=1,kernel='linear')
+    svmModel.fit(Xp,yp)
+    texify_most_informative_features(vectorizer,svmModel,caption="",n=50)
+
     for p in parameters:
         cv = cross_validation.StratifiedShuffleSplit(yp, test_size=.2)
         auc_for_p = []
+
         for train, test in cv:
             X_train, y_train = Xp[train], yp[train]
             X_test, y_test = Xp[test], yp[test]
             svmModel = svm.SVC(C=p,kernel='linear')
             #clf0 = GridSearchCV(svmModel, parameters,scoring='roc_auc')
             print('train')
-            svmModel.fit(X_train.tocoo(), y_train)
-            best_estimator = svmModel
-            predict = svmModel.decision_function(X_test.tocoo())
+            svmModel.fit(X_train.toarray(), y_train)
+            predict = svmModel.decision_function(X_test.toarray())
             #coef = clf.coef_.ravel() / np.linalg.norm(clf.coef_)
             cur_auc = roc_auc_score(y_test,predict)
             auc_for_p.append(cur_auc)
         average = sum(auc_for_p)/len(auc_for_p)
+        svmModel = svm.SVC(C=p,kernel='linear')
+        svmModel.fit(Xp,yp)
+        texify_most_informative_features(vectorizer,svmModel,caption="",n=50)
         if(average>best_auc):
             best_auc = average
             best_C = p
@@ -106,7 +107,9 @@ def texify_most_informative_features(vectorizer, clf, caption, n=50):
     # each class (i.e., each is a classifier discriminating
     # one class versus the rest).
     #c_f = sorted(zip(clf.coef_[2], vectorizer.get_feature_names()))
-    c_f = sorted(zip(clf.coef_, vectorizer.get_feature_names()))
+    coef = clf.coef_.toarray()[0]
+    coef = coef/ np.linalg.norm(coef)
+    c_f = sorted(zip(coef, vectorizer.get_feature_names()))
     if n == 0:
         n = len(c_f)/2
 

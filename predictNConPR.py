@@ -17,37 +17,64 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.grid_search import GridSearchCV
 from sklearn import cross_validation
 import predictPR
-
+from sklearn.feature_selection import SelectPercentile, f_classif,SelectKBest
 import numpy as np
 from numpy.linalg import norm
-
+from sklearn.metrics import precision_recall_curve
+from sklearn.metrics import recall_score
+from sklearn.metrics import auc_score
+from sklearn.metrics import precision_score
+import matplotlib.pyplot as plt
+from sklearn.cross_validation import  StratifiedKFold
 import pylab
+
 def predictNConPR():
     X, y, vectorizer = get_X_y()
-    lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight="auto")
-
+    selector = SelectKBest(f_classif,500)
+    selector.fit(X,y)
+    best_indices = selector.get_support(indices=True)
+    best_features = np.array(vectorizer.get_feature_names())[best_indices]
+    X = selector.transform(X)
+    lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
+    kf = StratifiedKFold(y,n_folds=5,shuffle=True)
     parameters = {"C":[1.0,.1, .01, .001,0.0001]}
-    clf0 = GridSearchCV(lr, parameters)
+    clf0 = GridSearchCV(lr, parameters,scoring='roc_auc',cv=kf)
     print "fitting model..."
     clf0.fit(X,y)
+    print "best auc score is: " ,clf0.best_score_
     print "done."
 
-#print texify_most_informative_features(vectorizer, clf0, "predictive features")
-
-    kf = cross_validation.KFold(X.shape[0], shuffle=True, n_folds=5)
-    fs, aucs = [],[]
+    fs, aucs,prec,rec = [],[],[],[]
     fold = 0
     complete_X = X.tocsr()
+    clf = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto',C=clf0.best_estimator_.C)
     for train, test in kf:
-        clf = GridSearchCV(lr, parameters,scoring="roc_auc")
         clf.fit(complete_X[train,:].tocoo(), y[train])
+        probs = clf.predict_proba(complete_X[test,:])[:,1]
+        #average_precision_score(y[test],probs)
+        precision,recall,threshold = precision_recall_curve(y[test],probs)
 
-        probs = clf.predict_proba(complete_X[test,:])
+        accuracy = clf.score(complete_X[test,:], y[test])
+
+        predLabel = clf.predict(X[test,:])
+        rec.append(recall_score(y[test],predLabel))
+        prec.append(precision_score(y[test],predLabel))
         #aucs.append(sklearn.metrics.roc_auc_score(y[test], probs))
-        cur_auc = auc_score(y[test], probs[:,1])
+        cur_auc = auc_score(y[test], probs)
         aucs.append(cur_auc)
-        preds = clf.predict(complete_X[test])
-        fs.append(f1_score(y[test], preds))
+        #preds = clf.predict(complete_X[test])
+        #fs.append(f1_score(y[test], preds))
+        if fold == 0:
+            plt.clf()
+            plt.plot(precision,recall)
+            plt.xlabel('Recall')
+            plt.ylabel('Precision')
+            plt.ylim([0.0,1.05])
+            plt.xlim([0.0,1.0])
+            plt.title('Precision-Recall curve for news coverage prediction conditioned on press release with vocabulary size %d' %len(best_features))
+            plt.show()
+        fold += 1
+        '''
         if fold == 0:
             fpr, tpr, thresholds = roc_curve(y[test], probs[:,1])
             pylab.clf()
@@ -63,10 +90,12 @@ def predictNConPR():
             pylab.tight_layout()
             pylab.savefig(fout)
         fold += 1
-    print "average auc: %s" % (sum(aucs)/float(len(aucs)))
-    print "average fs: %s" % (sum(fs)/float(len(fs)))
-    #print "ABOUT TO RETURN"
-    #pdb.set_trace()
+        '''
+    #print "average auc: %s" % (sum(aucs)/float(len(aucs)))
+    #print "average fs: %s" % (sum(fs)/float(len(fs)))
+    print "average recall: %s" % (sum(rec)/float(len(rec)))
+    print "average precision: %s" % (sum(prec)/float(len(prec)))
+    texify_most_informative_features(best_features,vectorizer,clf0)
     return clf0
 
 
@@ -146,7 +175,41 @@ def read_in_article(article_path):
     return {"pmid":pmid, "title":title, "mesh":mesh, "authors":authors,
                 "abstract":abstract, "affiliation":affiliation}
 
+def texify_most_informative_features(best_features,vectorizer,clf, caption='', n=50):
+    ###
+    # note that in the multi-class case, clf.coef_ will
+    # have k weight vectors, which I believe are one per
+    # each class (i.e., each is a classifier discriminating
+    # one class versus the rest).
+    #c_f = sorted(zip(clf.coef_[2], vectorizer.get_feature_names()))
+    c_f = sorted(zip(clf.best_estimator_.raw_coef_[0], best_features))
+    if n == 0:
+        n = len(c_f)/2
 
+    top = zip(c_f[:n], c_f[:-(n+1):-1])
+    print
+    print "%d most informative features:" % (n, )
+    out_str = [
+        r'''\begin{table}
+            \caption{top fifty features and associated weight for news coverage prediction conditioned on press release}
+            \begin{tabular}{l c | l c}
+
+        '''
+    ]
+    out_str.append(r"\multicolumn{2}{c}{\emph{negative}} & \multicolumn{2}{c}{\emph{positive}} \\")
+    for (c1, f1), (c2, f2) in top:
+        #out_str.append("\t%.4f\t%-15s\t\t%.4f\t%-15s" % (c1, f1, c2, f2))
+        out_str.append("%.3f & %s & %.3f & %s \\\\" % (c1, f1, c2, f2))
+
+    #
+    out_str.append(r"\end{tabular}")
+    out_str.append("%s" % caption)
+    out_str.append(r"\end{table}")
+
+    feature_str = "\n".join(out_str)
+
+    print "\n"
+    print feature_str
 
 
 
@@ -194,7 +257,5 @@ def process_article(article):
 
     return " ".join(all_features)
 def main():
-    X, y, vectorizer = get_X_y()
-    clf = predictNConPR()
-    chambers_analysis.texify_most_informative_features(vectorizer,clf,"haha")
+    predictNConPR()
 main()
