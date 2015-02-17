@@ -29,12 +29,15 @@ from sklearn.cross_validation import  StratifiedKFold
 import pylab
 
 def predictNConPR():
+    #feature selection
     X, y, vectorizer = get_X_y()
     selector = SelectKBest(f_classif,500)
     selector.fit(X,y)
     best_indices = selector.get_support(indices=True)
     best_features = np.array(vectorizer.get_feature_names())[best_indices]
     X = selector.transform(X)
+
+    #use cross validation to choose the best parameter
     lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
     kf = StratifiedKFold(y,n_folds=5,shuffle=True)
     parameters = {"C":[1.0,.1, .01, .001,0.0001]}

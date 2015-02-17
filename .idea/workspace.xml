@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66611a0-1236-47e7-9a2e-9c75dff5df3f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictNC.py" afterPath="$PROJECT_DIR$/predictNC.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictNConPR.py" afterPath="$PROJECT_DIR$/predictNConPR.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictPR.py" afterPath="$PROJECT_DIR$/predictPR.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predictPR_SVM.py" afterPath="$PROJECT_DIR$/predictPR_SVM.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mediaCoverage.iws" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="predictNConPR.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/predictNConPR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14355232" vertical-offset="949" max-vertical-offset="6384">
-              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.026506023" vertical-offset="925" max-vertical-offset="6456">
+              <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
               <folding>
                 <element signature="e#112#122#0" expanded="true" />
               </folding>
@@ -48,8 +48,8 @@
       <file leaf-file-name="predictNC.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/predictNC.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="8100">
-              <caret line="269" column="21" selection-start-line="269" selection-start-column="21" selection-end-line="269" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="8154">
+              <caret line="28" column="22" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="22" />
               <folding>
                 <element signature="e#23#33#0" expanded="true" />
               </folding>
@@ -60,8 +60,8 @@
       <file leaf-file-name="predictPR.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/predictPR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="6175">
-              <caret line="35" column="74" selection-start-line="34" selection-start-column="4" selection-end-line="35" selection-end-column="74" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="698" max-vertical-offset="6275">
+              <caret line="38" column="54" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="54" />
               <folding>
                 <element signature="e#23#33#0" expanded="true" />
               </folding>
@@ -482,9 +482,9 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16242822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44089457" sideWeight="0.86892" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29872206" sideWeight="0.7790602" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29233226" sideWeight="0.7790602" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29872206" sideWeight="0.22093982" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29233226" sideWeight="0.22093982" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -522,12 +522,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/predictPR.py</url>
-          <line>103</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/predictPR.py</url>
-          <line>207</line>
+          <line>211</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
@@ -542,7 +537,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/predictNConPR.py</url>
-          <line>98</line>
+          <line>101</line>
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
@@ -552,17 +547,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/predictNC.py</url>
-          <line>99</line>
-          <option name="timeStamp" value="137" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/predictNC.py</url>
-          <line>241</line>
+          <line>243</line>
           <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/predictNC.py</url>
-          <line>29</line>
+          <line>30</line>
           <option name="timeStamp" value="139" />
         </line-breakpoint>
       </breakpoints>
@@ -973,20 +963,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/predictNC.py">
+    <entry file="file://$PROJECT_DIR$/predictPR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="8100">
-          <caret line="269" column="21" selection-start-line="269" selection-start-column="21" selection-end-line="269" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="698" max-vertical-offset="6275">
+          <caret line="38" column="54" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="54" />
           <folding>
             <element signature="e#23#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/predictPR.py">
+    <entry file="file://$PROJECT_DIR$/predictNC.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="6175">
-          <caret line="35" column="74" selection-start-line="34" selection-start-column="4" selection-end-line="35" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="8154">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="e#23#33#0" expanded="true" />
           </folding>
@@ -995,8 +985,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/predictNConPR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14355232" vertical-offset="949" max-vertical-offset="6384">
-          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.026506023" vertical-offset="925" max-vertical-offset="6456">
+          <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
           <folding>
             <element signature="e#112#122#0" expanded="true" />
           </folding>

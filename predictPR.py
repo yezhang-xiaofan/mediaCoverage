@@ -27,6 +27,7 @@ from numpy.linalg import norm
 import pylab
 def predict_PR():
 
+    #feature selection
     X, y, vectorizer = get_X_y()
     #selector = SelectKBest(f_classif,1000)
     selector = SelectPercentile(f_classif,percentile=100)
@@ -34,6 +35,8 @@ def predict_PR():
     X = selector.transform(X)
     best_indices = selector.get_support(indices=True)
     best_features = np.array(vectorizer.get_feature_names())[best_indices]
+
+    #use cross validation to choose the best parameter
     lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
     kf = StratifiedKFold(y,n_folds=5,shuffle=True)
     parameters = {"C":[1.0,.1, .01, .001,0.0001]}
@@ -43,8 +46,9 @@ def predict_PR():
     print "best auc score is: " ,clf0.best_score_
     print "done."
 
-    #print texify_most_informative_features(vectorizer, clf0, "predictive features")
 
+    #cross validation on the best parameter
+    #get precision recall accuracy auc_score
     fs, aucs,prec,rec = [],[],[],[]
     fold = 0
     complete_X = X.tocsr()

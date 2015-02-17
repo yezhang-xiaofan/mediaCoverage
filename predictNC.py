@@ -26,13 +26,15 @@ from sklearn.feature_selection import SelectPercentile, f_classif,SelectKBest
 
 import pylab
 def predict_NC():
+    #feature selection
     X, y, vectorizer = get_X_y()
     selector = SelectKBest(f_classif,10000)
     selector.fit(X,y)
     best_indices = selector.get_support(indices=True)
     best_features = np.array(vectorizer.get_feature_names())[best_indices]
-   # vectorizer = vectorizer[selector.get_support(indices=True)]
     X = selector.transform(X)
+
+    #use cross validation to choose the best parameter
     lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
     kf = StratifiedKFold(y,n_folds=5,shuffle=True)
     parameters = {"C":[1.0,.1, .01, .001,0.0001]}
@@ -42,8 +44,8 @@ def predict_NC():
     print "best auc score is: " ,clf0.best_score_
     print "done."
 
-    #print texify_most_informative_features(vectorizer, clf0, "predictive features")
-
+    #cross validation on the best parameter
+    #get precision recall accuracy auc_score
     fs, aucs,prec,rec = [],[],[],[]
     fold = 0
     complete_X = X.tocsr()
