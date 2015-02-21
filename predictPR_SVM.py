@@ -11,8 +11,80 @@ from sklearn.grid_search import GridSearchCV
 from scipy.sparse import coo_matrix,vstack,csr_matrix
 import scipy.sparse
 from sklearn import preprocessing
+from sklearn import linear_model
+import time
+from sklearn.cross_validation import KFold
+import pickle
 def predict():
     X, y, vectorizer,blocks = get_X_y_block()
+    #build a hash table to store blocks
+    #key is the block
+    #value is the set of document index
+    #block_hash = pickle.load(open('save.p',"rb"))
+    start_time = time.time()
+    block_hash = {}
+    for i in range(len(blocks)):
+        if(blocks[i] in block_hash):
+            block_hash[blocks[i]].append(i)
+        else:
+            temp = [i]
+            block_hash[blocks[i]] = temp
+    block_set = block_hash.keys()
+    block_data = {}
+
+    #build data set for ranking SVM for each block
+    for key in block_hash.keys():
+        index = block_hash[key]
+        num_document = len(block_hash[key])
+        num_pairs = num_document
+        comb = itertools.combinations(range(num_document), 2)
+        current_Xp = scipy.sparse.csr_matrix((num_pairs,X.shape[1]))
+        diff = []
+        yp = []
+        k = 0
+        for (i, j) in comb:
+            index_i = index[i]
+            index_j = index[j]
+            if y[index_i] == y[index_j]:
+                # skip if same target
+                continue
+            current_Xp[k] = X[index_i]-X[index_j]
+            diff.append(y[index_i] - y[index_j])
+            yp.append(np.sign(diff[-1]))
+            if yp[-1] != (-1) ** k:
+                yp[-1] *= -1
+                current_Xp[k] *= -1
+                diff[-1] *= -1
+            k += 1
+        block_data[key] = (current_Xp,yp)
+    elapsed_time = time.time() - start_time
+    print("time for converting original dataset into ranking SVM dataset is: ", elapsed_time)
+
+    '''
+    Xp = np.zeros((num_pairs,X.shape[1]))
+    comb = itertools.combinations(range(X.shape[0]), 2)
+    k = 0
+    print('convert each pair in one group into one instance')
+    original_Index = []
+    for (i, j) in comb:
+        if y[i] == y[j] \
+            or blocks[i] != blocks[j]:
+            # skip if same target or different group
+            continue
+        #Xp = vstack([Xp,(X[i] - X[j]).tocoo()])
+        Xp[k] = (X[i] - X[j]).toarray()
+        diff.append(y[i] - y[j])
+        yp.append(np.sign(diff[-1]))
+        original_Index.append((i,j))
+        k = k + 1
+
+    # output balanced classes
+    for i in range(Xp.shape[0]):
+        if yp[i] != (-1) ** i:
+            yp[i] *= -1
+            Xp[i] *= -1
+            diff[i] *= -1
+
     comb = itertools.combinations(range(X.shape[0]), 2)
     Xp, yp, diff = [], [], []
     num_pairs = 0
@@ -27,6 +99,7 @@ def predict():
     comb = itertools.combinations(range(X.shape[0]), 2)
     k = 0
     print('convert each pair in one group into one instance')
+    original_Index = []
     for (i, j) in comb:
         if y[i] == y[j] \
             or blocks[i] != blocks[j]:
@@ -36,10 +109,10 @@ def predict():
         Xp[k] = (X[i] - X[j]).toarray()
         diff.append(y[i] - y[j])
         yp.append(np.sign(diff[-1]))
+        original_Index.append((i,j))
         k = k + 1
 
     # output balanced classes
-
     for i in range(Xp.shape[0]):
         if yp[i] != (-1) ** i:
             yp[i] *= -1
@@ -47,58 +120,54 @@ def predict():
             diff[i] *= -1
 
     yp, diff = map(np.array, (yp, diff))
-
+    '''
     #parameters = {"C":[10, 1, .1, .01, .001,.0001]}
-    parameters = [1,.1,.01,.001,0.003,0.005]
-    # cross validation
+    parameters = [10,1,.1,.01,0.001,0.0001]
     best_auc = 0
     best_C = 0
-    best_estimator = svm.SVC()
-
-    '''
-    clf = GridSearchCV(svmModel,parameters,scoring='roc_auc',cv=cv)
-    Xp = coo_matrix(Xp)
-    print('begin to train')
-    clf.fit(Xp,yp)
-    '''
+    best_estimator = linear_model.SGDClassifier()
     print('preprocessing data')
-    Xp = csr_matrix(Xp)
-    Xp = preprocessing.scale(Xp,with_mean=False)
-    svmModel = svm.SVC(C=1,kernel='linear')
-    svmModel.fit(Xp,yp)
-    texify_most_informative_features(vectorizer,svmModel,caption="",n=50)
+    #Xp = csr_matrix(Xp)
+    #Xp = preprocessing.scale(Xp,with_mean=False)
 
     for p in parameters:
-        cv = cross_validation.StratifiedShuffleSplit(yp, test_size=.2)
+        cv = KFold(len(block_set), n_folds=5)
         auc_for_p = []
-
         for train, test in cv:
-            X_train, y_train = Xp[train], yp[train]
-            X_test, y_test = Xp[test], yp[test]
-            svmModel = svm.SVC(C=p,kernel='linear')
-            #clf0 = GridSearchCV(svmModel, parameters,scoring='roc_auc')
+            train_blocks = block_set[train]
+            test_blocks = block_set[test]
+            Xp = csr_matrix(block_data[train_blocks[0]][0])
+            yp = block_data[train_blocks[0]][1]
+            for i in range(1,len(train_blocks)):
+                vstack(Xp,block_data[train_blocks[i]][0])
+                yp.append(block_data[train_blocks[i]][1])
+            Xp = preprocessing.scale(Xp,with_mean=False)
+            svmModel = linear_model.SGDClassifier(alpha = p,class_weight='auto')
             print('train')
-            svmModel.fit(X_train.toarray(), y_train)
-            predict = svmModel.decision_function(X_test.toarray())
-            #coef = clf.coef_.ravel() / np.linalg.norm(clf.coef_)
-            cur_auc = roc_auc_score(y_test,predict)
+            svmModel.fit(Xp, yp)
+            test_index = [j for j in block_hash[i] for i in test_blocks]
+            test_data = X[test_index]
+            predict = svmModel.decision_function(test_data)
+            rank_predict = sorted(zip(list(predict), y[ori_indice]))
+            cur_auc = roc_auc_score(y[test_index],predict)
             auc_for_p.append(cur_auc)
         average = sum(auc_for_p)/len(auc_for_p)
-        svmModel = svm.SVC(C=p,kernel='linear')
-        svmModel.fit(Xp,yp)
         texify_most_informative_features(vectorizer,svmModel,caption="",n=50)
         if(average>best_auc):
             best_auc = average
             best_C = p
             best_estimator = svmModel
+    print("best C is: ",best_C)
+    print("best auc is:" ,best_auc)
+
+    texify_most_informative_features(vectorizer,best_estimator,"",n=50)
+
 
     '''
     for i in range(len(unique_blocks)):
         tau, _ = stats.kendalltau(X_test[b_test == unique_blocks[i]].tocsr().dot(coef), y_test[b_test == unique_blocks[i]])
         print('Kendall correlation coefficient for block %s: %.5f' % (i, tau))
     '''
-
-    texify_most_informative_features(vectorizer,best_estimator,caption="",n=50)
 
 def texify_most_informative_features(vectorizer, clf, caption, n=50):
     ###
@@ -107,7 +176,7 @@ def texify_most_informative_features(vectorizer, clf, caption, n=50):
     # each class (i.e., each is a classifier discriminating
     # one class versus the rest).
     #c_f = sorted(zip(clf.coef_[2], vectorizer.get_feature_names()))
-    coef = clf.coef_.toarray()[0]
+    coef = clf.coef_[0]
     coef = coef/ np.linalg.norm(coef)
     c_f = sorted(zip(coef, vectorizer.get_feature_names()))
     if n == 0:
@@ -157,6 +226,7 @@ def get_X_y_block():
     #X = transformer.fit_transform(X)
     y = []
     blocks = []
+
     for article in articles:
         y.append(1)
         blocks.append(article["block"])

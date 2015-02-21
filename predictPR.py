@@ -70,6 +70,7 @@ def predict_PR():
         aucs.append(cur_auc)
         #preds = clf.predict(complete_X[test])
         #fs.append(f1_score(y[test], preds))
+        '''
         if fold == 0:
             plt.clf()
             plt.plot(precision,recall)
@@ -82,10 +83,11 @@ def predict_PR():
             plt.show()
         fold += 1
         '''
+
         if fold == 0:
-            fpr, tpr, thresholds = roc_curve(y[test], probs[:,1])
+            fpr, tpr, thresholds = roc_curve(y[test], probs)
             pylab.clf()
-            fout = "roc"
+            fout = "PR/roc"
 
             pylab.plot(fpr, tpr, label="ROC curve (area = %0.2f)" % cur_auc)
             pylab.plot([0,1], [0,1], 'k--')
@@ -93,11 +95,11 @@ def predict_PR():
             pylab.ylim((-0.025,1.025))
             pylab.xlabel("false positive rate")
             pylab.ylabel("true positive rate")
-            pylab.title("ROC curve (area = %0.2f)" % cur_auc)
+            pylab.title("ROC curve for press release prediction(area = %0.2f) " % cur_auc)
             pylab.tight_layout()
             pylab.savefig(fout)
         fold += 1
-        '''
+
     #print "average auc: %s" % (sum(aucs)/float(len(aucs)))
     #print "average fs: %s" % (sum(fs)/float(len(fs)))
     #print "average recall: %s" % (sum(rec)/float(len(rec)))

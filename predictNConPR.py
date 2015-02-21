@@ -31,7 +31,8 @@ import pylab
 def predictNConPR():
     #feature selection
     X, y, vectorizer = get_X_y()
-    selector = SelectKBest(f_classif,500)
+    #selector = SelectKBest(f_classif,500)
+    selector = SelectPercentile(f_classif,percentile=100)
     selector.fit(X,y)
     best_indices = selector.get_support(indices=True)
     best_features = np.array(vectorizer.get_feature_names())[best_indices]
@@ -67,6 +68,7 @@ def predictNConPR():
         aucs.append(cur_auc)
         #preds = clf.predict(complete_X[test])
         #fs.append(f1_score(y[test], preds))
+        '''
         if fold == 0:
             plt.clf()
             plt.plot(precision,recall)
@@ -79,21 +81,22 @@ def predictNConPR():
         fold += 1
         '''
         if fold == 0:
-            fpr, tpr, thresholds = roc_curve(y[test], probs[:,1])
+            fpr, tpr, thresholds = roc_curve(y[test], probs)
             pylab.clf()
-            fout = "roc"
+            fout = "NConPR/roc"
 
-            pylab.plot(fpr, tpr, label="ROC curve (area = %0.2f)" % cur_auc)
+            pylab.plot(fpr, tpr, label="ROC curve for news coverage prediction conditioned on press release(area = %0.2f)" % cur_auc)
             pylab.plot([0,1], [0,1], 'k--')
             pylab.xlim((-0.025,1.025))
             pylab.ylim((-0.025,1.025))
             pylab.xlabel("false positive rate")
             pylab.ylabel("true positive rate")
-            pylab.title("ROC curve (area = %0.2f)" % cur_auc)
+            pylab.title("ROC curve for news coverage prediction conditioned on press release(area = %0.2f)" % cur_auc)
             pylab.tight_layout()
+            pylab.show()
             pylab.savefig(fout)
         fold += 1
-        '''
+
     #print "average auc: %s" % (sum(aucs)/float(len(aucs)))
     #print "average fs: %s" % (sum(fs)/float(len(fs)))
     print "average recall: %s" % (sum(rec)/float(len(rec)))

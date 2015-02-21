@@ -28,7 +28,8 @@ import pylab
 def predict_NC():
     #feature selection
     X, y, vectorizer = get_X_y()
-    selector = SelectKBest(f_classif,10000)
+    #selector = SelectKBest(f_classif,10000)
+    selector = SelectPercentile(f_classif,percentile=100)
     selector.fit(X,y)
     best_indices = selector.get_support(indices=True)
     best_features = np.array(vectorizer.get_feature_names())[best_indices]
@@ -49,7 +50,7 @@ def predict_NC():
     fs, aucs,prec,rec = [],[],[],[]
     fold = 0
     complete_X = X.tocsr()
-    clf = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto',C=0.001)
+    clf = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto',C=clf0.best_estimator_.C)
     for train, test in kf:
         clf.fit(complete_X[train,:].tocoo(), y[train])
         probs = clf.predict_proba(complete_X[test,:])[:,1]
@@ -66,6 +67,7 @@ def predict_NC():
         aucs.append(cur_auc)
         #preds = clf.predict(complete_X[test])
         #fs.append(f1_score(y[test], preds))
+        '''
         if fold == 0:
             plt.clf()
             plt.plot(precision,recall,label='Precision-Recall curve for news coverage prediction')
@@ -77,10 +79,11 @@ def predict_NC():
             plt.show()
         fold += 1
         '''
+
         if fold == 0:
-            fpr, tpr, thresholds = roc_curve(y[test], probs[:,1])
+            fpr, tpr, thresholds = roc_curve(y[test], probs)
             pylab.clf()
-            fout = "roc"
+            fout = "NC/roc"
 
             pylab.plot(fpr, tpr, label="ROC curve (area = %0.2f)" % cur_auc)
             pylab.plot([0,1], [0,1], 'k--')
@@ -88,11 +91,11 @@ def predict_NC():
             pylab.ylim((-0.025,1.025))
             pylab.xlabel("false positive rate")
             pylab.ylabel("true positive rate")
-            pylab.title("ROC curve (area = %0.2f)" % cur_auc)
+            pylab.title("ROC curve for news coverage prediction(area = %0.2f)" % cur_auc)
             pylab.tight_layout()
             pylab.savefig(fout)
         fold += 1
-        '''
+
     #print "average auc: %s" % (sum(aucs)/float(len(aucs)))
     #print "average fs: %s" % (sum(fs)/float(len(fs)))
     print "average recall: %s" % (sum(rec)/float(len(rec)))
