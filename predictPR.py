@@ -156,7 +156,8 @@ def load_articles(articles_dir="1. excel files"):
 def load_matched_samples(matched_dir="7. Matched samples"):
     article_files = []
     for file_name in os.listdir(matched_dir):
-        article_files.append(file_name)
+        if file_name.endswith(".csv"):
+            article_files.append(file_name)
     print "read %s matched samples without press release." % len(article_files)
     articles = []
     for article_file_name in article_files:
