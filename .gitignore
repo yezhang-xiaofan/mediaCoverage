@@ -14,3 +14,5 @@ open data/
 *.txt
 *.docx
 *.p
+*.pdf
+*.png
