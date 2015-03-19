@@ -1,0 +1,26 @@
+import numpy as np
+import itertools
+from sklearn import svm
+def rankSVM(X_train,y_train,b_train):
+    comb = itertools.combinations(range(X_train.shape[0]), 2)
+    k = 0
+    Xp, yp, diff = [], [], []
+    for (i, j) in comb:
+        if y_train[i] == y_train[j] \
+            or b_train[i] != b_train[j]:
+            # skip if same target or different group
+            continue
+        Xp.append(X_train[i] - X_train[j])
+        diff.append(y_train[i] - y_train[j])
+        yp.append(np.sign(diff[-1]))
+        # output balanced classes
+        if yp[-1] != (-1) ** k:
+            yp[-1] *= -1
+            Xp[-1] *= -1
+            diff[-1] *= -1
+        k += 1
+        Xp, yp, diff = map(np.asanyarray, (Xp, yp, diff))
+    clf = svm.SVC(kernel='linear', C=.1)
+    clf.fit(Xp, yp)
+    coef = clf.coef_.ravel() / np.linalg.norm(clf.coef_)
+    return coef
