@@ -1,19 +1,21 @@
 __author__ = 'zhangye'
 
 #This program uses bootstrap to predict news coverage conditioned on press release
-import predictNConPR
-import BS_PR
+
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 from sklearn import cross_validation
 from sklearn import grid_search
-
+print "haha"
+from predictNConPR import get_X_y
+from BS_PR import bootstrap_indexes
+import matplotlib.pyplot as plt
 def con_Interval():
-    X, y, vectorizer = predictNConPR.get_X_y()
+    X, y, vectorizer = get_X_y()
     n_samples = 1000
-    bs_indexes = BS_PR.bootstrap_indexes(X,n_samples)
+    bs_indexes = bootstrap_indexes(X,n_samples)
     w_lists = np.zeros((n_samples,X.shape[1]))
-    lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
+    lr = LogisticRegression(penalty="l1", fit_intercept=True,class_weight='auto')
     kf = cross_validation.StratifiedKFold(y,n_folds=5,shuffle=True)
     parameters = {"C":[100,10,1.0,.1, .01, .001,0.0001]}
     clf0 = grid_search.GridSearchCV(lr, parameters,scoring='roc_auc',cv=kf)
@@ -23,7 +25,7 @@ def con_Interval():
     for i in range(n_samples):
         train_X = X[bs_indexes[i]]
         train_Y = y[bs_indexes[i]]
-        lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto',C=best_C)
+        lr = LogisticRegression(penalty="l1", fit_intercept=True,class_weight='auto',C=best_C)
         lr.fit(train_X,train_Y)
         w = lr.coef_
         w_lists[i] = w
@@ -33,14 +35,35 @@ def con_Interval():
     std = np.std(w_lists,axis=0)
     p_lower = mean - (1.96)*std
     p_upper = mean + (1.96)*std
-    sort_p_lower = sorted(zip(p_lower.tolist(),vectorizer.get_feature_names()),reverse=True)
-    sort_p_upper = sorted(zip(p_upper.tolist(),vectorizer.get_feature_names()))
+    sort_p_lower = sorted(zip(p_lower.tolist(),vectorizer.get_feature_names(),range(len(mean))),reverse=True)
+    sort_p_upper = sorted(zip(p_upper.tolist(),vectorizer.get_feature_names(),range(len(mean))))
     texify_most_informative_features(sort_p_lower,sort_p_upper)
+
+    #draw top features for positive instances
+    for i in range(5):
+        values = w_lists[:,sort_p_lower[i][2]]
+        plt.hist(values,bins=20)
+        plt.title(vectorizer.get_feature_names()[sort_p_lower[i][2]])
+        plt.xlabel("Value")
+        plt.ylabel("Frequency")
+        plt.savefig("BS_NConPR/"+vectorizer.get_feature_names()[sort_p_lower[i][2]]+"_L1.png")
+        plt.clf()
+
+    #draw top features for negative instances
+    for i in range(5):
+        plt.clf()
+        values = w_lists[:,sort_p_upper[i][2]]
+        plt.hist(values,bins=20)
+        plt.title(vectorizer.get_feature_names()[sort_p_upper[i][2]])
+        plt.xlabel("Value")
+        plt.ylabel("Frequency")
+        plt.savefig("BS_NConPR/"+vectorizer.get_feature_names()[sort_p_upper[i][2]]+"_L1.png")
+        plt.clf()
 
 def texify_most_informative_features(sort_p_lower,sort_p_upper,n=50):
     out_str = [
         r'''\begin{table}
-            \caption{top 50 features for press release prediction conditioned on news coverage}
+            \caption{top 50 features for news coverage prediction conditioned on press release}
             \begin{tabular}{l c|l c}
         '''
     ]
