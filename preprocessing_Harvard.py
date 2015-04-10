@@ -6,7 +6,7 @@ import nltk
 import re
 #This file preprocesses Oxford health research related press release into sentences
 #And it label sentences as positive if it contains terms in the dictionary
-root = "PressRelease_Oxford/"
+root = "PR_Harvard/"
 dict = pickle.load(open("relation_terms","rb"))
 stopwords = nltk.corpus.stopwords.words('english')
 more_stopwords = ["have","more"]
@@ -15,10 +15,10 @@ for s in stopwords:
     if s in dict:
         del dict[s]
 def process(file):
-    write_file = open("PR_Oxford_Sentence/"+file,"w")
+    write_file = open("Harvard_Sentence/"+file,"w")
     file = open(root+file,'r')
-    first_line = file.readline()
-    title = first_line.split('|')[0]
+    title = file.readline()
+    #title = first_line.split('|')[0]
     label = 0
     for term in dict:
         pattern = r'\b'+term+r'\b'
@@ -28,11 +28,16 @@ def process(file):
             label = 1
             break
     write_file.write(title+" "+str(label)+"\n")
-    date = file.readline()
+    #date = file.readline()
     #write_file.write(title.strip()+"\n")
     sentences = []
     line = file.readline()
     while (line):
+        if(line.startswith("For immediate release:")):
+            line = file.readline()
+            continue
+        if(line.startswith("For more information:")):
+            break
         cur_sen = nltk.sent_tokenize(line)
         sentences += cur_sen
         line = file.readline()
