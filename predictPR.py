@@ -23,6 +23,7 @@ import matplotlib.pyplot as plt
 from sklearn.feature_selection import SelectPercentile, f_classif,SelectKBest
 import numpy as np
 from numpy.linalg import norm
+import re
 
 import pylab
 def predict_PR():
@@ -115,8 +116,8 @@ def get_X_y():
     Get X and y for the task of predicting whether a given
     article will get a press release.
     '''
-    articles = load_articles()
-    matchSample = load_matched_samples()
+    articles,journal_pos = load_articles()
+    matchSample,journal_neg = load_matched_samples()
 
     article_texts = [chambers_analysis.process_article(article) for article in articles]
     matchSampe_texts = [chambers_analysis.process_article(article) for article in matchSample]
@@ -146,37 +147,64 @@ def load_articles(articles_dir="1. excel files"):
     print "read %s articles with press lease." % len(article_files)
 
     articles = []
+    inspect = "results"
+    pattern = re.compile(r'\bresults\b')
+    target = open(inspect+"_abstract", 'w')
+    journal_pos = {}
     for article_file_name in article_files:
         article = read_in_article(os.path.join(articles_dir, article_file_name))
-        articles.append(article)
+        #pull out abstracts containing certain words
+        if(pattern.search(article["abstract"])):
+            target.write(article["abstract"]+"\n"+article["journal"]+"\n")
+            target.write("\n")
+            if(journal_pos.has_key(article["journal"])):
+                journal_pos[article["journal"]] += 1
+            else:
+                journal_pos[article["journal"]] = 1
 
-    return articles
+        articles.append(article)
+    target.close()
+    return articles,journal_pos
 
 
 def load_matched_samples(matched_dir="7. Matched samples"):
     article_files = []
     for file_name in os.listdir(matched_dir):
-        article_files.append(file_name)
+        if file_name.endswith(".csv"):
+            article_files.append(file_name)
     print "read %s matched samples without press release." % len(article_files)
     articles = []
+    inspect = "results"
+    pattern = re.compile(r'\bresults\b')
+    target = open(inspect+"_abs_neg", 'w')
+    journal_neg = {}
     for article_file_name in article_files:
         article = read_in_matched_samples(os.path.join(matched_dir, article_file_name))
+        #pull out abstracts of negative examples containing certain words
+        if(pattern.search(article["abstract"])):
+            target.write(article["abstract"]+"\n")
+            target.write(article["journal"]+"\n")
+            target.write("\n")
+            if(journal_neg.has_key(article["journal"])):
+                journal_neg[article["journal"]] += 1
+            else:
+                journal_neg[article["journal"]] = 1
         articles.append(article)
-    return articles
+    return articles,journal_neg
 
 def read_in_article(article_path):
     with open(article_path, 'rU') as input_file:
         reader = csv.reader(input_file)
         pmid, title, mesh, authors, abstract, affiliation, journal, volume = reader.next()
     return {"pmid":pmid, "title":title, "mesh":mesh, "authors":authors,
-                "abstract":abstract, "affiliation":affiliation,"block":basename(input_file.name)[0:9]}
+                "abstract":abstract, "affiliation":affiliation,"block":basename(input_file.name)[0:9],"journal":journal}
 
 def read_in_matched_samples(article_path):
     with open(article_path, 'rU') as input_file:
         reader = csv.reader(input_file)
         pmid, title, journal,authors, affiliation, abstract,mesh = reader.next()
     return {"pmid":pmid, "title":title, "mesh":mesh, "authors":authors,
-                "abstract":abstract, "affiliation":affiliation,"block":basename(input_file.name)[0:9]}
+                "abstract":abstract, "affiliation":affiliation,"block":basename(input_file.name)[0:9],"journal":journal}
 
 def texify_most_informative_features(best_features,vectorizer, clf, caption, n=50):
     ###

@@ -9,3 +9,10 @@
 *.swp
 *.zip
 open data/
+*.htf
+*.xls
+*.txt
+*.docx
+*.p
+*.pdf
+*.png

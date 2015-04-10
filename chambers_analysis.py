@@ -112,7 +112,7 @@ def get_X_y():
 def get_vectorizer(article_texts, max_features=50000):
     vectorizer = CountVectorizer(ngram_range=(1,2), stop_words="english",
                                     min_df=2,
-                                    token_pattern=r"(?u)[a-zA-Z0-9-_/*][a-zA-Z0-9-_/*]+\b",
+                                    token_pattern=r"(?u)[a-zA-Z-_/*][a-zA-Z-_/*]+\b",
                                     binary=False, max_features=max_features)
     vectorizer.fit(article_texts)
     return vectorizer
@@ -160,7 +160,7 @@ def read_in_article(article_path):
 
 
     return {"pmid":pmid, "title":title, "mesh":mesh, "authors":authors,
-                "abstract":abstract, "affiliation":affiliation}
+                "abstract":abstract, "affiliation":affiliation,"journal":journal}
 
 
 

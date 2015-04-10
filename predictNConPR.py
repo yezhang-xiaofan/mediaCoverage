@@ -262,6 +262,5 @@ def process_article(article):
     #                prepend_to_words(article["mesh"], prepend_str="MH-")]
 
     return " ".join(all_features)
-def main():
+if __name__ == "__main__":
     predictNConPR()
-main()
