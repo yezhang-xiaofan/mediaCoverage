@@ -8,9 +8,11 @@ import re
 #And it label sentences as positive if it contains terms in the dictionary
 root = "PressRelease_Oxford/"
 dict = pickle.load(open("relation_terms","rb"))
-stopwords = nltk.corpus.stopwords.words('english')
-more_stopwords = ["have","more"]
-stopwords += more_stopwords
+stopwords = (open("english",'rb').read().splitlines())
+#stopwords = set(haha.readlines())
+#stopwords = nltk.corpus.stopwords.words('english')
+#more_stopwords = ["have","more"]
+#stopwords += more_stopwords
 for s in stopwords:
     if s in dict:
         del dict[s]
@@ -28,14 +30,14 @@ def process(file):
             label = 1
             break
     write_file.write(title+" "+str(label)+"\n")
+   #readline for date
     date = file.readline()
     #write_file.write(title.strip()+"\n")
-    sentences = []
-    line = file.readline()
-    while (line):
-        cur_sen = nltk.sent_tokenize(line)
-        sentences += cur_sen
-        line = file.readline()
+    sentences  = file.readlines()
+   # while (line):
+    #    cur_sen = line
+     #   sentences += cur_sen
+      #  line = file.readline()
     for s in sentences:
         label = 0
         for term in dict:
