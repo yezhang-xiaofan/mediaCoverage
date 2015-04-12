@@ -12,16 +12,30 @@ import codecs
 import numpy as np
 import unicodedata
 import pickle
+from textblob import TextBlob
 from sklearn.metrics import f1_score
 from operator import itemgetter
 from sklearn import linear_model
+from nltk.corpus import stopwords
+from sets import Set
+#stop words
+stops = set(stopwords.words('english'))
 def convert(str1):
     if(type(str1) is unicode):
         str1 = str1.encode('ascii','ignore')
         str1 = str1.strip('.')
         str1 = str1.lower()
-        temp =  re.split(r'\.\. \.\.|,',str1)
-        return [a for a in temp if a.strip().isspace()==False and a]
+        str1.replace("see above","")
+        str1.replace("as above","")
+        str1 = str(TextBlob(str1).correct())
+        temp =  re.split(r'\.\. \.\.|,|/',str1)
+        return [a.strip() for a in temp if (a.strip().isspace()==False and a)]
+    elif(type(str1) is float):
+        return str(str1)
+
+def remove_punct(term):
+    return " ".join(list(filter((lambda x: x not in stops),list(TextBlob(term).correct().words))))
+
 
 sentences = []
 y = []
@@ -31,7 +45,9 @@ level = []
 #write postiive sentences to sen_file
 #sen_file = open("sentence.txt","w")
 ignore = ["posted on","word count","sentence","title"]
+#d = enchant.Dict("en_US")
 dic = {}
+
 def is_ignore(text):
     for str in ignore:
         if(str in text):
@@ -46,24 +62,35 @@ for file_name in os.listdir("1. excel files"):
         first_sheet = book.sheet_by_index(0)
         relation = first_sheet.cell(124,5).value
         code =  first_sheet.cell(125,5).value
-        #if(code==0.0):
-            #print file_name
         terms = first_sheet.cell(129,5).value
-        if(terms!=-9):
-            #print terms
+
+        if(terms and terms!=-9):
+            print terms
             terms = convert(terms)
-            #sen_file.write(file_name+" "+', '.join(terms)+" \n")
+            print terms
+            for i in terms:
+                    if("as above" in i or i.isspace() or not i or "see above" in i):
+                        continue
+                    # i is one relationship term, could be a single word or phrase
+                    cur_term = i.strip()
+                    cur_term = remove_punct(i)
+                    #print "finish processing relation terms for file "+file_name + i
+                    if(dic.has_key(cur_term)):
+                        dic[cur_term].append(file_name)
+                    else:
+                        dic[cur_term] = [file_name]
+
         filename = file_name.split('.')[0]
         f = codecs.open("5. Press releases/"+filename[:-2]+".txt",'r',encoding='utf-8')
         text = f.readlines()
         text = [i.encode('ascii','ignore') for i in text]
         writeFile = open(Chambers_sentence+str(j),'wb')
-        #sents = sent_tokenize(text)
+
+        #check each line  whether contains relationship terms
         for line in text:
             original = line
             if(line.strip().isspace()):
                 continue
-            #print line
             line = line.lower().strip()
             if(is_ignore(line)):
                 continue
@@ -74,28 +101,22 @@ for file_name in os.listdir("1. excel files"):
                 y.append(0)
                 continue
             #code is non zero,
+            #primary relationship sentence
             if relation.encode('ascii','ignore').lower() in line:
                 level.append(code)
                 y.append(1)
                 #print "sen "+line
                 #sen_file.write(file_name+" "+line+"\n")
-            elif(terms!=-9):
+            #following sentences stating relationship
+            elif(terms is not None and terms!=-9):
                 flag = 0
                 for i in terms:
-                    if(i=="as above" or i.isspace() or not i):
+                    if("as above" in i or i.isspace() or not i or "see above" in i):
                         continue
-                    i = i.strip()
-                    if(dic.has_key(i)):
-                        dic[i].append(file_name)
-                    else:
-                        dic[i] = [file_name]
                     if i in line:
                         y.append(1)
                         flag = 1
                         level.append(code)
-                        #print "sen "+line
-                        #sen_file.write(file_name+" "+line+"\n")
-                        #print line
                         break
                 if(flag==0):
                     y.append(0)
