@@ -12,12 +12,34 @@ from scipy.spatial.distance import cosine
 import matplotlib.pyplot as plt
 print ("load model")
 model = Word2Vec.load('/scratch/cluster/yezhang/bio_word',mmap='r')
+def average_vector(term):
+    sum = np.zeros(200)
+    length = 0.0
+    word_list = word_tokenize(term)
+    for w in word_list:
+	   if(w.lower() in model):
+	       sum += model[w.lower()]
+           length += 1
+    if length==0.0:
+       print term
+       return None
+    return sum/length
+def con_simi(u,v):
+    return 1 - cosine(u,v)
+
 IVDV = open("IV_DV.txt","rb")
 term_list = []
 for line in IVDV:
     term_list.append(line.strip().split())
 similar = []
 for i in range(len(term_list)):
+    vector1 = average_vector(term_list[i])
+    if(vector1 is None):
+        print term_list[i]
+        continue
     for j in range(i+1,len(term_list)):
-        similar.append(model.n_similarity(term_list[i],term_list[j]))
+       vector2 = average_vector(term_list[j])
+       if(vector2 is None):
+            continue
+       similar.append(con_simi(vector1,vector2))
 pickle.dump(similar,open("IVDV_simi","wb"))
