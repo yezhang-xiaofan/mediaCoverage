@@ -30,7 +30,7 @@ def con_simi(u,v):
 IVDV = open("IV_DV.txt","rb")
 term_list = []
 for line in IVDV:
-    term_list.append(line.strip().split())
+   term_list.append(line.strip())
 similar = []
 for i in range(len(term_list)):
     vector1 = average_vector(term_list[i])
