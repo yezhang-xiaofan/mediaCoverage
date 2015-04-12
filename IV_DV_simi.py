@@ -20,3 +20,4 @@ similar = []
 for i in range(len(term_list)):
     for j in range(i+1,len(term_list)):
         similar.append(model.n_similarity(term_list[i],term_list[j]))
+pickle.dump(similar,open("IVDV_simi","wb"))
