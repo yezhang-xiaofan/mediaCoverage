@@ -77,12 +77,16 @@ def process(file):
             label = 0
     write_file.write(title+" "+str(label)+"\n")
    #readline for date
-    date = file.readline()
+    #date = file.readline()
     #write_file.write(title.strip()+"\n")
     sentences  = file.readlines()
 
     #check main body
     for s in sentences:
+         if "for immediate release" in s.lower():
+             continue
+         if "for more information" in s.lower():
+             break
          label = 0
          for term in dict:
                pattern = r'\b'+term+r'\b'
@@ -92,7 +96,7 @@ def process(file):
          if(label==1):
             if(check_term(s)==False):
                 label = 0
-         write_file.write(s.strip()+"\t"+str(label)+"\n")
+         write_file.write(s.strip().lower()+"\t"+str(label)+"\n")
     file.close()
     write_file.close()
 for file in os.listdir(root):
