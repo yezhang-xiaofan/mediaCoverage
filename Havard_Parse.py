@@ -1,4 +1,5 @@
 __author__ = 'zhangye'
+#this program parses Harvard press release from the website
 from bs4 import BeautifulSoup
 import requests
 root = "http://www.hsph.harvard.edu/news/press-release/"
