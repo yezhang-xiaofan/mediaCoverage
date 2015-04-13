@@ -2,6 +2,7 @@ __author__ = 'zhangye'
 #this program parses Harvard press release from the website
 from bs4 import BeautifulSoup
 import requests
+import nltk
 root = "http://www.hsph.harvard.edu/news/press-release/"
 year = [2008,2009,2010,2011,2012,2013,2014,2015]
 links2 = []
@@ -47,7 +48,9 @@ for link in links2:
     file.write(title.get_text().encode("ascii","ignore").split('|')[0]+"\n")
     for s in allsentences:
         if(s.get_text()=='###'):break
-        file.write(s.get_text().encode("ascii","ignore")+"\n")
+        sentences = nltk.sent_tokenize(s.get_text().encode("ascii","ignore"))
+        for s1 in sentences:
+            file.write(s1+"\n")
     i += 1
     file.close()
 

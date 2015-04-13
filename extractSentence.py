@@ -160,12 +160,22 @@ for file_name in os.listdir("PR_Oxford_Sentence"):
         labeled_y.append(label)
     temp.close()
 
-#sentences += labeled_sen
-#y += labeled_y
-vectorizer = CountVectorizer(ngram_range=(1,2), stop_words="english",
-                                    min_df=2,
+for file_name in os.listdir("PR_Harvard"):
+    if(not file_name.endswith(".txt")):
+        continue
+    temp = open("PR_Harvard/"+file_name)
+    for line in temp:
+        line = line.strip()
+        label = int(line[-1].strip())
+        sen = line[:-1]
+        labeled_sen.append(sen.strip())
+        labeled_y.append(label)
+    temp.close()
+
+vectorizer = CountVectorizer(ngram_range=(1), stop_words="english",
+                                    min_df=1,
                                     #token_pattern=r"(?u)[a-zA-Z0-9-_/*][a-zA-Z0-9-_/*]+\b",
-                                    binary=False, max_features=50000)
+                                    binary=False)
 #sentences = vectorizer.fit_transform(sentences)
 y = np.array(y)
 #relation_index = np.nonzero(y)
