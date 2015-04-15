@@ -20,6 +20,7 @@ model = Word2Vec.load('/scratch/cluster/yezhang/bio_word',mmap='r')
 from nltk.tokenize import RegexpTokenizer
 from scipy.sparse import coo_matrix, hstack
 import math
+#from relation_term_simi import con_simi
 #read Chambers sentences files
 directory = 'Chambers_sen'
 Documents = []
@@ -31,8 +32,8 @@ for file in os.listdir(directory):
 stopwords = (open("english",'rb').read().splitlines())
 def check_simi(s1,s2):
     tokenizer = RegexpTokenizer(r'\w+')
-    t1 = filter(lambda x:x not in stopwords,tokenizer.tokenize(s1.lower()))
-    t2 = filter(lambda x:x not in stopwords,tokenizer.tokenize(s2.lower()))
+    t1 = filter(lambda x:x not in stopwords and x in model,tokenizer.tokenize(s1.lower()))
+    t2 = filter(lambda x:x not in stopwords and x in model,tokenizer.tokenize(s2.lower()))
     temp = model.n_similarity(t1,t2)
     if(math.isnan(temp)):
         return float('inf')
