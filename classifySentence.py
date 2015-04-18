@@ -42,6 +42,7 @@ def check_simi(s1,s2):
 
 simi = []
 
+
 #j = 0
 for d in Documents:
     for i in range(len(d)):
@@ -93,10 +94,10 @@ for file_name in os.listdir("PR_Oxford_Sentence"):
         sen = line[:-1]
         labeled_sen.append(sen.strip())
         if(i<=2):
-            labeled_y.append(1)
+            labeled_y.append(label)
         else:
-            labeled_y.append(0)
-    #temp.close()
+            labeled_y.append(label)
+    temp.close()
 
 
 labeled_sen_Hv= []
@@ -114,11 +115,11 @@ for file_name in os.listdir("Harvard_Sentence"):
         sen = line[:-1]
         labeled_sen_Hv.append(sen.strip())
         if(i<=2):
-  	    labeled_y_Hv.append(1)
+  	    labeled_y_Hv.append(label)
         else:
-            labeled_y_Hv.append(0)
-        #labeled_y_Hv.append(label)
-    #temp.close(
+            labeled_y_Hv.append(label)
+    temp.close()
+
 parameters = [.1,0.01,.001,.0001]
 #parameters = [.001]
 kf = cross_validation.KFold((num_Doc),n_folds=5,shuffle=True)
@@ -138,13 +139,12 @@ for l in label_weight:
             train_label = labels + labeled_y +labeled_y_Hv
             test_sentence = [sen.strip()[:-1] for t in test_index for sen in Documents[t]]
             test_label = [int(sen.strip()[-1])for t in test_index for sen in Documents[t]]
-            lr = linear_model.SGDClassifier(loss='log',penalty='l2',fit_intercept=True,class_weight='auto',alpha=p,n_iter=np.ceil((10**6)/len(train_sentence)))
-            train_sentence_sparse = vectorizer.fit_transform(train_sentence)
+
             test_sentence_sparse = vectorizer.transform(test_sentence)
             ins_weight = np.ones(len(sentences))
             ins_weight = np.concatenate((ins_weight,np.ones(len(labeled_y+labeled_y_Hv))*l))
-            #train_data = hstack([train_sentence_sparse,np.array(list(itemgetter(*train_index)(simi))).reshape((len(train_index),1))])
-           # test_data = hstack([test_sentence_sparse,np.array(list(itemgetter(*test_index)(simi))).reshape((len(test_index),1))]) 
+            train_data = hstack([train_sentence_sparse,np.array(list(itemgetter(*train_index)(simi))).reshape((len(train_index),1))])
+            test_data = hstack([test_sentence_sparse,np.array(list(itemgetter(*test_index)(simi))).reshape((len(test_index),1))]) 
             lr.fit(train_sentence_sparse,np.array(train_label),sample_weight=ins_weight)
             predict = lr.predict(test_sentence_sparse)
 
