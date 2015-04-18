@@ -132,12 +132,12 @@ for l in label_weight:
         #lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto',C=p)
         mean = []
         for train_index, test_index in kf:
-            sentences = [sen.strip()[:-1] for doc in Documents[train_index] for sen in doc ]
-            labels = [int(sen.strip()[-1]) for doc in Documents[train_index] for sen in doc ]
+            sentences = [sen.strip()[:-1] for t in train_index for sen in Documents[t]]
+            labels = [int(sen.strip()[-1]) for t in train_index for sen in Documents[t]]
             train_sentence = sentences + labeled_sen + labeled_sen_Hv
             train_label = labels + labeled_y +labeled_y_Hv
-            test_sentence = [sen.strip()[:-1] for doc in Documents[test_index] for sen in doc]
-            test_label = [int(sen.strip()[-1])for doc in Documents[test_index] for sen in doc ]
+            test_sentence = [sen.strip()[:-1] for t in test_index for sen in Documents[t]]
+            test_label = [int(sen.strip()[-1])for t in test_index for sen in Documents[t]]
             lr = linear_model.SGDClassifier(loss='log',penalty='l2',fit_intercept=True,class_weight='auto',alpha=p,n_iter=np.ceil((10**6)/len(train_sentence)))
             train_sentence_sparse = vectorizer.fit_transform(train_sentence)
             test_sentence_sparse = vectorizer.transform(test_sentence)
