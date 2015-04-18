@@ -41,21 +41,21 @@ def check_simi(s1,s2):
 
 
 simi = []
-
+pos = []
 
 #j = 0
 for d in Documents:
+    temp_simi = []
+    temp_pos = []
     for i in range(len(d)):
         if(i==0 or i==1 or i ==2):
-            simi.append(1)
+            temp_pos.append(1)
+            temp_simi.append(1)
             continue
-        temp0 = check_simi(d[i],d[0])
-        temp1 = check_simi(d[i],d[1])
-        temp2 = check_simi(d[i],d[2])
-        if(temp0>=.9 or temp1>=.9 or temp2 >=.9):
-            simi.append(1)
-        else:
-            simi.append(0)
+        temp_simi.append(max([check_simi(d[i],d[0]),check_simi(d[i],d[1]),check_simi(d[i],d[2])]))
+        temp_pos.append(0)
+    simi.append(temp_simi)
+    pos.append(temp_pos)
 
 sentences = []
 y = []
@@ -80,30 +80,34 @@ labeled_y = []
 
 #read the Oxford press release labeled by the dictionary terms
 
-
-
+Ox_simi = []
+Ox_pos = []
 for file_name in os.listdir("PR_Oxford_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
     temp = open("PR_Oxford_Sentence/"+file_name,'rb')
-    i = 0
     temp = temp.readlines()
     for i in range(len(temp)):
-	line = temp[i]
+        line = temp[i]
         line = line.strip()
         label = int(line[-1].strip())
         sen = line[:-1]
         labeled_sen.append(sen.strip())
         if(i<=2):
             labeled_y.append(1)
+            Ox_simi.append(1)
+            Ox_pos.append(1)
         else:
             labeled_y.append(0)
+            Ox_simi.append(max([check_simi(temp[i],temp[0]),check_simi(temp[i],temp[1]),check_simi(temp[i],temp[2])]))
+            Ox_pos.append(0)
    # temp.close()
 
 
 labeled_sen_Hv= []
 labeled_y_Hv= []
-
+Hv_simi = []
+Hv_pos = []
 for file_name in os.listdir("Harvard_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
@@ -112,13 +116,17 @@ for file_name in os.listdir("Harvard_Sentence"):
     for i in range(len(temp)):
         line = temp[i]
         line = line.strip()
-        label = int(line[-1].strip())
+        #label = int(line[-1].strip())
         sen = line[:-1]
         labeled_sen_Hv.append(sen.strip())
         if(i<=2):
-  	    labeled_y_Hv.append(1)
+            Hv_simi.append(1)
+  	        labeled_y_Hv.append(1)
+            Hv_pos.append(1)
         else:
             labeled_y_Hv.append(0)
+            Hv_simi.append(max([check_simi(temp[i],temp[0]),check_simi(temp[i],temp[1]),check_simi(temp[i],temp[2])]))
+            Hv_pos.append(0)
 #    temp.close()
 
 parameters = [.1,0.01,.001,.0001]
@@ -146,10 +154,22 @@ for l in label_weight:
             ins_weight = np.ones(len(sentences))
             ins_weight = np.concatenate((ins_weight,np.ones(len(labeled_y+labeled_y_Hv))*l))
             lr.fit(train_sentence_sparse,np.array(train_label),sample_weight=ins_weight)
-            #train_data = hstack([train_sentence_sparse,np.array(list(itemgetter(*train_index)(simi))).reshape((len(train_index),1))])
-            #test_data = hstack([test_sentence_sparse,np.array(list(itemgetter(*test_index)(simi))).reshape((len(test_index),1))]) 
-            lr.fit(train_sentence_sparse,np.array(train_label),sample_weight=ins_weight)
-            predict = lr.predict(test_sentence_sparse)
+
+            #insert similarity features
+            simi_fea_train = [s for t in train_index for s in simi[t]] + Ox_simi + Hv_simi
+            simi_fea_test = [s for t in test_index for s in simi[t]]
+            train_data = hstack([train_sentence_sparse,np.array(simi_fea_train).reshape((len(train_label),1))])
+            test_data = hstack([test_sentence_sparse,np.array(simi_fea_test).reshape((len(test_label),1))])
+
+            #insert position features
+            pos_fea_train = [s for t in train_index for s in pos[t]] + Ox_pos + Hv_pos
+            pos_fea_test = [s for t in test_index for s in pos[t]]
+            train_data = hstack([train_data,np.array(pos_fea_train).reshape((len(train_label),1))])
+            test_data = hstack([test_data,np.array(pos_fea_test).reshape((len(test_label),1))])
+
+
+            lr.fit(train_data,np.array(train_label),sample_weight=ins_weight)
+            predict = lr.predict(test_data)
 
             f1 = f1_score(test_label,predict)
             mean.append(f1)
