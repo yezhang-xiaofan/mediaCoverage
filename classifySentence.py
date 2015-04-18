@@ -81,6 +81,7 @@ labeled_y = []
 #read the Oxford press release labeled by the dictionary terms
 
 
+
 for file_name in os.listdir("PR_Oxford_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
@@ -94,10 +95,10 @@ for file_name in os.listdir("PR_Oxford_Sentence"):
         sen = line[:-1]
         labeled_sen.append(sen.strip())
         if(i<=2):
-            labeled_y.append(label)
+            labeled_y.append(1)
         else:
-            labeled_y.append(label)
-    temp.close()
+            labeled_y.append(0)
+   # temp.close()
 
 
 labeled_sen_Hv= []
@@ -115,14 +116,14 @@ for file_name in os.listdir("Harvard_Sentence"):
         sen = line[:-1]
         labeled_sen_Hv.append(sen.strip())
         if(i<=2):
-  	    labeled_y_Hv.append(label)
+  	    labeled_y_Hv.append(1)
         else:
-            labeled_y_Hv.append(label)
-    temp.close()
+            labeled_y_Hv.append(0)
+#    temp.close()
 
 parameters = [.1,0.01,.001,.0001]
 #parameters = [.001]
-kf = cross_validation.KFold((num_Doc),n_folds=5,shuffle=True)
+kf = cross_validation.KFold((num_Doc),n_folds=5,shuffle=False)
 #lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
 label_weight = [0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0]
 #label_weight = [0.1]
@@ -139,15 +140,14 @@ for l in label_weight:
             train_label = labels + labeled_y +labeled_y_Hv
             test_sentence = [sen.strip()[:-1] for t in test_index for sen in Documents[t]]
             test_label = [int(sen.strip()[-1])for t in test_index for sen in Documents[t]]
-            train_sentence_sparse = CountVectorizer.fit_transform(train_sentence)
-            lr = SGDClassifier(loss="log",fit_intercept=True,class_weight='auto',penalty='l2',penalty=p,
-                               shuffle=False,n_iter=np.ceil((10**6)/(len(train_label))))
+            train_sentence_sparse = vectorizer.fit_transform(train_sentence)
+            lr = SGDClassifier(loss="log",fit_intercept=True,class_weight='auto',alpha=p,shuffle=False,n_iter=np.ceil((10**6)/(len(train_label))))
             test_sentence_sparse = vectorizer.transform(test_sentence)
             ins_weight = np.ones(len(sentences))
             ins_weight = np.concatenate((ins_weight,np.ones(len(labeled_y+labeled_y_Hv))*l))
             lr.fit(train_sentence_sparse,np.array(train_label),sample_weight=ins_weight)
-            train_data = hstack([train_sentence_sparse,np.array(list(itemgetter(*train_index)(simi))).reshape((len(train_index),1))])
-            test_data = hstack([test_sentence_sparse,np.array(list(itemgetter(*test_index)(simi))).reshape((len(test_index),1))]) 
+            #train_data = hstack([train_sentence_sparse,np.array(list(itemgetter(*train_index)(simi))).reshape((len(train_index),1))])
+            #test_data = hstack([test_sentence_sparse,np.array(list(itemgetter(*test_index)(simi))).reshape((len(test_index),1))]) 
             lr.fit(train_sentence_sparse,np.array(train_label),sample_weight=ins_weight)
             predict = lr.predict(test_sentence_sparse)
 
