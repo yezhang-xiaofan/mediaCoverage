@@ -3,7 +3,6 @@ __author__ = 'zhangye'
 import os
 import xlrd
 Chambers_sentence = "Chambers_sen/"
-import os
 from operator import itemgetter
 from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
@@ -75,44 +74,55 @@ for d in Documents:
 
 labeled_sen = []
 labeled_y = []
-'''
+
 #read the Oxford press release labeled by the dictionary terms
 
 for file_name in os.listdir("PR_Oxford_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
-    temp = open("PR_Oxford_Sentence/"+file_name)
-    for line in temp:
+    temp = open("PR_Oxford_Sentence/"+file_name,'rb')
+    i = 0
+    temp = temp.readlines()
+    for i in range(len(temp)):
+	line = temp[i]
         line = line.strip()
         label = int(line[-1].strip())
         sen = line[:-1]
         labeled_sen.append(sen.strip())
-        labeled_y.append(label)
-    temp.close()
-'''
+        if(i<=2):
+            labeled_y.append(1)
+        else:
+            labeled_y.append(0)
+    #temp.close()
+
 
 labeled_sen_Hv= []
 labeled_y_Hv= []
-'''
+
 for file_name in os.listdir("Harvard_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
-    temp = open("Harvard_Sentence/"+file_name)
-    for line in temp:
+    temp = open("Harvard_Sentence/"+file_name,'rb')
+    temp = temp.readlines()
+    for i in range(len(temp)):
+        line = temp[i]
         line = line.strip()
         label = int(line[-1].strip())
         sen = line[:-1]
         labeled_sen_Hv.append(sen.strip())
-        labeled_y_Hv.append(label)
-    temp.close()
-'''
+        if(i<=2):
+  	    labeled_y_Hv.append(1)
+        else:
+            labeled_y_Hv.append(0)
+        #labeled_y_Hv.append(label)
+    #temp.close()
 
 parameters = [.1,0.01,.001,.0001]
 #parameters = [.001]
 kf = cross_validation.KFold(len(y),n_folds=5,shuffle=True)
 #lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
-#label_weight = [0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0]
-label_weight = [0.1]
+label_weight = [0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0]
+#label_weight = [0.1]
 for l in label_weight:
     best_p = 0.0
     best_r = 0.0
@@ -129,10 +139,10 @@ for l in label_weight:
             test_label = list(itemgetter(*test_index)(y))
             ins_weight = np.ones(len(train_index))
             ins_weight = np.concatenate((ins_weight,np.ones(len(labeled_y+labeled_y_Hv))*l))
-            train_data = hstack(train_sentence_sparse,itemgetter(*train_index)(simi))
-            test_data = hstack(test_sentence_sparse,itemgetter(*test_index)(simi))
-            lr.fit(train_data,np.array(train_label),sample_weight=ins_weight)
-            predict = lr.predict(test_data)
+            #train_data = hstack([train_sentence_sparse,np.array(list(itemgetter(*train_index)(simi))).reshape((len(train_index),1))])
+           # test_data = hstack([test_sentence_sparse,np.array(list(itemgetter(*test_index)(simi))).reshape((len(test_index),1))]) 
+            lr.fit(train_sentence_sparse,np.array(train_label),sample_weight=ins_weight)
+            predict = lr.predict(test_sentence_sparse)
 
             f1 = f1_score(test_label,predict)
             mean.append(f1)

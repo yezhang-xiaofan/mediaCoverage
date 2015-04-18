@@ -75,7 +75,7 @@ def process(file):
     if(label==1):
         if(check_term(title)==False):
             label = 0
-    write_file.write(title+" "+str(label)+"\n")
+    write_file.write(title.strip()+"\t"+str(label)+"\n")
    #readline for date
     #date = file.readline()
     #write_file.write(title.strip()+"\n")
