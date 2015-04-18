@@ -79,6 +79,7 @@ labeled_y = []
 
 #read the Oxford press release labeled by the dictionary terms
 
+
 for file_name in os.listdir("PR_Oxford_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
@@ -117,11 +118,10 @@ for file_name in os.listdir("Harvard_Sentence"):
         else:
             labeled_y_Hv.append(0)
         #labeled_y_Hv.append(label)
-    #temp.close()
-
+    #temp.close(
 parameters = [.1,0.01,.001,.0001]
 #parameters = [.001]
-kf = cross_validation.KFold(len(num_Doc),n_folds=5,shuffle=True)
+kf = cross_validation.KFold((num_Doc),n_folds=5,shuffle=True)
 #lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
 label_weight = [0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0]
 #label_weight = [0.1]
@@ -141,7 +141,7 @@ for l in label_weight:
             lr = linear_model.SGDClassifier(loss='log',penalty='l2',fit_intercept=True,class_weight='auto',alpha=p,n_iter=np.ceil((10**6)/len(train_sentence)))
             train_sentence_sparse = vectorizer.fit_transform(train_sentence)
             test_sentence_sparse = vectorizer.transform(test_sentence)
-            ins_weight = np.ones(len(train_sentence))
+            ins_weight = np.ones(len(sentences))
             ins_weight = np.concatenate((ins_weight,np.ones(len(labeled_y+labeled_y_Hv))*l))
             #train_data = hstack([train_sentence_sparse,np.array(list(itemgetter(*train_index)(simi))).reshape((len(train_index),1))])
            # test_data = hstack([test_sentence_sparse,np.array(list(itemgetter(*test_index)(simi))).reshape((len(test_index),1))]) 
