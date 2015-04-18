@@ -139,10 +139,13 @@ for l in label_weight:
             train_label = labels + labeled_y +labeled_y_Hv
             test_sentence = [sen.strip()[:-1] for t in test_index for sen in Documents[t]]
             test_label = [int(sen.strip()[-1])for t in test_index for sen in Documents[t]]
-
+            train_sentence_sparse = CountVectorizer.fit_transform(train_sentence)
+            lr = SGDClassifier(loss="log",fit_intercept=True,class_weight='auto',penalty='l2',penalty=p,
+                               shuffle=False,n_iter=np.ceil((10**6)/(len(train_label))))
             test_sentence_sparse = vectorizer.transform(test_sentence)
             ins_weight = np.ones(len(sentences))
             ins_weight = np.concatenate((ins_weight,np.ones(len(labeled_y+labeled_y_Hv))*l))
+            lr.fit(train_sentence_sparse,np.array(train_label),sample_weight=ins_weight)
             train_data = hstack([train_sentence_sparse,np.array(list(itemgetter(*train_index)(simi))).reshape((len(train_index),1))])
             test_data = hstack([test_sentence_sparse,np.array(list(itemgetter(*test_index)(simi))).reshape((len(test_index),1))]) 
             lr.fit(train_sentence_sparse,np.array(train_label),sample_weight=ins_weight)
