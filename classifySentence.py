@@ -64,6 +64,8 @@ num_Doc = len(Documents)
 vectorizer = CountVectorizer(ngram_range=[1,2],min_df = 1,stop_words="english")
 dataset = {}
 i = 0
+
+'''
 for d in Documents:
     for i in range(len(d)):
         sen = d[i]
@@ -71,7 +73,7 @@ for d in Documents:
     for sen in d:
         y.append(int(sen.strip()[-1]))
         sentences.append((sen.strip()[:-1]))
-
+'''
 labeled_sen = []
 labeled_y = []
 
@@ -119,7 +121,7 @@ for file_name in os.listdir("Harvard_Sentence"):
 
 parameters = [.1,0.01,.001,.0001]
 #parameters = [.001]
-kf = cross_validation.KFold(len(y),n_folds=5,shuffle=True)
+kf = cross_validation.KFold(len(num_Doc),n_folds=5,shuffle=True)
 #lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
 label_weight = [0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0]
 #label_weight = [0.1]
@@ -130,14 +132,16 @@ for l in label_weight:
         #lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto',C=p)
         mean = []
         for train_index, test_index in kf:
-            train_sentence = list(itemgetter(*train_index)(sentences)) + labeled_sen + labeled_sen_Hv
-            train_label = list(itemgetter(*train_index)(y)) + labeled_y +labeled_y_Hv
-            test_sentence = list(itemgetter(*test_index)(sentences))
+            sentences = [sen.strip()[:-1] for doc in Documents[train_index] for sen in doc ]
+            labels = [int(sen.strip()[-1]) for doc in Documents[train_index] for sen in doc ]
+            train_sentence = sentences + labeled_sen + labeled_sen_Hv
+            train_label = labels + labeled_y +labeled_y_Hv
+            test_sentence = [sen.strip()[:-1] for doc in Documents[test_index] for sen in doc]
+            test_label = [int(sen.strip()[-1])for doc in Documents[test_index] for sen in doc ]
             lr = linear_model.SGDClassifier(loss='log',penalty='l2',fit_intercept=True,class_weight='auto',alpha=p,n_iter=np.ceil((10**6)/len(train_sentence)))
             train_sentence_sparse = vectorizer.fit_transform(train_sentence)
             test_sentence_sparse = vectorizer.transform(test_sentence)
-            test_label = list(itemgetter(*test_index)(y))
-            ins_weight = np.ones(len(train_index))
+            ins_weight = np.ones(len(train_sentence))
             ins_weight = np.concatenate((ins_weight,np.ones(len(labeled_y+labeled_y_Hv))*l))
             #train_data = hstack([train_sentence_sparse,np.array(list(itemgetter(*train_index)(simi))).reshape((len(train_index),1))])
            # test_data = hstack([test_sentence_sparse,np.array(list(itemgetter(*test_index)(simi))).reshape((len(test_index),1))]) 
