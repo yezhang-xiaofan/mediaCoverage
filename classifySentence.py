@@ -19,15 +19,50 @@ model = Word2Vec.load('/scratch/cluster/yezhang/bio_word',mmap='r')
 from nltk.tokenize import RegexpTokenizer
 from scipy.sparse import coo_matrix, hstack
 import math
+from textblob import TextBlob
+from nltk.tokenize import word_tokenize
+from scipy.spatial.distance import cosine
 #from relation_term_simi import con_simi
 #read Chambers sentences files
+#build a hash table for IV/DV keys is the index of documents
 directory = 'Chambers_sen'
+dir2 = "1. excel files"
 Documents = []
+IVDV = {}
+i = 0
 for file in os.listdir(directory):
     cur = open(directory+"/"+file,'rb')
     Documents.append(cur.readlines())
 
-#extract additional features
+#get average vector of a single IV/DV term (could be a single word or phrase)
+#return the sum and number of word in this IV/DV term
+def average_vector(term):
+    sum = np.zeros(200)
+    length = 0.0
+    word_list = word_tokenize(term)
+    for w in word_list:
+	   if(w.lower() in model):
+	       sum += model[w.lower()]
+           length += 1
+    return sum,length
+
+for file in os.listdir(dir2):
+    if(file.endswith("xls")):
+        book = xlrd.open_workbook("1. excel files/"+file)
+        first_sheet = book.sheet_by_index(0)
+        DV = first_sheet.cell(39,5).value
+        IV = first_sheet.cell(19,5).value
+        if(DV==-9 or IV==-9):
+            continue
+        DV = DV.encode('ascii','ignore')
+        IV = IV.encode('ascii','ignore')
+        DV = [w.lower() for w in list(TextBlob(DV).correct().words)]
+        IV = [w.lower() for w in list(TextBlob(IV).correct().words)]
+        IVDV[i] = average_vector(DV+IV)
+        i += 1
+
+
+#extract similarity features
 stopwords = (open("english",'rb').read().splitlines())
 def check_simi(s1,s2):
     tokenizer = RegexpTokenizer(r'\w+')
@@ -38,6 +73,17 @@ def check_simi(s1,s2):
         return float('inf')
     else:
         return temp
+
+
+#calcualte the closest similarity between the token in the sentence and average IV/DV in the training data
+def sen_IVDV_simi(sentence,average):
+    max_simi = 0.0
+    for s in sentence:
+        if s in model:
+            temp = 1 - cosine(model[s],average)
+            if(temp>max_simi):
+                max_simi = temp
+    return max_simi
 
 
 simi = []
@@ -137,6 +183,8 @@ kf = cross_validation.KFold((num_Doc),n_folds=5,shuffle=False)
 #lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto')
 label_weight = [0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0]
 #label_weight = [0.1]
+
+
 for l in label_weight:
     best_p = 0.0
     best_r = 0.0
@@ -144,20 +192,41 @@ for l in label_weight:
         #lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto',C=p)
         mean = []
         for train_index, test_index in kf:
+
+            #extract IV/DV from training data and get the average vector for IV/DV in the training set
+            length = 0.0
+            sum = np.zeros(200)
+            for t in train_index:
+                sum += IVDV[t][0]
+                length += IVDV[t][1]
+            average = sum/length
+
             sentences = [sen.strip()[:-1] for t in train_index for sen in Documents[t]]
             labels = [int(sen.strip()[-1]) for t in train_index for sen in Documents[t]]
             train_sentence = sentences + labeled_sen + labeled_sen_Hv
+
+            #insert features based on similarity between token in the target sentence and IV/DV
+
             train_label = labels + labeled_y +labeled_y_Hv
             test_sentence = [sen.strip()[:-1] for t in test_index for sen in Documents[t]]
             test_label = [int(sen.strip()[-1])for t in test_index for sen in Documents[t]]
             train_sentence_sparse = vectorizer.fit_transform(train_sentence)
             lr = SGDClassifier(loss="log",fit_intercept=True,class_weight='auto',alpha=p,shuffle=False,n_iter=np.ceil((10**6)/(len(train_label))))
             test_sentence_sparse = vectorizer.transform(test_sentence)
+
+            #insert features based on similarity between token in the target sentence and IV/DV
+            doc_terms_train = vectorizer.inverse_transform(train_sentence_sparse)
+            doc_terms_test = vectorizer.inverse_transform(test_sentence_sparse)
+            sen_IVDV_train = [sen_IVDV_simi(d,average) for d in doc_terms_train]
+            sen_IVDV_test = [sen_IVDV_simi(d,average) for d in doc_terms_test]
+
+
             ins_weight = np.ones(len(sentences))
             ins_weight = np.concatenate((ins_weight,np.ones(len(labeled_y+labeled_y_Hv))*l))
             lr.fit(train_sentence_sparse,np.array(train_label),sample_weight=ins_weight)
 
             #insert similarity features
+            #for each sentence, compare it with title and first two sentences
             simi_fea_train = [s for t in train_index for s in simi[t]] + Ox_simi + Hv_simi
             simi_fea_test = [s for t in test_index for s in simi[t]]
             train_data = hstack([train_sentence_sparse,np.array(simi_fea_train).reshape((len(train_label),1))])
@@ -168,6 +237,10 @@ for l in label_weight:
             pos_fea_test = [s for t in test_index for s in pos[t]]
             train_data = hstack([train_data,np.array(pos_fea_train).reshape((len(train_label),1))])
             test_data = hstack([test_data,np.array(pos_fea_test).reshape((len(test_label),1))])
+
+            #insert sentence IV/DV similarity feature
+            train_data = hstack([train_data,np.array(sen_IVDV_train).reshape((len(train_label),1))])
+            test_data = hstack([test_data,np.array(sen_IVDV_test).reshape((len(test_label),1))])
 
 
             lr.fit(train_data,np.array(train_label),sample_weight=ins_weight)
