@@ -82,6 +82,7 @@ labeled_y = []
 
 Ox_simi = []
 Ox_pos = []
+'''
 for file_name in os.listdir("PR_Oxford_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
@@ -103,11 +104,12 @@ for file_name in os.listdir("PR_Oxford_Sentence"):
             Ox_pos.append(0)
    # temp.close()
 
-
+'''
 labeled_sen_Hv= []
 labeled_y_Hv= []
 Hv_simi = []
 Hv_pos = []
+'''
 for file_name in os.listdir("Harvard_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
@@ -121,14 +123,14 @@ for file_name in os.listdir("Harvard_Sentence"):
         labeled_sen_Hv.append(sen.strip())
         if(i<=2):
             Hv_simi.append(1)
-  	        labeled_y_Hv.append(1)
+  	    labeled_y_Hv.append(1)
             Hv_pos.append(1)
         else:
             labeled_y_Hv.append(0)
             Hv_simi.append(max([check_simi(temp[i],temp[0]),check_simi(temp[i],temp[1]),check_simi(temp[i],temp[2])]))
             Hv_pos.append(0)
 #    temp.close()
-
+'''
 parameters = [.1,0.01,.001,.0001]
 #parameters = [.001]
 kf = cross_validation.KFold((num_Doc),n_folds=5,shuffle=False)
