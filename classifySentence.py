@@ -26,45 +26,43 @@ from scipy.spatial.distance import cosine
 #read Chambers sentences files
 #build a hash table for IV/DV keys is the index of documents
 directory = 'Chambers_sen'
-dir2 = "1. excel files"
+dir2 = "IV_DV"
 Documents = []
 IVDV = {}
 i = 0
+k = 0
+numToName = {}
 for file in os.listdir(directory):
-    cur = open(directory+"/"+file,'rb')
-    Documents.append(cur.readlines())
+    if(file.endswith(".txt")):
+    	cur = open(directory+"/"+file,'rb')
+    	Documents.append(cur.readlines())
+        numToName[k] = file        #map index to file name
 
 #get average vector of a single IV/DV term (could be a single word or phrase)
 #return the sum and number of word in this IV/DV term
 def average_vector(term):
     sum = np.zeros(200)
     length = 0.0
-    #word_list = word_tokenize(term)
+    term = term.split("\t")
     for w in term:
-	   if(w.lower() in model):
+	   if(w.lower() in model and w.lower() not in stopwords):
 	       sum += model[w.lower()]
            length += 1
     return (sum,length)
 
-stopwords = (open("english",'rb').read().splitlines())
+#read in the IV/DV terms
+#store IV/DV in the IVDV hash tabel
+#key is the filename
+#values include number of tokens and sum vector of all tokens in IV/DV
 for file in os.listdir(dir2):
-    if(file.endswith("xls")):
-        book = xlrd.open_workbook("1. excel files/"+file)
-        first_sheet = book.sheet_by_index(0)
-        DV = first_sheet.cell(39,5).value
-        IV = first_sheet.cell(19,5).value
-        if(DV==-9 or IV==-9):
-            continue
-        DV = DV.encode('ascii','ignore')
-        IV = IV.encode('ascii','ignore')
-        DV = [w.lower() for w in list(TextBlob(DV).correct().words) if w not in stopwords]
-        IV = [w.lower() for w in list(TextBlob(IV).correct().words) if w not in stopwords]
-        IVDV[i] = average_vector(DV+IV)
-        i += 1
-print "finish processing IV/DV"
+    if(file.endswith(".txt")):
+        IV_DV_file = open(dir2+"/"+file,'rb')
+        lines = IV_DV_file.readlines()
+        IVDV[file] = average_vector(lines)
+
 
 #extract similarity features
-
+stopwords = (open("english",'rb').read().splitlines())
 def check_simi(s1,s2):
     tokenizer = RegexpTokenizer(r'\w+')
     t1 = filter(lambda x:x not in stopwords and x in model,tokenizer.tokenize(s1.lower()))
@@ -80,7 +78,7 @@ def check_simi(s1,s2):
 def sen_IVDV_simi(sentence,average):
     max_simi = 0.0
     for s in sentence:
-        if s in model:
+        if s in model and s not in stopwords:
             temp = 1 - cosine(model[s],average)
             if(temp>max_simi):
                 max_simi = temp
@@ -129,6 +127,7 @@ labeled_y = []
 
 Ox_simi = []
 Ox_pos = []
+'''
 for file_name in os.listdir("PR_Oxford_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
@@ -150,11 +149,12 @@ for file_name in os.listdir("PR_Oxford_Sentence"):
             Ox_pos.append(0)
    # temp.close()
 
-
+'''
 labeled_sen_Hv= []
 labeled_y_Hv= []
 Hv_simi = []
 Hv_pos = []
+'''
 for file_name in os.listdir("Harvard_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
@@ -175,7 +175,7 @@ for file_name in os.listdir("Harvard_Sentence"):
             Hv_simi.append(max([check_simi(temp[i],temp[0]),check_simi(temp[i],temp[1]),check_simi(temp[i],temp[2])]))
             Hv_pos.append(0)
 #    temp.close()
-
+'''
 parameters = [.1,0.01,.001,.0001]
 #parameters = [.001]
 kf = cross_validation.KFold((num_Doc),n_folds=5,shuffle=False)
@@ -191,20 +191,18 @@ for l in label_weight:
         #lr = LogisticRegression(penalty="l2", fit_intercept=True,class_weight='auto',C=p)
         mean = []
         for train_index, test_index in kf:
-
             #extract IV/DV from training data and get the average vector for IV/DV in the training set
             length = 0.0
             sum = np.zeros(200)
             for t in train_index:
-                sum += IVDV[t][0]
-                length += IVDV[t][1]
+                nameofFile = numToName[t]
+                sum += IVDV[nameofFile][0]
+                length += IVDV[nameofFile][1]
             average = sum/length
 
             sentences = [sen.strip()[:-1] for t in train_index for sen in Documents[t]]
             labels = [int(sen.strip()[-1]) for t in train_index for sen in Documents[t]]
             train_sentence = sentences + labeled_sen + labeled_sen_Hv
-
-            #insert features based on similarity between token in the target sentence and IV/DV
 
             train_label = labels + labeled_y +labeled_y_Hv
             test_sentence = [sen.strip()[:-1] for t in test_index for sen in Documents[t]]
