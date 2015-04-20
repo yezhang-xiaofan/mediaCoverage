@@ -26,41 +26,32 @@ from scipy.spatial.distance import cosine
 #read Chambers sentences files
 #build a hash table for IV/DV keys is the index of documents
 directory = 'Chambers_sen'
-dir2 = "1. excel files"
+dir2 = "IV_DV"
 Documents = []
 IVDV = {}
 i = 0
+k = 0
+numToName = {}
 for file in os.listdir(directory):
-    cur = open(directory+"/"+file,'rb')
-    Documents.append(cur.readlines())
+    if(file.endswith(".txt")):
+    	cur = open(directory+"/"+file,'rb')
+    	Documents.append(cur.readlines())
+        numToName[k] = file
 
 #get average vector of a single IV/DV term (could be a single word or phrase)
 #return the sum and number of word in this IV/DV term
 def average_vector(term):
     sum = np.zeros(200)
     length = 0.0
-    word_list = word_tokenize(term)
-    for w in word_list:
+#    word_list = word_tokenize(term)
+    for w in term:
 	   if(w.lower() in model):
 	       sum += model[w.lower()]
            length += 1
-    return sum,length
+    return (sum,length)
 
-for file in os.listdir(dir2):
-    if(file.endswith("xls")):
-        book = xlrd.open_workbook("1. excel files/"+file)
-        first_sheet = book.sheet_by_index(0)
-        DV = first_sheet.cell(39,5).value
-        IV = first_sheet.cell(19,5).value
-        if(DV==-9 or IV==-9):
-            continue
-        DV = DV.encode('ascii','ignore')
-        IV = IV.encode('ascii','ignore')
-        DV = [w.lower() for w in list(TextBlob(DV).correct().words)]
-        IV = [w.lower() for w in list(TextBlob(IV).correct().words)]
-        IVDV[i] = average_vector(DV+IV)
-        i += 1
-
+#read in the IV/DV terms
+for file in os.listdir(
 
 #extract similarity features
 stopwords = (open("english",'rb').read().splitlines())
@@ -74,6 +65,9 @@ def check_simi(s1,s2):
     else:
         return temp
 
+#read in the IV/DV file
+
+IV_DV_file = open()
 
 #calcualte the closest similarity between the token in the sentence and average IV/DV in the training data
 def sen_IVDV_simi(sentence,average):
