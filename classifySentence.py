@@ -39,13 +39,14 @@ for file in os.listdir(directory):
 def average_vector(term):
     sum = np.zeros(200)
     length = 0.0
-    word_list = word_tokenize(term)
-    for w in word_list:
+    #word_list = word_tokenize(term)
+    for w in term:
 	   if(w.lower() in model):
 	       sum += model[w.lower()]
            length += 1
-    return sum,length
+    return (sum,length)
 
+stopwords = (open("english",'rb').read().splitlines())
 for file in os.listdir(dir2):
     if(file.endswith("xls")):
         book = xlrd.open_workbook("1. excel files/"+file)
@@ -56,14 +57,14 @@ for file in os.listdir(dir2):
             continue
         DV = DV.encode('ascii','ignore')
         IV = IV.encode('ascii','ignore')
-        DV = [w.lower() for w in list(TextBlob(DV).correct().words)]
-        IV = [w.lower() for w in list(TextBlob(IV).correct().words)]
+        DV = [w.lower() for w in list(TextBlob(DV).correct().words) if w not in stopwords]
+        IV = [w.lower() for w in list(TextBlob(IV).correct().words) if w not in stopwords]
         IVDV[i] = average_vector(DV+IV)
         i += 1
-
+print "finish processing IV/DV"
 
 #extract similarity features
-stopwords = (open("english",'rb').read().splitlines())
+
 def check_simi(s1,s2):
     tokenizer = RegexpTokenizer(r'\w+')
     t1 = filter(lambda x:x not in stopwords and x in model,tokenizer.tokenize(s1.lower()))
