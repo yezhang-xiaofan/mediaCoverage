@@ -24,8 +24,8 @@ from sklearn.feature_selection import SelectPercentile, f_classif,SelectKBest
 import numpy as np
 from numpy.linalg import norm
 import re
-
 import pylab
+from textblob import TextBlob
 def predict_PR():
 
     #feature selection
@@ -151,8 +151,15 @@ def load_articles(articles_dir="1. excel files"):
     pattern = re.compile(r'\bresults\b')
     target = open(inspect+"_abstract", 'w')
     journal_pos = {}
+    len_abstract = 0
+    len_title = 0
+    num_article = 0
     for article_file_name in article_files:
         article = read_in_article(os.path.join(articles_dir, article_file_name))
+        abstract = article["abstract"]
+        title = article["title"]
+        len_abstract += len(TextBlob(abstract).words)
+        len_title += len(TextBlob(title).words)
         #pull out abstracts containing certain words
         if(pattern.search(article["abstract"])):
             target.write(article["abstract"]+"\n"+article["journal"]+"\n")
@@ -164,6 +171,8 @@ def load_articles(articles_dir="1. excel files"):
 
         articles.append(article)
     target.close()
+    print "total length of titles in positive instances: "+ str(len_title)
+    print "total length of abstracts in positive instances: "+ str(len_abstract)
     return articles,journal_pos
 
 
@@ -178,8 +187,14 @@ def load_matched_samples(matched_dir="7. Matched samples"):
     pattern = re.compile(r'\bresults\b')
     target = open(inspect+"_abs_neg", 'w')
     journal_neg = {}
+    len_abstract = 0
+    len_title = 0
     for article_file_name in article_files:
         article = read_in_matched_samples(os.path.join(matched_dir, article_file_name))
+        abstract = article["abstract"]
+        title = article["title"]
+        len_abstract += len(TextBlob(abstract).words)
+        len_title += len(TextBlob(title).words)
         #pull out abstracts of negative examples containing certain words
         if(pattern.search(article["abstract"])):
             target.write(article["abstract"]+"\n")
@@ -190,6 +205,8 @@ def load_matched_samples(matched_dir="7. Matched samples"):
             else:
                 journal_neg[article["journal"]] = 1
         articles.append(article)
+    print "total length of titles in negative instances: "+ str(len_title)
+    print "total length of abstracts in negative instances: "+ str(len_abstract)
     return articles,journal_neg
 
 def read_in_article(article_path):
@@ -200,6 +217,7 @@ def read_in_article(article_path):
                 "abstract":abstract, "affiliation":affiliation,"block":basename(input_file.name)[0:9],"journal":journal}
 
 def read_in_matched_samples(article_path):
+
     with open(article_path, 'rU') as input_file:
         reader = csv.reader(input_file)
         pmid, title, journal,authors, affiliation, abstract,mesh = reader.next()

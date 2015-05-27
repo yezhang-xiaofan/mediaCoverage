@@ -10,10 +10,12 @@ print "haha"
 from predictNConPR import get_X_y
 from BS_PR import bootstrap_indexes
 import matplotlib.pyplot as plt
+import cPickle
 import BS_PR
+import math
 def con_Interval():
     X, y, vectorizer = get_X_y()
-    BS_PR.sort_ratio(X,y,vectorizer)
+    #BS_PR.sort_ratio(X,y,vectorizer)
     n_samples = 1000
     bs_indexes = bootstrap_indexes(X,n_samples)
     w_lists = np.zeros((n_samples,X.shape[1]))
@@ -39,6 +41,14 @@ def con_Interval():
     p_upper = mean + (1.96)*std
     sort_p_lower = sorted(zip(p_lower.tolist(),vectorizer.get_feature_names(),range(len(mean))),reverse=True)
     sort_p_upper = sorted(zip(p_upper.tolist(),vectorizer.get_feature_names(),range(len(mean))))
+    save_dict = {}
+    save_dict["w_list"] = w_lists
+    save_dict["sort_p_lower"] = sort_p_lower
+    save_dict["sort_p_upper"] = sort_p_upper
+    dict_file = open("BS_NConPR/coefficient.pkl","wb")
+    cPickle.dump(save_dict,dict_file,cPickle.HIGHEST_PROTOCOL)
+    dict_file.close()
+
     texify_most_informative_features(sort_p_lower,sort_p_upper)
 
     #draw top features for positive instances

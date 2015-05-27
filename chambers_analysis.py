@@ -111,8 +111,8 @@ def get_X_y():
 
 def get_vectorizer(article_texts, max_features=50000):
     vectorizer = CountVectorizer(ngram_range=(1,2), stop_words="english",
-                                    min_df=2,
-                                    token_pattern=r"(?u)[a-zA-Z-_/*][a-zA-Z-_/*]+\b",
+                                    min_df=1,
+                                    token_pattern=r"(?u)95% confidence interval|95% CI|95% ci|[a-zA-Z0-9_*\-][a-zA-Z0-9_/*\-]+",
                                     binary=False, max_features=max_features)
     vectorizer.fit(article_texts)
     return vectorizer
@@ -172,7 +172,7 @@ def read_in_article(article_path):
 # A fair amount of this is copy-pasta'd from the factiva
 # module @TODO re-factor to avoid this duplication.
 ##########################################################
-
+import re
 def process_article(article):
     def prepend_to_words(text, prepend_str="TI-", split_on=" "):
         return " ".join(
@@ -201,7 +201,7 @@ def process_article(article):
     all_features = [prepend_to_words(article["title"], prepend_str="TI-"),
                     article["abstract"],
                     #prepend_to_words(article["affiliation"], prepend_str="AF-"),
-                    prepend_to_words(article["mesh"].replace(" ", "-"),
+                    prepend_to_words(re.sub(' +',' ',article["mesh"]).replace(",","").replace("&","").replace(" ", "-"),
                                 prepend_str="MH-", split_on="\n")]
 
 

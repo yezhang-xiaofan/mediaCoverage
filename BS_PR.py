@@ -8,11 +8,14 @@ from scipy.stats import norm
 from sklearn.linear_model import LogisticRegression
 from sklearn import cross_validation
 from sklearn import grid_search
-import json
+import cPickle
 import matplotlib.pyplot as plt
+import math
+import seaborn as sns
+import pickle
 def con_Interval():
     X, y, vectorizer = predictPR.get_X_y()
-    sort_ratio(X,y,vectorizer)
+    #sort_ratio(X,y,vectorizer)
     n_samples = 1000
     bs_indexes = bootstrap_indexes(X,n_samples)
     w_lists = np.zeros((n_samples,X.shape[1]))
@@ -21,6 +24,7 @@ def con_Interval():
     parameters = {"C":[100,10,1.0,.1, .01, .001,0.0001]}
     clf0 = grid_search.GridSearchCV(lr, parameters,scoring='roc_auc',cv=kf)
     clf0.fit(X,y)
+    print "best auc score is: " + str(clf0.best_score_)
     best_C = clf0.best_params_['C']
     for i in range(n_samples):
         train_X = X[bs_indexes[i]]
@@ -38,16 +42,31 @@ def con_Interval():
     p_upper = mean + (1.96)*std
     sort_p_lower = sorted(zip(p_lower.tolist(),vectorizer.get_feature_names(),range(len(mean))),reverse=True)
     sort_p_upper = sorted(zip(p_upper.tolist(),vectorizer.get_feature_names(),range(len(mean))))
+    save_dict = {}
+    save_dict["w_list"] = w_lists
+    save_dict["sort_p_lower"] = sort_p_lower
+    save_dict["sort_p_upper"] = sort_p_upper
+    dict_file = open("BS_PR/coefficient.pkl","wb")
+    cPickle.dump(save_dict,dict_file,cPickle.HIGHEST_PROTOCOL)
+    dict_file.close()
     texify_most_informative_features(sort_p_lower,sort_p_upper)
     #draw top features for positive instances
-    for i in range(5):
-        values = w_lists[:,sort_p_lower[i][2]]
-        plt.hist(values,bins=20)
+    plot_index = [1,2,4,8]
+    plt.figure(1)
+    for i in range(len(plot_index)):
+        values = w_lists[:,sort_p_lower[plot_index[i]][2]]
+        plt.subplot(2,2,i+1)
+        values = values/1000.0
+        sns.kdeplot(values)
         plt.title(vectorizer.get_feature_names()[sort_p_lower[i][2]])
-        plt.xlabel("Value")
-        plt.ylabel("Frequency")
-        plt.savefig("BS_PR/"+vectorizer.get_feature_names()[sort_p_lower[i][2]]+"_L2.png")
-        plt.clf()
+        if(i==2):
+            plt.xlabel("Coefficient Value")
+            plt.ylabel("Density")
+        #plt.savefig("BS_PR/"+vectorizer.get_feature_names()[sort_p_lower[i][2]]+"_L2.png")
+        #plt.clf()
+
+    plt.savefig("BS_PR/"+"top_fea_pos+"+"_L2.png")
+
 
     #draw top features for negative instances
     for i in range(5):
@@ -76,18 +95,24 @@ def con_Interval():
 
 #plot number of times that top features appearing in positive and negative instances
 def plot_Features(sort_p_lower,sort_p_upper,X,y,vectorizer,n=5):
-    for i in range(n):
-       feature_Ind = sort_p_lower[i][2]
+    #change the range interested here
+    plot_index = [1,2,4,8]
+    plt.figure(1)
+    for i in range(len(plot_index)):
+       plt.plot(2,2,i+1)
+       feature_Ind = sort_p_lower[plot_index[i]][2]
        ind_pos = np.nonzero(y)
        ind_neg = np.nonzero(y==0)
        sum_pos = np.sum(X[ind_pos,feature_Ind].toarray())
        sum_neg = np.sum(X[ind_neg,feature_Ind].toarray())
        a = plt.scatter(sum_pos,sum_neg,c='blue')
        plt.annotate(vectorizer.get_feature_names()[feature_Ind],(sum_pos,sum_neg))
-    plt.xlabel("number of times in positive instances")
-    plt.ylabel("number of times in negative instances")
+       plt.xlabel("times in positive instances")
+       plt.ylabel("times in negative instances")
     plt.title("top features for press release prediction")
+    plt.savefig("BS_PR/top_features_pos_PR")
 
+    plt.figure(2)
     for i in range(n):
        feature_Ind = sort_p_upper[i][2]
        ind_pos = np.nonzero(y)
@@ -103,8 +128,7 @@ def plot_Features(sort_p_lower,sort_p_upper,X,y,vectorizer,n=5):
     plt.ylim(0, ymax)
     plt.plot(range(int(min_value)),range(int(min_value)),0.01,'-')
     plt.legend((a,b),('positive feature','negative feature'),scatterpoints=1,loc=2)
-    #plt.show()
-    plt.savefig("BS_PR/top_features_PR")
+    plt.savefig("BS_PR/top_features_neg_PR")
     plt.close()
 
 def sort_ratio(X,y,vectorizer,n=50):

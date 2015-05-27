@@ -27,6 +27,7 @@ from sklearn.metrics import precision_score
 import matplotlib.pyplot as plt
 from sklearn.cross_validation import  StratifiedKFold
 import pylab
+from textblob import TextBlob
 
 def predictNConPR():
     #feature selection
@@ -130,8 +131,8 @@ def get_X_y():
 
 def get_vectorizer(article_texts, max_features=50000):
     vectorizer = CountVectorizer(ngram_range=(1,2), stop_words="english",
-                                    min_df=2,
-                                    token_pattern=r"(?u)[a-zA-Z0-9-_/*][a-zA-Z0-9-_/*]+\b",
+                                    min_df=1,
+                                    token_pattern=r"(?u)95% confidence interval|95% CI|95% ci|[a-zA-Z0-9_*\-][a-zA-Z0-9_/*\-]+",
                                     binary=False, max_features=max_features)
     vectorizer.fit(article_texts)
     return vectorizer
@@ -148,8 +149,14 @@ def load_articles(articles_dir="1. excel files",
     print "read %s articles." % len(article_files)
 
     articles = []
+    len_abstract = 0
+    len_title = 0
     for article_file_name in article_files:
         article = read_in_article(os.path.join(articles_dir, article_file_name))
+        abstract = article["abstract"]
+        title = article["title"]
+        len_abstract += len(TextBlob(abstract).words)
+        len_title += len(TextBlob(title).words)
         # does it have an associated news article?
         # (note that all articles are assumed to
         #  have press releases, by construction)
@@ -168,7 +175,8 @@ def load_articles(articles_dir="1. excel files",
 
         article["has_news_article"] = 1 if has_news_article else 0
         articles.append(article)
-
+    print "total length of title is: " + str(len_title)
+    print "total length of abstract is: " + str(len_abstract)
     return articles
 
 def read_in_article(article_path):
@@ -176,6 +184,8 @@ def read_in_article(article_path):
     with open(article_path, 'rU') as input_file:
         reader = csv.reader(input_file)
         pmid, title, mesh, authors, abstract, affiliation, journal, volume = reader.next()
+    if("inflammatory" in mesh or "Inflammatory" in mesh):
+        print article_path
 
 
     return {"pmid":pmid, "title":title, "mesh":mesh, "authors":authors,
@@ -225,7 +235,7 @@ def texify_most_informative_features(best_features,vectorizer,clf, caption='', n
 # A fair amount of this is copy-pasta'd from the factiva
 # module @TODO re-factor to avoid this duplication.
 ##########################################################
-
+import re
 def process_article(article):
     def prepend_to_words(text, prepend_str="TI-", split_on=" "):
         return " ".join(
@@ -254,7 +264,7 @@ def process_article(article):
     all_features = [prepend_to_words(article["title"], prepend_str="TI-"),
                     article["abstract"],
                     #prepend_to_words(article["affiliation"], prepend_str="AF-"),
-                    prepend_to_words(article["mesh"].replace(" ", "-"),
+                    prepend_to_words(re.sub(' +',' ',article["mesh"]).replace(",","").replace("&","").replace(" ", "-"),
                                 prepend_str="MH-", split_on="\n")]
 
 
