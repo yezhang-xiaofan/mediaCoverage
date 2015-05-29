@@ -23,6 +23,7 @@ def con_Interval():
     clf0 = grid_search.GridSearchCV(lr, parameters,scoring='roc_auc',cv=kf)
     clf0.fit(X,y)
     best_C = clf0.best_params_['C']
+    print "best AUC score is: " + str(clf0.best_score_)
     for i in range(n_samples):
         train_X = X[bs_indexes[i]]
         train_Y = y[bs_indexes[i]]

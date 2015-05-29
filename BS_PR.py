@@ -40,12 +40,17 @@ def con_Interval():
     std = np.std(w_lists,axis=0)
     p_lower = mean - (1.96)*std
     p_upper = mean + (1.96)*std
+    #sort_p_* is list of tuples
+    #the first is lower/upper bound of CI
+    #the second is name of feature
+    #the third is the index in the original feature vector
     sort_p_lower = sorted(zip(p_lower.tolist(),vectorizer.get_feature_names(),range(len(mean))),reverse=True)
     sort_p_upper = sorted(zip(p_upper.tolist(),vectorizer.get_feature_names(),range(len(mean))))
     save_dict = {}
     save_dict["w_list"] = w_lists
     save_dict["sort_p_lower"] = sort_p_lower
     save_dict["sort_p_upper"] = sort_p_upper
+    save_dict["mean"] = list(mean)
     dict_file = open("BS_PR/coefficient.pkl","wb")
     cPickle.dump(save_dict,dict_file,cPickle.HIGHEST_PROTOCOL)
     dict_file.close()
@@ -164,7 +169,7 @@ def texify_most_informative_features(sort_p_lower,sort_p_upper,n=50):
     out_str.append(r"\multicolumn{2}{c}{\emph{negative}} & \multicolumn{2}{c}{\emph{positive}} \\")
     i = 0
     while i<n:
-        out_str.append("%.3f & %s & %.3f & %s \\\\" % (sort_p_upper[i][0], sort_p_upper[i][1],sort_p_lower[i][0], sort_p_lower[i][1]))
+        out_str.append("%.5f & %s & %.5f & %s \\\\" % (sort_p_upper[i][0], sort_p_upper[i][1],sort_p_lower[i][0], sort_p_lower[i][1]))
         i += 1
 
     out_str.append(r"\end{tabular}")
