@@ -37,7 +37,8 @@ for file in os.listdir(directory):
     	cur = open(directory+"/"+file,'rb')
     	Documents.append(cur.readlines())
         numToName[k] = file        #map index to file name
-
+        k+= 1
+stopwords = (open("english",'rb').read().splitlines())
 #get average vector of a single IV/DV term (could be a single word or phrase)
 #return the sum and number of word in this IV/DV term
 def average_vector(term):
@@ -57,12 +58,11 @@ def average_vector(term):
 for file in os.listdir(dir2):
     if(file.endswith(".txt")):
         IV_DV_file = open(dir2+"/"+file,'rb')
-        lines = IV_DV_file.readlines()
+        lines = IV_DV_file.readline()
         IVDV[file] = average_vector(lines)
 
 
 #extract similarity features
-stopwords = (open("english",'rb').read().splitlines())
 def check_simi(s1,s2):
     tokenizer = RegexpTokenizer(r'\w+')
     t1 = filter(lambda x:x not in stopwords and x in model,tokenizer.tokenize(s1.lower()))
@@ -127,7 +127,6 @@ labeled_y = []
 
 Ox_simi = []
 Ox_pos = []
-'''
 for file_name in os.listdir("PR_Oxford_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
@@ -139,7 +138,7 @@ for file_name in os.listdir("PR_Oxford_Sentence"):
         label = int(line[-1].strip())
         sen = line[:-1]
         labeled_sen.append(sen.strip())
-        if(i<=2):
+        if(i<=3):
             labeled_y.append(1)
             Ox_simi.append(1)
             Ox_pos.append(1)
@@ -148,13 +147,10 @@ for file_name in os.listdir("PR_Oxford_Sentence"):
             Ox_simi.append(max([check_simi(temp[i],temp[0]),check_simi(temp[i],temp[1]),check_simi(temp[i],temp[2])]))
             Ox_pos.append(0)
    # temp.close()
-
-'''
 labeled_sen_Hv= []
 labeled_y_Hv= []
 Hv_simi = []
 Hv_pos = []
-'''
 for file_name in os.listdir("Harvard_Sentence"):
     if(not file_name.endswith(".txt")):
         continue
@@ -166,7 +162,7 @@ for file_name in os.listdir("Harvard_Sentence"):
         #label = int(line[-1].strip())
         sen = line[:-1]
         labeled_sen_Hv.append(sen.strip())
-        if(i<=2):
+        if(i<=3):
             Hv_simi.append(1)
   	    labeled_y_Hv.append(1)
             Hv_pos.append(1)
@@ -175,7 +171,6 @@ for file_name in os.listdir("Harvard_Sentence"):
             Hv_simi.append(max([check_simi(temp[i],temp[0]),check_simi(temp[i],temp[1]),check_simi(temp[i],temp[2])]))
             Hv_pos.append(0)
 #    temp.close()
-'''
 parameters = [.1,0.01,.001,.0001]
 #parameters = [.001]
 kf = cross_validation.KFold((num_Doc),n_folds=5,shuffle=False)
@@ -193,12 +188,12 @@ for l in label_weight:
         for train_index, test_index in kf:
             #extract IV/DV from training data and get the average vector for IV/DV in the training set
             length = 0.0
-            sum = np.zeros(200)
+            sum_vec = np.zeros(200)
             for t in train_index:
                 nameofFile = numToName[t]
-                sum += IVDV[nameofFile][0]
+                sum_vec += IVDV[nameofFile][0]
                 length += IVDV[nameofFile][1]
-            average = sum/length
+            average = sum_vec/length
 
             sentences = [sen.strip()[:-1] for t in train_index for sen in Documents[t]]
             labels = [int(sen.strip()[-1]) for t in train_index for sen in Documents[t]]
@@ -210,36 +205,37 @@ for l in label_weight:
             train_sentence_sparse = vectorizer.fit_transform(train_sentence)
             lr = SGDClassifier(loss="log",fit_intercept=True,class_weight='auto',alpha=p,shuffle=False,n_iter=np.ceil((10**6)/(len(train_label))))
             test_sentence_sparse = vectorizer.transform(test_sentence)
-
+	    train_data = train_sentence_sparse
+            test_data = test_sentence_sparse
+           
             #insert features based on similarity between token in the target sentence and IV/DV
+            '''
             doc_terms_train = vectorizer.inverse_transform(train_sentence_sparse)
             doc_terms_test = vectorizer.inverse_transform(test_sentence_sparse)
             sen_IVDV_train = [sen_IVDV_simi(d,average) for d in doc_terms_train]
             sen_IVDV_test = [sen_IVDV_simi(d,average) for d in doc_terms_test]
-
-
+            '''
             ins_weight = np.ones(len(sentences))
             ins_weight = np.concatenate((ins_weight,np.ones(len(labeled_y+labeled_y_Hv))*l))
-            lr.fit(train_sentence_sparse,np.array(train_label),sample_weight=ins_weight)
-
+            	    
             #insert similarity features
             #for each sentence, compare it with title and first two sentences
+                       
             simi_fea_train = [s for t in train_index for s in simi[t]] + Ox_simi + Hv_simi
             simi_fea_test = [s for t in test_index for s in simi[t]]
             train_data = hstack([train_sentence_sparse,np.array(simi_fea_train).reshape((len(train_label),1))])
             test_data = hstack([test_sentence_sparse,np.array(simi_fea_test).reshape((len(test_label),1))])
-
             #insert position features
-            pos_fea_train = [s for t in train_index for s in pos[t]] + Ox_pos + Hv_pos
+	    pos_fea_train = [s for t in train_index for s in pos[t]] + Ox_pos + Hv_pos
             pos_fea_test = [s for t in test_index for s in pos[t]]
             train_data = hstack([train_data,np.array(pos_fea_train).reshape((len(train_label),1))])
             test_data = hstack([test_data,np.array(pos_fea_test).reshape((len(test_label),1))])
-
+            
             #insert sentence IV/DV similarity feature
+            '''
             train_data = hstack([train_data,np.array(sen_IVDV_train).reshape((len(train_label),1))])
             test_data = hstack([test_data,np.array(sen_IVDV_test).reshape((len(test_label),1))])
-
-
+            '''
             lr.fit(train_data,np.array(train_label),sample_weight=ins_weight)
             predict = lr.predict(test_data)
 
