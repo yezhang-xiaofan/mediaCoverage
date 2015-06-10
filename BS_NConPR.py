@@ -45,10 +45,11 @@ def con_Interval():
     save_dict["w_list"] = w_lists
     save_dict["sort_p_lower"] = sort_p_lower
     save_dict["sort_p_upper"] = sort_p_upper
+    save_dict["mean"] = list(mean)
     dict_file = open("BS_NConPR/coefficient.pkl","wb")
     cPickle.dump(save_dict,dict_file,cPickle.HIGHEST_PROTOCOL)
     dict_file.close()
-
+    #set break point here
     texify_most_informative_features(sort_p_lower,sort_p_upper)
 
     #draw top features for positive instances
@@ -126,4 +127,5 @@ def texify_most_informative_features(sort_p_lower,sort_p_upper,n=50):
     print feature_str
 def main():
     con_Interval()
-main()
+if __name__ == "main":
+    main()
